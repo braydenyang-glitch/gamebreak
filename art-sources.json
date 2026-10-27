@@ -1,0 +1,63 @@
+{
+  "genshin": {
+    "page": "https://genshin.hoyoverse.com/en/",
+    "images": []
+  },
+  "starrail": {
+    "page": "https://hsr.hoyoverse.com/en-us/",
+    "images": [
+      "https://fastcdn.hoyoverse.com/mi18n/hkrpg_global/m20260904hy5hcii9ds/upload/f0981b5c04af1c7a720d0bd65d958c52_1494770406828241360.png",
+      "https://fastcdn.hoyoverse.com/mi18n/hkrpg_global/m20260904hy5hcii9ds/upload/f0981b5c04af1c7a720d0bd65d958c52_1494770406828241360.png"
+    ]
+  },
+  "minecraft": {
+    "page": "https://www.minecraft.net/en-us/about-minecraft",
+    "images": [
+      "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/About-Minecraft_Featured-Image-0_570x321.jpg",
+      "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/About-Minecraft_Featured-Image-0_570x321.jpg"
+    ]
+  },
+  "gta": {
+    "page": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+    "images": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782"
+    ]
+  },
+  "delta": {
+    "page": "https://www.playdeltaforce.com/en/",
+    "images": [
+      "https://web.df.garena.com/03_news/news_banner/TWannouncement/20250314_MobileAnnouncement/1920TW.jpg"
+    ]
+  },
+  "fortnite": {
+    "page": "https://www.fortnite.com/",
+    "error": "Command '['/usr/bin/curl', '-L', '--fail', '-sS', '--max-time', '35', '-A', 'Mozilla/5.0', 'https://www.fortnite.com/']' returned non-zero exit status 56."
+  },
+  "roblox": {
+    "page": "https://www.roblox.com/games/6516141723/DOORS",
+    "images": [
+      "https://tr.rbxcdn.com/180DAY-87b00023223336e00e64ba88493ebd5f/500/280/Image/Jpeg/noFilter"
+    ]
+  },
+  "pubg": {
+    "page": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/",
+    "images": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086"
+    ]
+  },
+  "brawl": {
+    "page": "https://supercell.com/en/games/brawlstars/",
+    "images": [
+      "https://supercell.com/images/b524ca49e8549e5d3f5485452da7f26c/cropped.png"
+    ]
+  },
+  "wuwa": {
+    "page": "https://store.steampowered.com/app/3513350/Wuthering_Waves/",
+    "images": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/5fcb94cded038b803f391e57c9951875295ba679/capsule_616x353.jpg?t=1790713386",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/5fcb94cded038b803f391e57c9951875295ba679/capsule_616x353.jpg?t=1790713386"
+    ]
+  }
+}

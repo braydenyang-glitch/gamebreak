@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /editor/
+Disallow: /quality/
+Disallow: /me/
+Disallow: /playbook/
+Disallow: /saved/
+Disallow: /share/
+Disallow: /fieldnotes/
+Sitemap: https://gamebreak-brayden.yenhui.chatgpt.site/sitemap.xml

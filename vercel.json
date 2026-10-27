@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "node -e \"console.log('Using checked-in assets and dependency-free build scripts')\"",
+  "buildCommand": "node scripts/build-vercel.mjs"
+}

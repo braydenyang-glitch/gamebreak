@@ -1,0 +1,1667 @@
+{
+  "reviewedAt": "2026-10-27",
+  "entries": [
+    {
+      "game": "genshin",
+      "collection": "genshin-characters",
+      "entryId": "10000002",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "How Ayaka fits a team",
+            "zh": "綾華在隊伍中的用途",
+            "ja": "綾華の役割"
+          },
+          "paragraphs": {
+            "en": [
+              "Ayaka is a Cryo sword character whose play revolves around Cryo-infused attacks and a moving Burst. GameBreak practice suggestion: use a short sprint near the target, confirm the infusion, then line up the Burst before spending the remaining field time on attacks. Test this sequence on a familiar enemy before comparing damage numbers."
+            ],
+            "zh": [
+              "綾華是冰元素單手劍角色，重點是冰附魔攻擊與向前移動的元素爆發。GameBreak 練習建議：靠近目標短暫衝刺、確認附魔，再對準敵人施放爆發，最後接續攻擊。先在熟悉的敵人身上練順，再比較傷害。"
+            ],
+            "ja": [
+              "綾華は氷元素の片手剣キャラクターで、氷元素付与と前進する元素爆発が中心です。GameBreak の練習案：敵の近くで短くダッシュし、元素付与を確認してから爆発の向きを合わせ、通常・重撃につなげます。慣れた敵で順序を練習してから火力を比較しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Sprint, Skill and Burst",
+            "zh": "衝刺、戰技與爆發",
+            "ja": "ダッシュ・スキル・爆発"
+          },
+          "paragraphs": {
+            "en": [
+              "Kamisato Art: Senho replaces the normal sprint and applies Cryo around Ayaka when she reappears, while briefly infusing her sword. Hyouka deals nearby Cryo damage. Soumetsu sends out a storm that repeatedly cuts targets and ends with an area hit. These are separate actions: a sprint is not the same as casting the Skill."
+            ],
+            "zh": [
+              "「神里流・霰步」取代普通衝刺，現身時對附近施加冰元素，並短暫使劍獲得冰附魔。「神里流・冰華」造成附近冰傷；「神里流・霜滅」放出持續切割、最後爆開的暴風雪。衝刺、戰技與爆發是三種不同操作。"
+            ],
+            "ja": [
+              "神里流・霰歩は通常ダッシュを置き換え、出現時に周囲へ氷元素を付着し、短時間の氷元素付与を得ます。神里流・氷華は周囲を攻撃し、神里流・霜滅は連続斬撃の後に範囲攻撃を行います。ダッシュと元素スキルは別の操作です。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Obtaining and developing Ayaka",
+            "zh": "取得與養成綾華",
+            "ja": "入手と育成"
+          },
+          "paragraphs": {
+            "en": [
+              "Ayaka is associated with character event wishes. A past banner or an old promotional video does not show that she is available today; inspect the current in-game Wish details. Her material table below is an ascension reference, not a complete inventory check. Choose a target ascension in the planner and subtract the materials already in your bag."
+            ],
+            "zh": [
+              "綾華主要透過角色活動祈願取得。舊卡池或宣傳影片不代表現在可抽，請看遊戲內當期祈願詳情。下方素材表是突破需求，不等於你的庫存檢查；可在計算器設定目標突破階段，再扣掉背包已有素材。"
+            ],
+            "ja": [
+              "綾華はキャラクターイベント祈願で入手するキャラクターです。過去の祈願や映像は現在の開催を保証しません。ゲーム内の祈願詳細を確認してください。下の素材表は突破用の参考資料です。計算機で目標突破段階を決め、所持素材を差し引きましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "Inazuma and the Kamisato family",
+            "zh": "稻妻與神里家",
+            "ja": "稲妻と神里家"
+          },
+          "paragraphs": {
+            "en": [
+              "Her public identity is tied to the Kamisato family and Inazuma, with ceremonial grace and disciplined sword practice shaping the presentation. The official teaser shows the quieter side behind those duties. This short profile avoids the outcomes of her story quest; use the linked character profile only when you want the longer, spoiler-containing story."
+            ],
+            "zh": [
+              "綾華的形象與稻妻、神里家、禮儀及勤練劍術相連。官方前瞻也展現她在職責之外較安靜的一面。這裡不揭露傳說任務結局；想看完整故事時，再開啟含劇透的角色資料來源。"
+            ],
+            "ja": [
+              "稲妻の神里家を背景に、礼儀正しさと鍛錬を重ねた剣術が綾華の表現を形作っています。公式紹介映像では、公務の背後にある静かな一面も描かれます。ここでは伝説任務の結末を伏せています。詳しい物語は、ネタバレを含むプロフィールで確認できます。"
+            ]
+          },
+          "sourceIds": [
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Before judging a build",
+            "zh": "比較配裝前先確認",
+            "ja": "装備を比べる前に"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: keep the enemy, weapon level, talent level and team buffs the same between attempts. Check whether the storm actually stayed on the target; a missed portion cannot be repaired by a prettier stat screen. Keep enough stamina for movement rather than spending it all on repeated charged attacks. This is a practice framework, not a certified best rotation."
+            ],
+            "zh": [
+              "實用檢查：比較時固定敵人、武器等級、天賦等級與隊伍增益。先看暴風雪是否確實命中，面板再漂亮也補不回打空的傷害。不要把體力全花在重擊，需保留移動空間。這是練習方法，不是保證最佳的實測循環。"
+            ],
+            "ja": [
+              "比較時は敵、武器・天賦レベル、チーム強化をそろえます。まず爆発が敵に当たり続けたかを確認し、重撃だけでスタミナを使い切らないようにします。これは練習の進め方であり、実測済みの最適ローテーションではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Version 2.0 introduction",
+            "zh": "2.0 版本登場",
+            "ja": "Ver.2.0 で登場"
+          },
+          "detail": {
+            "en": "The community record places her playable release in Version 2.0. The linked July 2021 official presentation is historical footage, not a current balance announcement.",
+            "zh": "社群紀錄將她的可玩角色推出時間列為 2.0。連結中的 2021 年 7 月官方影片是歷史介紹，不是目前平衡更新。",
+            "ja": "コミュニティ記録ではプレイアブル実装は Ver.2.0 です。2021 年 7 月の公式映像は当時の紹介で、現在の調整告知ではありません。"
+          },
+          "sourceIds": [
+            "s2",
+            "s1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "HoYoverse · Ayaka Collected Miscellany",
+          "url": "https://www.youtube.com/watch?v=hUDhKYxGh0M",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Genshin Impact Wiki · Kamisato Ayaka",
+          "url": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayaka",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "HoYoverse · The Homeward Heron",
+          "url": "https://www.youtube.com/watch?v=vsCO7C416bs",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Genshin Impact Wiki · Ayaka profile",
+          "url": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayaka/Profile",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Official ability demonstration",
+            "zh": "官方技能展示",
+            "ja": "公式スキル紹介"
+          },
+          "url": "https://www.youtube.com/watch?v=hUDhKYxGh0M",
+          "kind": "official-video",
+          "description": {
+            "en": "Watch the sprint, sword attacks and Burst in the publisher’s historical gameplay presentation.",
+            "zh": "觀看官方歷史實機介紹中的衝刺、劍術與元素爆發。",
+            "ja": "公式の過去のゲームプレイ紹介で、ダッシュ・剣術・元素爆発を確認できます。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "genshin",
+      "collection": "genshin-characters",
+      "entryId": "10000073",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "A Dendro link for reaction teams",
+            "zh": "元素反應隊伍的草元素連結",
+            "ja": "元素反応チームの草元素役"
+          },
+          "paragraphs": {
+            "en": [
+              "Nahida is a Dendro catalyst character. Her mark links enemies so that qualifying reactions can trigger further Dendro damage. GameBreak practice suggestion: mark the intended group, switch to the teammate responsible for the next reaction, and watch the marked enemies rather than only the active character. Reapply the Skill when a new wave replaces the original targets."
+            ],
+            "zh": [
+              "納西妲是草元素法器角色，以標記連結敵人，讓符合條件的反應觸發後續草傷。GameBreak 練習建議：先標記目標群，再換負責後續反應的隊友，觀察被標記敵人的狀態。新一波敵人出現時，要重新確認並施加戰技標記。"
+            ],
+            "ja": [
+              "ナヒーダは草元素の法器キャラクターです。敵に印を付け、条件を満たす反応から追加の草元素攻撃を起こします。GameBreak の練習案：敵をマークしてから反応担当へ交代し、操作中のキャラクターだけでなく印の状態を見ます。次の敵集団には印を付け直しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Marking and the Shrine of Maya",
+            "zh": "標記與摩耶之殿",
+            "ja": "印と摩耶の宮殿"
+          },
+          "paragraphs": {
+            "en": [
+              "All Schemes to Know can be tapped or held; holding allows the aiming view to mark several targets. Illusory Heart creates a field whose effects depend on Pyro, Electro and Hydro teammates. The field is not simply a one-hit damage button. Read the current talent panel for its conditions and the effects supplied by your actual party."
+            ],
+            "zh": [
+              "「所聞遍計」可點按或長按；長按可透過瞄準介面標記多個目標。「心景幻成」建立領域，效果與隊伍中的火、雷、水元素角色有關。領域不是單次爆發傷害按鈕，應閱讀目前天賦面板及實際隊伍提供的條件。"
+            ],
+            "ja": [
+              "所聞遍計は短押し・長押しに対応し、長押しでは照準を動かして複数の敵に印を付けます。心景幻成の領域効果は炎・雷・水の味方に応じて変わります。単発ダメージのボタンではないため、現在の天賦説明と編成条件を確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Wish availability and materials",
+            "zh": "祈願期間與素材",
+            "ja": "祈願期間と素材"
+          },
+          "paragraphs": {
+            "en": [
+              "Check the current character-event Wish details for availability. Do not treat a past rerun listing as an active offer. For development, use the ascension table and calculator on this page to plan a specific stage. The calculations cover the listed materials; they do not prove that a farming route is open on your account or that your inventory has been synchronized."
+            ],
+            "zh": [
+              "能否取得需看當期角色活動祈願；過去復刻紀錄不等於正在開放。養成時可用本頁突破表與計算器規劃指定階段。計算只依列出的素材進行，不代表你的帳號已開放所有採集地區，也沒有自動讀取背包。"
+            ],
+            "ja": [
+              "入手可能かどうかは現在のキャラクターイベント祈願で確認します。過去の復刻情報は開催中の証拠ではありません。本ページの突破表と計算機で目標を決められますが、採集地域の解放状況や所持品との自動同期を示すものではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s4"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "Sumeru’s God of Wisdom",
+            "zh": "須彌的智慧之神",
+            "ja": "スメールの知恵の神"
+          },
+          "paragraphs": {
+            "en": [
+              "HoYoverse introduces Nahida as Lesser Lord Kusanali. Her official presentation connects knowledge, imagination and dreams; this helps explain the camera-like targeting gesture and the enclosed, dreamlike Burst space. The character story continues through Sumeru’s quests. Open the full story source only if you are ready for narrative spoilers beyond this identity-level introduction."
+            ],
+            "zh": [
+              "HoYoverse 將納西妲介紹為小吉祥草王。官方呈現以知識、想像與夢境為核心，也呼應近似取景的瞄準動作與夢境般的爆發領域。故事延伸至須彌任務；完整故事來源含超出基本身分介紹的劇透。"
+            ],
+            "ja": [
+              "HoYoverse はナヒーダをクラクサナリデビとして紹介しています。知識・想像・夢というテーマが、照準を取る仕草や夢のような爆発領域にも表れています。物語の続きはスメールの任務に関わるため、詳細を読む際はネタバレに注意してください。"
+            ]
+          },
+          "sourceIds": [
+            "s5",
+            "s6"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Read reactions, not just green numbers",
+            "zh": "看懂反應，而非只看綠色數字",
+            "ja": "緑の数字だけで判断しない"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: record which teammate triggers each reaction, the targets covered by the mark, and whether the enemy wave changed. Elemental Mastery and damage ownership matter differently across reaction types. Avoid copying one screenshot’s stats into every team. Compare the same encounter with one equipment change at a time, and keep survival reliable before chasing a larger isolated damage number."
+            ],
+            "zh": [
+              "實用檢查：記錄由誰觸發反應、標記覆蓋哪些敵人，以及是否換了新敵人。不同反應對元素精通與傷害歸屬的要求不同，不應將一張配裝截圖套用到所有隊伍。固定關卡，每次只換一項裝備，先確保生存與循環穩定。"
+            ],
+            "ja": [
+              "誰が反応を起こしたか、印の対象、新しい敵の出現を記録しましょう。元素熟知やダメージの担当は反応ごとに異なるため、ひとつの装備画面を全編成に当てはめないことが大切です。同じ敵で一度にひとつだけ装備を変え、まず安定して戦える状態を作ります。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Historical official demo",
+            "zh": "官方歷史演示",
+            "ja": "過去の公式実戦紹介"
+          },
+          "detail": {
+            "en": "The official Boundless Bliss demo was published on 31 October 2022. It records her presentation at introduction and should be read alongside current in-game talent descriptions.",
+            "zh": "官方「無垠無憂」演示於 2022 年 10 月 31 日發布，記錄登場時的呈現；技能仍應搭配遊戲內現行說明閱讀。",
+            "ja": "公式実戦紹介「無垠無憂」は 2022 年 10 月 31 日公開です。当時の表現を伝える資料として、現行のゲーム内天賦説明と合わせて確認してください。"
+          },
+          "sourceIds": [
+            "s6"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "HoYoverse · Nahida Collected Miscellany",
+          "url": "https://www.youtube.com/watch?v=6dgE-mC4peA",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Genshin Impact Wiki · All Schemes to Know",
+          "url": "https://genshin-impact.fandom.com/wiki/All_Schemes_to_Know",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "Genshin Impact Wiki · Illusory Heart",
+          "url": "https://genshin-impact.fandom.com/wiki/Illusory_Heart",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Genshin Impact Wiki · Nahida",
+          "url": "https://genshin-impact.fandom.com/wiki/Nahida",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s5",
+          "name": "HoYoverse · Physic of Purity introduction",
+          "url": "https://genshin.hoyoverse.com/en/news/detail/104437",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s6",
+          "name": "HoYoverse · Boundless Bliss",
+          "url": "https://www.youtube.com/watch?v=dpZhGzZ3hNc",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Official gameplay explanation",
+            "zh": "官方實機技能解說",
+            "ja": "公式ゲームプレイ解説"
+          },
+          "url": "https://www.youtube.com/watch?v=6dgE-mC4peA",
+          "kind": "official-video",
+          "description": {
+            "en": "See targeting, linked marks and the Burst field in the official presentation.",
+            "zh": "在官方介紹中觀看瞄準、連結標記與爆發領域。",
+            "ja": "公式紹介で照準、印の連結、元素爆発の領域を確認できます。"
+          }
+        },
+        {
+          "label": {
+            "en": "Character demo",
+            "zh": "角色演示",
+            "ja": "キャラクター実戦紹介"
+          },
+          "url": "https://www.youtube.com/watch?v=dpZhGzZ3hNc",
+          "kind": "official-video",
+          "description": {
+            "en": "Historical character showcase; not a current damage benchmark.",
+            "zh": "歷史角色展示，並非目前版本的傷害基準。",
+            "ja": "過去のキャラクター紹介で、現行版の火力比較ではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "genshin",
+      "collection": "genshin-weapons",
+      "entryId": "11509",
+      "layout": "weapon",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "What this sword rewards",
+            "zh": "這把劍適合什麼打法",
+            "ja": "この片手剣が活きる条件"
+          },
+          "paragraphs": {
+            "en": [
+              "Mistsplitter Reforged is a five-star sword with CRIT DMG as its secondary attribute and an elemental-damage passive. It suits evaluation on sword users who can activate its different conditions, rather than every character who likes critical hits. GameBreak comparison suggestion: use the same character, enemy and team buffs when comparing it with a sword you already own."
+            ],
+            "zh": [
+              "霧切之回光是五星單手劍，副屬性為暴擊傷害，被動與元素傷害加成有關。評估重點是角色能否觸發不同條件，不是只要需要暴傷就一定適合。GameBreak 比較建議：固定角色、敵人與隊伍增益，和你已有的武器一起測試。"
+            ],
+            "ja": [
+              "霧切の廻光は会心ダメージをサブ効果に持つ★5片手剣で、元素ダメージを強化します。会心を使うかだけでなく、各発動条件を満たせるかで評価します。GameBreak の比較案：同じキャラクター・敵・チーム強化で、所持している別の剣と比べましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Three separate emblem conditions",
+            "zh": "三種獨立的印記條件",
+            "ja": "独立した3種類の印の条件"
+          },
+          "paragraphs": {
+            "en": [
+              "The passive tracks separate conditions: an elemental Normal Attack, using an Elemental Burst, and having less than full Energy. Their durations are independent. Repeating only one trigger is not the same as gaining all three conditions. Consult the in-game refinement level for numerical bonuses; this overview deliberately avoids treating one refinement’s values as universal."
+            ],
+            "zh": [
+              "被動分別計算：普攻造成元素傷害、施放元素爆發、元素能量未滿等條件；各自持續時間獨立。只重複同一種觸發，不等於同時取得三種條件。數值請對照遊戲內的精煉等級，這裡不把某一精煉數值當成通用值。"
+            ],
+            "ja": [
+              "元素ダメージを与える通常攻撃、元素爆発の発動、元素エネルギーが満タン未満という条件を別々に管理します。継続時間も独立しており、同じ条件を繰り返すだけでは全種類の印になりません。数値はゲーム内の精錬ランクに合わせて確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Availability and safe comparison",
+            "zh": "取得方式與合理比較",
+            "ja": "入手方法と比較"
+          },
+          "paragraphs": {
+            "en": [
+              "The linked official Epitome Invocation announcement confirms a historical weapon-event Wish featuring Mistsplitter Reforged. That announcement is an archive, not evidence of today’s banner. Check the current Wish item list and rules inside Genshin before spending currency. A character can still be played with other suitable weapons; owning this sword is not a requirement for using Ayaka’s mechanics."
+            ],
+            "zh": [
+              "連結的官方「神鑄賦形」公告證實霧切曾在武器活動祈願登場，但那是歷史公告，不代表目前卡池。花費資源前請查看遊戲內當期項目與規則。綾華的技能機制不需要持有霧切才能使用，仍可依現有裝備選擇其他適合的劍。"
+            ],
+            "ja": [
+              "公式の神鋳賦形告知は、過去にこの武器が対象だった記録です。現在の祈願内容を示すものではありません。資源を使う前にゲーム内の対象一覧とルールを確認してください。綾華の基本操作に必須の武器ではなく、ほかの適切な片手剣も利用できます。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "Inazuma weapon identity",
+            "zh": "稻妻武器的形象",
+            "ja": "稲妻武器としての意匠"
+          },
+          "paragraphs": {
+            "en": [
+              "The violet blade belongs to the Inazuma weapon series. Its description connects the reforged name to a blade that was once broken. The weapon page also separates its base appearance from its ascended appearance. Use those tabs to inspect the actual visual reference instead of assuming that a promotional character image always shows this exact equipped weapon."
+            ],
+            "zh": [
+              "這把紫色刀身的武器屬於稻妻系列，描述將「回光／重鑄」的意象與曾經折斷的刀連結。武器資料頁也區分初始與突破後外觀。查看外觀分頁比直接假設角色宣傳圖中的劍就是霧切更準確。"
+            ],
+            "ja": [
+              "紫の刀身は稲妻の武器シリーズに属し、説明ではかつて折れた刀とのつながりが語られます。資料ページには通常時と突破後の外観があります。キャラクターの宣伝画像だけで装備を決めつけず、武器自身の画像を確認しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Damage checks that actually help",
+            "zh": "有意義的傷害檢查",
+            "ja": "役に立つ火力確認"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: compare an unbuffed hit and a fully prepared hit separately, note which passive conditions were active, and keep your critical-hit result consistent. Record Energy before and after the Burst. If an attack deals Physical damage, do not count it as an elemental trigger. This checklist is original testing guidance; no game-session verification is claimed here."
+            ],
+            "zh": [
+              "實用檢查：分開比較未啟動增益與完整準備後的攻擊，記錄被動條件與是否暴擊，並看爆發前後的能量。物理傷害不能直接當成元素普攻觸發。這是本站整理的測試方法，並不聲稱已在遊戲內完成實測。"
+            ],
+            "ja": [
+              "無強化時と準備完了時を分け、発動していた条件・会心の有無・爆発前後のエネルギーを記録します。物理攻撃を元素通常攻撃の条件に数えないでください。これは独自の確認手順であり、ゲーム内検証済みという意味ではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Historical event-wish record",
+            "zh": "歷史武器祈願紀錄",
+            "ja": "過去の武器祈願記録"
+          },
+          "detail": {
+            "en": "HoYoverse’s archived announcement pairs Mistsplitter Reforged with The Unforged. Keep this as acquisition history only; the live client determines current availability.",
+            "zh": "HoYoverse 歷史公告曾將霧切之回光與無工之劍列為同一期武器。此處僅保留取得歷史，目前能否獲得以遊戲內為準。",
+            "ja": "HoYoverse の過去の告知では霧切の廻光と無工の剣が同時に掲載されています。入手履歴として扱い、現在の開催はゲーム内で確認してください。"
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Genshin Impact Wiki · Mistsplitter Reforged",
+          "url": "https://genshin-impact.fandom.com/wiki/Mistsplitter_Reforged",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "HoYoverse · archived Epitome Invocation announcement",
+          "url": "https://genshin.hoyoverse.com/en/news/detail/20569",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Weapon appearance and ascension views",
+            "zh": "武器外觀與突破造型",
+            "ja": "武器の外観と突破後の姿"
+          },
+          "url": "https://genshin-impact.fandom.com/wiki/Mistsplitter_Reforged",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "The community weapon page includes base and ascended appearance tabs.",
+            "zh": "社群武器頁包含初始及突破後外觀分頁。",
+            "ja": "コミュニティ資料の通常・突破後画像を確認できます。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "starrail",
+      "collection": "hsr-character-forms",
+      "entryId": "1001",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "Preservation form: protect one ally",
+            "zh": "存護形態：保護一名隊友",
+            "ja": "存護の姿：味方1人を守る"
+          },
+          "paragraphs": {
+            "en": [
+              "This entry covers the four-star Ice Preservation version of March 7th. Her main purpose is to shield a chosen ally and react when a shielded ally is attacked. GameBreak practice suggestion: inspect the next enemy action before selecting the recipient. A shield placed on the wrong teammate will not protect everyone from a team-wide attack."
+            ],
+            "zh": [
+              "本頁介紹四星、冰屬性、存護命途的三月七。她以指定隊友的護盾及受擊反擊為核心。GameBreak 練習建議：先看敵人下一步行動，再決定護盾對象；給單一隊友的護盾不會自動保護全隊免受群體攻擊。"
+            ],
+            "ja": [
+              "このページは★4・氷属性・存護の三月なのかを扱います。味方1人へのバリアと、バリアを持つ味方が攻撃された際の反撃が中心です。GameBreak の練習案：敵の次の行動を見てから対象を選びます。単体バリアで全体攻撃を全員分防げるわけではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Shield, counter and Freeze",
+            "zh": "護盾、反擊與凍結",
+            "ja": "バリア・カウンター・凍結"
+          },
+          "paragraphs": {
+            "en": [
+              "The Skill creates a shield based on March’s DEF and can raise the protected ally’s chance of being targeted under its stated HP condition. Her Talent supplies limited counterattacks, while the Ultimate attacks all enemies and can Freeze them. Read unlocked Traces and Eidolons separately: a later upgrade must not be assumed in a fresh account’s starting kit."
+            ],
+            "zh": [
+              "戰技依三月七的防禦力提供護盾，並在指定生命值條件下提高受保護隊友被攻擊的機率。天賦提供有限次反擊，終結技攻擊全體並有機會凍結。行跡與星魂需分開確認，不能把升級後效果當成新帳號自帶能力。"
+            ],
+            "ja": [
+              "戦闘スキルは防御力に応じたバリアを付与し、指定されたHP条件で対象が狙われやすくなります。天賦には回数制限付きの反撃があり、必殺技は敵全体を攻撃して凍結を狙います。軌跡や星魂の追加効果を、未育成状態の能力と混同しないでください。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Early-story access, separate forms",
+            "zh": "前期劇情取得與形態區別",
+            "ja": "序盤での加入と別形態"
+          },
+          "paragraphs": {
+            "en": [
+              "The Preservation form is obtained during the early Trailblaze story. This does not make every version of March the same unit: the Hunt form has a different combat role and kit. When following a guide, match both the character name and the Path. The site’s entry identifier keeps this Ice version distinct from the Imaginary Hunt record."
+            ],
+            "zh": [
+              "存護形態會在前期開拓劇情取得，但不同三月七形態並非同一套玩法；巡獵形態有不同的戰鬥定位與技能。閱讀攻略時需同時確認角色與命途。本網站以不同條目識別碼區分冰存護及虛數巡獵版本。"
+            ],
+            "ja": [
+              "存護の姿は序盤の開拓クエストで加入します。一方、巡狩の姿は役割と能力が異なります。攻略を読むときは名前だけでなく運命も一致させてください。このサイトでは氷・存護と虚数・巡狩を別の項目IDで管理しています。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "A camera and a missing past",
+            "zh": "相機與失落的過去",
+            "ja": "カメラと失われた過去"
+          },
+          "paragraphs": {
+            "en": [
+              "The official character description presents March as an enthusiastic photographer awakened from drifting ice without her former memories. She takes the date of that awakening as her name and travels aboard the Astral Express. Her official trailer focuses on that energetic, photo-loving personality. Later revelations are intentionally omitted here so the starting profile remains useful without major story spoilers."
+            ],
+            "zh": [
+              "官方角色介紹說明她從漂流的冰中醒來，失去昔日記憶，喜愛攝影，並以重獲新生的日期命名自己，隨星穹列車旅行。官方影片呈現她活潑與愛拍照的一面。這裡刻意省略後續重大揭露，讓新玩家也能閱讀。"
+            ],
+            "ja": [
+              "公式紹介では、漂流する氷から目覚めて過去の記憶を失った、写真好きの少女として描かれます。目覚めた日を名前にし、星穹列車で旅を続けています。紹介映像も明るい写真好きの性格を表現しています。後の重大な展開はここでは省略しています。"
+            ]
+          },
+          "sourceIds": [
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Do not confuse a chance with a guarantee",
+            "zh": "機率不等於保證",
+            "ja": "確率と確定を区別する"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: check shield duration, remaining shield strength and the enemy’s next attack pattern. Freeze may fail against resistant targets, and higher target likelihood is not a guaranteed taunt. Use a basic attack when protection is still sufficient and the team needs Skill Points. Test the actual encounter; neither this profile nor an old video proves solo-sustain performance in every mode."
+            ],
+            "zh": [
+              "實用檢查：查看護盾剩餘回合、厚度及敵方攻擊型態。凍結可能被抵抗，提高受擊機率也不等於必定嘲諷。保護足夠而隊伍缺戰技點時，可以考慮普攻。是否能單獨保全隊需依關卡實測，不能由舊影片保證。"
+            ],
+            "ja": [
+              "バリアの残りターン・耐久値・敵の攻撃範囲を確認します。凍結は抵抗される場合があり、狙われやすさの上昇も確定挑発ではありません。防御が十分でSPが必要なら通常攻撃も検討します。全モードで単独耐久できるという保証ではなく、実際の戦闘で確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Original playable form",
+            "zh": "最初的可玩形態",
+            "ja": "最初のプレイアブル形態"
+          },
+          "detail": {
+            "en": "The community record lists Ice Preservation March as a Version 1.0 character. Her April 2022 official trailer predates the 26 April 2023 launch and is historical promotional footage.",
+            "zh": "社群紀錄將冰存護三月七列為 1.0 角色。2022 年 4 月官方宣傳片早於 2023 年 4 月 26 日正式推出，因此屬於歷史宣傳資料。",
+            "ja": "コミュニティ記録では氷・存護の姿は Ver.1.0 から登場します。2022 年 4 月の公式映像は、2023 年 4 月 26 日の正式サービス開始前の宣伝資料です。"
+          },
+          "sourceIds": [
+            "s1",
+            "s4",
+            "s5"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Honkai: Star Rail Wiki · March 7th: Preservation",
+          "url": "https://honkai-star-rail.fandom.com/wiki/March_7th/Preservation",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "HoYoWiki · March 7th",
+          "url": "https://wiki.hoyolab.com/pc/hsr/entry/7?lang=en-us",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "HoYoverse · character archive",
+          "url": "https://hsr.hoyoverse.com/en-us/character?charIndex=5&worldIndex=3",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "HoYoverse · Let’s Take a Photo!",
+          "url": "https://www.youtube.com/watch?v=lpIgB_IPeTM",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s5",
+          "name": "HoYoverse · Version 1.0 launch",
+          "url": "https://hsr.hoyoverse.com/en-us/news/111258",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Official March 7th trailer",
+            "zh": "官方三月七角色影片",
+            "ja": "三月なのか公式紹介映像"
+          },
+          "url": "https://www.youtube.com/watch?v=lpIgB_IPeTM",
+          "kind": "official-video",
+          "description": {
+            "en": "Historical presentation of her original Ice character identity; not a guide to the Hunt form.",
+            "zh": "展現原始冰屬性形象的歷史影片，並非巡獵形態攻略。",
+            "ja": "元の氷属性キャラクターを紹介した過去の映像です。巡狩の姿の攻略ではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "starrail",
+      "collection": "hsr-character-forms",
+      "entryId": "1002",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "Wind Hunt: focus the priority target",
+            "zh": "風巡獵：集中處理重要目標",
+            "ja": "風・巡狩：優先する敵を狙う"
+          },
+          "paragraphs": {
+            "en": [
+              "This is the original four-star Wind Hunt Dan Heng, a single-target attacker. GameBreak practice suggestion: select the enemy that most urgently needs to be defeated, then check its Wind weakness and Slow state before committing the Ultimate. A lower-health add and a dangerous boss are different tactical choices; do not choose only by the largest visible damage number."
+            ],
+            "zh": [
+              "這是最初的四星風屬性巡獵丹恆，偏向單體攻擊。GameBreak 練習建議：先選最需要處理的敵人，確認風弱點及減速狀態，再決定終結技時機。清理殘血小怪與集中危險頭目是不同戰術，不要只追求最大的傷害數字。"
+            ],
+            "ja": [
+              "これは元の★4・風属性・巡狩の丹恒で、単体攻撃が中心です。GameBreak の練習案：優先して倒す敵を選び、風弱点と減速状態を確認してから必殺技を使います。弱った雑魚を倒すか危険なボスを狙うかは、表示ダメージだけでは決められません。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Slow and ally-targeted support",
+            "zh": "減速與隊友指定增益",
+            "ja": "減速と味方からの支援"
+          },
+          "paragraphs": {
+            "en": [
+              "His Skill can apply Slow after a critical hit, and his Ultimate gains an additional benefit against a slowed target. When an ally’s ability targets him, his Talent can improve the Wind resistance penetration of his next attack, subject to its cooldown. These conditions make action order important: check which attack will consume the prepared benefit before pressing an ability."
+            ],
+            "zh": [
+              "戰技暴擊後可施加減速，終結技對減速目標有額外效果。隊友能力指定丹恆時，天賦可在冷卻條件允許下提升下一次攻擊的風抗性穿透。因此行動順序很重要，施放前需確認哪次攻擊會使用已準備好的效果。"
+            ],
+            "ja": [
+              "戦闘スキルは会心後に減速を付与でき、必殺技は減速中の敵に追加効果を得ます。味方のスキルの対象になると、天賦のクールタイム条件に応じて次の攻撃の風属性耐性貫通が上がります。どの攻撃がその効果を消費するか、順番を確認しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Use the matching character record",
+            "zh": "使用正確的角色條目",
+            "ja": "対応するキャラクター項目を使う"
+          },
+          "paragraphs": {
+            "en": [
+              "The Wind Hunt form joins during the early Trailblaze story. Dan Heng • Imbibitor Lunae and Dan Heng • Permansor Terrae are separate playable records with different Paths, elements and skill systems. A guide for either later version should not be used as the build instructions for this entry. Match the portrait, Path and element before spending development materials."
+            ],
+            "zh": [
+              "風巡獵形態在前期開拓劇情加入。丹恆・飲月與丹恆・騰荒是不同可玩條目，命途、屬性與技能系統都不同。不可把後續版本的攻略當成本頁配裝指示。投入養成素材前，先核對頭像、命途與屬性。"
+            ],
+            "ja": [
+              "風・巡狩の丹恒は序盤の開拓クエストで加入します。丹恒・飲月や丹恒・騰荒は運命・属性・能力の異なる別のキャラクター項目です。別形態の育成案をこの項目へ当てはめず、素材を使う前に肖像・運命・属性を確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "Guard of the Astral Express",
+            "zh": "星穹列車的護衛",
+            "ja": "星穹列車の護衛"
+          },
+          "paragraphs": {
+            "en": [
+              "The official archive describes a reserved traveler carrying the spear Cloud-Piercer and guarding the Astral Express. His reluctance to discuss the past is part of his initial characterization, not a missing stat field. This overview leaves later identity revelations to the story. The media gallery contains material from multiple eras, so read each caption before treating an image as this combat form."
+            ],
+            "zh": [
+              "官方資料將他介紹為沉默內斂、使用「擊雲」長槍、守護星穹列車的旅人。他不願談論過去是人物設定，不是缺少能力資料。本介紹保留後續身分揭露給劇情；媒體集包含不同時期，需看圖說判斷是否屬於此戰鬥形態。"
+            ],
+            "ja": [
+              "公式紹介では、撃雲という槍を持ち星穹列車を守る、寡黙な旅人として描かれます。過去を語らないことも初期の人物像の一部です。後の正体に関する展開は物語に委ねます。資料集には別時期の姿もあるため、画像の説明を確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "A repeatable comparison",
+            "zh": "可重複的比較方式",
+            "ja": "再現しやすい比較"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: keep the same enemy and build, record whether Slow landed, and note the supporting ability used before the attack. Compare the prepared Ultimate with an unprepared one rather than mixing the results. Remember that a single-target attacker may spend extra turns clearing groups. These are suggested checks, not a current endgame ranking or a promise of a particular damage total."
+            ],
+            "zh": [
+              "實用檢查：固定敵人與配裝，記錄減速是否成功，以及攻擊前用了哪個支援能力。把準備完成與未準備的終結技分開比較。單體角色清理群體可能需要更多回合。這是建議檢查方法，並非當期終局排名或傷害保證。"
+            ],
+            "ja": [
+              "敵と装備を固定し、減速の成功と直前の支援スキルを記録します。条件を整えた必殺技と整えていない必殺技を分けて比べましょう。単体攻撃役は多数の敵に時間がかかる場合があります。現行の高難度順位や特定ダメージを保証するものではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Original form and later identities",
+            "zh": "原始形態與後續身分",
+            "ja": "元の姿と後の別形態"
+          },
+          "detail": {
+            "en": "The original record is Wind and The Hunt. Later character names refer to distinct playable forms; this dossier deliberately keeps their mechanics separate rather than merging every Dan Heng ability into one kit.",
+            "zh": "原始條目為風屬性巡獵；後續名稱對應不同可玩形態。本檔案刻意分開機制，不將所有丹恆的能力拼成一套技能。",
+            "ja": "元の項目は風・巡狩です。後の名前は別のプレイアブル形態を示します。すべての丹恒の能力を一つの性能にまとめず、区別しています。"
+          },
+          "sourceIds": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Honkai: Star Rail Wiki · Dan Heng",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Dan_Heng",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "HoYoWiki · Dan Heng ability record",
+          "url": "https://wiki.hoyolab.com/pc/hsr/entry/8?lang=en-us",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "HoYoverse · character archive",
+          "url": "https://hsr.hoyoverse.com/en-us/character?charIndex=5&worldIndex=3",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Honkai: Star Rail Wiki · Dan Heng media",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Dan_Heng/Media",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Character art and in-game media",
+            "zh": "角色圖像與遊戲內媒體",
+            "ja": "キャラクター画像とゲーム内資料"
+          },
+          "url": "https://honkai-star-rail.fandom.com/wiki/Dan_Heng/Media",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community-indexed visual archive; captions distinguish different forms and story appearances.",
+            "zh": "社群整理的視覺資料集；請依圖說區分不同形態與劇情登場。",
+            "ja": "コミュニティが整理した画像集です。説明を読み、形態や登場時期を区別してください。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "starrail",
+      "collection": "hsr-character-forms",
+      "entryId": "8001",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "Physical Destruction starter role",
+            "zh": "物理毀滅的起步定位",
+            "ja": "物理・壊滅の初期の役割"
+          },
+          "paragraphs": {
+            "en": [
+              "This entry covers the Physical Destruction Trailblazer. Its early-game value is a straightforward choice between focused and adjacent-target attacks. GameBreak practice suggestion: identify which enemy has a Physical weakness, select the central target carefully when using a blast, and reserve Skill Points when a teammate has the more important next action. Position in the enemy lineup changes the value of a blast."
+            ],
+            "zh": [
+              "本頁是物理屬性、毀滅命途的開拓者，適合學習單體與擴散攻擊的選擇。GameBreak 練習建議：確認物理弱點，使用擴散時選對中心目標；若隊友下一步更重要，要保留戰技點。敵方站位會影響擴散攻擊的價值。"
+            ],
+            "ja": [
+              "物理属性・壊滅の開拓者を扱います。単体と隣接する敵への攻撃を使い分ける、序盤の基礎を学びやすい役割です。GameBreak の練習案：物理弱点と拡散攻撃の中心を確認し、次の味方が必要とするSPも残します。敵の並び方で拡散の価値は変わります。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Choose the Ultimate’s attack shape",
+            "zh": "選擇終結技的攻擊範圍",
+            "ja": "必殺技の攻撃範囲を選ぶ"
+          },
+          "paragraphs": {
+            "en": [
+              "The Basic Attack hits one target, while the Skill hits a target and adjacent enemies. The Ultimate offers a focused attack or a blast version. Its Talent rewards Weakness Break, with additional effects dependent on unlocked Traces. The exploration Technique restores party HP; it is not an in-battle healing Skill that can replace a healer every turn."
+            ],
+            "zh": [
+              "普攻攻擊單一目標，戰技攻擊目標及相鄰敵人。終結技可選單體或擴散。天賦與弱點擊破有關，額外效果依已解鎖行跡而定。秘技在探索時恢復隊伍生命，並不是每回合都能取代治療角色的戰鬥內技能。"
+            ],
+            "ja": [
+              "通常攻撃は単体、戦闘スキルは対象と隣接する敵を攻撃します。必殺技には単体と拡散の選択があります。天賦は弱点撃破と関係し、追加効果は解放した軌跡によって変わります。秘技のHP回復は探索中の効果で、戦闘中の毎ターンの回復スキルではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Story access and Path selection",
+            "zh": "劇情取得與命途選擇",
+            "ja": "物語での加入と運命選択"
+          },
+          "paragraphs": {
+            "en": [
+              "Physical Destruction is the starting playable Trailblazer form. Later story progression can provide other Paths, but their abilities belong to their own records. Before copying a team plan, check the Path and element shown in the character menu. The male and female starting appearances share this combat overview; a different portrait alone does not turn it into a different Path."
+            ],
+            "zh": [
+              "物理毀滅是開拓者起始可玩形態。之後劇情可提供其他命途，但能力應查各自條目。套用隊伍方案前，先核對角色介面的命途與屬性。男女主角的起始外觀可共用此機制介紹，頭像不同不代表命途不同。"
+            ],
+            "ja": [
+              "物理・壊滅は開拓者の最初のプレイアブル形態です。物語でほかの運命が加わっても、能力は各項目で確認します。編成案を使う前にキャラクター画面の運命と属性を見てください。初期の男性・女性外見はこの戦闘説明を共有し、肖像だけで運命が変わるわけではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "A journey begins on Herta Space Station",
+            "zh": "從黑塔太空站開始的旅程",
+            "ja": "宇宙ステーションから始まる旅"
+          },
+          "paragraphs": {
+            "en": [
+              "The Trailblazer is the player’s viewpoint character, drawn into the Astral Express journey after the opening events at Herta Space Station. The official launch materials frame that journey as travel between worlds. This summary avoids revealing later Path changes or story outcomes. The media archive has both protagonist appearances and later forms, so use its labels before choosing a reference image."
+            ],
+            "zh": [
+              "開拓者是玩家視角角色，在黑塔太空站的開場事件後加入星穹列車旅程。官方推出資料以跨越不同世界的旅行呈現作品。本介紹避開後續命途及劇情結局；媒體集包含男女主角及其他形態，選圖時請看標示。"
+            ],
+            "ja": [
+              "開拓者はプレイヤーの視点となる人物で、宇宙ステーション「ヘルタ」での出来事を経て星穹列車の旅に関わります。公式リリース資料は世界を巡る冒険を紹介しています。ここでは後の運命や結末を伏せ、資料画像も外見・形態のラベルで区別します。"
+            ]
+          },
+          "sourceIds": [
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Use the break gauge as evidence",
+            "zh": "以韌性條作為判斷依據",
+            "ja": "靱性ゲージを見て判断する"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: watch the enemy’s Toughness gauge, not just HP, when judging a Break-related effect. Record which attack actually caused the Break and whether the same buffs were active in each attempt. If a build example uses another Trailblazer Path, stop and switch to the matching guide. A starting character’s accessibility is not evidence that one build is best for every late-game mode."
+            ],
+            "zh": [
+              "實用檢查：判斷擊破相關效果時，要看敵人韌性而不只看生命值，並記錄哪次攻擊造成擊破、增益是否相同。若範例是另一命途開拓者，請改看對應攻略。起始角色容易取得，不代表某套配裝適合所有後期模式。"
+            ],
+            "ja": [
+              "撃破関連の効果を見るときはHPだけでなく靱性を確認し、どの攻撃で撃破したか、強化条件が同じかを記録します。別の運命の育成例なら対応する攻略へ切り替えましょう。最初から使えることと、全高難度で最適であることは別です。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Version 1.0 starting form",
+            "zh": "1.0 起始形態",
+            "ja": "Ver.1.0 の初期形態"
+          },
+          "detail": {
+            "en": "The official launch announcement dates Version 1.0 to 26 April 2023. The community record identifies Physical Destruction as the original playable Trailblazer form; later forms should retain separate histories.",
+            "zh": "官方公告記錄 1.0 於 2023 年 4 月 26 日推出。社群資料將物理毀滅列為原始可玩形態，後續形態應保有獨立歷史。",
+            "ja": "公式告知によると Ver.1.0 は 2023 年 4 月 26 日開始です。コミュニティ記録では物理・壊滅が最初の姿とされ、後の姿は別の履歴として扱います。"
+          },
+          "sourceIds": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Honkai: Star Rail Wiki · Trailblazer: Destruction",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Trailblazer/Destruction",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "HoYoWiki · Trailblazer: Destruction",
+          "url": "https://wiki.hoyolab.com/pc/hsr/entry/6",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "HoYoverse · Version 1.0 launch",
+          "url": "https://hsr.hoyoverse.com/en-us/news/111258",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Honkai: Star Rail Wiki · Trailblazer",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Trailblazer",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s5",
+          "name": "Honkai: Star Rail Wiki · Trailblazer media",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Trailblazer/Media",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Protagonist appearances and gameplay media",
+            "zh": "主角外觀與遊戲媒體",
+            "ja": "主人公の外見とゲーム内資料"
+          },
+          "url": "https://honkai-star-rail.fandom.com/wiki/Trailblazer/Media",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Browse both protagonist appearances and verify the Path caption before using a visual.",
+            "zh": "可查看男女主角外觀；採用圖片前需確認命途圖說。",
+            "ja": "両方の主人公の外見を確認できます。画像を使う前に運命の説明を確認してください。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "wuwa",
+      "collection": "wuwa-core-reference",
+      "entryId": "wuwa-ref-data-bank",
+      "layout": "system",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "Your Echo collection record",
+            "zh": "你的聲骸收集紀錄",
+            "ja": "音骸の収集記録"
+          },
+          "paragraphs": {
+            "en": [
+              "The Data Bank is accessed from the Terminal and records collected Echoes. Raising it affects Echo acquisition parameters and progression rewards. GameBreak planning suggestion: check the collection list for an undiscovered Echo or a missing higher rarity, pick one reachable target, and verify the record after absorption. This is more informative than repeatedly farming a familiar enemy without knowing which entry is missing."
+            ],
+            "zh": [
+              "資料塢可從終端進入，記錄已收集的聲骸，等級影響聲骸取得參數及成長獎勵。GameBreak 規劃建議：先找未收集或缺少更高稀有度的項目，選能抵達的目標，吸收後再確認紀錄，比盲目重刷熟悉敵人更有效率。"
+            ],
+            "ja": [
+              "データドックはターミナルから開き、収集した音骸を記録します。レベルは音骸獲得の条件や成長報酬に関係します。GameBreak の計画案：未収集または高レアリティ未登録の音骸を探し、到達可能な1体を選び、吸収後に記録を確認します。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Experience is not the same as item level",
+            "zh": "資料塢經驗不等於聲骸等級",
+            "ja": "データドック経験値と音骸レベルの違い"
+          },
+          "paragraphs": {
+            "en": [
+              "New Echo discoveries and newly recorded higher rarities can provide Data Bank experience. Recording a higher rarity also accounts for missing lower-rarity records of that Echo. This collection progression is distinct from spending materials to level an equipped Echo. Read the level panel for your account’s actual rates and restrictions; an old screenshot’s cap is not a reliable current target."
+            ],
+            "zh": [
+              "新聲骸或首次取得更高稀有度可帶來資料塢經驗；登記高稀有度時，也會補計該聲骸尚未登記的較低稀有度。這與花素材提升已裝備聲骸等級不同。請看自己帳號面板的實際機率與限制，不要把舊截圖的上限當成現行目標。"
+            ],
+            "ja": [
+              "新しい音骸や未登録の高レアリティを収集すると経験値を得られ、高レアリティ登録時には未登録の低レアリティ分も計算されます。これは装備中の音骸を素材でレベルアップすることとは別です。現在の確率や制限は自分のゲーム画面で確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Finding the system and handling duplicates",
+            "zh": "開啟系統與處理重複聲骸",
+            "ja": "システムの解放と重複音骸"
+          },
+          "paragraphs": {
+            "en": [
+              "The community record places the Data Bank unlock in the early Prologue quest Utterance of Marvels: II. Data Merge is a related inventory system: it consumes eligible Echoes to produce a random result, whose rarity depends on the Data Bank rules. Lock useful pieces before reviewing duplicates. Do not merge a valuable main-stat or set combination simply because its monster picture is already in the collection."
+            ],
+            "zh": [
+              "社群資料將資料塢解鎖列於序章任務「Utterance of Marvels: II」。融合是相關背包功能，會消耗符合條件的聲骸並產生隨機結果，稀有度受資料塢規則影響。整理重複品前先鎖定好用的聲骸，不能只因怪物圖鑑已有紀錄，就融合重要主詞條或套裝組合。"
+            ],
+            "ja": [
+              "コミュニティ資料では、序章の Utterance of Marvels: II で解放されます。データ合成は対象の音骸を消費してランダムな結果を得る関連機能で、レアリティはデータドックの条件に依存します。重複整理の前に有用なものをロックし、図鑑登録済みという理由だけで良いメイン効果やセットを失わないようにします。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "Why Echoes appear in a terminal",
+            "zh": "為何聲骸能存在終端中",
+            "ja": "音骸がターミナルに記録される理由"
+          },
+          "paragraphs": {
+            "en": [
+              "In the game’s setting, a defeated Tacet Discord may leave a Reverberation that can become an Echo through the Terminal’s Data Bank. That connection turns enemy encounters into both exploration progress and equipment collection. The Echo article provides the setting and the combat-equipment explanation; it is a useful companion to the Data Bank page rather than a second character roster."
+            ],
+            "zh": [
+              "在世界觀中，殘象被擊敗後可能留下殘響，透過終端資料塢轉為聲骸。這讓戰鬥同時連結探索與裝備收集。聲骸條目解釋設定及戰鬥裝備用途，可搭配資料塢閱讀；它不是另一份角色名單。"
+            ],
+            "ja": [
+              "世界設定では、倒れた残像が残した残響をターミナルのデータドックで音骸に変換します。敵との遭遇が探索と装備収集につながる仕組みです。音骸の記事は世界設定と戦闘装備を説明し、キャラクター一覧とは異なる資料です。"
+            ]
+          },
+          "sourceIds": [
+            "s3"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Check before a farming session",
+            "zh": "刷取前的檢查",
+            "ja": "周回前の確認"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: note the desired Echo, required set and main stat, your present Data Bank level, and whether the target area is unlocked. Separate “new collection record” from “usable build upgrade” when judging success. A higher rarity is not automatically the correct equipped piece. Review locked items before any bulk inventory action, and compare the live level panel when a patch changes the system."
+            ],
+            "zh": [
+              "刷取前記錄目標聲骸、需要的套裝與主詞條、目前資料塢等級，以及區域是否解鎖。新增圖鑑與提升配裝是不同成果，高稀有度不一定就適合裝備。大量處理背包前先檢查鎖定項目，更新後重新核對現行面板。"
+            ],
+            "ja": [
+              "狙う音骸・セット・メイン効果、現在のデータドックレベル、地域の解放を確認します。図鑑の更新と装備の改善は別の成果です。高レアリティだけで装備を決めず、一括処理前にロック状態を見直し、更新後は現行画面を確認しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Version 3.0 interface record",
+            "zh": "3.0 介面變更紀錄",
+            "ja": "Ver.3.0 の表示変更記録"
+          },
+          "detail": {
+            "en": "Kuro’s Version 3.0 notes mention a new Terminal visual effect at Data Bank level 25. This is a dated interface change, not a claim that 25 remains the maximum Data Bank level.",
+            "zh": "Kuro 的 3.0 公告提到資料塢 25 級可使用新的終端視覺效果。這是當時的介面變更，並不表示 25 仍是資料塢最高等級。",
+            "ja": "Kuro の Ver.3.0 告知には、データドックレベル25で新しいターミナル表示効果が利用できるとあります。これは当時の表示変更で、現在も25が上限という意味ではありません。"
+          },
+          "sourceIds": [
+            "s4"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Wuthering Waves Wiki · Data Bank",
+          "url": "https://wutheringwaves.fandom.com/wiki/Data_Bank",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Wuthering Waves Wiki · Data Merge",
+          "url": "https://wutheringwaves.fandom.com/wiki/Data_Merge",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "Wuthering Waves Wiki · Echo",
+          "url": "https://wutheringwaves.fandom.com/wiki/Echo",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Kuro Games · Version 3.0 patch notes",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3920",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Data Bank interface reference",
+            "zh": "資料塢介面參考",
+            "ja": "データドックの画面資料"
+          },
+          "url": "https://wutheringwaves.fandom.com/wiki/Data_Bank",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community reference for the in-game system, its level table and collection records.",
+            "zh": "遊戲內系統、等級表與收集紀錄的社群參考。",
+            "ja": "ゲーム内システム、レベル表、収集記録を確認できるコミュニティ資料です。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "wuwa",
+      "collection": "wuwa-field-reference",
+      "entryId": "wuwa-field-echo-presets",
+      "layout": "system",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "Keep a working build before experimenting",
+            "zh": "試新配裝前先保存可用方案",
+            "ja": "試す前に使える装備を保存"
+          },
+          "paragraphs": {
+            "en": [
+              "Echo Presets store an Echo setup for later application. GameBreak workflow suggestion: save the setup you currently use before testing an alternative, give each plan a meaningful role-based name, and write down what you changed. That creates a recoverable comparison instead of a sequence of swaps whose starting point you can no longer reconstruct."
+            ],
+            "zh": [
+              "聲骸預設可儲存配置供之後套用。GameBreak 操作建議：試新配置前先保存現用方案，以用途命名，並記錄變動內容。這樣能回到比較起點，避免連續更換後忘記原本的組合。"
+            ],
+            "ja": [
+              "音骸プリセットは構成を保存して後で適用する機能です。GameBreak の手順案：変更前に現在の構成を保存し、用途が分かる名前を付け、変更点を記録します。これなら比較の開始状態へ戻れます。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Save, apply and compare attributes",
+            "zh": "儲存、套用與屬性比較",
+            "ja": "保存・適用・属性比較"
+          },
+          "paragraphs": {
+            "en": [
+              "Kuro’s documented interface places Echo Preset at the bottom-right of Echo Assembly. Current Setup can be saved as a preset, and the expanded comparison view shows differences between that setup and another preset. This compares configurations; it does not automatically demonstrate the damage of a full team rotation or prove which build is best for your encounter."
+            ],
+            "zh": [
+              "Kuro 公告記錄預設入口位於聲骸裝配介面右下；可將目前配置儲存，並展開比較查看與其他預設的屬性差異。這是配置比較，不會自動證明整隊循環傷害，也不保證某套配置對所有關卡最好。"
+            ],
+            "ja": [
+              "Kuro の説明では音骸装備画面の右下から開き、現在の構成をプリセットとして保存し、展開した属性比較で差を確認できます。構成の比較であり、チーム全体のローテーション火力や全戦闘での最適性を自動的に示すものではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Where the equipped effects come from",
+            "zh": "裝備效果從哪裡來",
+            "ja": "装備効果の由来"
+          },
+          "paragraphs": {
+            "en": [
+              "An Echo is both an equipment piece and, when selected in the relevant active position, a source of an Echo ability. Its main stat, substats, cost and Sonata relationship affect the finished build. A saved arrangement should therefore be reviewed as a complete loadout. Changing a visually similar Echo can alter the build even when the monster illustration looks familiar."
+            ],
+            "zh": [
+              "聲骸既是裝備，在對應主位也可提供聲骸技能。主詞條、副詞條、費用及合鳴效果關係都會影響完整配置。因此預設需要當作整套裝備檢查，怪物插圖相似也不代表更換後效果相同。"
+            ],
+            "ja": [
+              "音骸は装備であり、対応するメイン枠では音骸スキルも使います。メイン・サブ効果、コスト、ハーモニーとの関係が構成に影響するため、全体で確認しましょう。同じようなイラストでも、装備効果が同じとは限りません。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "A quality-of-life feature, not a new item",
+            "zh": "便利功能，而非新物品",
+            "ja": "新アイテムではなく便利機能"
+          },
+          "paragraphs": {
+            "en": [
+              "The official Version 2.1 announcement introduces Echo Preset as a convenience feature. It belongs to equipment management, not to the character’s personal combat talent tree. Keep the feature’s introduction history separate from the release date of a Resonator, Echo or Sonata set. This avoids incorrectly attaching one system’s update date to every item used inside it."
+            ],
+            "zh": [
+              "官方 2.1 公告將聲骸預設列為便利功能；它屬於裝備管理，不是角色個人的技能樹。功能推出歷史應與共鳴者、聲骸或合鳴套裝的推出日期分開，不能將系統更新日期套到其中每件物品。"
+            ],
+            "ja": [
+              "公式 Ver.2.1 告知では、装備管理を便利にする機能として紹介されています。キャラクター自身の戦闘能力ではありません。機能の追加履歴と共鳴者・音骸・ハーモニーの実装時期を分け、管理システムの更新日を全アイテムに付けないようにします。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Make comparisons fair",
+            "zh": "讓比較公平",
+            "ja": "公平に比較する"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: keep the weapon, character level, skill levels, team and enemy fixed. Compare the active Echo skill and full set effects as well as the headline stats. Try the same action sequence with each saved setup and note any Energy or survival issue. A larger single stat is only one observation; record the reason for choosing a preset instead of labeling it universally best."
+            ],
+            "zh": [
+              "實用檢查：固定武器、角色與技能等級、隊伍及敵人；除了面板，也比較主位聲骸技能與整套效果。用相同操作順序測兩套，記錄能量或生存問題。單項數值較高只是一個觀察，應寫出選擇原因，而非標為全能最佳。"
+            ],
+            "ja": [
+              "武器、キャラクター・スキルレベル、チーム、敵を固定します。見出しの数値だけでなく、メイン音骸スキルとセット効果も比べます。同じ操作順で試し、エネルギーや生存の違いも記録してください。ひとつの数値だけで万能な最適構成と決めないことが大切です。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Added in the Version 2.1 notes",
+            "zh": "2.1 公告新增功能",
+            "ja": "Ver.2.1 告知で追加"
+          },
+          "detail": {
+            "en": "The Version 2.1 notes document saving the current Echo setup, applying presets and expanding attribute comparison. Menu positions can evolve, so use the current client if the layout differs.",
+            "zh": "2.1 公告記錄保存目前聲骸配置、套用預設及展開屬性比較。選單位置可能變動，若介面不同請依現行客戶端尋找。",
+            "ja": "Ver.2.1 告知は現在の構成の保存、プリセット適用、属性比較の展開を説明しています。配置が変わった場合は現行クライアントの表示に従ってください。"
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Kuro Games · Version 2.1 patch notes",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2154",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Wuthering Waves Wiki · Echo",
+          "url": "https://wutheringwaves.fandom.com/wiki/Echo",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Official feature announcement",
+            "zh": "官方功能公告",
+            "ja": "公式機能告知"
+          },
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2154",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Read the publisher’s Echo Preset interface explanation and accompanying update presentation.",
+            "zh": "閱讀官方聲骸預設介面說明與更新展示。",
+            "ja": "音骸プリセットの公式画面説明と更新紹介を確認できます。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "wuwa",
+      "collection": "wuwa-field-reference",
+      "entryId": "wuwa-field-skill-training",
+      "layout": "system",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "Learn the transition you keep missing",
+            "zh": "練會經常失誤的操作銜接",
+            "ja": "失敗しやすい動作のつなぎを練習"
+          },
+          "paragraphs": {
+            "en": [
+              "Resonator Skill Training is a guided place to learn a character’s combat sequence. GameBreak practice suggestion: choose one unfamiliar Resonator, identify the transition that fails, and repeat that part before attempting the entire sequence. Useful goals include recognizing the correct hold input or knowing when a special state is ready. Do not begin by copying another account’s damage total."
+            ],
+            "zh": [
+              "共鳴者技能訓練用來跟隨提示學習角色操作。GameBreak 練習建議：選一名不熟悉的角色，找出經常失敗的銜接，先重練該段，再做完整連段。目標可以是看懂長按指令或特殊狀態何時就緒，不必一開始就追別人的傷害。"
+            ],
+            "ja": [
+              "共鳴者のスキルトレーニングは、案内に沿って操作を学ぶ場所です。GameBreak の練習案：慣れない1人を選び、失敗するつなぎだけを先に練習します。長押しや特殊状態の準備完了を見分けることを目標にし、他人の火力を最初から追わないようにします。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Find it in the Guidebook",
+            "zh": "從指南找到入口",
+            "ja": "ガイドブックから開く"
+          },
+          "paragraphs": {
+            "en": [
+              "Kuro’s Version 2.5 notes explicitly reference Guidebook → Path of Growth → Skill Training. The community page also describes access from a Resonator’s Forte and attribute screens. If one route is absent, inspect the current character menu and tutorial unlock state rather than assuming the feature is gone. Menu names can differ between interface languages and later updates."
+            ],
+            "zh": [
+              "Kuro 的 2.5 公告明確提到「指南 → 成長之路 → 技能訓練」。社群頁也記錄可從角色共鳴能力及屬性介面進入。若找不到某一路徑，請檢查現行角色選單與教學解鎖狀態；不同語言和後續更新的名稱可能不同。"
+            ],
+            "ja": [
+              "Kuro の Ver.2.5 告知には Guidebook → Path of Growth → Skill Training の経路が記載されています。コミュニティ資料は共鳴者の能力・属性画面からの入口も紹介しています。見つからない場合は、現行メニューと解放状況を確認してください。言語や更新によって表記が変わる場合があります。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Connect the instruction to the character",
+            "zh": "把提示連到角色機制",
+            "ja": "指示とキャラクターの仕組みを結び付ける"
+          },
+          "paragraphs": {
+            "en": [
+              "The tutorial is character-specific rather than a generic equipment recommendation. Read the displayed instruction, perform the required action, and observe which part of the on-screen gauge or animation changes. GameBreak learning suggestion: explain the action in your own words after completing it. Being able to say why the next input becomes available is a better learning signal than merely repeating a button list."
+            ],
+            "zh": [
+              "教學依角色機制安排，不是通用配裝推薦。閱讀指令、執行指定動作，再看畫面量表或動畫如何改變。GameBreak 學習建議：完成後用自己的話解釋動作，說得出下一步為何能發動，比只背按鍵順序更能顯示理解。"
+            ],
+            "ja": [
+              "訓練は共鳴者固有の仕組みを扱い、単なる装備推薦ではありません。指示を読み、動作を行い、ゲージやアニメーションの変化を見ます。GameBreak の学習案：終えた動作を自分の言葉で説明し、次の入力が使える理由まで理解しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "background",
+          "title": {
+            "en": "Part of the Path of Growth",
+            "zh": "成長之路的一部分",
+            "ja": "成長のための練習機能"
+          },
+          "paragraphs": {
+            "en": [
+              "The Guidebook groups activities that help players learn combat and find progression goals. Skill Training focuses on a Resonator’s sequence, whereas other guidebook activities may serve different purposes. Keep this training record separate from character release history and reward farming. The selected tutorial is the authority for its displayed objective and any reward shown in your current version."
+            ],
+            "zh": [
+              "指南集中戰鬥學習與成長目標；技能訓練聚焦共鳴者連段，其他指南活動則可能有不同用途。不要把訓練功能紀錄當成角色推出歷史或刷資源攻略。當期教學畫面才是目標及獎勵的直接依據。"
+            ],
+            "ja": [
+              "ガイドブックは戦闘の学習や成長目標をまとめます。スキルトレーニングは共鳴者の操作手順に焦点を当て、ほかの項目とは目的が異なります。キャラクターの実装履歴や素材周回と分け、目標と報酬は現在の訓練画面で確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s3"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Transfer practice into a real encounter",
+            "zh": "把練習帶進實際關卡",
+            "ja": "実際の戦闘へつなげる"
+          },
+          "paragraphs": {
+            "en": [
+              "Practical checklist: after finishing the guided sequence, try it against a familiar enemy and add movement, dodging and character switching gradually. A successful scripted tutorial does not prove that the same timing is safe against every boss. Keep the inputs simple at first, note the point where the sequence breaks, and return to that exercise. No in-game testing completion is implied by this reference article."
+            ],
+            "zh": [
+              "完成提示連段後，找熟悉敵人練習，再逐步加入移動、閃避與換人。教學成功不代表同樣節奏能安全應付每個頭目。先簡化操作，記錄中斷位置，再回到對應練習。本參考文章不代表已代你完成遊戲內測試。"
+            ],
+            "ja": [
+              "案内付きの連続動作を終えたら、慣れた敵で移動・回避・交代を少しずつ加えます。訓練成功だけで全ボスに安全とは限りません。まず入力を単純にし、途切れた地点を記録して戻りましょう。この資料はゲーム内実測の完了を示すものではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Version 2.5 menu evidence",
+            "zh": "2.5 選單紀錄",
+            "ja": "Ver.2.5 のメニュー記録"
+          },
+          "detail": {
+            "en": "Kuro’s Version 2.5 notes mention changing the order of Resonators on the Skill Training screen. That verifies an interface adjustment, not the original launch date of every tutorial.",
+            "zh": "Kuro 的 2.5 公告記錄調整技能訓練畫面的共鳴者排列順序。這證實的是介面調整，並非所有角色教學的最初推出日期。",
+            "ja": "Kuro の Ver.2.5 告知は訓練画面の共鳴者の並び順調整に言及します。これは画面調整の記録で、全チュートリアルの初公開日を示すものではありません。"
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Wuthering Waves Wiki · Skill Training",
+          "url": "https://wutheringwaves.fandom.com/wiki/Skill_Training",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Kuro Games · Version 2.5 patch notes",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2966",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "Wuthering Waves Wiki · Guidebook",
+          "url": "https://wutheringwaves.fandom.com/wiki/Guidebook",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Skill Training reference",
+            "zh": "技能訓練參考",
+            "ja": "スキルトレーニング資料"
+          },
+          "url": "https://wutheringwaves.fandom.com/wiki/Skill_Training",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Open the community index of Resonator tutorials; the current game provides the interactive training.",
+            "zh": "開啟社群整理的共鳴者教學索引；互動訓練需在目前遊戲內進行。",
+            "ja": "共鳴者の訓練索引を開きます。操作する訓練は現在のゲーム内で行います。"
+          }
+        }
+      ]
+    }
+  ]
+}

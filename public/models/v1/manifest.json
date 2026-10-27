@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "author": "GameBreak / Brayden Yang",
+  "license": "CC BY 4.0",
+  "models": [
+    {
+      "id": "genshin",
+      "path": "/models/v1/genshin.glb",
+      "bytes": 173456,
+      "meshes": 24,
+      "triangles": 5328
+    },
+    {
+      "id": "starrail",
+      "path": "/models/v1/starrail.glb",
+      "bytes": 568020,
+      "meshes": 32,
+      "triangles": 20984
+    },
+    {
+      "id": "minecraft",
+      "path": "/models/v1/minecraft.glb",
+      "bytes": 139552,
+      "meshes": 75,
+      "triangles": 900
+    },
+    {
+      "id": "gta",
+      "path": "/models/v1/gta.glb",
+      "bytes": 505744,
+      "meshes": 40,
+      "triangles": 5712
+    },
+    {
+      "id": "delta",
+      "path": "/models/v1/delta.glb",
+      "bytes": 600408,
+      "meshes": 30,
+      "triangles": 13064
+    },
+    {
+      "id": "fortnite",
+      "path": "/models/v1/fortnite.glb",
+      "bytes": 441184,
+      "meshes": 17,
+      "triangles": 12668
+    },
+    {
+      "id": "roblox",
+      "path": "/models/v1/roblox.glb",
+      "bytes": 401492,
+      "meshes": 14,
+      "triangles": 6164
+    },
+    {
+      "id": "pubg",
+      "path": "/models/v1/pubg.glb",
+      "bytes": 423484,
+      "meshes": 23,
+      "triangles": 5464
+    },
+    {
+      "id": "brawl",
+      "path": "/models/v1/brawl.glb",
+      "bytes": 354716,
+      "meshes": 18,
+      "triangles": 4752
+    },
+    {
+      "id": "wuwa",
+      "path": "/models/v1/wuwa.glb",
+      "bytes": 841832,
+      "meshes": 29,
+      "triangles": 15528
+    }
+  ]
+}

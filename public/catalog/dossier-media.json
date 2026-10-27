@@ -1,0 +1,192 @@
+[
+  {
+    "game": "minecraft",
+    "collection": "minecraft-pc-items",
+    "entryId": "333",
+    "sourceUrl": "https://www.minecraft.net/en-us/article/how-craft",
+    "imageUrl": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/craft_tablerecipe.jpg",
+    "kind": "gameplay-screenshot",
+    "label": {
+      "en": "Official recipe screenshot — controller interface",
+      "zh": "官方配方截圖：控制器介面",
+      "ja": "公式レシピ画像・コントローラー画面"
+    },
+    "description": {
+      "en": "Mojang’s Bedrock-style controller screenshot demonstrates the shared four-plank recipe. This is not the Java 26.1 interface shown by this catalog entry.",
+      "zh": "Mojang 的 Bedrock 風格控制器截圖展示共通的四塊木材配方；這不是本條目 Java 26.1 的介面畫面。",
+      "ja": "Mojang の Bedrock 形式のコントローラー画面で、共通の板材 4 個のレシピを示しています。この項目の Java 26.1 の画面ではありません。"
+    },
+    "src": "/assets/dossiers/minecraft-333.webp"
+  },
+  {
+    "game": "minecraft",
+    "collection": "minecraft-pc-items",
+    "entryId": "335",
+    "sourceUrl": "https://www.minecraft.net/en-us/article/block-week-furnace",
+    "imageUrl": "https://www.minecraft.net/content/dam/minecraftnet/archive/dc75eb153224691256f92e5aedf86d8d-furnace-ingame-interstitial.jpg",
+    "kind": "gameplay-screenshot",
+    "label": {
+      "en": "Official furnace in-game illustration",
+      "zh": "官方熔爐遊戲畫面",
+      "ja": "公式・かまどのゲーム内画像"
+    },
+    "description": {
+      "en": "A furnace screenshot published in Mojang’s Block of the Week article; it illustrates the block rather than proving a current-version test.",
+      "zh": "Mojang 方塊專文刊載的熔爐截圖；用來展示方塊，不代表目前版本已實測。",
+      "ja": "Mojang の特集記事に掲載されたかまど画像です。ブロックの紹介であり、現行版での実測証明ではありません。"
+    },
+    "src": "/assets/dossiers/minecraft-335.webp"
+  },
+  {
+    "game": "gta",
+    "collection": "gta-story-starter",
+    "entryId": "gta-vehicle-virgo",
+    "sourceUrl": "https://www.gtabase.com/grand-theft-auto-v/vehicles/albany-virgo",
+    "imageUrl": "https://www.gtabase.com/igallery/5701-5800/GTA5_Virgo_Story-5748-468.jpg",
+    "kind": "gameplay-screenshot",
+    "label": {
+      "en": "Community reference: Virgo in Story Mode",
+      "zh": "社群參考：故事模式的 Virgo",
+      "ja": "コミュニティ資料・ストーリーモードの Virgo"
+    },
+    "description": {
+      "en": "GTABase labels this image GTA5 Virgo Story. The community screenshot shows the vehicle in its game context; it is not a GameBreak performance test.",
+      "zh": "GTABase 將這張圖片標為 GTA5 Virgo Story。社群截圖展示車輛的遊戲情境，不是 GameBreak 的性能實測。",
+      "ja": "GTABase が GTA5 Virgo Story と表示している画像です。車両のゲーム内資料であり、GameBreak の性能実測ではありません。"
+    },
+    "src": "/assets/dossiers/gta-gta-vehicle-virgo.webp"
+  },
+  {
+    "game": "pubg",
+    "collection": "pubg-pc-reference",
+    "entryId": "pubg-ref-erangel",
+    "sourceUrl": "https://www.pubg.com/en-asia/game-info/maps/erangel",
+    "imageUrl": "https://wstatic-prod.pubg.com/web/live/main_88e9222/img/e22200f.webp",
+    "kind": "map",
+    "label": {
+      "en": "Official Erangel map",
+      "zh": "官方 Erangel 地圖",
+      "ja": "公式 Erangel マップ"
+    },
+    "description": {
+      "en": "Map artwork from the official Erangel page. Use the live match map for current circle, route and mode-specific information.",
+      "zh": "來自官方 Erangel 頁面的地圖；當前安全圈、路線與模式資訊請查看對局內地圖。",
+      "ja": "公式 Erangel ページの地図です。現在の安全地帯、経路、モード情報は試合中の地図で確認してください。"
+    },
+    "src": "/assets/dossiers/pubg-pubg-ref-erangel.webp"
+  },
+  {
+    "game": "pubg",
+    "collection": "pubg-pc-reference",
+    "entryId": "pubg-ref-miramar",
+    "sourceUrl": "https://www.pubg.com/en-asia/game-info/maps/miramar",
+    "imageUrl": "https://wstatic-prod.pubg.com/web/live/main_88e9222/img/6795ae6.webp",
+    "kind": "map",
+    "label": {
+      "en": "Official Miramar map",
+      "zh": "官方 Miramar 地圖",
+      "ja": "公式 Miramar マップ"
+    },
+    "description": {
+      "en": "Map artwork from the official Miramar page; terrain reference, not a live loot or enemy tracker.",
+      "zh": "來自官方 Miramar 頁面的地圖；用於地形參考，不是即時物資或敵人追蹤器。",
+      "ja": "公式 Miramar ページの地図です。地形の参考資料であり、物資や敵のリアルタイム追跡ではありません。"
+    },
+    "src": "/assets/dossiers/pubg-pubg-ref-miramar.webp"
+  },
+  {
+    "game": "pubg",
+    "collection": "pubg-pc-reference",
+    "entryId": "pubg-ref-taego",
+    "sourceUrl": "https://www.pubg.com/en-asia/game-info/maps/taego",
+    "imageUrl": "https://wstatic-prod.pubg.com/web/live/main_88e9222/img/3ccf1ae.webp",
+    "kind": "map",
+    "label": {
+      "en": "Official Taego map",
+      "zh": "官方 Taego 地圖",
+      "ja": "公式 Taego マップ"
+    },
+    "description": {
+      "en": "Map artwork from the official Taego page. Named areas provide orientation; current match rules and events may change available features.",
+      "zh": "來自官方 Taego 頁面的地圖。具名區域可協助定位；對局規則與活動可能改變可用功能。",
+      "ja": "公式 Taego ページの地図です。地域名は位置確認に役立ちますが、使用できる機能はルールやイベントで変わる場合があります。"
+    },
+    "src": "/assets/dossiers/pubg-pubg-ref-taego.webp"
+  },
+  {
+    "game": "delta",
+    "collection": "delta-weapons-reference",
+    "entryId": "delta-weapon-m4a1",
+    "sourceUrl": "https://deltaforcedb.com/weapon/m4a1",
+    "imageUrl": "https://deltaforcedb.com/assets/images/weapons/m4a1.webp",
+    "kind": "article-illustration",
+    "label": {
+      "en": "Community reference image: M4A1",
+      "zh": "社群參考圖片：M4A1",
+      "ja": "コミュニティ資料画像・M4A1"
+    },
+    "description": {
+      "en": "Weapon illustration shown on the Delta Force Database M4A1 page. This is a reference render, not a firing-range screenshot or a tested attachment build.",
+      "zh": "Delta Force Database 的 M4A1 頁面武器圖片。這是參考模型圖，不是靶場截圖或已實測配件配置。",
+      "ja": "Delta Force Database の M4A1 ページにある武器画像です。参考モデルであり、射撃場画面や検証済みカスタム構成ではありません。"
+    },
+    "src": "/assets/dossiers/delta-delta-weapon-m4a1.webp"
+  },
+  {
+    "game": "delta",
+    "collection": "delta-weapons-reference",
+    "entryId": "delta-weapon-akm",
+    "sourceUrl": "https://deltaforcedb.com/weapon/akm",
+    "imageUrl": "https://deltaforcedb.com/assets/images/weapons/akm.webp",
+    "kind": "article-illustration",
+    "label": {
+      "en": "Community reference image: AKM",
+      "zh": "社群參考圖片：AKM",
+      "ja": "コミュニティ資料画像・AKM"
+    },
+    "description": {
+      "en": "Weapon illustration from the Delta Force Database AKM article. Installed attachments and current statistics must be checked in the game.",
+      "zh": "Delta Force Database AKM 專頁的武器圖片；實際配件與目前數值需在遊戲內確認。",
+      "ja": "Delta Force Database の AKM 記事にある武器画像です。実際のアタッチメントや現行数値はゲーム内で確認してください。"
+    },
+    "src": "/assets/dossiers/delta-delta-weapon-akm.webp"
+  },
+  {
+    "game": "brawl",
+    "collection": "brawl-brawlers",
+    "entryId": "16000000",
+    "sourceUrl": "https://supercell.com/en/games/brawlstars/blog/news/new-power-brawl-pass-changes-and-a-new-starr-drop-2/",
+    "imageUrl": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5lyQn5IsNrHBY0YbVxdeAS/064da61465c42d0458a1ee0b634a792e/1126_shelly_g1_buffy.gif",
+    "kind": "gameplay-screenshot",
+    "label": {
+      "en": "Official Shelly demonstration still",
+      "zh": "官方 Shelly 示範畫面",
+      "ja": "公式 Shelly デモの静止画"
+    },
+    "description": {
+      "en": "A still from Supercell’s embedded Shelly demonstration. It shows the feature discussed in that article; use the source animation for the full sequence and applicable release context.",
+      "zh": "擷取自 Supercell 文章內 Shelly 示範動畫的靜態畫面，展示該文討論的功能；完整流程與適用更新背景請看來源動畫。",
+      "ja": "Supercell 記事に埋め込まれた Shelly デモの静止画です。動作全体と対象更新は元のアニメーションや記事で確認してください。"
+    },
+    "src": "/assets/dossiers/brawl-16000000.webp"
+  },
+  {
+    "game": "brawl",
+    "collection": "brawl-brawlers",
+    "entryId": "16000001",
+    "sourceUrl": "https://supercell.com/en/games/brawlstars/blog/news/new-power-brawl-pass-changes-and-a-new-starr-drop-2/",
+    "imageUrl": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7apt5s3Rz9Q1TvhP8LfYdX/2a14858a419ef352df81b0b06367f9c5/1126_Colt_HC.gif",
+    "kind": "gameplay-screenshot",
+    "label": {
+      "en": "Official Colt demonstration still",
+      "zh": "官方 Colt 示範畫面",
+      "ja": "公式 Colt デモの静止画"
+    },
+    "description": {
+      "en": "A still from Supercell’s Colt feature animation. This is publisher demonstration media, not a personal damage test or proof that every mode uses the same settings.",
+      "zh": "擷取自 Supercell 的 Colt 功能動畫。這是官方示範素材，不是個人傷害實測，也不代表每種模式使用相同設定。",
+      "ja": "Supercell の Colt 機能紹介アニメーションの静止画です。公式デモであり、個人のダメージ検証や全モード共通設定の証明ではありません。"
+    },
+    "src": "/assets/dossiers/brawl-16000001.webp"
+  }
+]

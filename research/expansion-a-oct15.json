@@ -1,0 +1,1947 @@
+{
+  "guides": [
+    {
+      "id": "genshin-weapon-material-route",
+      "game": "genshin",
+      "title": "Build a weapon-material farming plan",
+      "description": "Separate ascension drops, enemy materials, enhancement ore and Mora.",
+      "type": "Guide",
+      "edition": "Weapon upgrades",
+      "scope": "Weapon upgrades",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "keywords": "genshin weapon ascension domain forgery blacksmith mora upgrade 原神 武器 突破 素材 摩拉",
+      "version": "General weapon-upgrade workflow",
+      "needs": "An owned weapon and access to its upgrade screen.",
+      "quick": "Check the exact missing material before choosing a farming activity.",
+      "steps": [
+        "Open the weapon upgrade screen and note the missing materials and Mora.",
+        "For ascension drops, check the relevant Domain of Forgery and its daily schedule.",
+        "Use the Crafting Bench if you already own lower-rarity materials from the same family.",
+        "For enemy drops, track the required enemy with the Adventurer’s Handbook.",
+        "Prepare enhancement ore through the Blacksmith; use Expeditions to gather supporting resources.",
+        "If Mora is the blocker, choose a Blossom of Wealth, commissions or available quests. Return and review the upgrade cost."
+      ],
+      "success": "Your selected upgrade has a clear source for every missing resource.",
+      "troubleshooting": [
+        {
+          "problem": "Wrong domain reward",
+          "solution": "Check today’s rotation before spending Resin."
+        },
+        {
+          "problem": "Enough enemy drops, but upgrade still blocked",
+          "solution": "Review the separate ore, ascension-material and Mora requirements."
+        }
+      ],
+      "trouble": "Wrong domain reward: Check today’s rotation before spending Resin. Enough enemy drops, but upgrade still blocked: Review the separate ore, ascension-material and Mora requirements.",
+      "note": "Domain rotations and recipes should be read in your current client. This is a resource workflow, not a recommended weapon ranking.",
+      "source": "https://support.hoyoverse.com/hc/en-us/articles/50333964005913-How-can-I-farm-materials-to-upgrade-my-weapons",
+      "sourceName": "HoYoverse Help · Weapon upgrade materials",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "HoYoverse Help · Weapon upgrade materials",
+          "url": "https://support.hoyoverse.com/hc/en-us/articles/50333964005913-How-can-I-farm-materials-to-upgrade-my-weapons"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "genshin-clear-coop-blocker",
+      "game": "genshin",
+      "title": "Remove a quest that blocks Co-op",
+      "description": "Find the blocking quest instead of repeatedly sending invitations.",
+      "type": "Guide",
+      "edition": "Co-op access after unlock",
+      "scope": "Co-op access after unlock",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "keywords": "genshin coop multiplayer blocked quest 原神 連線 多人 任務 限制",
+      "version": "Quest and event restrictions",
+      "needs": "An account where Co-op has already been unlocked.",
+      "quick": "The multiplayer warning can name the quest that must be completed.",
+      "steps": [
+        "Choose the multiplayer icon or attempt to enter Co-op.",
+        "Read the warning and record the quest name it identifies.",
+        "Open the quest list and finish that blocking quest or required stage.",
+        "If an event or challenge is active, finish the current portion.",
+        "Leave any event-vendor scene, teleport elsewhere and retry Co-op.",
+        "If access remains blocked, send Support the error, quest progress and a screenshot through the help interface."
+      ],
+      "success": "The blocking warning disappears and the multiplayer menu becomes available.",
+      "troubleshooting": [
+        {
+          "problem": "The same quest is still named",
+          "solution": "Check whether its current stage is fully completed."
+        },
+        {
+          "problem": "No named quest or a different error",
+          "solution": "Capture the exact message; this guide does not diagnose account or network restrictions."
+        }
+      ],
+      "trouble": "The same quest is still named: Check whether its current stage is fully completed. No named quest or a different error: Capture the exact message; this guide does not diagnose account or network restrictions.",
+      "note": "This addresses temporary quest/event blocks, not the initial Co-op unlock or every possible connection error.",
+      "source": "https://support.hoyoverse.com/hc/en-us/articles/50333905596953-Unable-to-Access-Co-op-Mode",
+      "sourceName": "HoYoverse Help · Co-op restrictions",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "HoYoverse Help · Co-op restrictions",
+          "url": "https://support.hoyoverse.com/hc/en-us/articles/50333905596953-Unable-to-Access-Co-op-Mode"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "genshin-temporary-acclimatization",
+      "game": "genshin",
+      "title": "Start Temporary Acclimatization",
+      "description": "Check both prerequisites before searching for Woliu.",
+      "type": "Guide",
+      "edition": "Chenyu Vale / Fontaine · World Quest",
+      "scope": "Chenyu Vale / Fontaine · World Quest",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "keywords": "genshin temporary acclimatization woliu chenyu yilong quest 原神 暫行適應 任務 沉玉谷",
+      "version": "Quest-specific prerequisites",
+      "needs": "Access to Chenyu Vale and Fontaine.",
+      "quick": "Complete the required Chenyu and Fontaine quests, then speak with Woliu at Yilong Wharf.",
+      "steps": [
+        "Check progress in Chenyu’s Blessings of Sunken Jade.",
+        "Finish its required part, Qiaoying of the Sacred Mountain.",
+        "Near the Opera Epiclese in Fontaine, check the quest In Expert Company? (II).",
+        "Complete In Expert Company? (II); merely accepting it is insufficient.",
+        "Travel to Yilong Wharf in Chenyu Vale.",
+        "Find Woliu near the pavilion and speak with her to start Temporary Acclimatization."
+      ],
+      "success": "Temporary Acclimatization begins and its objective appears.",
+      "troubleshooting": [
+        {
+          "problem": "Woliu offers no quest",
+          "solution": "Recheck both prerequisite completions, including part II in Fontaine."
+        },
+        {
+          "problem": "At the wrong harbour",
+          "solution": "The start is Yilong Wharf in Chenyu Vale, not the Opera Epiclese."
+        }
+      ],
+      "trouble": "Woliu offers no quest: Recheck both prerequisite completions, including part II in Fontaine. At the wrong harbour: The start is Yilong Wharf in Chenyu Vale, not the Opera Epiclese.",
+      "note": "This guide covers unlocking the quest only; it is not a walkthrough of every later objective.",
+      "source": "https://support.hoyoverse.com/hc/en-us/articles/50333940506777-Unable-to-Start-the-World-Quest-Temporary-Acclimatization",
+      "sourceName": "HoYoverse Help · Temporary Acclimatization",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "HoYoverse Help · Temporary Acclimatization",
+          "url": "https://support.hoyoverse.com/hc/en-us/articles/50333940506777-Unable-to-Start-the-World-Quest-Temporary-Acclimatization"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "starrail-assignment-cycle",
+      "game": "starrail",
+      "title": "Collect and restart Assignments",
+      "description": "Make the passive material routine easy to check.",
+      "type": "Guide",
+      "edition": "Assignments",
+      "scope": "Assignments",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "keywords": "hsr assignments materials claim all redispatch 崩鐵 委託 素材 領取",
+      "version": "Claim All workflow documented in Version 2.1",
+      "needs": "Assignments available on your account.",
+      "quick": "Review your stock, claim finished returns and redispatch deliberately.",
+      "steps": [
+        "Open Assignments.",
+        "Inspect the material stock shown for the assignments you use.",
+        "Check which returns are ready.",
+        "Choose Claim All to collect completed returns.",
+        "Use the redispatch option, then confirm which assignments are running."
+      ],
+      "success": "Collected materials are reflected in stock and the intended assignments are running.",
+      "troubleshooting": [
+        {
+          "problem": "Nothing to claim",
+          "solution": "Check completion state instead of assuming materials were lost."
+        },
+        {
+          "problem": "Wrong materials keep arriving",
+          "solution": "Review the selected assignment before redispatching."
+        }
+      ],
+      "trouble": "Nothing to claim: Check completion state instead of assuming materials were lost. Wrong materials keep arriving: Review the selected assignment before redispatching.",
+      "note": "Menu wording may evolve. No fixed assignment duration, capacity or reward quantity is assumed.",
+      "source": "https://hsr.hoyoverse.com/en-us/news/123034",
+      "sourceName": "Honkai: Star Rail · Version 2.1 system notes",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Honkai: Star Rail · Version 2.1 system notes",
+          "url": "https://hsr.hoyoverse.com/en-us/news/123034"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "starrail-smart-equip-review",
+      "game": "starrail",
+      "title": "Review a Relic set with Smart Equip",
+      "description": "Adjust individual slots before accepting an automatic suggestion.",
+      "type": "Guide",
+      "edition": "Character equipment",
+      "scope": "Character equipment",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "keywords": "hsr relic smart equip equipment stats 崩鐵 遺器 智慧 裝備",
+      "version": "Smart Equip workflow documented in Version 3.5",
+      "needs": "Owned Relics and access to Character > Relics.",
+      "quick": "Smart Equip is a starting point; compare every replacement with your intended build.",
+      "steps": [
+        "Open the character you want to equip.",
+        "Choose Relics, then Smart Equip.",
+        "Review the suggested pieces and their main stats.",
+        "Select individual slots to replace pieces you do not want.",
+        "Check selected pieces, which are marked and prioritized in recommendations.",
+        "Apply the choice and inspect the resulting equipment. The panel stays open for further adjustments."
+      ],
+      "success": "The character is wearing the pieces you reviewed.",
+      "troubleshooting": [
+        {
+          "problem": "An unwanted piece keeps appearing",
+          "solution": "Review selected or prioritized pieces and replace the affected slot."
+        },
+        {
+          "problem": "Recommendation does not suit your team",
+          "solution": "Compare the character’s abilities and your own build goal; automatic suggestions are not a universal best build."
+        }
+      ],
+      "trouble": "An unwanted piece keeps appearing: Review selected or prioritized pieces and replace the affected slot. Recommendation does not suit your team: Compare the character’s abilities and your own build goal; automatic suggestions are not a universal best build.",
+      "note": "Version 3.5 also merged Wishful Resin into Self-Modeling Resin. Older crafting instructions may therefore show an obsolete resource.",
+      "source": "https://hsr.hoyoverse.com/en-us/news/158598",
+      "sourceName": "Honkai: Star Rail · Version 3.5 equipment changes",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Honkai: Star Rail · Version 3.5 equipment changes",
+          "url": "https://hsr.hoyoverse.com/en-us/news/158598"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "starrail-salvage-retrieval",
+      "game": "starrail",
+      "title": "Request eligible salvaged equipment back",
+      "description": "Use the built-in retrieval form after an accidental salvage.",
+      "type": "Guide",
+      "edition": "5-star Relics / 4-star Light Cones",
+      "scope": "5-star Relics / 4-star Light Cones",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "keywords": "hsr lost relic light cone salvage retrieve recovery 崩鐵 遺器 光錐 回收 找回",
+      "version": "Support article updated 12 Nov 2025",
+      "needs": "An accidentally salvaged 5-star Relic or 4-star Light Cone.",
+      "quick": "Open Smartphone > Bug Report > Relic/Light Cone Salvage Retrieval and check eligibility.",
+      "steps": [
+        "Confirm whether the lost item was salvaged and check its rarity.",
+        "Open the Smartphone menu.",
+        "Choose Bug Report.",
+        "Open Relic/Light Cone Salvage Retrieval.",
+        "Read its current retrieval rules and conditions.",
+        "If eligible, complete the in-game request and check its result before assuming recovery."
+      ],
+      "success": "You have an eligibility result or a submitted retrieval request.",
+      "troubleshooting": [
+        {
+          "problem": "Item is not listed",
+          "solution": "Check the form’s current conditions; recovery is not guaranteed."
+        },
+        {
+          "problem": "Different rarity or loss method",
+          "solution": "This help article only establishes the named salvage categories. Use normal Support for other cases."
+        }
+      ],
+      "trouble": "Item is not listed: Check the form’s current conditions; recovery is not guaranteed. Different rarity or loss method: This help article only establishes the named salvage categories. Use normal Support for other cases.",
+      "note": "The guide does not promise unlimited recovery or invent a retrieval deadline.",
+      "source": "https://support.hoyoverse.com/hc/en-us/articles/52306180180633-How-can-I-recover-an-accidentally-salvaged-5-star-Relic-or-4-star-Light-Cone",
+      "sourceName": "HoYoverse Help · Salvage retrieval",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "HoYoverse Help · Salvage retrieval",
+          "url": "https://support.hoyoverse.com/hc/en-us/articles/52306180180633-How-can-I-recover-an-accidentally-salvaged-5-star-Relic-or-4-star-Light-Cone"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "minecraft-java-shield",
+      "game": "minecraft",
+      "title": "Craft and use a Java shield",
+      "description": "Protect the front of your character and understand the limits.",
+      "type": "Guide",
+      "edition": "Java",
+      "scope": "Java",
+      "platforms": [
+        "PC"
+      ],
+      "keywords": "minecraft java shield crafting blocking defend 盾牌 合成 防禦",
+      "version": "Java shield controls · default mouse input",
+      "needs": "A crafting table, six planks and one iron ingot.",
+      "quick": "Craft the shield, face the attack and hold Use Item to block.",
+      "steps": [
+        "Open a crafting table’s 3 × 3 grid.",
+        "Place six planks in a Y pattern, with one iron ingot in the top-middle gap.",
+        "Collect the shield and hold it for a simple first test.",
+        "Face the direction of the incoming attack.",
+        "Hold Use Item, normally right-click in Java, to raise it.",
+        "Check durability afterwards; repair with planks at an anvil when appropriate."
+      ],
+      "success": "The shield raises and blocks a blockable attack from the front.",
+      "troubleshooting": [
+        {
+          "problem": "Damage still gets through",
+          "solution": "Check facing; not every attack is blockable and axes can disable shields."
+        },
+        {
+          "problem": "Shield does not raise",
+          "solution": "Check Java’s Use Item binding and that you are holding the shield."
+        }
+      ],
+      "trouble": "Damage still gets through: Check facing; not every attack is blockable and axes can disable shields. Shield does not raise: Check Java’s Use Item binding and that you are holding the shield.",
+      "note": "These are Java mouse controls. Bedrock blocking controls differ. Repair cost and remaining durability should be checked in-game.",
+      "source": "https://www.minecraft.net/en-us/article/taking-inventory--shield",
+      "sourceName": "Minecraft · Taking Inventory: Shield",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Minecraft · Taking Inventory: Shield",
+          "url": "https://www.minecraft.net/en-us/article/taking-inventory--shield"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "minecraft-blast-furnace",
+      "game": "minecraft",
+      "title": "Use a Blast Furnace for metal processing",
+      "description": "Choose the right furnace for the item you want to smelt.",
+      "type": "Guide",
+      "edition": "Java / Bedrock",
+      "scope": "Java / Bedrock",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "keywords": "minecraft blast furnace smelt iron metal fuel 高爐 熔爐 冶煉",
+      "version": "Blast Furnace · ordinary Survival mechanics",
+      "needs": "Five iron ingots, three smooth stone, one furnace and suitable fuel.",
+      "quick": "A Blast Furnace processes eligible metal items faster; it does not replace every furnace recipe.",
+      "steps": [
+        "Use a crafting table and put three smooth stone across the bottom row.",
+        "Place the furnace in the centre and fill the remaining five slots with iron ingots.",
+        "Place the completed Blast Furnace in your base.",
+        "Open it and add an eligible ore or metal equipment item to process.",
+        "Add fuel and wait for the progress indicator to finish.",
+        "Take the output. Use a normal furnace for recipes the Blast Furnace does not accept."
+      ],
+      "success": "The selected eligible input produces its smelted output.",
+      "troubleshooting": [
+        {
+          "problem": "Nothing starts",
+          "solution": "Check both fuel and whether the input belongs in a Blast Furnace."
+        },
+        {
+          "problem": "Fuel does not last longer",
+          "solution": "It burns fuel faster as it works faster; fuel per item is not improved."
+        }
+      ],
+      "trouble": "Nothing starts: Check both fuel and whether the input belongs in a Blast Furnace. Fuel does not last longer: It burns fuel faster as it works faster; fuel per item is not improved.",
+      "note": "Official documentation describes double processing speed. Modded recipes can change eligibility.",
+      "source": "https://www.minecraft.net/en-us/article/block-week--blast-furnace",
+      "sourceName": "Minecraft · Block of the Week: Blast Furnace",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Minecraft · Block of the Week: Blast Furnace",
+          "url": "https://www.minecraft.net/en-us/article/block-week--blast-furnace"
+        },
+        {
+          "label": "Minecraft · Furnace basics",
+          "url": "https://www.minecraft.net/en-us/article/block-week-furnace"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75,
+      "editions": [
+        "Java",
+        "Bedrock"
+      ]
+    },
+    {
+      "id": "minecraft-compass-spawn",
+      "game": "minecraft",
+      "title": "Navigate back toward world spawn",
+      "description": "A normal compass points to world spawn, not automatically to your bed.",
+      "type": "Guide",
+      "edition": "Java / Bedrock · Overworld",
+      "scope": "Java / Bedrock · Overworld",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "keywords": "minecraft compass spawn lost navigation redstone 指南針 出生點 迷路",
+      "version": "Ordinary compass; excludes lodestone and recovery compasses",
+      "needs": "Four iron ingots, one redstone dust and a crafting table.",
+      "quick": "Follow the red needle in the Overworld, while choosing a safe route around obstacles.",
+      "steps": [
+        "Put redstone dust in the crafting grid’s centre.",
+        "Place an iron ingot above, below, left and right of it.",
+        "Take the ordinary compass and enter the Overworld.",
+        "Observe the red needle and turn toward its direction.",
+        "Travel safely in that direction, checking the needle as you move.",
+        "Use known landmarks near world spawn to locate your destination."
+      ],
+      "success": "You move back toward the world’s spawn area.",
+      "troubleshooting": [
+        {
+          "problem": "Compass does not lead to my house",
+          "solution": "It targets world spawn; sleeping in a bed does not make it a home locator."
+        },
+        {
+          "problem": "Needle behaves strangely",
+          "solution": "A normal compass is not a reliable route guide in other dimensions."
+        }
+      ],
+      "trouble": "Compass does not lead to my house: It targets world spawn; sleeping in a bed does not make it a home locator. Needle behaves strangely: A normal compass is not a reliable route guide in other dimensions.",
+      "note": "This is not a pathfinding tool. A base away from spawn needs a separate navigation method.",
+      "source": "https://www.minecraft.net/en-us/article/taking-inventory--compass",
+      "sourceName": "Minecraft · Taking Inventory: Compass",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Minecraft · Taking Inventory: Compass",
+          "url": "https://www.minecraft.net/en-us/article/taking-inventory--compass"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75,
+      "editions": [
+        "Java",
+        "Bedrock"
+      ]
+    },
+    {
+      "id": "gta-legacy-enhanced-story",
+      "game": "gta",
+      "title": "Move a PC Story save to Enhanced",
+      "description": "Check the one-time transfer before downloading the save.",
+      "type": "Guide",
+      "edition": "Story Mode · PC Legacy → Enhanced",
+      "scope": "Story Mode · PC Legacy → Enhanced",
+      "platforms": [
+        "PC"
+      ],
+      "keywords": "gta v legacy enhanced story save migrate transfer PC 存檔 轉移",
+      "version": "Rockstar PC migration workflow; no console transfer",
+      "needs": "Both PC editions and the correct linked Rockstar account.",
+      "quick": "Upload from Legacy; download in Enhanced only after checking the selected save.",
+      "steps": [
+        "Confirm that the signed-in Rockstar account is linked to your intended PC platform account.",
+        "In Legacy, open Pause > Game > Upload Save Game.",
+        "Select the intended Story save and confirm its upload.",
+        "Wait for the successful-upload message.",
+        "Open Enhanced and choose Pause > Game > Download Save Game.",
+        "Check the selected save before confirming; a successful download uses this account’s Story migration.",
+        "Wait for confirmation and check the loaded progress."
+      ],
+      "success": "Enhanced loads the intended Story progress.",
+      "troubleshooting": [
+        {
+          "problem": "Save is missing",
+          "solution": "Uploads remain available for 90 days; an expired upload may need uploading again."
+        },
+        {
+          "problem": "Expecting later Legacy progress to appear",
+          "solution": "Progress is not synced after migration."
+        },
+        {
+          "problem": "Using a console save",
+          "solution": "This workflow only supports PC Legacy to PC Enhanced."
+        }
+      ],
+      "trouble": "Save is missing: Uploads remain available for 90 days; an expired upload may need uploading again. Expecting later Legacy progress to appear: Progress is not synced after migration. Using a console save: This workflow only supports PC Legacy to PC Enhanced.",
+      "note": "One uploaded save per account. Once downloaded successfully, further Story migrations are unavailable on that account. Eligibility restrictions can apply.",
+      "source": "https://support.rockstargames.com/articles/mmRgMVfuQC3xNzXK4Cq9b/migrating-your-story-mode-save-from-grand-theft-auto-v-legacy-to-grand-theft",
+      "sourceName": "Rockstar Support · PC Story save migration",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Rockstar Support · PC Story save migration",
+          "url": "https://support.rockstargames.com/articles/mmRgMVfuQC3xNzXK4Cq9b/migrating-your-story-mode-save-from-grand-theft-auto-v-legacy-to-grand-theft"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "gta-first-person-comfort",
+      "game": "gta",
+      "title": "Reduce intense first-person camera movement",
+      "description": "Tune camera behaviour in Story Mode before a long session.",
+      "type": "Guide",
+      "edition": "Story Mode · first-person-capable editions",
+      "scope": "Story Mode · first-person-capable editions",
+      "platforms": [
+        "PC",
+        "Console"
+      ],
+      "keywords": "gta camera first person head bobbing cover settings 視角 設定 第一人稱",
+      "version": "First-person settings; platform menus can differ",
+      "needs": "An edition with First Person Mode.",
+      "quick": "Reduce head movement and choose whether cover should use third person.",
+      "steps": [
+        "Open Settings > Controls and locate the first-person options.",
+        "Turn First Person Head Bobbing off if running movement feels distracting.",
+        "Turn First Person Ragdoll off to reduce forced first-person motion when hit.",
+        "Turn First Person Combat Rolls off if rolling movement is uncomfortable.",
+        "Set First Person Third Person Cover on if you prefer a wider view while using cover.",
+        "Return to play and test walking, jogging and cover; adjust one setting at a time."
+      ],
+      "success": "Camera movement and cover perspective match your preference.",
+      "troubleshooting": [
+        {
+          "problem": "Cover still stays first person",
+          "solution": "Recheck the specific cover option, rather than only the overall camera mode."
+        },
+        {
+          "problem": "Option missing",
+          "solution": "Confirm your edition supports first person; the original PS3/Xbox 360 versions do not use this feature set."
+        }
+      ],
+      "trouble": "Cover still stays first person: Recheck the specific cover option, rather than only the overall camera mode. Option missing: Confirm your edition supports first person; the original PS3/Xbox 360 versions do not use this feature set.",
+      "note": "These are comfort preferences, not a guaranteed performance or aiming improvement. Use your edition’s displayed menu labels.",
+      "source": "https://www.rockstargames.com/newswire/article/25o2411812oa29/rockstar-game-tips-playing-with-perspective-in-gtav",
+      "sourceName": "Rockstar Game Tips · Playing with Perspective",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Rockstar Game Tips · Playing with Perspective",
+          "url": "https://www.rockstargames.com/newswire/article/25o2411812oa29/rockstar-game-tips-playing-with-perspective-in-gtav"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "gta-train-shooting-stat",
+      "game": "gta",
+      "title": "Improve the character you actually use",
+      "description": "Training belongs to each protagonist separately.",
+      "type": "Guide",
+      "edition": "Story Mode · character skills",
+      "scope": "Story Mode · character skills",
+      "platforms": [
+        "PC",
+        "Console"
+      ],
+      "keywords": "gta shooting stat range skill training story 射擊 技能 練習",
+      "version": "Official manual · character-specific skill progression",
+      "needs": "Access to a Shooting Range.",
+      "quick": "Train the intended protagonist; progress is not shared between Michael, Franklin and Trevor.",
+      "steps": [
+        "Switch to the protagonist you want to improve.",
+        "Check that character’s Shooting stat.",
+        "Visit an available Shooting Range.",
+        "Follow a shooting challenge and focus on accurate hits.",
+        "Compare the same character’s stat after practice."
+      ],
+      "success": "You can track training on the intended character.",
+      "troubleshooting": [
+        {
+          "problem": "Another protagonist did not improve",
+          "solution": "Skills are separate for each character."
+        },
+        {
+          "problem": "Handling still feels poor",
+          "solution": "Review aiming settings as well as the skill stat."
+        }
+      ],
+      "trouble": "Another protagonist did not improve: Skills are separate for each character. Handling still feels poor: Review aiming settings as well as the skill stat.",
+      "note": "Practice can improve accuracy, reload speed and ammunition capacity. No fixed training time is promised.",
+      "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+      "sourceName": "Rockstar · Xbox-hosted GTAV manual",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Rockstar · Xbox-hosted GTAV manual",
+          "url": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "delta-department-upgrade-plan",
+      "game": "delta",
+      "title": "Turn Department missions into an upgrade plan",
+      "description": "Connect the mission reward to your next useful unlock.",
+      "type": "Guide",
+      "edition": "Operations · Garena documentation",
+      "scope": "Operations · Garena documentation",
+      "platforms": [
+        "PC",
+        "Mobile"
+      ],
+      "keywords": "delta operations department black site upgrade supply station 三角洲 部門 黑市 升級",
+      "version": "Department, Supply Station and Black Site progression",
+      "needs": "Access to Operations progression menus.",
+      "quick": "Check an unlock requirement before choosing your next Department mission.",
+      "steps": [
+        "Inspect the Supply Station item or Black Site upgrade you want.",
+        "Note any Department-level requirement.",
+        "Open that Department and read available mission objectives.",
+        "Choose a mission you can complete with your available equipment.",
+        "Finish it, collect its reward and recheck the unlock requirement."
+      ],
+      "success": "You know which mission advances your selected unlock.",
+      "troubleshooting": [
+        {
+          "problem": "Item is still locked",
+          "solution": "Compare the required Department level with your current level."
+        },
+        {
+          "problem": "Upgrade still unavailable",
+          "solution": "Review its remaining requirements; Department progress is not the only possible condition."
+        }
+      ],
+      "trouble": "Item is still locked: Compare the required Department level with your current level. Upgrade still unavailable: Review its remaining requirements; Department progress is not the only possible condition.",
+      "note": "Based on Garena documentation; check regional-client requirements. No universal mission order is claimed.",
+      "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+      "sourceName": "Garena Delta Force · Operations Mode 101",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Garena Delta Force · Operations Mode 101",
+          "url": "https://deltaforce.garena.com/en/news/system/RMDWVM"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "delta-gunsmith-preview-test",
+      "game": "delta",
+      "title": "Compare a gun build in the Firing Range",
+      "description": "Test one change before applying a trial loadout.",
+      "type": "Guide",
+      "edition": "Operations · Global client",
+      "scope": "Operations · Global client",
+      "platforms": [
+        "PC",
+        "Mobile"
+      ],
+      "keywords": "delta gunsmith firing range calibrate preview attachments recoil 三角洲 改槍 靶場 後座力",
+      "version": "Official Gunsmith preview workflow",
+      "needs": "Access to Gunsmith and the Firing Range.",
+      "quick": "Keep a baseline, try one change, then decide whether to apply the trial build.",
+      "steps": [
+        "Open the weapon in Gunsmith and note its starting configuration.",
+        "Change one compatible attachment so the comparison stays clear.",
+        "Use Preview Mode’s Calibrate option if relevant.",
+        "Enter the Firing Range and test the handling at a consistent distance.",
+        "Return to Gunsmith; the documented workflow preserves the trial configuration.",
+        "Choose whether to apply the trial loadout, then check the final equipment before deploying."
+      ],
+      "success": "You have chosen a configuration after testing its handling.",
+      "troubleshooting": [
+        {
+          "problem": "Build looks different after leaving",
+          "solution": "Confirm whether you applied the trial loadout."
+        },
+        {
+          "problem": "Attachment will not fit",
+          "solution": "Check the weapon’s compatibility and requirements instead of assuming every attachment fits."
+        }
+      ],
+      "trouble": "Build looks different after leaving: Confirm whether you applied the trial loadout. Attachment will not fit: Check the weapon’s compatibility and requirements instead of assuming every attachment fits.",
+      "note": "This is a comparison routine, not a meta ranking. Balance values and regional features may change; inspect your current client.",
+      "source": "https://www.playdeltaforce.com/en/detail.html?content_id=5156e818a5073a493fa80d5a7df7fee7010d&father_content_id=5156e818a5073a493fa80d5a7df7fee7010d",
+      "sourceName": "Delta Force · Official Gunsmith system update",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Delta Force · Official Gunsmith system update",
+          "url": "https://www.playdeltaforce.com/en/detail.html?content_id=5156e818a5073a493fa80d5a7df7fee7010d&father_content_id=5156e818a5073a493fa80d5a7df7fee7010d"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    },
+    {
+      "id": "delta-swim-route",
+      "game": "delta",
+      "title": "Cross water without exhausting oxygen",
+      "description": "Plan where to surface before entering a long swim.",
+      "type": "Guide",
+      "edition": "Operations · swimming",
+      "scope": "Operations · swimming",
+      "platforms": [
+        "PC",
+        "Mobile"
+      ],
+      "keywords": "delta swimming diving oxygen stamina operations 三角洲 游泳 潛水 氧氣",
+      "version": "Swimming rules documented in Season Break",
+      "needs": "A map with water and a planned exit point.",
+      "quick": "Watch oxygen underwater; sprint swimming spends resources faster.",
+      "steps": [
+        "Identify a nearby shore or place where you can surface.",
+        "Enter the water and use slower movement when conserving resources.",
+        "Watch oxygen while diving; do not wait until it runs out.",
+        "Resurface to restore oxygen.",
+        "Use weapons only from the surface; they cannot fire underwater.",
+        "After the match, inspect the Black Site Diving Center for swimming-related upgrades."
+      ],
+      "success": "You reach your exit without losing HP to depleted oxygen.",
+      "troubleshooting": [
+        {
+          "problem": "HP drains underwater",
+          "solution": "Surface: empty oxygen causes health loss."
+        },
+        {
+          "problem": "Gun will not fire",
+          "solution": "Underwater weapon fire is unavailable; only certain gadgets work there."
+        }
+      ],
+      "trouble": "HP drains underwater: Surface: empty oxygen causes health loss. Gun will not fire: Underwater weapon fire is unavailable; only certain gadgets work there.",
+      "note": "Sprinting drains Stamina and oxygen faster. Garena’s July 2025 documentation is the source; compare your current service.",
+      "source": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+      "sourceName": "Garena Delta Force · Season Break swimming systems",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "label": "Garena Delta Force · Season Break swimming systems",
+          "url": "https://deltaforce.garena.com/en/news/announcement/V6J38U"
+        }
+      ],
+      "reviewed": "2026-10-15",
+      "sourceChecked": "2026-10-15",
+      "sourceReadDate": "2026-10-15",
+      "playtested": null,
+      "status": "Unverified",
+      "verification": "Source checked; not gameplay tested",
+      "read": 75
+    }
+  ],
+  "collections": [
+    {
+      "id": "hsr-combat-starter",
+      "game": "starrail",
+      "label": "Combat & equipment starter reference",
+      "note": "12 selected concepts, including five Paths. This is not every Path, character or build. HoYoWiki is publisher-hosted community content. Source review does not establish current optimal builds.",
+      "source": "https://wiki.hoyolab.com/pc/hsr/home?lang=en-us",
+      "entries": [
+        {
+          "id": "hsr-path-destruction",
+          "name": "Destruction",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Flexible damage with durability.",
+          "facts": [
+            [
+              "Typical role",
+              "Damage / survival"
+            ],
+            [
+              "Aeon",
+              "Nanook"
+            ],
+            [
+              "Example",
+              "Clara"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/79?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/79?lang=en-us",
+          "sourceName": "HoYoWiki · Destruction",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-path-hunt",
+          "name": "The Hunt",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Focused damage against one target.",
+          "facts": [
+            [
+              "Typical role",
+              "Single-target damage"
+            ],
+            [
+              "Aeon",
+              "Lan"
+            ],
+            [
+              "Example",
+              "Dan Heng"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/81?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/81?lang=en-us",
+          "sourceName": "HoYoWiki · The Hunt",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-path-erudition",
+          "name": "Erudition",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Damage that suits groups.",
+          "facts": [
+            [
+              "Typical role",
+              "Multi-target damage"
+            ],
+            [
+              "Aeon",
+              "Nous"
+            ],
+            [
+              "Example",
+              "Himeko"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/80?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/80?lang=en-us",
+          "sourceName": "HoYoWiki · Erudition",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-path-harmony",
+          "name": "Harmony",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Support through ally buffs.",
+          "facts": [
+            [
+              "Typical role",
+              "Ally buffs"
+            ],
+            [
+              "Aeon",
+              "Xipe"
+            ],
+            [
+              "Example",
+              "Asta"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/83?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/83?lang=en-us",
+          "sourceName": "HoYoWiki · Harmony",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-path-abundance",
+          "name": "Abundance",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Support through healing.",
+          "facts": [
+            [
+              "Typical role",
+              "HP recovery"
+            ],
+            [
+              "Aeon",
+              "Yaoshi"
+            ],
+            [
+              "Example",
+              "Natasha"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/84?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/84?lang=en-us",
+          "sourceName": "HoYoWiki · Abundance",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-skill-points",
+          "name": "Skill Points",
+          "kind": "Resource",
+          "category": "Battle",
+          "group": "Battle",
+          "summary": "A shared team budget.",
+          "facts": [
+            [
+              "Owner",
+              "Team"
+            ],
+            [
+              "Typical spending",
+              "Skills"
+            ],
+            [
+              "Typical recovery",
+              "Basic attacks"
+            ]
+          ],
+          "body": [
+            "Individual ability descriptions can change the usual cost or recovery."
+          ],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "sourceName": "HoYoWiki · Base Mechanism",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-energy",
+          "name": "Energy",
+          "kind": "Resource",
+          "category": "Battle",
+          "group": "Battle",
+          "summary": "Charge for an Ultimate.",
+          "facts": [
+            [
+              "Sources",
+              "Abilities, defeats, incoming attacks"
+            ],
+            [
+              "Threshold",
+              "Character-specific"
+            ],
+            [
+              "Use",
+              "Ultimate when ready"
+            ]
+          ],
+          "body": [
+            "Some characters use special Ultimate resources; inspect their kit."
+          ],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "sourceName": "HoYoWiki · Base Mechanism",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-toughness",
+          "name": "Toughness",
+          "kind": "Enemy gauge",
+          "category": "Battle",
+          "group": "Battle",
+          "summary": "Attack the listed weakness.",
+          "facts": [
+            [
+              "Target",
+              "Enemy"
+            ],
+            [
+              "Depletion",
+              "Matching attack type"
+            ],
+            [
+              "At zero",
+              "Weakness Break and action delay"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "sourceName": "HoYoWiki · Base Mechanism",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-path-filter",
+          "name": "Light Cone Path filter",
+          "kind": "Tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Narrow the equipment list.",
+          "facts": [
+            [
+              "Menu",
+              "Inventory"
+            ],
+            [
+              "Category",
+              "Light Cones"
+            ],
+            [
+              "Filter",
+              "Path"
+            ]
+          ],
+          "body": [],
+          "source": "https://hsr.hoyoverse.com/en-us/news/123034",
+          "primarySourceURL": "https://hsr.hoyoverse.com/en-us/news/123034",
+          "sourceName": "Honkai: Star Rail · Version 2.1",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-material-synthesis",
+          "name": "Material Synthesis",
+          "kind": "Tool",
+          "category": "Progression",
+          "group": "Progression",
+          "summary": "Convert compatible materials.",
+          "facts": [
+            [
+              "Menu",
+              "Synthesize"
+            ],
+            [
+              "Series",
+              "Match material family"
+            ],
+            [
+              "Rarity choice",
+              "Blue or purple where supported"
+            ]
+          ],
+          "body": [],
+          "source": "https://hsr.hoyoverse.com/en-us/news/123034",
+          "primarySourceURL": "https://hsr.hoyoverse.com/en-us/news/123034",
+          "sourceName": "Honkai: Star Rail · Version 2.1",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-smart-equip",
+          "name": "Smart Equip",
+          "kind": "Tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Review automatic equipment suggestions.",
+          "facts": [
+            [
+              "Menu",
+              "Character > Relics"
+            ],
+            [
+              "Control",
+              "Replace individual slots"
+            ],
+            [
+              "After equipping",
+              "Panel remains open"
+            ]
+          ],
+          "body": [],
+          "source": "https://hsr.hoyoverse.com/en-us/news/158598",
+          "primarySourceURL": "https://hsr.hoyoverse.com/en-us/news/158598",
+          "sourceName": "Honkai: Star Rail · Version 3.5",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-salvage",
+          "name": "Salvage Retrieval",
+          "kind": "Support tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Check recovery eligibility.",
+          "facts": [
+            [
+              "Access",
+              "Smartphone > Bug Report"
+            ],
+            [
+              "Relics",
+              "5-star salvage"
+            ],
+            [
+              "Light Cones",
+              "4-star salvage"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.hoyoverse.com/hc/en-us/articles/52306180180633-How-can-I-recover-an-accidentally-salvaged-5-star-Relic-or-4-star-Light-Cone",
+          "primarySourceURL": "https://support.hoyoverse.com/hc/en-us/articles/52306180180633-How-can-I-recover-an-accidentally-salvaged-5-star-Relic-or-4-star-Light-Cone",
+          "sourceName": "HoYoverse Help · Salvage retrieval",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "gta-story-starter",
+      "game": "gta",
+      "label": "Story skills & vehicle starter reference",
+      "note": "12 selected records. Vehicle availability is documented in 1.27 for PS4, Xbox One and PC; inspect your edition’s store before buying. This excludes GTA Online businesses and is not a full vehicle database.",
+      "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+      "entries": [
+        {
+          "id": "gta-stat-stamina",
+          "name": "Stamina",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Endurance skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Run, swim, cycle"
+            ],
+            [
+              "Benefit",
+              "Longer exertion"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-shooting",
+          "name": "Shooting",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Weapon skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Shooting challenges"
+            ],
+            [
+              "Benefit",
+              "Accuracy / reload"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-flying",
+          "name": "Flying",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Aircraft skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Fly / Pilot School"
+            ],
+            [
+              "Benefit",
+              "Reduced turbulence"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-driving",
+          "name": "Driving",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Vehicle skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Driving practice"
+            ],
+            [
+              "Benefit",
+              "Airborne handling"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-stealth",
+          "name": "Stealth",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Quiet movement skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Stealth movement"
+            ],
+            [
+              "Benefit",
+              "Quieter movement"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-lungs",
+          "name": "Lung Capacity",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Underwater endurance.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Time underwater"
+            ],
+            [
+              "Benefit",
+              "Longer submersion"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-osiris",
+          "name": "Pegassi Osiris",
+          "kind": "Car",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Legendary Motorsport"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-virgo",
+          "name": "Albany Virgo",
+          "kind": "Car",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Legendary Motorsport"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-stirling",
+          "name": "Benefactor Stirling GT",
+          "kind": "Car",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Legendary Motorsport"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-windsor",
+          "name": "Enus Windsor",
+          "kind": "Car",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Legendary Motorsport"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-luxor",
+          "name": "Buckingham Luxor Deluxe",
+          "kind": "Aircraft",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Elitás Travel"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-swift",
+          "name": "Buckingham Swift Deluxe",
+          "kind": "Aircraft",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Elitás Travel"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "delta-operations-starter",
+      "game": "delta",
+      "label": "Operations systems starter reference",
+      "note": "12 selected systems, mainly based on Garena documentation. Regional services, unlocks and balance can differ. This is not the full item catalog; current client values take priority over historical patch examples.",
+      "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+      "entries": [
+        {
+          "id": "delta-ref-stash",
+          "name": "Stash",
+          "kind": "Storage",
+          "category": "Progression",
+          "group": "Progression",
+          "summary": "Equipment storage.",
+          "facts": [
+            [
+              "Contents",
+              "Gear / items"
+            ],
+            [
+              "Loadout",
+              "Separate area"
+            ],
+            [
+              "Mode",
+              "Operations"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-safebox",
+          "name": "Safe box",
+          "kind": "Storage",
+          "category": "Loadout",
+          "group": "Loadout",
+          "summary": "Protected inventory.",
+          "facts": [
+            [
+              "Location",
+              "Loadout"
+            ],
+            [
+              "Death",
+              "Contents retained"
+            ],
+            [
+              "Capacity",
+              "Check client"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-alloy",
+          "name": "Tekniq Alloy",
+          "kind": "Currency",
+          "category": "Economy",
+          "group": "Economy",
+          "summary": "Operations currency.",
+          "facts": [
+            [
+              "Source",
+              "Selling loot"
+            ],
+            [
+              "Use",
+              "Purchases"
+            ],
+            [
+              "Scope",
+              "Operations"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-departments",
+          "name": "Departments",
+          "kind": "Progression",
+          "category": "Progression",
+          "group": "Progression",
+          "summary": "Mission progression.",
+          "facts": [
+            [
+              "Activity",
+              "Missions"
+            ],
+            [
+              "Reward",
+              "Department levels"
+            ],
+            [
+              "Unlocks",
+              "Supply items"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-supply",
+          "name": "Supply Station",
+          "kind": "Shop",
+          "category": "Economy",
+          "group": "Economy",
+          "summary": "Equipment supply.",
+          "facts": [
+            [
+              "Methods",
+              "Purchase / exchange"
+            ],
+            [
+              "Stock",
+              "Battle items"
+            ],
+            [
+              "Locks",
+              "Department progression"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-workshop",
+          "name": "Black Site Workshop",
+          "kind": "Production",
+          "category": "Progression",
+          "group": "Progression",
+          "summary": "Inspect production in the official HQ tool.",
+          "facts": [
+            [
+              "HQ sections",
+              "Production details / recommendations"
+            ],
+            [
+              "Facilities shown",
+              "Workbench / Pharmacy / Armor Bench"
+            ],
+            [
+              "Action",
+              "Produce inside the game"
+            ]
+          ],
+          "body": [],
+          "source": "https://www.playdeltaforce.com/events/hq/en/m/index.html",
+          "primarySourceURL": "https://www.playdeltaforce.com/events/hq/en/m/index.html",
+          "sourceName": "Delta Force · HQ Tool Station",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-gunsmith",
+          "name": "Gunsmith preview",
+          "kind": "Tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Compare trial builds.",
+          "facts": [
+            [
+              "Calibrate",
+              "Available in Preview Mode"
+            ],
+            [
+              "Range return",
+              "Trial configuration preserved"
+            ],
+            [
+              "Decision",
+              "Apply manually"
+            ]
+          ],
+          "body": [],
+          "source": "https://www.playdeltaforce.com/en/detail.html?content_id=5156e818a5073a493fa80d5a7df7fee7010d&father_content_id=5156e818a5073a493fa80d5a7df7fee7010d",
+          "primarySourceURL": "https://www.playdeltaforce.com/en/detail.html?content_id=5156e818a5073a493fa80d5a7df7fee7010d&father_content_id=5156e818a5073a493fa80d5a7df7fee7010d",
+          "sourceName": "Delta Force · Gunsmith update",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-repair",
+          "name": "Gear Repair",
+          "kind": "Tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Inspect the chosen repair.",
+          "facts": [
+            [
+              "Default",
+              "Unlocked higher-tier option"
+            ],
+            [
+              "Locked types",
+              "Unlock guidance shown"
+            ],
+            [
+              "Scope",
+              "Operations"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "sourceName": "Garena · Season Break notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-diving",
+          "name": "Diving Center",
+          "kind": "Facility",
+          "category": "Black Site",
+          "group": "Black Site",
+          "summary": "Swimming upgrades.",
+          "facts": [
+            [
+              "Location",
+              "Black Site"
+            ],
+            [
+              "Benefit",
+              "Swimming abilities"
+            ],
+            [
+              "Scope",
+              "Operations"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "sourceName": "Garena · Season Break notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-collection",
+          "name": "Collection Room",
+          "kind": "Facility",
+          "category": "Black Site",
+          "group": "Black Site",
+          "summary": "Display collected loot.",
+          "facts": [
+            [
+              "Content",
+              "Gallery entries"
+            ],
+            [
+              "Upgrade",
+              "Display features"
+            ],
+            [
+              "Assets",
+              "Counts as fixed assets"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "sourceName": "Garena · Season Break notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-decontamination",
+          "name": "Decontamination Chamber",
+          "kind": "Facility",
+          "category": "Black Site",
+          "group": "Black Site",
+          "summary": "Radiation support.",
+          "facts": [
+            [
+              "Effect",
+              "Greater radiation tolerance"
+            ],
+            [
+              "Recovery",
+              "Natural radiation dissipation"
+            ],
+            [
+              "Introduced",
+              "Meltdown notes"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/all/2MX7J4",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/all/2MX7J4",
+          "sourceName": "Garena · Meltdown notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-az3",
+          "name": "AZ3 Nuclear Power Plant",
+          "kind": "Map",
+          "category": "Operations maps",
+          "group": "Operations maps",
+          "summary": "A radiation-related Operations destination.",
+          "facts": [
+            [
+              "Mode",
+              "Operations"
+            ],
+            [
+              "Map entry",
+              "Check Strategy Board"
+            ],
+            [
+              "Support facility",
+              "Decontamination Chamber"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/all/2MX7J4",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/all/2MX7J4",
+          "sourceName": "Garena · Meltdown notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        }
+      ]
+    }
+  ]
+}

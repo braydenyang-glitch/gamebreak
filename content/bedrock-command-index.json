@@ -1,0 +1,909 @@
+{
+  "source": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands?view=minecraft-bedrock-stable",
+  "reviewedAt": "2026-10-27",
+  "edition": "Bedrock stable documentation index",
+  "entries": [
+    {
+      "name": "/aimassist",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/aimassist?view=minecraft-bedrock-stable",
+      "label": [
+        "Aim assistance",
+        "輔助瞄準",
+        "エイム補助"
+      ]
+    },
+    {
+      "name": "/allowlist",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/allowlist?view=minecraft-bedrock-stable",
+      "label": [
+        "Server allowlist",
+        "伺服器白名單",
+        "サーバー許可リスト"
+      ]
+    },
+    {
+      "name": "/camera",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/camera?view=minecraft-bedrock-stable",
+      "label": [
+        "Camera perspective",
+        "攝影機視角",
+        "カメラ視点"
+      ]
+    },
+    {
+      "name": "/camerashake",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/camerashake?view=minecraft-bedrock-stable",
+      "label": [
+        "Camera shaking",
+        "鏡頭晃動",
+        "カメラの揺れ"
+      ]
+    },
+    {
+      "name": "/changesetting",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/changesetting?view=minecraft-bedrock-stable",
+      "label": [
+        "Server settings",
+        "伺服器設定",
+        "サーバー設定"
+      ]
+    },
+    {
+      "name": "/clear",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/clear?view=minecraft-bedrock-stable",
+      "label": [
+        "Clear inventory",
+        "清除物品欄",
+        "所持品の消去"
+      ]
+    },
+    {
+      "name": "/clearspawnpoint",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/clearspawnpoint?view=minecraft-bedrock-stable",
+      "label": [
+        "Remove spawnpoint",
+        "清除重生點",
+        "スポーン地点を解除"
+      ]
+    },
+    {
+      "name": "/clone",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/clone?view=minecraft-bedrock-stable",
+      "label": [
+        "Copy blocks",
+        "複製方塊區域",
+        "ブロック領域の複製"
+      ]
+    },
+    {
+      "name": "/controlscheme",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/controlscheme?view=minecraft-bedrock-stable",
+      "label": [
+        "Control scheme",
+        "操作配置",
+        "操作方式"
+      ]
+    },
+    {
+      "name": "/damage",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/damage?view=minecraft-bedrock-stable",
+      "label": [
+        "Deal damage",
+        "施加傷害",
+        "ダメージ適用"
+      ]
+    },
+    {
+      "name": "/daylock",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/daylock?view=minecraft-bedrock-stable",
+      "label": [
+        "Daylight cycle",
+        "日夜循環鎖定",
+        "昼夜サイクルの固定"
+      ]
+    },
+    {
+      "name": "/deop",
+      "permission": "Admin",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/deop?view=minecraft-bedrock-stable",
+      "label": [
+        "Remove operator",
+        "取消操作員權限",
+        "オペレーター解除"
+      ]
+    },
+    {
+      "name": "/dialogue",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/dialogue?view=minecraft-bedrock-stable",
+      "label": [
+        "NPC dialogue",
+        "NPC 對話",
+        "NPC の会話"
+      ]
+    },
+    {
+      "name": "/difficulty",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/difficulty?view=minecraft-bedrock-stable",
+      "label": [
+        "World difficulty",
+        "世界難度",
+        "ワールドの難易度"
+      ]
+    },
+    {
+      "name": "/effect",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/effect?view=minecraft-bedrock-stable",
+      "label": [
+        "Status effects",
+        "狀態效果",
+        "ステータス効果"
+      ]
+    },
+    {
+      "name": "/enchant",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/enchant?view=minecraft-bedrock-stable",
+      "label": [
+        "Item enchantments",
+        "物品附魔",
+        "アイテムのエンチャント"
+      ]
+    },
+    {
+      "name": "/event",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/event?view=minecraft-bedrock-stable",
+      "label": [
+        "Entity events",
+        "實體事件",
+        "エンティティのイベント"
+      ]
+    },
+    {
+      "name": "/execute",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/execute?view=minecraft-bedrock-stable",
+      "label": [
+        "Command context",
+        "指令執行條件",
+        "コマンド実行の条件"
+      ]
+    },
+    {
+      "name": "/fill",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/fill?view=minecraft-bedrock-stable",
+      "label": [
+        "Fill blocks",
+        "填充方塊區域",
+        "ブロック領域の充填"
+      ]
+    },
+    {
+      "name": "/fog",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/fog?view=minecraft-bedrock-stable",
+      "label": [
+        "Fog settings",
+        "霧氣設定",
+        "霧の設定"
+      ]
+    },
+    {
+      "name": "/function",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/function?view=minecraft-bedrock-stable",
+      "label": [
+        "Function files",
+        "函數檔案",
+        "関数ファイル"
+      ]
+    },
+    {
+      "name": "/gamemode",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/gamemode?view=minecraft-bedrock-stable",
+      "label": [
+        "Player mode",
+        "玩家遊戲模式",
+        "プレイヤーのゲームモード"
+      ]
+    },
+    {
+      "name": "/gamerule",
+      "permission": "Game Directors",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/gamerule?view=minecraft-bedrock-stable",
+      "label": [
+        "Game rules",
+        "遊戲規則",
+        "ゲームルール"
+      ]
+    },
+    {
+      "name": "/gametest",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/gametest?view=minecraft-bedrock-stable",
+      "label": [
+        "GameTest framework",
+        "GameTest 測試框架",
+        "GameTest フレームワーク"
+      ]
+    },
+    {
+      "name": "/give",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/give?view=minecraft-bedrock-stable",
+      "label": [
+        "Give items",
+        "給予物品",
+        "アイテムを与える"
+      ]
+    },
+    {
+      "name": "/help",
+      "permission": "Any",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/help?view=minecraft-bedrock-stable",
+      "label": [
+        "Command help",
+        "指令說明",
+        "コマンドのヘルプ"
+      ]
+    },
+    {
+      "name": "/hud",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/hud?view=minecraft-bedrock-stable",
+      "label": [
+        "HUD visibility",
+        "介面顯示元素",
+        "HUD 表示"
+      ]
+    },
+    {
+      "name": "/inputpermission",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/inputpermission?view=minecraft-bedrock-stable",
+      "label": [
+        "Input permissions",
+        "輸入權限",
+        "入力権限"
+      ]
+    },
+    {
+      "name": "/kick",
+      "permission": "Game Directors",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/kick?view=minecraft-bedrock-stable",
+      "label": [
+        "Disconnect player",
+        "踢出玩家",
+        "プレイヤーを退出させる"
+      ]
+    },
+    {
+      "name": "/kill",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/kill?view=minecraft-bedrock-stable",
+      "label": [
+        "Remove entities",
+        "殺死實體",
+        "エンティティの死亡"
+      ]
+    },
+    {
+      "name": "/list",
+      "permission": "Any",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/list?view=minecraft-bedrock-stable",
+      "label": [
+        "Online players",
+        "線上玩家清單",
+        "オンラインプレイヤー"
+      ]
+    },
+    {
+      "name": "/locate",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/locate?view=minecraft-bedrock-stable",
+      "label": [
+        "Find locations",
+        "尋找結構與生態域",
+        "構造物・バイオームを探す"
+      ]
+    },
+    {
+      "name": "/loot",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/loot?view=minecraft-bedrock-stable",
+      "label": [
+        "Loot tables",
+        "戰利品表",
+        "ルートテーブル"
+      ]
+    },
+    {
+      "name": "/me",
+      "permission": "Any",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/me?view=minecraft-bedrock-stable",
+      "label": [
+        "Action message",
+        "動作訊息",
+        "アクションメッセージ"
+      ]
+    },
+    {
+      "name": "/mobevent",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/mobevent?view=minecraft-bedrock-stable",
+      "label": [
+        "Mob events",
+        "生物事件",
+        "Mob イベント"
+      ]
+    },
+    {
+      "name": "/music",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/music?view=minecraft-bedrock-stable",
+      "label": [
+        "Music playback",
+        "音樂播放",
+        "音楽再生"
+      ]
+    },
+    {
+      "name": "/op",
+      "permission": "Admin",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/op?view=minecraft-bedrock-stable",
+      "label": [
+        "Grant operator",
+        "授予操作員權限",
+        "オペレーター権限を付与"
+      ]
+    },
+    {
+      "name": "/packstack",
+      "permission": "Any",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/packstack?view=minecraft-bedrock-stable",
+      "label": [
+        "Pack stack",
+        "資源包堆疊資訊",
+        "パックのスタック情報"
+      ]
+    },
+    {
+      "name": "/particle",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/particle?view=minecraft-bedrock-stable",
+      "label": [
+        "Particle effects",
+        "粒子效果",
+        "パーティクル"
+      ]
+    },
+    {
+      "name": "/permission",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/permission?view=minecraft-bedrock-stable",
+      "label": [
+        "Reload permissions",
+        "重新載入權限",
+        "権限を再読み込み"
+      ]
+    },
+    {
+      "name": "/place",
+      "permission": "Admin",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/place?view=minecraft-bedrock-stable",
+      "label": [
+        "Place structures",
+        "放置結構與特徵",
+        "構造物・フィーチャー配置"
+      ]
+    },
+    {
+      "name": "/playanimation",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/playanimation?view=minecraft-bedrock-stable",
+      "label": [
+        "Entity animation",
+        "實體動畫",
+        "エンティティのアニメーション"
+      ]
+    },
+    {
+      "name": "/playsound",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/playsound?view=minecraft-bedrock-stable",
+      "label": [
+        "Sound playback",
+        "播放音效",
+        "効果音再生"
+      ]
+    },
+    {
+      "name": "/project",
+      "permission": "Game Directors",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/project?view=minecraft-bedrock-stable",
+      "label": [
+        "Editor project",
+        "編輯器專案",
+        "Editor プロジェクト"
+      ]
+    },
+    {
+      "name": "/recipe",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/recipe?view=minecraft-bedrock-stable",
+      "label": [
+        "Unlock recipes",
+        "解鎖配方",
+        "レシピ解放"
+      ]
+    },
+    {
+      "name": "/reload",
+      "permission": "Admin",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/reload?view=minecraft-bedrock-stable",
+      "label": [
+        "Reload packs",
+        "重新載入行為包",
+        "ビヘイビアーパック再読込"
+      ]
+    },
+    {
+      "name": "/reloadconfig",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/reloadconfig?view=minecraft-bedrock-stable",
+      "label": [
+        "Reload configuration",
+        "重新載入設定檔",
+        "設定ファイル再読込"
+      ]
+    },
+    {
+      "name": "/reloadpacketlimitconfig",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/reloadpacketlimitconfig?view=minecraft-bedrock-stable",
+      "label": [
+        "Packet limits",
+        "重新載入封包限制",
+        "パケット制限再読込"
+      ]
+    },
+    {
+      "name": "/replaceitem",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/replaceitem?view=minecraft-bedrock-stable",
+      "label": [
+        "Replace inventory",
+        "替換物品欄內容",
+        "所持品の置き換え"
+      ]
+    },
+    {
+      "name": "/ride",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/ride?view=minecraft-bedrock-stable",
+      "label": [
+        "Entity riding",
+        "實體乘坐",
+        "エンティティの騎乗"
+      ]
+    },
+    {
+      "name": "/save",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/save?view=minecraft-bedrock-stable",
+      "label": [
+        "Server saves",
+        "伺服器儲存",
+        "サーバー保存"
+      ]
+    },
+    {
+      "name": "/say",
+      "permission": "Game Directors",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/say?view=minecraft-bedrock-stable",
+      "label": [
+        "Chat announcement",
+        "公開聊天訊息",
+        "チャットで告知"
+      ]
+    },
+    {
+      "name": "/schedule",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/schedule?view=minecraft-bedrock-stable",
+      "label": [
+        "Schedule commands",
+        "排程執行",
+        "実行予約"
+      ]
+    },
+    {
+      "name": "/scoreboard",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/scoreboard?view=minecraft-bedrock-stable",
+      "label": [
+        "Score objectives",
+        "計分板目標",
+        "スコアボード"
+      ]
+    },
+    {
+      "name": "/script",
+      "permission": "Admin",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/script?view=minecraft-bedrock-stable",
+      "label": [
+        "Script debugging",
+        "腳本偵錯",
+        "スクリプトのデバッグ"
+      ]
+    },
+    {
+      "name": "/scriptevent",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/scriptevent?view=minecraft-bedrock-stable",
+      "label": [
+        "Script events",
+        "觸發腳本事件",
+        "スクリプトイベント"
+      ]
+    },
+    {
+      "name": "/sendshowstoreoffer",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/sendshowstoreoffer?view=minecraft-bedrock-stable",
+      "label": [
+        "Marketplace offer",
+        "開啟市集商品頁",
+        "マーケットプレイス表示"
+      ]
+    },
+    {
+      "name": "/setblock",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/setblock?view=minecraft-bedrock-stable",
+      "label": [
+        "Set block",
+        "設定單一方塊",
+        "ブロックの変更"
+      ]
+    },
+    {
+      "name": "/setmaxplayers",
+      "permission": "Host",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/setmaxplayers?view=minecraft-bedrock-stable",
+      "label": [
+        "Player limit",
+        "玩家數量上限",
+        "プレイヤー人数制限"
+      ]
+    },
+    {
+      "name": "/setworldspawn",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/setworldspawn?view=minecraft-bedrock-stable",
+      "label": [
+        "World spawn",
+        "世界重生點",
+        "ワールドスポーン"
+      ]
+    },
+    {
+      "name": "/spawnpoint",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/spawnpoint?view=minecraft-bedrock-stable",
+      "label": [
+        "Player spawn",
+        "玩家重生點",
+        "プレイヤーのスポーン"
+      ]
+    },
+    {
+      "name": "/spreadplayers",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/spreadplayers?view=minecraft-bedrock-stable",
+      "label": [
+        "Scatter entities",
+        "分散傳送實體",
+        "エンティティを分散"
+      ]
+    },
+    {
+      "name": "/stop",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/stop?view=minecraft-bedrock-stable",
+      "label": [
+        "Stop server",
+        "停止伺服器",
+        "サーバー停止"
+      ]
+    },
+    {
+      "name": "/stopsound",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/stopsound?view=minecraft-bedrock-stable",
+      "label": [
+        "Stop sounds",
+        "停止音效",
+        "効果音を停止"
+      ]
+    },
+    {
+      "name": "/structure",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/structure?view=minecraft-bedrock-stable",
+      "label": [
+        "Structure storage",
+        "結構儲存與載入",
+        "構造物の保存・読込"
+      ]
+    },
+    {
+      "name": "/summon",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/summon?view=minecraft-bedrock-stable",
+      "label": [
+        "Summon entities",
+        "召喚實體",
+        "エンティティを召喚"
+      ]
+    },
+    {
+      "name": "/tag",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/tag?view=minecraft-bedrock-stable",
+      "label": [
+        "Entity tags",
+        "實體標籤",
+        "エンティティのタグ"
+      ]
+    },
+    {
+      "name": "/teleport",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/teleport?view=minecraft-bedrock-stable",
+      "label": [
+        "Teleport positions",
+        "位置傳送",
+        "位置のテレポート"
+      ]
+    },
+    {
+      "name": "/tell",
+      "permission": "Any",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/tell?view=minecraft-bedrock-stable",
+      "label": [
+        "Private message",
+        "私人訊息",
+        "プライベートメッセージ"
+      ]
+    },
+    {
+      "name": "/tellraw",
+      "permission": "Game Directors",
+      "cheats": false,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/tellraw?view=minecraft-bedrock-stable",
+      "label": [
+        "JSON chat",
+        "JSON 聊天訊息",
+        "JSON チャット"
+      ]
+    },
+    {
+      "name": "/testfor",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/testfor?view=minecraft-bedrock-stable",
+      "label": [
+        "Count entities",
+        "檢查實體數量",
+        "エンティティ数を確認"
+      ]
+    },
+    {
+      "name": "/testforblock",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/testforblock?view=minecraft-bedrock-stable",
+      "label": [
+        "Inspect block",
+        "檢查指定方塊",
+        "ブロックを確認"
+      ]
+    },
+    {
+      "name": "/testforblocks",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/testforblocks?view=minecraft-bedrock-stable",
+      "label": [
+        "Compare regions",
+        "比較方塊區域",
+        "ブロック領域を比較"
+      ]
+    },
+    {
+      "name": "/tickingarea",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/tickingarea?view=minecraft-bedrock-stable",
+      "label": [
+        "Active areas",
+        "持續運作區域",
+        "常時稼働する領域"
+      ]
+    },
+    {
+      "name": "/time",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/time?view=minecraft-bedrock-stable",
+      "label": [
+        "World time",
+        "世界時間",
+        "ワールド時間"
+      ]
+    },
+    {
+      "name": "/title",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/title?view=minecraft-bedrock-stable",
+      "label": [
+        "Screen title",
+        "畫面標題文字",
+        "画面タイトル"
+      ]
+    },
+    {
+      "name": "/titleraw",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/titleraw?view=minecraft-bedrock-stable",
+      "label": [
+        "JSON title",
+        "JSON 標題文字",
+        "JSON タイトル"
+      ]
+    },
+    {
+      "name": "/toggledownfall",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/toggledownfall?view=minecraft-bedrock-stable",
+      "label": [
+        "Toggle weather",
+        "切換天氣",
+        "天気の切り替え"
+      ]
+    },
+    {
+      "name": "/transfer",
+      "permission": "Owner",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/transfer?view=minecraft-bedrock-stable",
+      "label": [
+        "Server transfer",
+        "轉移伺服器",
+        "サーバー間転送"
+      ]
+    },
+    {
+      "name": "/weather",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/weather?view=minecraft-bedrock-stable",
+      "label": [
+        "World weather",
+        "世界天氣",
+        "ワールドの天気"
+      ]
+    },
+    {
+      "name": "/wsserver",
+      "permission": "Admin",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/wsserver?view=minecraft-bedrock-stable",
+      "label": [
+        "WebSocket connection",
+        "WebSocket 連線",
+        "WebSocket 接続"
+      ]
+    },
+    {
+      "name": "/xp",
+      "permission": "Game Directors",
+      "cheats": true,
+      "url": "https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/xp?view=minecraft-bedrock-stable",
+      "label": [
+        "Player experience",
+        "玩家經驗值",
+        "プレイヤー経験値"
+      ]
+    }
+  ]
+}

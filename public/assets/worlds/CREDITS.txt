@@ -1,0 +1,31 @@
+GAMEBREAK — GAME WORLD INTERFACES
+Design and layout: original GameBreak fan-guide design, 26 October 2026.
+Slogans are original GameBreak copy, not official publisher slogans.
+
+VOXEL TEXTURES
+Kenney Voxel Pack, CC0. https://kenney.nl/assets/voxel-pack
+Original source: https://kenney.nl/media/pages/assets/voxel-pack/a3a73d0ff7-1677662501/kenney_voxel-pack.zip
+License: /assets/worlds/KENNEY-LICENSE.txt
+Selected tiles are used in CSS cubes and texture panels. The vector landscape is original GameBreak artwork. These are not extracted Minecraft textures. Minecraft belongs to Mojang/Microsoft.
+
+GENSHIN CHIBI ILLUSTRATIONS
+Official miHoYo sticker images: Kamisato Ayaka, Yoimiya and Sayu.
+Official source archive: https://webstatic-sea.mihoyo.com/upload/static-resource/2021/08/30/b8653575b18c83640dbe11282c3da67a_1156744917502327631.zip
+Original ©miHoYo Inc. marks are preserved. These images are not CC0; all character artwork rights remain with the rights holder. The accompanying captions and companion interaction are GameBreak fan content, not official character dialogue.
+
+OPEN SOURCE FONTS
+Pixelify Sans: https://fonts.google.com/specimen/Pixelify+Sans
+Cormorant Garamond: https://fonts.google.com/specimen/Cormorant+Garamond
+Both under SIL Open Font License 1.1, included as PIXELIFY-OFL.txt and CORMORANT-OFL.txt.
+
+VISUAL REFERENCE, NOT COPIED TEMPLATE
+Minecraft Wiki article navigation and block-world framing.
+https://minecraft.wiki/w/Biome
+Blue Archive Wiki's grouped reference navigation and character illustration hierarchy.
+https://bluearchive.wiki/wiki/Main_Page
+HoYoverse Star Rail's illustrated hero layout and ornamental visual language.
+https://hsr.hoyoverse.com/zh-tw/
+GameBanana's resource categories. The referenced /games/10349 page is Honkai Impact 3rd; assets from that unrelated game are not used as Star Rail content.
+https://gamebanana.com/games/10349
+
+Other existing game-cover art retains its original site attribution. GameBreak is independent and is not an official publisher website. This theme update does not change gameplay verification labels or imply patch testing.

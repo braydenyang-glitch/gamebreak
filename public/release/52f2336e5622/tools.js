@@ -1,0 +1,8 @@
+export const COMMANDS={day:{label:'Make it daytime',command:'/time set day'},night:{label:'Make it nighttime',command:'/time set night'},clear:{label:'Clear the weather',command:'/weather clear'},rain:{label:'Start rain',command:'/weather rain'}};
+export function buildCommand(edition,action){if(!['Java','Bedrock'].includes(edition)||!COMMANDS[action])throw new Error('Choose a supported edition and action.');return COMMANDS[action].command;}
+export const STUDY_TASKS={Nami:{game:'Minecraft',prompt:'Find how to enable commands in Bedrock on Mobile. Identify the achievement trade-off and save the guide.',target:'minecraft-bedrock-commands'},Iason:{game:'Delta Force',prompt:'Find the Operations extraction guide. Identify one thing to check before heading to an exit.',target:'delta-extraction'},Lukas:{game:'Wuthering Waves',prompt:'Find how to perform a Dodge Counter. Identify the input to use after the dodge and its test status.',target:'wuwa-dodge-counter'}};
+export function validateCheck(entry,guide,today=new Date().toISOString().slice(0,10)){
+ const parsed=new Date(entry.date);
+ return !!(typeof entry.build==='string'&&entry.build.trim()&&entry.build.length<=80&&guide.platforms.includes(entry.platform)&&/^\d{4}-\d{2}-\d{2}$/.test(entry.date)&&!Number.isNaN(parsed.getTime())&&parsed.toISOString().slice(0,10)===entry.date&&entry.date<=today&&['Worked','Did not work'].includes(entry.result));
+}
+export function validateStudy(entry){return !!(STUDY_TASKS[entry.participant]&&Number.isFinite(entry.seconds)&&entry.seconds>=0&&['Yes','With help','No'].includes(entry.success)&&entry.device?.trim()&&entry.notes?.trim()&&entry.revision?.trim());}

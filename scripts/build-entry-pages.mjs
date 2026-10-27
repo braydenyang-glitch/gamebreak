@@ -1,0 +1,13 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {imageSource,loadMedia} from '../public/media.js';
+await loadMedia();
+import {COLLECTIONS} from '../public/catalog-api.js';
+const read=async f=>JSON.parse(await readFile(new URL('../public/catalog/'+f+'.json',import.meta.url)));
+const references=await read('reference-locales'),expanded=await read('expanded-reference-locales'),depthNames=await read('depth-names'),names=Object.fromEntries(await Promise.all(['genshin','starrail','minecraft'].map(async k=>[k,await read('locales/'+k)])));
+const depth=Object.fromEntries(await Promise.all(['genshin','starrail','minecraft','gta','delta','fortnite','roblox','pubg','brawl','wuwa'].map(async game=>[game,Object.fromEntries(await Promise.all(['en','zh','ja'].map(async lang=>[lang,await read('depth/'+lang+'/'+game)])))])));
+const pages={};for(const cfg of COLLECTIONS){const data=await read(cfg.id);for(const entry of data.entries){const variants={...(names[cfg.game]?.collections?.[cfg.id]?.[entry.id]||{}),...(references[cfg.id]?.[entry.id]||{}),...(expanded[cfg.id]?.[entry.id]||{}),...(depthNames[cfg.id]?.[entry.id]||{})};if(cfg.game==='minecraft'){const id=entry.facts.find(([k])=>k==='Identifier')?.[1]?.slice(10);for(const lang of ['zh','ja']){const name=names.minecraft.names[lang]['item.minecraft.'+id]||names.minecraft.names[lang]['block.minecraft.'+id];if(name)variants[lang]={name,summary:name+' · '+entry.summary};}}
+ pages[cfg.game+'/'+cfg.id+'/'+entry.id]={image:imageSource(entry.image,{collection:cfg.id,id:entry.id}),source:entry.source||cfg.source,provider:cfg.provider,reviewed:entry.sourceChecked||data.retrievedAt,locales:Object.fromEntries(['en','zh-Hant','ja'].map(locale=>{const language=locale==='zh-Hant'?'zh':locale,v=variants[language]||{},x={...entry,...v},detail=depth[cfg.game][language].entries[cfg.id]?.[entry.id]?.locales[language];return [locale,{title:detail?.name||x.name,description:x.summary,body:[...(detail?.sections?.filter(s=>['background','usage'].includes(s.id)).flatMap(s=>s.paragraphs)||[]),...(x.body||[])].slice(0,4),facts:(x.facts||[]).slice(0,8)}];}))};}}
+await writeFile(new URL('../server/entry-pages.json',import.meta.url),JSON.stringify(pages));
+console.log('Built canonical, localized metadata for '+Object.keys(pages).length+' encyclopedia entries.');
+
+const sitemapPath=new URL('../public/sitemap.xml',import.meta.url),sitemap=await readFile(sitemapPath,'utf8');await writeFile(sitemapPath,sitemap.replace('</urlset>',Object.keys(pages).flatMap(key=>['en','zh-Hant','ja'].map(locale=>'<url><loc>https://gamebreak-brayden.yenhui.chatgpt.site/'+locale+'/wiki/'+key.split('/').map(encodeURIComponent).join('/')+'/</loc></url>')).join('')+'</urlset>'));

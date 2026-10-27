@@ -1,0 +1,1041 @@
+{
+  "source": "https://minecraft.wiki/w/Commands#Available_in_Java_Edition",
+  "reviewedAt": "2026-10-27",
+  "edition": "Java Edition community command index; excludes debugging and removed commands",
+  "entries": [
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/advancement",
+      "url": "https://minecraft.wiki/w/Commands/advancement",
+      "label": [
+        "Player advancements",
+        "玩家進度項目",
+        "プレイヤーの進捗"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/attribute",
+      "url": "https://minecraft.wiki/w/Commands/attribute",
+      "label": [
+        "Entity attributes",
+        "實體屬性",
+        "エンティティ属性"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/ban",
+      "url": "https://minecraft.wiki/w/Commands/ban",
+      "label": [
+        "Player ban",
+        "玩家封鎖",
+        "プレイヤーの BAN"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/ban-ip",
+      "url": "https://minecraft.wiki/w/Commands/ban-ip",
+      "label": [
+        "IP ban",
+        "IP 封鎖",
+        "IP の BAN"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/banlist",
+      "url": "https://minecraft.wiki/w/Commands/banlist",
+      "label": [
+        "Ban list",
+        "封鎖清單",
+        "BAN リスト"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/bossbar",
+      "url": "https://minecraft.wiki/w/Commands/bossbar",
+      "label": [
+        "Boss bar",
+        "Boss 血條",
+        "ボスバー"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/clear",
+      "url": "https://minecraft.wiki/w/Commands/clear",
+      "label": [
+        "Clear inventory",
+        "清除物品欄",
+        "所持品の消去"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/clone",
+      "url": "https://minecraft.wiki/w/Commands/clone",
+      "label": [
+        "Copy blocks",
+        "複製方塊區域",
+        "ブロック領域の複製"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/compute",
+      "url": "https://minecraft.wiki/w/Commands/compute",
+      "label": [
+        "Number providers",
+        "數值提供器運算",
+        "数値プロバイダーの計算"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/damage",
+      "url": "https://minecraft.wiki/w/Commands/damage",
+      "label": [
+        "Deal damage",
+        "施加傷害",
+        "ダメージ適用"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/data",
+      "url": "https://minecraft.wiki/w/Commands/data",
+      "label": [
+        "NBT data",
+        "NBT 資料",
+        "NBT データ"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/datapack",
+      "url": "https://minecraft.wiki/w/Commands/datapack",
+      "label": [
+        "Data packs",
+        "資料包管理",
+        "データパック管理"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": false,
+      "name": "/debug",
+      "url": "https://minecraft.wiki/w/Commands/debug",
+      "label": [
+        "Debug profiling",
+        "效能偵錯",
+        "デバッグ計測"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/defaultgamemode",
+      "url": "https://minecraft.wiki/w/Commands/defaultgamemode",
+      "label": [
+        "Default mode",
+        "預設遊戲模式",
+        "初期ゲームモード"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/deop",
+      "url": "https://minecraft.wiki/w/Commands/deop",
+      "label": [
+        "Remove operator",
+        "取消操作員權限",
+        "オペレーター解除"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/dialog",
+      "url": "https://minecraft.wiki/w/Commands/dialog",
+      "label": [
+        "Client dialogs",
+        "玩家對話視窗",
+        "ダイアログ表示"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/difficulty",
+      "url": "https://minecraft.wiki/w/Commands/difficulty",
+      "label": [
+        "World difficulty",
+        "世界難度",
+        "ワールドの難易度"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/effect",
+      "url": "https://minecraft.wiki/w/Commands/effect",
+      "label": [
+        "Status effects",
+        "狀態效果",
+        "ステータス効果"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/enchant",
+      "url": "https://minecraft.wiki/w/Commands/enchant",
+      "label": [
+        "Item enchantments",
+        "物品附魔",
+        "アイテムのエンチャント"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/execute",
+      "url": "https://minecraft.wiki/w/Commands/execute",
+      "label": [
+        "Command context",
+        "指令執行條件",
+        "コマンド実行の条件"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/experience",
+      "url": "https://minecraft.wiki/w/Commands/experience",
+      "label": [
+        "Player experience",
+        "玩家經驗值",
+        "プレイヤー経験値"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/fetchprofile",
+      "url": "https://minecraft.wiki/w/Commands/fetchprofile",
+      "label": [
+        "Player profile",
+        "取得玩家檔案",
+        "プロフィール取得"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/fill",
+      "url": "https://minecraft.wiki/w/Commands/fill",
+      "label": [
+        "Fill blocks",
+        "填充方塊區域",
+        "ブロック領域の充填"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/fillbiome",
+      "url": "https://minecraft.wiki/w/Commands/fillbiome",
+      "label": [
+        "Biome region",
+        "填充生態域",
+        "バイオームの充填"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/forceload",
+      "url": "https://minecraft.wiki/w/Commands/forceload",
+      "label": [
+        "Chunk loading",
+        "強制載入區塊",
+        "チャンク常時読込"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/function",
+      "url": "https://minecraft.wiki/w/Commands/function",
+      "label": [
+        "Function files",
+        "函數檔案",
+        "関数ファイル"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/gamemode",
+      "url": "https://minecraft.wiki/w/Commands/gamemode",
+      "label": [
+        "Player mode",
+        "玩家遊戲模式",
+        "プレイヤーのゲームモード"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/gamerule",
+      "url": "https://minecraft.wiki/w/Commands/gamerule",
+      "label": [
+        "Game rules",
+        "遊戲規則",
+        "ゲームルール"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/give",
+      "url": "https://minecraft.wiki/w/Commands/give",
+      "label": [
+        "Give items",
+        "給予物品",
+        "アイテムを与える"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/help",
+      "url": "https://minecraft.wiki/w/Commands/help",
+      "label": [
+        "Command help",
+        "指令說明",
+        "コマンドのヘルプ"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/item",
+      "url": "https://minecraft.wiki/w/Commands/item",
+      "label": [
+        "Inventory items",
+        "物品欄操作",
+        "所持品操作"
+      ]
+    },
+    {
+      "level": "4",
+      "multiplayer": false,
+      "name": "/jfr",
+      "url": "https://minecraft.wiki/w/Commands/jfr",
+      "label": [
+        "Flight recorder",
+        "JFR 效能記錄",
+        "JFR 記録"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": false,
+      "name": "/kick",
+      "url": "https://minecraft.wiki/w/Commands/kick",
+      "label": [
+        "Disconnect player",
+        "踢出玩家",
+        "プレイヤーを退出させる"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/kill",
+      "url": "https://minecraft.wiki/w/Commands/kill",
+      "label": [
+        "Remove entities",
+        "殺死實體",
+        "エンティティの死亡"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/list",
+      "url": "https://minecraft.wiki/w/Commands/list",
+      "label": [
+        "Online players",
+        "線上玩家清單",
+        "オンラインプレイヤー"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/locate",
+      "url": "https://minecraft.wiki/w/Commands/locate",
+      "label": [
+        "Find locations",
+        "尋找結構與生態域",
+        "構造物・バイオームを探す"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/loot",
+      "url": "https://minecraft.wiki/w/Commands/loot",
+      "label": [
+        "Loot tables",
+        "戰利品表",
+        "ルートテーブル"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/me",
+      "url": "https://minecraft.wiki/w/Commands/me",
+      "label": [
+        "Action message",
+        "動作訊息",
+        "アクションメッセージ"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/msg",
+      "url": "https://minecraft.wiki/w/Commands/msg",
+      "label": [
+        "Private message",
+        "私人訊息",
+        "プライベートメッセージ"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/op",
+      "url": "https://minecraft.wiki/w/Commands/op",
+      "label": [
+        "Grant operator",
+        "授予操作員權限",
+        "オペレーター権限を付与"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/pardon",
+      "url": "https://minecraft.wiki/w/Commands/pardon",
+      "label": [
+        "Remove ban",
+        "解除玩家封鎖",
+        "プレイヤーの BAN 解除"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/pardon-ip",
+      "url": "https://minecraft.wiki/w/Commands/pardon-ip",
+      "label": [
+        "Remove IP ban",
+        "解除 IP 封鎖",
+        "IP の BAN 解除"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/particle",
+      "url": "https://minecraft.wiki/w/Commands/particle",
+      "label": [
+        "Particle effects",
+        "粒子效果",
+        "パーティクル"
+      ]
+    },
+    {
+      "level": "4",
+      "multiplayer": true,
+      "name": "/perf",
+      "url": "https://minecraft.wiki/w/Commands/perf",
+      "label": [
+        "Performance capture",
+        "效能資料擷取",
+        "パフォーマンス計測"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/place",
+      "url": "https://minecraft.wiki/w/Commands/place",
+      "label": [
+        "Place structures",
+        "放置結構與特徵",
+        "構造物・フィーチャー配置"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/playsound",
+      "url": "https://minecraft.wiki/w/Commands/playsound",
+      "label": [
+        "Sound playback",
+        "播放音效",
+        "効果音再生"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/posteffect",
+      "url": "https://minecraft.wiki/w/Commands/posteffect",
+      "label": [
+        "Visual effects",
+        "畫面後製效果",
+        "画面のポストエフェクト"
+      ]
+    },
+    {
+      "level": "4",
+      "multiplayer": false,
+      "name": "/publish",
+      "url": "https://minecraft.wiki/w/Commands/publish",
+      "label": [
+        "LAN access",
+        "開放區域網路",
+        "LAN への公開"
+      ]
+    },
+    {
+      "level": "0 (without sequence)2",
+      "multiplayer": false,
+      "name": "/random",
+      "url": "https://minecraft.wiki/w/Commands/random",
+      "label": [
+        "Random values",
+        "隨機數值",
+        "乱数"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/recipe",
+      "url": "https://minecraft.wiki/w/Commands/recipe",
+      "label": [
+        "Recipe availability",
+        "配方可用狀態",
+        "レシピの利用状態"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/reload",
+      "url": "https://minecraft.wiki/w/Commands/reload",
+      "label": [
+        "Reload data packs",
+        "重新載入資料包",
+        "データパック再読込"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/return",
+      "url": "https://minecraft.wiki/w/Commands/return",
+      "label": [
+        "Function return",
+        "函數回傳值",
+        "関数の戻り値"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/ride",
+      "url": "https://minecraft.wiki/w/Commands/ride",
+      "label": [
+        "Entity riding",
+        "實體乘坐",
+        "エンティティの騎乗"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/rotate",
+      "url": "https://minecraft.wiki/w/Commands/rotate",
+      "label": [
+        "Entity rotation",
+        "實體旋轉",
+        "エンティティの回転"
+      ]
+    },
+    {
+      "level": "4",
+      "multiplayer": true,
+      "name": "/save-all",
+      "url": "https://minecraft.wiki/w/Commands/save-all",
+      "label": [
+        "Save world",
+        "儲存世界",
+        "ワールド保存"
+      ]
+    },
+    {
+      "level": "4",
+      "multiplayer": true,
+      "name": "/save-off",
+      "url": "https://minecraft.wiki/w/Commands/save-off",
+      "label": [
+        "Pause saving",
+        "暫停自動儲存",
+        "自動保存の停止"
+      ]
+    },
+    {
+      "level": "4",
+      "multiplayer": true,
+      "name": "/save-on",
+      "url": "https://minecraft.wiki/w/Commands/save-on",
+      "label": [
+        "Resume saving",
+        "恢復自動儲存",
+        "自動保存の再開"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/say",
+      "url": "https://minecraft.wiki/w/Commands/say",
+      "label": [
+        "Chat announcement",
+        "公開聊天訊息",
+        "チャットで告知"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/schedule",
+      "url": "https://minecraft.wiki/w/Commands/schedule",
+      "label": [
+        "Schedule commands",
+        "排程執行",
+        "実行予約"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/scoreboard",
+      "url": "https://minecraft.wiki/w/Commands/scoreboard",
+      "label": [
+        "Score objectives",
+        "計分板目標",
+        "スコアボード"
+      ]
+    },
+    {
+      "level": "0 in singleplayer2 in multiplayer",
+      "multiplayer": false,
+      "name": "/seed",
+      "url": "https://minecraft.wiki/w/Commands/seed",
+      "label": [
+        "World seed",
+        "世界種子碼",
+        "ワールドシード"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/setblock",
+      "url": "https://minecraft.wiki/w/Commands/setblock",
+      "label": [
+        "Set block",
+        "設定單一方塊",
+        "ブロックの変更"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/setidletimeout",
+      "url": "https://minecraft.wiki/w/Commands/setidletimeout",
+      "label": [
+        "Idle timeout",
+        "閒置逾時設定",
+        "放置タイムアウト"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/setworldspawn",
+      "url": "https://minecraft.wiki/w/Commands/setworldspawn",
+      "label": [
+        "World spawn",
+        "世界重生點",
+        "ワールドスポーン"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/spawnpoint",
+      "url": "https://minecraft.wiki/w/Commands/spawnpoint",
+      "label": [
+        "Player spawn",
+        "玩家重生點",
+        "プレイヤーのスポーン"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/spectate",
+      "url": "https://minecraft.wiki/w/Commands/spectate",
+      "label": [
+        "Spectator target",
+        "旁觀目標",
+        "観戦対象"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/spreadplayers",
+      "url": "https://minecraft.wiki/w/Commands/spreadplayers",
+      "label": [
+        "Scatter entities",
+        "分散傳送實體",
+        "エンティティを分散"
+      ]
+    },
+    {
+      "level": "4",
+      "multiplayer": true,
+      "name": "/stop",
+      "url": "https://minecraft.wiki/w/Commands/stop",
+      "label": [
+        "Stop server",
+        "停止伺服器",
+        "サーバー停止"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/stopsound",
+      "url": "https://minecraft.wiki/w/Commands/stopsound",
+      "label": [
+        "Stop sounds",
+        "停止音效",
+        "効果音を停止"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/stopwatch",
+      "url": "https://minecraft.wiki/w/Commands/stopwatch",
+      "label": [
+        "Elapsed timer",
+        "經過時間計時",
+        "経過時間の計測"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/summon",
+      "url": "https://minecraft.wiki/w/Commands/summon",
+      "label": [
+        "Summon entities",
+        "召喚實體",
+        "エンティティを召喚"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/swing",
+      "url": "https://minecraft.wiki/w/Commands/swing",
+      "label": [
+        "Swing animation",
+        "揮動動畫",
+        "スイングアニメーション"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/tag",
+      "url": "https://minecraft.wiki/w/Commands/tag",
+      "label": [
+        "Entity tags",
+        "實體標籤",
+        "エンティティのタグ"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/team",
+      "url": "https://minecraft.wiki/w/Commands/team",
+      "label": [
+        "Team membership",
+        "隊伍管理",
+        "チーム管理"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/teammsg",
+      "url": "https://minecraft.wiki/w/Commands/teammsg",
+      "label": [
+        "Team message",
+        "隊伍訊息",
+        "チームメッセージ"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/teleport",
+      "url": "https://minecraft.wiki/w/Commands/teleport",
+      "label": [
+        "Teleport positions",
+        "位置傳送",
+        "位置のテレポート"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/tell",
+      "url": "https://minecraft.wiki/w/Commands/tell",
+      "label": [
+        "Private message",
+        "私人訊息",
+        "プライベートメッセージ"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/tellraw",
+      "url": "https://minecraft.wiki/w/Commands/tellraw",
+      "label": [
+        "JSON chat",
+        "JSON 聊天訊息",
+        "JSON チャット"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/test",
+      "url": "https://minecraft.wiki/w/Commands/test",
+      "label": [
+        "Test framework",
+        "測試框架",
+        "テストフレームワーク"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": false,
+      "name": "/tick",
+      "url": "https://minecraft.wiki/w/Commands/tick",
+      "label": [
+        "Tick control",
+        "遊戲刻控制",
+        "ティック制御"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/time",
+      "url": "https://minecraft.wiki/w/Commands/time",
+      "label": [
+        "World time",
+        "世界時間",
+        "ワールド時間"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/title",
+      "url": "https://minecraft.wiki/w/Commands/title",
+      "label": [
+        "Screen title",
+        "畫面標題文字",
+        "画面タイトル"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/tm",
+      "url": "https://minecraft.wiki/w/Commands/tm",
+      "label": [
+        "Team message",
+        "隊伍訊息",
+        "チームメッセージ"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/tp",
+      "url": "https://minecraft.wiki/w/Commands/tp",
+      "label": [
+        "Teleport positions",
+        "位置傳送",
+        "位置のテレポート"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/transfer",
+      "url": "https://minecraft.wiki/w/Commands/transfer",
+      "label": [
+        "Server transfer",
+        "轉移伺服器",
+        "サーバー間転送"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/trigger",
+      "url": "https://minecraft.wiki/w/Commands/trigger",
+      "label": [
+        "Player objectives",
+        "玩家觸發目標",
+        "トリガー目標"
+      ]
+    },
+    {
+      "level": "4",
+      "multiplayer": false,
+      "name": "/unpublish",
+      "url": "https://minecraft.wiki/w/Commands/unpublish",
+      "label": [
+        "Close LAN access",
+        "關閉區域網路開放",
+        "LAN 公開を終了"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/version",
+      "url": "https://minecraft.wiki/w/Commands/version",
+      "label": [
+        "Game version",
+        "遊戲版本",
+        "ゲームバージョン"
+      ]
+    },
+    {
+      "level": "0",
+      "multiplayer": false,
+      "name": "/w",
+      "url": "https://minecraft.wiki/w/Commands/w",
+      "label": [
+        "Private message",
+        "私人訊息",
+        "プライベートメッセージ"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/waypoint",
+      "url": "https://minecraft.wiki/w/Commands/waypoint",
+      "label": [
+        "Locator waypoints",
+        "定位路徑點",
+        "ロケーターのウェイポイント"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/weather",
+      "url": "https://minecraft.wiki/w/Commands/weather",
+      "label": [
+        "World weather",
+        "世界天氣",
+        "ワールドの天気"
+      ]
+    },
+    {
+      "level": "3",
+      "multiplayer": true,
+      "name": "/whitelist",
+      "url": "https://minecraft.wiki/w/Commands/whitelist",
+      "label": [
+        "Server allowlist",
+        "伺服器白名單",
+        "サーバー許可リスト"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/worldborder",
+      "url": "https://minecraft.wiki/w/Commands/worldborder",
+      "label": [
+        "World border",
+        "世界邊界",
+        "ワールドの境界"
+      ]
+    },
+    {
+      "level": "2",
+      "multiplayer": false,
+      "name": "/xp",
+      "url": "https://minecraft.wiki/w/Commands/xp",
+      "label": [
+        "Player experience",
+        "玩家經驗值",
+        "プレイヤー経験値"
+      ]
+    }
+  ]
+}

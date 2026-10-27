@@ -1,0 +1,14 @@
+import {build} from 'vite';
+import {fileURLToPath} from 'node:url';
+import {copyFile,mkdir,readFile,writeFile,rename,readdir,unlink} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+const root=fileURLToPath(new URL('../',import.meta.url));
+await mkdir(new URL('../public/vendor/',import.meta.url),{recursive:true});
+for(const file of await readdir(new URL('../public/vendor/',import.meta.url)))if(/^atlas-engine-.*\.js$/.test(file))await unlink(new URL('../public/vendor/'+file,import.meta.url));
+await build({configFile:false,root,publicDir:false,logLevel:'warn',build:{outDir:'public/vendor',emptyOutDir:false,target:'es2022',lib:{entry:fileURLToPath(new URL('atlas-engine.js',import.meta.url)),formats:['es'],fileName:()=> 'atlas-engine-v1.js'},minify:true}});
+await mkdir(new URL('../public/vendor/',import.meta.url),{recursive:true});
+await copyFile(new URL('../node_modules/three/LICENSE',import.meta.url),new URL('../public/vendor/three-LICENSE.txt',import.meta.url));
+const engine=new URL('../public/vendor/atlas-engine-v1.js',import.meta.url),hash=createHash('sha256').update(await readFile(engine)).digest('hex').slice(0,12),filename='atlas-engine-'+hash+'.js';
+await rename(engine,new URL('../public/vendor/'+filename,import.meta.url));
+await writeFile(new URL('../public/atlas-runtime.js',import.meta.url),`export const ENGINE_URL='/vendor/${filename}';\n`);
+console.log('Built the on-demand Three.js GLB viewer.');

@@ -1,0 +1,142 @@
+{
+  "title": "GTA V · Letter-scrap starter route",
+  "scope": "Story Mode; 12 of 50 letter scraps; source numbering preserved. Not GTA Online.",
+  "notice": "Coordinate overview — no roads or terrain. Use the detailed source map for navigation. Source-reviewed, not playtested.",
+  "ratio": "2 / 3",
+  "attribution": "Letter-scrap coordinates: outlawdb, CC BY-SA 3.0. Descriptions shortened by GameBreak.",
+  "source": "https://outlawdb.com/en/gta-5/map/letter-scrap",
+  "date": "2026-10-20",
+  "embed": "https://outlawdb.com/en/embed/gta-5/map/letter-scrap",
+  "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "evidence": [
+      "https://outlawdb.com/en/data",
+      "https://outlawdb.com/en/terms"
+    ],
+    "requiredAttribution": "Letter-scrap coordinates: outlawdb, CC BY-SA 3.0. Descriptions shortened by GameBreak.",
+    "shareAlike": "Keep this marker-data adaptation available under CC BY-SA 3.0. This does not grant rights to Rockstar artwork."
+  },
+  "markers": [
+    {
+      "id": "gta-letter-01",
+      "name": "Boarded-up house",
+      "description": "Enter the abandoned wooden house from the rear.",
+      "px": 50.349999999999994,
+      "py": 11.200000000000001,
+      "x": 28,
+      "y": 6656,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-02",
+      "name": "Roadside restroom",
+      "description": "Look beside the male-restroom entrance.",
+      "px": 68.10000000000001,
+      "py": 11.799999999999999,
+      "x": 1448,
+      "y": 6584,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-03",
+      "name": "Protest campsite",
+      "description": "Check the entrance of the bannered white tent.",
+      "px": 68.325,
+      "py": 13.616700000000002,
+      "x": 1466,
+      "y": 6366,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-04",
+      "name": "Crop tunnels",
+      "description": "Search midway through the second left tunnel downhill.",
+      "px": 73.7125,
+      "py": 24.349999999999998,
+      "x": 1897,
+      "y": 5078,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-05",
+      "name": "Lighthouse",
+      "description": "Climb the base steps and search behind the lighthouse.",
+      "px": 93.0,
+      "py": 23.525,
+      "x": 3440,
+      "y": 5177,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-06",
+      "name": "Lakeside house",
+      "description": "Look outside the red door beside the boat frame.",
+      "px": 66.5625,
+      "py": 30.516700000000004,
+      "x": 1325,
+      "y": 4338,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-07",
+      "name": "Abandoned motel",
+      "description": "Search the empty swimming pool.",
+      "px": 69.8,
+      "py": 36.7167,
+      "x": 1584,
+      "y": 3594,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-08",
+      "name": "Runway rocks",
+      "description": "Climb the three-level rock beside the runway.",
+      "px": 66.6875,
+      "py": 41.4417,
+      "x": 1335,
+      "y": 3027,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-09",
+      "name": "Circular construction",
+      "description": "Check the central grating in the circular structure.",
+      "px": 61.6375,
+      "py": 46.2833,
+      "x": 931,
+      "y": 2446,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-10",
+      "name": "Coastal cavern",
+      "description": "Reach the sandy area inside the cavern by water.",
+      "px": 88.7375,
+      "py": 48.625,
+      "x": 3099,
+      "y": 2165,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-11",
+      "name": "Small island",
+      "description": "Search the rocks on the island’s north side.",
+      "px": 88.5125,
+      "py": 52.8583,
+      "x": 3081,
+      "y": 1657,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    },
+    {
+      "id": "gta-letter-12",
+      "name": "VINEWOOD sign",
+      "description": "Climb to the top of the letter I.",
+      "px": 58.575,
+      "py": 56.64169999999999,
+      "x": 686,
+      "y": 1203,
+      "source": "https://outlawdb.com/en/gta-5/map/letter-scrap"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+GameBreak — Honkai: Star Rail roster asset attribution
+
+Character names, factual roster metadata, and character icon source:
+StarRailRes by Mar-7th and contributors
+https://github.com/Mar-7th/StarRailRes
+Pinned revision: dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487
+Source revision date: 2026-09-29
+Retrieved: 2026-10-20
+
+The upstream repository is distributed under the GNU Affero General Public
+License, version 3. A complete copy is included in LICENSE-AGPL-3.0.txt.
+The original source and all original PNG icons remain available at:
+https://github.com/Mar-7th/StarRailRes/tree/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/icon/character
+
+Modifications: GameBreak resized character icons to a maximum of 128 × 128 px
+and converted them from PNG to WebP for site loading performance. Per-file
+source URLs, hashes, image sizes, and conversion results are recorded in
+asset-report.json. Original downloaded PNGs remain alongside the converted
+files in this output folder.
+
+Honkai: Star Rail, character artwork, trademarks, and game content belong to
+HoYoverse and their respective rights holders. The repository license does not
+transfer ownership of those assets. GameBreak is an independent fan/student
+project and is not affiliated with or endorsed by HoYoverse.
+
+Roster caveat: 98 records represent character forms, including alternate
+paths/forms. This count does not mean 98 distinct characters or independently
+verified release status. Source retrieval is not gameplay verification.

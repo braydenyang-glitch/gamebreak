@@ -1,0 +1,1911 @@
+{
+  "guides": [
+    {
+      "id": "fortnite-preferred-slots",
+      "game": "fortnite",
+      "title": "Keep your loadout in a predictable order",
+      "description": "Send weapon categories to familiar slots so switching takes less thought.",
+      "type": "Guide",
+      "edition": "Battle Royale / Zero Build · Preferred Item Slots",
+      "scope": "Battle Royale / Zero Build · Preferred Item Slots",
+      "platforms": [
+        "PC",
+        "Console",
+        "Mobile"
+      ],
+      "quick": "Assign categories in Settings → Game → Preferred Item Slots.",
+      "steps": [
+        "Open Settings and select the Game tab.",
+        "Find Preferred Item Slots and choose Configure.",
+        "Assign your commonly used weapon categories to the slots you prefer.",
+        "Leave a slot for healing or other consumables, then apply the changes.",
+        "In a match, keep an inventory slot empty and pick up a matching item.",
+        "Check its position before practising the corresponding weapon-switch control."
+      ],
+      "needs": "Access to Game settings and a supported Battle Royale playlist.",
+      "success": "A matching pickup goes to the intended slot.",
+      "troubleshooting": [
+        "Inventory full? The documented routing requires at least one empty slot.",
+        "Consumables moving right? Review Auto-Sort Consumables to Right as well."
+      ],
+      "trouble": "Inventory full? The documented routing requires at least one empty slot. Consumables moving right? Review Auto-Sort Consumables to Right as well.",
+      "source": "https://www.fortnite.com/news/fortnite-battle-royale-v17-20-update-bughas-late-game-and-preferred-item-slots",
+      "sourceName": "Epic Games · Preferred Item Slots",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://www.fortnite.com/news/fortnite-battle-royale-v17-20-update-bughas-late-game-and-preferred-item-slots",
+          "label": "Epic Games · Preferred Item Slots",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Feature documented in v17.20",
+      "note": "This is category routing, not a saved list of particular guns. Check your installed client if menus differ.",
+      "read": 60,
+      "keywords": "fortnite Keep your loadout in a predictable order Battle Royale / Zero Build · Preferred Item Slots 裝備 欄位 物品 背包 預設 配裝"
+    },
+    {
+      "id": "fortnite-review-replay",
+      "game": "fortnite",
+      "title": "Review one mistake in a match replay",
+      "description": "Use a recent match to notice missed cover or a late rotation.",
+      "type": "Guide",
+      "edition": "Battle Royale · PC / PlayStation / Xbox replay support",
+      "scope": "Battle Royale · PC / PlayStation / Xbox replay support",
+      "platforms": [
+        "PC",
+        "Console"
+      ],
+      "quick": "Open Career → Replays and choose a recent recording.",
+      "steps": [
+        "In Settings → Game, check that the appropriate replay recording option is enabled.",
+        "Play a match, then return to the lobby.",
+        "Open Career and choose Replays.",
+        "Select the recent match and press Play.",
+        "Review the moment before elimination; look for cover and the safe-zone route.",
+        "Write one change to try in your next match. Rename a replay if you want to keep it."
+      ],
+      "needs": "A supported platform and a match recorded by the current game version.",
+      "success": "The replay plays and you identify one practical adjustment.",
+      "troubleshooting": [
+        "No recording? Enable recording before the next match; it cannot recreate an unrecorded match.",
+        "Old file will not open? Replays depend on the game version; saving does not guarantee compatibility."
+      ],
+      "trouble": "No recording? Enable recording before the next match; it cannot recreate an unrecorded match. Old file will not open? Replays depend on the game version; saving does not guarantee compatibility.",
+      "source": "https://www.epicgames.com/help/c-Category_Fortnite/c-Trending_0/how-can-i-play-my-replay-saves-in-fortnite-a000090572?lang=en-US",
+      "sourceName": "Epic Games Help · Replay saves",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://www.epicgames.com/help/c-Category_Fortnite/c-Trending_0/how-can-i-play-my-replay-saves-in-fortnite-a000090572?lang=en-US",
+          "label": "Epic Games Help · Replay saves",
+          "type": "Official"
+        },
+        {
+          "url": "https://www.epicgames.com/help/c-ategory_fortnite/c-fortnite_gameplay/a25553277",
+          "label": "Epic Games Help · Replay recording and version limits",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Replay support article",
+      "note": "Replay review is a suggested practice exercise. It does not automatically prove why a match was lost.",
+      "read": 60,
+      "keywords": "fortnite Review one mistake in a match replay Battle Royale · PC / PlayStation / Xbox replay support 重播 回放 檢討 對戰"
+    },
+    {
+      "id": "fortnite-latency-check",
+      "game": "fortnite",
+      "title": "Reduce avoidable connection delay",
+      "description": "Check your connection before changing your aiming settings.",
+      "type": "Guide",
+      "edition": "Battle Royale · Network troubleshooting",
+      "scope": "Battle Royale · Network troubleshooting",
+      "platforms": [
+        "PC",
+        "Console",
+        "Mobile"
+      ],
+      "quick": "Pause heavy network traffic and compare the same playlist under similar conditions.",
+      "steps": [
+        "Stop large downloads, uploads and streams on the connection.",
+        "Use a wired connection if your device supports it.",
+        "Open Settings → Game → Language and Region.",
+        "Review Subregion Preference if this option is available in your region.",
+        "Try the same playlist again and compare responsiveness.",
+        "Keep the change only if it helps; expect a possible matchmaking wait trade-off."
+      ],
+      "needs": "An online match and access to the device network and Game settings.",
+      "success": "You can tell whether connection changes improve the delay.",
+      "troubleshooting": [
+        "Still delayed? Internet routing or server congestion can remain outside your control.",
+        "Longer queue after a preference change? Reconsider that preference; it can affect matchmaking."
+      ],
+      "trouble": "Still delayed? Internet routing or server congestion can remain outside your control. Longer queue after a preference change? Reconsider that preference; it can affect matchmaking.",
+      "source": "https://www.epicgames.com/help/c-34254770/c-38015632/a22355516",
+      "sourceName": "Epic Games Help · Latency and ping troubleshooting",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://www.epicgames.com/help/c-34254770/c-38015632/a22355516",
+          "label": "Epic Games Help · Latency and ping troubleshooting",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Publisher network help",
+      "note": "This targets network delay; it is not a promised fix for low frame rate.",
+      "read": 60,
+      "keywords": "fortnite Reduce avoidable connection delay Battle Royale · Network troubleshooting 延遲 網路 卡頓 連線"
+    },
+    {
+      "id": "doors-ambush-rebounds",
+      "game": "roblox",
+      "title": "Survive Ambush returning through the rooms",
+      "description": "Treat each pass as part of an encounter that may continue.",
+      "type": "Guide",
+      "edition": "DOORS · The Hotel · ordinary run without modifiers",
+      "scope": "DOORS · The Hotel · ordinary run without modifiers",
+      "platforms": [
+        "PC",
+        "Mobile"
+      ],
+      "quick": "Hide for the approaching pass, listen as it moves away, and be ready to hide again.",
+      "steps": [
+        "Recognize the approaching rushing sound and find a usable hiding place.",
+        "Enter as Ambush approaches your room.",
+        "Listen until it moves away before leaving the hiding place.",
+        "Stay beside that hiding place instead of opening more rooms.",
+        "Hide again when the returning sound approaches.",
+        "Repeat as needed; continue only after the encounter has ended."
+      ],
+      "needs": "An Ambush encounter, audible cues and a usable hiding place.",
+      "success": "You survive its passes and can continue through the Hotel.",
+      "troubleshooting": [
+        "Hit on the return? Stay ready after the first pass; Ambush can rebound.",
+        "Timing feels different? Use sound, not a fixed bounce count or countdown."
+      ],
+      "trouble": "Hit on the return? Stay ready after the first pass; Ambush can rebound. Timing feels different? Use sound, not a fixed bounce count or countdown.",
+      "source": "https://doors-game.fandom.com/wiki/Ambush",
+      "sourceName": "DOORS Wiki · Ambush",
+      "sourceType": "Community wiki",
+      "sourceLinks": [
+        {
+          "url": "https://doors-game.fandom.com/wiki/Ambush",
+          "label": "DOORS Wiki · Ambush",
+          "type": "Community wiki"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Indexed article text",
+      "version": "Hotel mechanics · community reference",
+      "note": "Modifiers and other floors are outside this guide. Indexed wiki text was checked; no live run was tested.",
+      "read": 60,
+      "keywords": "roblox Survive Ambush returning through the rooms DOORS · The Hotel · ordinary run without modifiers 門 伏擊 躲藏 來回"
+    },
+    {
+      "id": "doors-eyes-look-away",
+      "game": "roblox",
+      "title": "Pass Eyes without staring at it",
+      "description": "Keep the glowing entity out of view while crossing the room.",
+      "type": "Guide",
+      "edition": "DOORS · The Hotel · ordinary run without modifiers",
+      "scope": "DOORS · The Hotel · ordinary run without modifiers",
+      "platforms": [
+        "PC",
+        "Mobile"
+      ],
+      "quick": "Turn the camera away from Eyes and move to the next door.",
+      "steps": [
+        "Notice the blue-purple glow when entering a room.",
+        "Turn your camera away from the cluster of eyes immediately.",
+        "Keep the camera low or toward a clear wall while checking your route.",
+        "Move around obstacles without turning the camera toward Eyes.",
+        "Open the next door and continue once Eyes is gone."
+      ],
+      "needs": "Working camera controls and an Eyes encounter in the Hotel.",
+      "success": "You reach the next room without taking further damage from looking at Eyes.",
+      "troubleshooting": [
+        "Health still falling? Check where the camera points, not only where your character moves.",
+        "Lost the doorway? Turn gradually while keeping the glowing area out of view."
+      ],
+      "trouble": "Health still falling? Check where the camera points, not only where your character moves. Lost the doorway? Turn gradually while keeping the glowing area out of view.",
+      "source": "https://doors-game.fandom.com/wiki/Eyes",
+      "sourceName": "DOORS Wiki · Eyes",
+      "sourceType": "Community wiki",
+      "sourceLinks": [
+        {
+          "url": "https://doors-game.fandom.com/wiki/Eyes",
+          "label": "DOORS Wiki · Eyes",
+          "type": "Community wiki"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Indexed article text",
+      "version": "Hotel mechanics · community reference",
+      "note": "This response is specific to Eyes. Other entities, including Screech, have different counters.",
+      "read": 60,
+      "keywords": "roblox Pass Eyes without staring at it DOORS · The Hotel · ordinary run without modifiers 眼睛 轉頭 傷害"
+    },
+    {
+      "id": "doors-dupe-door-numbers",
+      "game": "roblox",
+      "title": "Choose the real door when Dupe appears",
+      "description": "Track the room number before labels become scrambled.",
+      "type": "Guide",
+      "edition": "DOORS · The Hotel · ordinary run without modifiers",
+      "scope": "DOORS · The Hotel · ordinary run without modifiers",
+      "platforms": [
+        "PC",
+        "Mobile"
+      ],
+      "quick": "Remember the last door number and choose the next number in sequence.",
+      "steps": [
+        "Read the number each time you pass through a numbered door.",
+        "When several exits appear, stop before approaching a lock.",
+        "Work out the next number from the door you just used.",
+        "Choose the matching exit; do not test a suspicious lock.",
+        "Listen cautiously for the rumble from a false door if uncertain.",
+        "Update your remembered number after entering the next room."
+      ],
+      "needs": "A regular Hotel run with door labels visible at entry.",
+      "success": "You progress through the correct exit without a Dupe attack.",
+      "troubleshooting": [
+        "Labels scrambled? The key label can scramble too; it is not a guaranteed backup.",
+        "No rumbling? Modifiers can remove that cue; this guide excludes those runs."
+      ],
+      "trouble": "Labels scrambled? The key label can scramble too; it is not a guaranteed backup. No rumbling? Modifiers can remove that cue; this guide excludes those runs.",
+      "source": "https://doors-game.fandom.com/wiki/Dupe",
+      "sourceName": "DOORS Wiki · Dupe",
+      "sourceType": "Community wiki",
+      "sourceLinks": [
+        {
+          "url": "https://doors-game.fandom.com/wiki/Dupe",
+          "label": "DOORS Wiki · Dupe",
+          "type": "Community wiki"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Indexed article text",
+      "version": "Hotel mechanics · community reference",
+      "note": "No fixed door offset or guessing trick is assumed.",
+      "read": 60,
+      "keywords": "roblox Choose the real door when Dupe appears DOORS · The Hotel · ordinary run without modifiers 假門 門牌 號碼"
+    },
+    {
+      "id": "pubg-carry-teammate",
+      "game": "pubg",
+      "title": "Move a knocked teammate out of danger",
+      "description": "Use Carry deliberately before trying to revive in a bad position.",
+      "type": "Guide",
+      "edition": "PUBG: BATTLEGROUNDS · PC · team matches with DBNO",
+      "scope": "PUBG: BATTLEGROUNDS · PC · team matches with DBNO",
+      "platforms": [
+        "PC"
+      ],
+      "quick": "Use Limited Interact near a knocked player; the documented default is H.",
+      "steps": [
+        "Check your Limited Interact binding in Settings.",
+        "Identify nearby cover and check for enemies before approaching.",
+        "Stop sprinting beside the knocked teammate.",
+        "Use Limited Interact to pick them up.",
+        "Move to the chosen clear space and use the same binding to put them down.",
+        "Reassess the area before beginning the normal revive interaction."
+      ],
+      "needs": "A living player, a knocked teammate and room to put them down.",
+      "success": "The teammate is placed at the intended position.",
+      "troubleshooting": [
+        "Carry does not start? Stop sprinting and check the custom binding.",
+        "Cannot put them down? Move to a space with sufficient clearance."
+      ],
+      "trouble": "Carry does not start? Stop sprinting and check the custom binding. Cannot put them down? Move to a space with sufficient clearance.",
+      "source": "https://pubg.com/en/news/1730",
+      "sourceName": "PUBG · Update 20.1 Carry improvements",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://pubg.com/en/news/1730",
+          "label": "PUBG · Update 20.1 Carry improvements",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Carry controls documented in Update 20.1",
+      "note": "Choosing cover is tactical advice. Carrying does not guarantee a safe rescue; current on-screen prompts take priority.",
+      "read": 60,
+      "keywords": "pubg Move a knocked teammate out of danger PUBG: BATTLEGROUNDS · PC · team matches with DBNO 搬運 背隊友 倒地 救援"
+    },
+    {
+      "id": "pubg-sound-lab",
+      "game": "pubg",
+      "title": "Learn gunshot direction in the Sound Lab",
+      "description": "Practise locating shots without risking a Battle Royale match.",
+      "type": "Guide",
+      "edition": "PUBG: BATTLEGROUNDS · PC · Training Mode Sound Lab",
+      "scope": "PUBG: BATTLEGROUNDS · PC · Training Mode Sound Lab",
+      "platforms": [
+        "PC"
+      ],
+      "quick": "Enter the Aim/Sound Lab in Training Mode and choose sound practice.",
+      "steps": [
+        "Enter Training Mode and find the Aim/Sound Lab access point.",
+        "Interact with a Lab helipad and choose sound practice.",
+        "Listen to the shot before choosing a target.",
+        "Shoot the target you think matches its direction.",
+        "Compare the displayed result with your guess.",
+        "Repeat and review your training record to track progress."
+      ],
+      "needs": "Training Mode and functioning game audio.",
+      "success": "You finish a sound session and can compare its result with another attempt.",
+      "troubleshooting": [
+        "Aim targets instead? Return to mode selection and select sound practice.",
+        "Entry blocked during 1v1 matchmaking? Cancel that queue before entering the Lab."
+      ],
+      "trouble": "Aim targets instead? Return to mode selection and select sound practice. Entry blocked during 1v1 matchmaking? Cancel that queue before entering the Lab.",
+      "source": "https://pubg.com/en/news/1717?category=patch_notes",
+      "sourceName": "PUBG · Update 16.2 Aim/Sound Lab",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://pubg.com/en/news/1717?category=patch_notes",
+          "label": "PUBG · Update 16.2 Aim/Sound Lab",
+          "type": "Official"
+        },
+        {
+          "url": "https://pubg.com/en/news/1713?category=patch_notes",
+          "label": "PUBG · Update 17.2 Training access",
+          "type": "Official"
+        },
+        {
+          "url": "https://www.pubg.com/en-asia/news/6453",
+          "label": "PUBG · Update 24.2 Training records",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Sound Lab · records added in Update 24.2",
+      "note": "Use a comfortable listening volume. This practice does not guarantee detection of every live-match sound.",
+      "read": 60,
+      "keywords": "pubg Learn gunshot direction in the Sound Lab PUBG: BATTLEGROUNDS · PC · Training Mode Sound Lab 聲音 聽聲 辨位 訓練"
+    },
+    {
+      "id": "pubg-use-ground-items",
+      "game": "pubg",
+      "title": "Use a ground item when your bag is full",
+      "description": "Use eligible healing or deployable items directly from the ground.",
+      "type": "Guide",
+      "edition": "PUBG: BATTLEGROUNDS · PC · supported modes",
+      "scope": "PUBG: BATTLEGROUNDS · PC · supported modes",
+      "platforms": [
+        "PC"
+      ],
+      "quick": "Hold the shown Limited Interact control on an eligible ground item.",
+      "steps": [
+        "Find an eligible healing, boost or deployable item on the ground.",
+        "Check the interaction prompt before trying to collect it.",
+        "Hold H with default PC bindings, or your mapped Limited Interact control.",
+        "For deployables, check your position and facing direction first.",
+        "Wait for the normal use action to finish.",
+        "If necessary, press the displayed cancel control; default PC is F."
+      ],
+      "needs": "The ground-item-use feature and an item usable in your current state.",
+      "success": "The item is used without first making inventory space.",
+      "troubleshooting": [
+        "Prompt is red? Its usual use conditions are not met.",
+        "No prompt in an Arcade mode? Some Arcade modes do not support this feature.",
+        "Cancelled item missing from its original spot? Look at your feet."
+      ],
+      "trouble": "Prompt is red? Its usual use conditions are not met. No prompt in an Arcade mode? Some Arcade modes do not support this feature. Cancelled item missing from its original spot? Look at your feet.",
+      "source": "https://pubg.com/en-asia/news/11057",
+      "sourceName": "PUBG · Update 43.1 Instant Item Use",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://pubg.com/en-asia/news/11057",
+          "label": "PUBG · Update 43.1 Instant Item Use",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Feature documented in Update 43.1",
+      "note": "This is a feature reference, not a claim that Update 43.1 is the newest patch.",
+      "read": 60,
+      "keywords": "pubg Use a ground item when your bag is full PUBG: BATTLEGROUNDS · PC · supported modes 地面 物品 治療 藥品 使用"
+    },
+    {
+      "id": "brawl-gadget-cooldown",
+      "game": "brawl",
+      "title": "Plan when to use your Gadget again",
+      "description": "Read the ability, use it for a purpose, then watch its cooldown.",
+      "type": "Guide",
+      "edition": "Brawl Stars · current Gadget cooldown system",
+      "scope": "Brawl Stars · current Gadget cooldown system",
+      "platforms": [
+        "Mobile"
+      ],
+      "quick": "Gadgets are active abilities with cooldowns; do not follow old fixed-charge advice.",
+      "steps": [
+        "Open your Brawler screen and select an owned Gadget.",
+        "Read its effect and any activation conditions.",
+        "Enter a suitable practice or match mode.",
+        "Use the Gadget when its effect fits the situation.",
+        "Watch the timer on the Gadget icon or below the Brawler.",
+        "Use it again after the cooldown when another useful opportunity appears."
+      ],
+      "needs": "A Brawler with an unlocked, owned Gadget equipped.",
+      "success": "You recognize when the Gadget is ready for another use.",
+      "troubleshooting": [
+        "No Gadget available? Check the Brawler unlock requirement and ownership.",
+        "Button unavailable? Wait for the cooldown and check the ability conditions."
+      ],
+      "trouble": "No Gadget available? Check the Brawler unlock requirement and ownership. Button unavailable? Wait for the cooldown and check the ability conditions.",
+      "source": "https://support.supercell.com/brawl-stars/en/articles/gadgets-4.html",
+      "sourceName": "Supercell Support · Gadgets",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://support.supercell.com/brawl-stars/en/articles/gadgets-4.html",
+          "label": "Supercell Support · Gadgets",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Publisher help checked 15 Oct 2026",
+      "note": "Cooldowns vary by Gadget. This guide does not recommend purchasing anything or rank particular builds.",
+      "read": 60,
+      "keywords": "brawl Plan when to use your Gadget again Brawl Stars · current Gadget cooldown system 妙具 技能 冷卻"
+    },
+    {
+      "id": "brawl-select-gears",
+      "game": "brawl",
+      "title": "Choose a Gear for the situation",
+      "description": "Compare passive bonuses before filling an available Gear slot.",
+      "type": "Guide",
+      "edition": "Brawl Stars · Brawler equipment",
+      "scope": "Brawl Stars · Brawler equipment",
+      "platforms": [
+        "Mobile"
+      ],
+      "quick": "Choose an owned Gear whose condition matches how you expect to play.",
+      "steps": [
+        "Open the Brawler you intend to use.",
+        "Check whether a Gear slot is unlocked.",
+        "Compare available Gear descriptions and their activation conditions.",
+        "Select an owned Gear that fits the intended map or plan.",
+        "Play while deliberately checking that condition, such as moving through bushes for Speed.",
+        "After the match, reconsider whether that condition occurred often enough."
+      ],
+      "needs": "A Brawler with an unlocked Gear slot and an owned compatible Gear.",
+      "success": "The Gear is equipped and you understand when its passive bonus applies.",
+      "troubleshooting": [
+        "Slot locked? Check the required Power Level shown in-game.",
+        "Bonus seems absent? Some Gears require a specific health, movement or terrain condition.",
+        "Gear missing? Some rarities are available only to particular Brawlers."
+      ],
+      "trouble": "Slot locked? Check the required Power Level shown in-game. Bonus seems absent? Some Gears require a specific health, movement or terrain condition. Gear missing? Some rarities are available only to particular Brawlers.",
+      "source": "https://support.supercell.com/brawl-stars/en/articles/gears-8.html",
+      "sourceName": "Supercell Support · Gears",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://support.supercell.com/brawl-stars/en/articles/gears-8.html",
+          "label": "Supercell Support · Gears",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Publisher equipment help",
+      "note": "This is a comparison method, not a best-build ranking. Exact bonuses can change.",
+      "read": 60,
+      "keywords": "brawl Choose a Gear for the situation Brawl Stars · Brawler equipment 裝備 齒輪 配裝"
+    },
+    {
+      "id": "brawl-battle-log-review",
+      "game": "brawl",
+      "title": "Find one useful lesson in Battle Log",
+      "description": "Review the actual mode, map and fight before changing your Brawler.",
+      "type": "Guide",
+      "edition": "Brawl Stars · Battle Log / eligible replays",
+      "scope": "Brawl Stars · Battle Log / eligible replays",
+      "platforms": [
+        "Mobile"
+      ],
+      "quick": "Use the main-screen menu → Battle Log to inspect a recent match.",
+      "steps": [
+        "Tap the top-right menu on the main screen.",
+        "Choose the Battle Log clipboard icon.",
+        "Select the match you want to inspect.",
+        "Check its mode, map and team composition.",
+        "Open Replay if that battle meets the replay requirement.",
+        "Review one lost objective or elimination and choose one adjustment for the next match."
+      ],
+      "needs": "A recent match in Battle Log; replay eligibility for video review.",
+      "success": "You identify the match and one action to improve.",
+      "troubleshooting": [
+        "Replay missing? Supercell lists a Brawler-trophy requirement, with separate Ranked eligibility.",
+        "Old game missing? Battle Log contains a limited recent-match history."
+      ],
+      "trouble": "Replay missing? Supercell lists a Brawler-trophy requirement, with separate Ranked eligibility. Old game missing? Battle Log contains a limited recent-match history.",
+      "source": "https://ingame.help.supercellsupport.com/brawl-stars/en/articles/battle-log-replays-2.html",
+      "sourceName": "Supercell Support · Battle Log & Replays",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://ingame.help.supercellsupport.com/brawl-stars/en/articles/battle-log-replays-2.html",
+          "label": "Supercell Support · Battle Log & Replays",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Publisher replay help",
+      "note": "Reviewing a mistake is a suggested exercise. Replay access is not guaranteed for every account or battle.",
+      "read": 60,
+      "keywords": "brawl Find one useful lesson in Battle Log Brawl Stars · Battle Log / eligible replays 戰鬥紀錄 重播 回放"
+    },
+    {
+      "id": "wuwa-echo-presets",
+      "game": "wuwa",
+      "title": "Save and compare an Echo preset",
+      "description": "Keep a named setup before trying a different Echo lineup.",
+      "type": "Guide",
+      "edition": "Wuthering Waves · Echo Assembly",
+      "scope": "Wuthering Waves · Echo Assembly",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "quick": "Save Current Setup in Echo Preset, then compare before applying another.",
+      "steps": [
+        "Open the Resonator’s Echo Assembly interface.",
+        "Select the Echo Preset icon at the bottom right.",
+        "Choose Current Setup and Save As Preset.",
+        "Give the setup a name that explains its purpose.",
+        "Select a saved preset and expand the attribute comparison.",
+        "Use Apply only when you want that lineup on the current Resonator."
+      ],
+      "needs": "Owned Echoes and access to Echo Assembly.",
+      "success": "The named preset appears and its applied lineup matches your intention.",
+      "troubleshooting": [
+        "Wrong stats? Compare the saved preset against Current Setup before applying.",
+        "Expected a weapon change? This feature saves an Echo lineup; inspect weapon equipment separately."
+      ],
+      "trouble": "Wrong stats? Compare the saved preset against Current Setup before applying. Expected a weapon change? This feature saves an Echo lineup; inspect weapon equipment separately.",
+      "source": "https://wutheringwaves.kurogames.com/en/main/news/detail/2154",
+      "sourceName": "Kuro Games · Version 2.1 Echo Preset",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2154",
+          "label": "Kuro Games · Version 2.1 Echo Preset",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Echo Preset documented in Version 2.1",
+      "note": "A saved preset preserves a choice; it does not establish that the build is optimal.",
+      "read": 60,
+      "keywords": "wuwa Save and compare an Echo preset Wuthering Waves · Echo Assembly 聲骸 預設 配裝 存檔"
+    },
+    {
+      "id": "wuwa-echo-auto-lock",
+      "game": "wuwa",
+      "title": "Protect useful Echo drops with an auto-lock plan",
+      "description": "Start with a narrow keep rule before marking unwanted drops.",
+      "type": "Guide",
+      "edition": "Wuthering Waves · Data Bank / Echo Management",
+      "scope": "Wuthering Waves · Data Bank / Echo Management",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "quick": "Create an Auto-Lock plan in Data Bank → Data Merge → Echo Management.",
+      "steps": [
+        "Open Data Bank, then Data Merge and Echo Management.",
+        "Create a plan for Echoes you want to keep.",
+        "Set quality, COST, Sonata Effect and Mainstat criteria as needed.",
+        "Enable the intended plan and check any other active plans.",
+        "Obtain a new Echo and inspect whether its lock matches the rule.",
+        "Adjust overly broad criteria before adding an Auto-Discard plan."
+      ],
+      "needs": "Echo Management unlocked and a clear idea of the stats you want to keep.",
+      "success": "A matching new Echo receives the intended lock.",
+      "troubleshooting": [
+        "Unexpected lock? More than one plan may be active.",
+        "Lock and discard both match? The documented priority is to lock the Echo."
+      ],
+      "trouble": "Unexpected lock? More than one plan may be active. Lock and discard both match? The documented priority is to lock the Echo.",
+      "source": "https://wutheringwaves.kurogames.com/en/main/news/detail/2966",
+      "sourceName": "Kuro Games · Version 2.5 Echo Management",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2966",
+          "label": "Kuro Games · Version 2.5 Echo Management",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Echo Management documented in Version 2.5",
+      "note": "Auto-Discard marks an Echo for discard. Review marked items before performing a separate consuming action.",
+      "read": 60,
+      "keywords": "wuwa Protect useful Echo drops with an auto-lock plan Wuthering Waves · Data Bank / Echo Management 聲骸 鎖定 自動 篩選"
+    },
+    {
+      "id": "wuwa-terminal-synthesis",
+      "game": "wuwa",
+      "title": "Make upgrade materials from the Terminal",
+      "description": "Check stored materials before travelling to farm more.",
+      "type": "Guide",
+      "edition": "Wuthering Waves · Synthesis on the Go",
+      "scope": "Wuthering Waves · Synthesis on the Go",
+      "platforms": [
+        "PC",
+        "Mobile",
+        "Console"
+      ],
+      "quick": "Use Terminal → Synthesis and choose Purification or Conversion deliberately.",
+      "steps": [
+        "Read the exact material and rarity needed on your upgrade screen.",
+        "Open the Terminal and select Synthesis.",
+        "Use Purification when the recipe combines materials across rarities.",
+        "Use Conversion only for a listed exchange within the same category and rarity.",
+        "Inspect the ingredients, quantity and resulting item before confirming.",
+        "Return to the upgrade screen and check your available amount."
+      ],
+      "needs": "Access to Synthesis and the ingredients shown by an available recipe.",
+      "success": "Your inventory contains the intended upgrade material.",
+      "troubleshooting": [
+        "Recipe unavailable? Only listed recipes are supported; an arbitrary item cannot be converted.",
+        "Still short? Recheck both rarity and required quantity before using more materials."
+      ],
+      "trouble": "Recipe unavailable? Only listed recipes are supported; an arbitrary item cannot be converted. Still short? Recheck both rarity and required quantity before using more materials.",
+      "source": "https://wutheringwaves.kurogames.com/en/main/news/detail/1912",
+      "sourceName": "Kuro Games · Version 2.0 Synthesis on the Go",
+      "sourceType": "Official",
+      "sourceLinks": [
+        {
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1912",
+          "label": "Kuro Games · Version 2.0 Synthesis on the Go",
+          "type": "Official"
+        }
+      ],
+      "sourceChecked": "2026-10-15",
+      "reviewed": "2026-10-15",
+      "playtested": null,
+      "sourceAccess": "Publisher article text",
+      "version": "Terminal Synthesis documented in Version 2.0",
+      "note": "The menu and recipe shown in the current game take priority over old material lists.",
+      "read": 60,
+      "keywords": "wuwa Make upgrade materials from the Terminal Wuthering Waves · Synthesis on the Go 合成 材料 素材 轉換"
+    }
+  ],
+  "collections": [
+    {
+      "id": "roblox-hotel-reference",
+      "game": "roblox",
+      "label": "DOORS Hotel starter reference",
+      "note": "12 selected threats and supplies for ordinary Hotel runs on PC and mobile. Not a complete DOORS encyclopedia. Modifiers and other floors can change these rules. Community article text was checked through the search index; direct Fandom access was blocked.",
+      "source": "https://doors-game.fandom.com/wiki/The_Hotel",
+      "sourceChecked": "2026-10-15",
+      "entries": [
+        {
+          "id": "doors-ref-ambush",
+          "name": "Ambush",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "A rushing threat that can return after passing.",
+          "facts": [
+            [
+              "Cue",
+              "Approaching rush sound"
+            ],
+            [
+              "Response",
+              "Hide for each approach"
+            ],
+            [
+              "Risk",
+              "Returning passes"
+            ]
+          ],
+          "body": [
+            "Stay close to a hiding place between passes."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Ambush",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-eyes",
+          "name": "Eyes",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "A glowing cluster that hurts players who look at it.",
+          "facts": [
+            [
+              "Cue",
+              "Blue-purple glow"
+            ],
+            [
+              "Response",
+              "Look away"
+            ],
+            [
+              "Hazard",
+              "Camera direction"
+            ]
+          ],
+          "body": [
+            "Different entities require different responses."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Eyes",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-dupe",
+          "name": "Dupe",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "False numbered doors punish careless entry.",
+          "facts": [
+            [
+              "Clue",
+              "Incorrect door number"
+            ],
+            [
+              "Sound",
+              "Quiet rumble"
+            ],
+            [
+              "Risk",
+              "Scrambled labels"
+            ]
+          ],
+          "body": [
+            "Track the sequence as you enter each room."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Dupe",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-figure",
+          "name": "Figure",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "A major Hotel threat encountered in the Library and Electrical Room.",
+          "facts": [
+            [
+              "Places",
+              "Library / Electrical Room"
+            ],
+            [
+              "Movement",
+              "Crouching helps reduce noise"
+            ],
+            [
+              "Distance",
+              "Close contact remains dangerous"
+            ],
+            [
+              "Crucifix",
+              "Temporary stun, not a full banish"
+            ]
+          ],
+          "body": [
+            "Watch its route and keep space. Crouching is not permission to walk into Figure or remain directly in its path."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Figure",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-halt",
+          "name": "Halt",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "An encounter that asks you to change direction as it blocks the route.",
+          "facts": [
+            [
+              "Cue",
+              "Turn-around warning"
+            ],
+            [
+              "Response",
+              "Reverse direction when warned"
+            ],
+            [
+              "Goal",
+              "Reach the exit"
+            ],
+            [
+              "Scope",
+              "Regular Hotel encounter"
+            ]
+          ],
+          "body": [
+            "Follow the encounter cues instead of relying on a fixed room number or an old guaranteed-spawn claim."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Halt",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-timothy",
+          "name": "Timothy",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "A small spider jumps from a looted container and briefly startles the player.",
+          "facts": [
+            [
+              "Trigger",
+              "Opening a container"
+            ],
+            [
+              "Effect",
+              "Small damage in ordinary play"
+            ],
+            [
+              "Afterwards",
+              "Disappears"
+            ],
+            [
+              "Modifiers",
+              "Can change its danger"
+            ]
+          ],
+          "body": [
+            "Timothy is a looting hazard, not a hallway chase. Recover your view and continue checking the room for other threats."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Timothy",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-key",
+          "name": "Room Key",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A key belongs to a specific locked door.",
+          "facts": [
+            [
+              "Purpose",
+              "Unlock the matching door"
+            ],
+            [
+              "Search",
+              "Current room and side rooms"
+            ],
+            [
+              "Locations",
+              "Furniture, containers or floor"
+            ],
+            [
+              "After unlocking",
+              "Key disappears"
+            ]
+          ],
+          "body": [
+            "Search accessible areas before spending another tool. A scrambled label during Dupe is not a reliable shortcut to the correct exit."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Key",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-lockpick",
+          "name": "Lockpick",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A consumable tool can bypass many ordinary locks.",
+          "facts": [
+            [
+              "Opens",
+              "Most key-locked doors"
+            ],
+            [
+              "Also opens",
+              "Locked containers"
+            ],
+            [
+              "Cannot open",
+              "Library padlock or skeleton doors"
+            ],
+            [
+              "Uses",
+              "Consumed when used"
+            ]
+          ],
+          "body": [
+            "It is useful when finding a normal room key would take time. Check the type of lock before expecting it to work."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Lockpick",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-flashlight",
+          "name": "Flashlight",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A directional light that needs battery charge.",
+          "facts": [
+            [
+              "Resource",
+              "Battery charge"
+            ],
+            [
+              "Conserve",
+              "Switch off when unnecessary"
+            ],
+            [
+              "Empty state",
+              "Stays in inventory"
+            ],
+            [
+              "Recharge",
+              "Collect batteries"
+            ]
+          ],
+          "body": [
+            "Save charge for dark sections. An empty flashlight needs batteries rather than repeated attempts to switch it on."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Flashlight",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-lighter",
+          "name": "Lighter",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A small fuel-based light for nearby surroundings.",
+          "facts": [
+            [
+              "Resource",
+              "Limited fuel"
+            ],
+            [
+              "Light",
+              "Illuminates nearby space"
+            ],
+            [
+              "Low fuel",
+              "Can take longer to ignite"
+            ],
+            [
+              "Other use",
+              "Lights Candles"
+            ]
+          ],
+          "body": [
+            "Turn it off when light is unnecessary. Lighting it can make sound, so consider nearby threats before using it."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Lighter",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-vitamins",
+          "name": "Vitamins",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A consumable gives a temporary movement-speed boost.",
+          "facts": [
+            [
+              "Effect",
+              "Temporary speed"
+            ],
+            [
+              "Use",
+              "Consumes a charge"
+            ],
+            [
+              "Repeated use",
+              "Cannot immediately stack boosts"
+            ],
+            [
+              "Not healing",
+              "No ordinary health restoration"
+            ]
+          ],
+          "body": [
+            "Use the speed for a planned route. It does not replace learning a chase path or watching obstacles."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Vitamins",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-crucifix",
+          "name": "Crucifix",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A held defensive item can restrain eligible entities.",
+          "facts": [
+            [
+              "Typical use",
+              "One defensive activation"
+            ],
+            [
+              "Limit",
+              "Does not affect every entity"
+            ],
+            [
+              "Bosses",
+              "Seek and Figure only briefly stunned"
+            ],
+            [
+              "Warning",
+              "Red chains signal escape"
+            ]
+          ],
+          "body": [
+            "Keep moving during a boss stun. A temporary restraint is not a completed chase or permission to stand beside the boss."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Crucifix",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        }
+      ]
+    },
+    {
+      "id": "pubg-pc-reference",
+      "game": "pubg",
+      "label": "PUBG PC starter reference",
+      "note": "12 selected weapon families and maps from the publisher directory. This is not a full weapon-stat database or a current map-rotation list. Individual ammo, attachments, balance and availability should be checked in-game.",
+      "source": "https://www.pubg.com/en-asia/game-info/overview",
+      "sourceChecked": "2026-10-15",
+      "entries": [
+        {
+          "id": "pubg-ref-ar",
+          "name": "Assault rifles (AR)",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A flexible weapon family suited to many middle-distance fights.",
+          "facts": [
+            [
+              "Role",
+              "General-purpose firearm"
+            ],
+            [
+              "Typical distance",
+              "Mid-range"
+            ],
+            [
+              "Examples",
+              "M416 / AKM / AUG"
+            ]
+          ],
+          "body": [
+            "Use the official family list to identify a weapon, then inspect the actual gun and compatible ammunition in the current game. Family membership alone does not make every rifle handle the same."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/ar",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-dmr",
+          "name": "Designated marksman rifles (DMR)",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A family intended for controlled attacks at middle and longer distances.",
+          "facts": [
+            [
+              "Role",
+              "Marksman firearm"
+            ],
+            [
+              "Typical distance",
+              "Mid-range and farther"
+            ],
+            [
+              "Examples",
+              "Mini14 / SKS / SLR"
+            ]
+          ],
+          "body": [
+            "This category helps separate a range-focused weapon from a close-range option when planning a loadout. Compare the actual item rather than assuming all DMRs share ammunition."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/dmr",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-smg",
+          "name": "Submachine guns (SMG)",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A family associated with mobility and quick fire in close fights.",
+          "facts": [
+            [
+              "Role",
+              "Close-range firearm"
+            ],
+            [
+              "Design emphasis",
+              "Mobility and rapid fire"
+            ],
+            [
+              "Examples",
+              "Micro UZI / Vector / MP5K"
+            ]
+          ],
+          "body": [
+            "Recognize the category when deciding what role a pickup fills. Close-range usefulness does not make it the right choice for every distant target."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/smg",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-sr",
+          "name": "Sniper rifles (SR)",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A range-focused family built around accurate, powerful shots.",
+          "facts": [
+            [
+              "Role",
+              "Long-range firearm"
+            ],
+            [
+              "Design emphasis",
+              "Accuracy and damage"
+            ],
+            [
+              "Examples",
+              "Kar98k / M24 / AWM"
+            ]
+          ],
+          "body": [
+            "Use the family as a starting point for comparison. Read the weapon and ammunition information rather than expecting identical firing behaviour across the whole category."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/sr",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-shotgun",
+          "name": "Shotguns",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A family suited to sudden close encounters.",
+          "facts": [
+            [
+              "Typical use",
+              "Close-range fights"
+            ],
+            [
+              "Common behaviour",
+              "Shells with spreading pellets"
+            ],
+            [
+              "Examples",
+              "S1897 / S686 / DBS"
+            ]
+          ],
+          "body": [
+            "Learn the particular shotgun before rushing a doorway. The official directory groups several designs here; their reload and firing behaviour need individual practice."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/sg",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-handgun",
+          "name": "Handguns",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "Compact secondary firearms provide another equipment option.",
+          "facts": [
+            [
+              "Role",
+              "Secondary weapon"
+            ],
+            [
+              "Directory label",
+              "HANDGUN"
+            ],
+            [
+              "Examples",
+              "P92 / P18C / Deagle"
+            ]
+          ],
+          "body": [
+            "Check the equipped item rather than assuming every handgun fires the same way. The directory includes both pistol and revolver designs."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/pistol",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-melee",
+          "name": "Melee weapons",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "Hand-held weapons are used at contact distance.",
+          "facts": [
+            [
+              "Reach",
+              "Close contact"
+            ],
+            [
+              "Actions",
+              "Swinging or stabbing"
+            ],
+            [
+              "Examples",
+              "Pan / Crowbar / Machete"
+            ]
+          ],
+          "body": [
+            "The short reach is the key difference from firearms. Do not approach a distant opponent expecting the same options as a ranged weapon."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/melee",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-throwables",
+          "name": "Throwables",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "Thrown utility offers different ways to pressure opponents or create cover.",
+          "facts": [
+            [
+              "Actions",
+              "Throw or roll"
+            ],
+            [
+              "Examples",
+              "Frag / Stun / Smoke Grenade"
+            ],
+            [
+              "Selection",
+              "Choose for the intended effect"
+            ]
+          ],
+          "body": [
+            "Read the item name before using it. The throwable category includes tools with very different purposes; a smoke and a frag are not interchangeable."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/throwable",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-special",
+          "name": "Special weapons",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "The official ETC directory groups equipment beyond the main firearm families.",
+          "facts": [
+            [
+              "Directory label",
+              "ETC"
+            ],
+            [
+              "Examples",
+              "M79 / Crossbow / Mortar"
+            ],
+            [
+              "Other examples",
+              "M249 / MG3 / Panzerfaust"
+            ]
+          ],
+          "body": [
+            "This is a mixed directory, not one shared firing style. Read each item’s controls and availability before building a plan around it."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/etc",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-erangel",
+          "name": "Erangel",
+          "kind": "Map",
+          "group": "Battlegrounds",
+          "summary": "An island combining open grassland, mountains and built-up settlements.",
+          "facts": [
+            [
+              "Scale",
+              "8 × 8 km"
+            ],
+            [
+              "Terrain",
+              "Grassland and mountains"
+            ],
+            [
+              "Built areas",
+              "Cities and towns"
+            ]
+          ],
+          "body": [
+            "Compare open ground with nearby buildings before choosing a route. This is a map introduction, not a promise that Erangel is in every current queue."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/maps/erangel",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-miramar",
+          "name": "Miramar",
+          "kind": "Map",
+          "group": "Battlegrounds",
+          "summary": "A desert battleground with exposed terrain and long sightlines.",
+          "facts": [
+            [
+              "Scale",
+              "8 × 8 km"
+            ],
+            [
+              "Environment",
+              "Desert"
+            ],
+            [
+              "Combat consideration",
+              "Long-range exposure"
+            ]
+          ],
+          "body": [
+            "Consider where cover ends before crossing barren ground. The official overview highlights its suitability for snipers; that does not prescribe one mandatory loadout."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/maps/miramar",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-taego",
+          "name": "Taego",
+          "kind": "Map",
+          "group": "Battlegrounds",
+          "summary": "A large map with varied terrain and landmarks including Ho San Prison.",
+          "facts": [
+            [
+              "Scale",
+              "8 × 8 km"
+            ],
+            [
+              "Terrain example",
+              "Reed fields"
+            ],
+            [
+              "Landmark",
+              "Ho San Prison"
+            ]
+          ],
+          "body": [
+            "Use the live match map to plan a route between the current circle and nearby terrain. Queue availability and special mechanics are separate from this basic map reference."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/maps/taego",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        }
+      ]
+    },
+    {
+      "id": "wuwa-core-reference",
+      "game": "wuwa",
+      "label": "Wuthering Waves starter reference",
+      "note": "12 selected attributes, weapon families and progression terms. This is not a complete character roster, build ranking or item database. Community article text was checked through the search index; no in-game combat test was performed.",
+      "source": "https://wutheringwaves.fandom.com/wiki/Attribute",
+      "sourceChecked": "2026-10-15",
+      "entries": [
+        {
+          "id": "wuwa-ref-glacio",
+          "name": "Glacio",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with cooling and freezing.",
+          "facts": [
+            [
+              "Chinese name",
+              "冷凝"
+            ],
+            [
+              "Example Resonator",
+              "Sanhua"
+            ],
+            [
+              "Example weapon family",
+              "Sanhua uses Sword"
+            ],
+            [
+              "Related status",
+              "Glacio Chafe"
+            ]
+          ],
+          "body": [
+            "An attribute labels damage and related effects. Read the specific skill instead of assuming every Glacio attack automatically applies a status."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Glacio",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-fusion",
+          "name": "Fusion",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with heat and ignition.",
+          "facts": [
+            [
+              "Chinese name",
+              "熱熔"
+            ],
+            [
+              "Example Resonator",
+              "Chixia"
+            ],
+            [
+              "Example weapon family",
+              "Chixia uses Pistols"
+            ],
+            [
+              "Related status",
+              "Fusion Burst"
+            ]
+          ],
+          "body": [
+            "Weapon family and attribute are separate labels. Read a skill’s actual effect before choosing gear for it."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Fusion",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-electro",
+          "name": "Electro",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with electrical charge.",
+          "facts": [
+            [
+              "Chinese name",
+              "導電"
+            ],
+            [
+              "Example Resonator",
+              "Yuanwu"
+            ],
+            [
+              "Example weapon family",
+              "Yuanwu uses Gauntlets"
+            ],
+            [
+              "Related status",
+              "Electro Flare"
+            ]
+          ],
+          "body": [
+            "Only attacks with the relevant effect apply Electro Flare; the attribute label alone is not a full skill description."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Electro",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-aero",
+          "name": "Aero",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with airflow.",
+          "facts": [
+            [
+              "Chinese name",
+              "氣動"
+            ],
+            [
+              "Example Resonator",
+              "Aalto"
+            ],
+            [
+              "Example weapon family",
+              "Aalto uses Pistols"
+            ],
+            [
+              "Related status",
+              "Aero Erosion"
+            ]
+          ],
+          "body": [
+            "Aero Erosion is a status associated with certain attacks and effects. Check the skill text rather than expecting every Aero hit to apply it."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Aero",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-spectro",
+          "name": "Spectro",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with light and photons.",
+          "facts": [
+            [
+              "Chinese name",
+              "衍射"
+            ],
+            [
+              "Example Resonator",
+              "Rover in Spectro form"
+            ],
+            [
+              "Example weapon family",
+              "Spectro Rover uses Sword"
+            ],
+            [
+              "Related status",
+              "Spectro Frazzle"
+            ]
+          ],
+          "body": [
+            "Spectro Frazzle is a stacking effect used by particular abilities. Do not infer an entire rotation from the attribute icon."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Spectro",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-havoc",
+          "name": "Havoc",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with annihilation.",
+          "facts": [
+            [
+              "Chinese name",
+              "湮滅"
+            ],
+            [
+              "Damage term",
+              "Havoc DMG"
+            ],
+            [
+              "Related status",
+              "Havoc Bane"
+            ],
+            [
+              "Example Sonata",
+              "Havoc Eclipse"
+            ]
+          ],
+          "body": [
+            "Havoc Bane is a particular status effect, not a guarantee attached to every Havoc attack. Read the ability or encounter rule that applies it."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Havoc",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-sword",
+          "name": "Sword",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "One equipment family with several different secondary-stat options.",
+          "facts": [
+            [
+              "Example",
+              "Emerald of Genesis"
+            ],
+            [
+              "Its secondary stat",
+              "Crit. Rate"
+            ],
+            [
+              "Another example",
+              "Overture · Energy Regen"
+            ]
+          ],
+          "body": [
+            "Choose between actual effects and stat needs. The shared Sword label does not make these items equivalent."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Sword",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-broadblade",
+          "name": "Broadblade",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "A weapon family used by Resonators such as Jiyan and Taoqi.",
+          "facts": [
+            [
+              "Example",
+              "Lustrous Razor"
+            ],
+            [
+              "Its secondary stat",
+              "ATK"
+            ],
+            [
+              "Another example",
+              "Discord · Energy Regen"
+            ]
+          ],
+          "body": [
+            "The same family includes different secondary stats. Compare the character’s needs before investing in one."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Broadblade",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-pistols",
+          "name": "Pistols",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "A weapon category with damage-focused and utility-focused options.",
+          "facts": [
+            [
+              "Example",
+              "Cadenza"
+            ],
+            [
+              "Its secondary stat",
+              "Energy Regen"
+            ],
+            [
+              "Another example",
+              "Pistols#26 · ATK"
+            ]
+          ],
+          "body": [
+            "Compare the item effect as well as its stat."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Weapon/List",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-gauntlets",
+          "name": "Gauntlets",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "A weapon category whose items can support different stat needs.",
+          "facts": [
+            [
+              "Example",
+              "Amity Accord"
+            ],
+            [
+              "Its secondary stat",
+              "DEF"
+            ],
+            [
+              "Another example",
+              "Marcato · Energy Regen"
+            ]
+          ],
+          "body": [
+            "Match the item to the Resonator’s actual scaling."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Weapon/List",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-rectifier",
+          "name": "Rectifier",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "An equipment family containing both damage and support-oriented stat options.",
+          "facts": [
+            [
+              "Example",
+              "Cosmic Ripples"
+            ],
+            [
+              "Its secondary stat",
+              "ATK"
+            ],
+            [
+              "Another example",
+              "Variation · Energy Regen"
+            ]
+          ],
+          "body": [
+            "A shared family does not imply the same role. Compare the weapon’s full effect before equipping it."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Rectifier",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-data-bank",
+          "name": "Data Bank",
+          "kind": "System",
+          "group": "Progression",
+          "summary": "The Terminal system records Echo discoveries and affects Echo collection progression.",
+          "facts": [
+            [
+              "Open through",
+              "Terminal menu"
+            ],
+            [
+              "EXP source",
+              "New Echo discoveries"
+            ],
+            [
+              "Further EXP",
+              "Discover a higher rarity"
+            ],
+            [
+              "Progress affects",
+              "Drop and rarity rules"
+            ]
+          ],
+          "body": [
+            "Check your own Data Bank screen for current level requirements. Repeating an already-recorded rarity is different from discovering a new entry; old level-cap tables may no longer apply."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Data_Bank",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        }
+      ]
+    }
+  ],
+  "research": {
+    "sourceChecked": "2026-10-15",
+    "purpose": "Curated beginner expansion; not a complete encyclopedia or live patch validation.",
+    "limitations": [
+      "No guide was playtested. sourceChecked records a reading date, not proof the method worked in a live match.",
+      "DOORS and Wuthering Waves community pages were read through indexed article text because direct Fandom requests returned 402/robots restrictions. Indexed content can lag current updates.",
+      "Historical official patch notes establish documented mechanics and interface paths, not the latest installed behaviour. Versions are identified per guide.",
+      "Advice such as reviewing one mistake, preserving a preset, and choosing cover is an original practical exercise grounded in the documented feature.",
+      "No API response, game screenshot, peer feedback, gameplay success or exhaustive coverage was fabricated."
+    ]
+  }
+}

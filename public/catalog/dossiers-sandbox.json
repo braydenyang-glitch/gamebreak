@@ -1,0 +1,1517 @@
+{
+  "reviewedAt": "2026-10-27",
+  "entries": [
+    {
+      "game": "minecraft",
+      "collection": "minecraft-pc-items",
+      "entryId": "333",
+      "layout": "item",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "The first workshop",
+            "zh": "第一個工作站",
+            "ja": "最初の作業場"
+          },
+          "paragraphs": {
+            "en": [
+              "The crafting table expands the small inventory grid into a 3 × 3 workspace. Place it on a block, use it, choose a recipe, then collect the output. It is the station for recipes too large for the inventory grid; opening the interface alone does not supply any missing ingredients."
+            ],
+            "zh": [
+              "工作台把背包中的小型合成格擴展為 3 × 3 空間。將它放在方塊上、使用工作台、選擇配方，再取出成品。背包格子放不下的配方需要它；只打開介面不會自動提供缺少的材料。"
+            ],
+            "ja": [
+              "作業台はインベントリの小さなクラフト枠を 3 × 3 に広げます。設置して使用し、レシピを選んで完成品を取り出します。インベントリでは並べきれないレシピに使いますが、画面を開くだけで不足素材が補充されることはありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Four planks, one table",
+            "zh": "四塊木材，一張工作台",
+            "ja": "板材 4 個から作業台へ"
+          },
+          "paragraphs": {
+            "en": [
+              "Convert a log into planks, then put four planks into the four inventory crafting slots. Collect the table before closing the screen. The official illustrated guide shows each step, so a new player can compare the actual interface rather than trying to identify the recipe from an isolated item icon."
+            ],
+            "zh": [
+              "先將原木轉成木材，再把四塊木材放入背包的四個合成格，關閉畫面前取出工作台。官方圖解逐步展示操作，新手可以對照真實介面，不必只靠單一物品圖示猜配方。"
+            ],
+            "ja": [
+              "原木を板材にし、インベントリの 4 つのクラフト枠へ板材を 1 個ずつ置きます。画面を閉じる前に作業台を回収しましょう。公式の図解は操作画面も示しているため、アイコンだけで配合を推測する必要がありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Recipe book and ingredient checks",
+            "zh": "配方書與材料檢查",
+            "ja": "レシピ本と素材確認"
+          },
+          "paragraphs": {
+            "en": [
+              "The recipe book groups recipes and supports searching. Selecting a recipe helps arrange its ingredients; missing supplies are highlighted. If the output is empty, check both the material and its position. A useful practice sequence is to make sticks, then a wooden pickaxe, and keep the table nearby while preparing your first stone tools."
+            ],
+            "zh": [
+              "配方書會分類配方，也可搜尋。點選配方能協助排列材料，缺少的材料會被標示。若輸出格是空的，請同時檢查材料與位置。建議練習順序是木棒、木鎬，再把工作台留在附近，準備第一批石製工具。"
+            ],
+            "ja": [
+              "レシピ本では分類や検索が使えます。レシピの選択で素材配置を確認でき、不足分も表示されます。完成品が出ないときは素材と位置の両方を確認してください。練習では棒、木のツルハシの順に作り、石の道具を準備する間も近くに作業台を置くと便利です。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Edition and identifier",
+            "zh": "版本與識別碼",
+            "ja": "エディションと識別子"
+          },
+          "paragraphs": {
+            "en": [
+              "This entry belongs to the Java 26.1 data snapshot. Its catalog number 333 is a provider record, not a universal command ID. The named identifier is minecraft:crafting_table. Bedrock also has crafting tables, but its menus, numeric data and older achievement history must be read separately. Resource packs can change the table texture without changing its purpose."
+            ],
+            "zh": [
+              "本頁對應 Java 26.1 資料快照。目錄編號 333 是資料供應者的紀錄，不是通用指令 ID；名稱識別碼為 minecraft:crafting_table。Bedrock 也有工作台，但選單、數字資料與舊成就歷史要分開看。資源包可以改變外觀，不會因此改變工作台的用途。"
+            ],
+            "ja": [
+              "この項目は Java 26.1 のデータです。カタログ番号 333 はデータ提供側の番号であり、共通のコマンド ID ではありません。名前付き識別子は minecraft:crafting_table です。Bedrock にも作業台はありますが、画面、数値 ID、過去の実績は別に確認してください。リソースパックで見た目が変わる場合もあります。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "An evolving interface",
+            "zh": "持續演變的介面",
+            "ja": "変化してきた画面"
+          },
+          "detail": {
+            "en": "The community history records Bedrock recipe-book support in 1.2.0 and a texture update in 1.10.0. These are historical milestones, not claims that this catalog is running those versions.",
+            "zh": "社群歷史記錄 Bedrock 1.2.0 加入配方書相關功能，1.10.0 更新材質。這些是歷史節點，不代表本目錄正在使用這些版本。",
+            "ja": "コミュニティの履歴には Bedrock 1.2.0 のレシピ本対応と 1.10.0 のテクスチャ変更が記録されています。過去の変化であり、この目録の現行バージョンを示すものではありません。"
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Minecraft — How to craft",
+          "url": "https://www.minecraft.net/en-us/article/how-craft",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Minecraft Wiki — Crafting Table",
+          "url": "https://minecraft.wiki/w/Crafting_Table",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "Minecraft — Taking Inventory: Pickaxe",
+          "url": "https://www.minecraft.net/en-us/article/taking-inventory-pickaxe",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Official crafting screenshots",
+            "zh": "官方合成操作截圖",
+            "ja": "公式クラフト画面"
+          },
+          "url": "https://www.minecraft.net/en-us/article/how-craft",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Shows the inventory grid, planks and crafting-table recipe in the game interface.",
+            "zh": "展示遊戲中的背包合成格、木材與工作台配方。",
+            "ja": "インベントリのクラフト枠、板材、作業台のレシピをゲーム画面で確認できます。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "minecraft",
+      "collection": "minecraft-pc-items",
+      "entryId": "939",
+      "layout": "item",
+      "sections": [
+        {
+          "id": "obtain",
+          "title": {
+            "en": "The diamond-tool milestone",
+            "zh": "鑽石工具的進度節點",
+            "ja": "ダイヤ装備への一歩"
+          },
+          "paragraphs": {
+            "en": [
+              "Use three diamonds across the top row of a crafting table, with two sticks down the middle below them. The result is one diamond pickaxe. For ordinary Survival progression, an iron pickaxe lets you collect diamond ore drops before making this upgrade. Check the output before spending scarce diamonds on a different tool by mistake."
+            ],
+            "zh": [
+              "在工作台最上排放三顆鑽石，下方中間直放兩根木棒，可製作一把鑽石鎬。一般生存進度中，先用鐵鎬取得鑽石，再進行升級。鑽石有限，取出成品前先確認配方，避免誤做成其他工具。"
+            ],
+            "ja": [
+              "作業台の上段にダイヤモンド 3 個、その下の中央列に棒 2 本を置くと、ダイヤモンドのツルハシ 1 本が完成します。通常のサバイバルでは先に鉄のツルハシでダイヤモンドを採掘します。貴重な素材を別の道具に使わないよう完成品を確認しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "What it unlocks",
+            "zh": "能採集什麼",
+            "ja": "採掘できるもの"
+          },
+          "paragraphs": {
+            "en": [
+              "A diamond pickaxe can harvest obsidian, which lower-tier pickaxes do not drop as an item. Netherite can also harvest it, so diamond is not the only valid tier. In practice, plan a safe standing position and an exit before working around obsidian and lava; upgrading the tool does not protect your character from environmental damage."
+            ],
+            "zh": [
+              "鑽石鎬可以取得黑曜石掉落物，較低階的鎬無法做到；獄髓鎬也可以，因此鑽石並非唯一有效的等級。實際採集黑曜石時，先確認熔岩附近的站位與退路；升級工具不會讓角色免受環境傷害。"
+            ],
+            "ja": [
+              "ダイヤモンドのツルハシは黒曜石をアイテムとして回収できます。下位のツルハシでは回収できませんが、ネザライトでも可能です。黒曜石や溶岩の周辺では先に足場と退路を確保しましょう。道具を強化しても環境ダメージへの耐性は得られません。"
+            ]
+          },
+          "sourceIds": [
+            "s3"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Durability and maintenance",
+            "zh": "耐久與維護",
+            "ja": "耐久値と手入れ"
+          },
+          "paragraphs": {
+            "en": [
+              "This Java catalog lists 1,561 durability and a maximum stack of one. Read durability as a tool resource, not as damage dealt to a target. An anvil can repair tools using their material or combine compatible tools; repeated anvil work can raise the experience cost. Save your valuable pickaxe before the remaining durability is exhausted."
+            ],
+            "zh": [
+              "此 Java 目錄記錄耐久 1,561，最大堆疊數為一。耐久是工具的消耗資源，不是對目標造成的傷害。鐵砧可用對應材料修理工具，或合併相容工具；重複使用鐵砧可能提高經驗成本。請在耐久耗盡前處理珍貴的鎬。"
+            ],
+            "ja": [
+              "この Java データでは耐久値 1,561、最大スタック数 1 です。耐久値は道具の消耗量であり、攻撃ダメージではありません。金床では対応素材で修理したり同じ種類の道具を合成したりできますが、繰り返し加工すると経験値コストが上がる場合があります。壊れる前に手入れしましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Do not mix tool statistics",
+            "zh": "別混淆工具數值",
+            "ja": "数値を混同しない"
+          },
+          "paragraphs": {
+            "en": [
+              "The record number 939 identifies this Java 26.1 dataset entry; use minecraft:diamond_pickaxe when discussing the named item. Java and Bedrock combat rules are not interchangeable. Mining speed also depends on the block and conditions, so one speed label cannot describe every task. Mods, server rules and enchantments may change the result seen in a demonstration."
+            ],
+            "zh": [
+              "紀錄編號 939 用來識別 Java 26.1 的這筆資料；討論物品名稱時請用 minecraft:diamond_pickaxe。Java 與 Bedrock 戰鬥規則不可直接互套。挖掘速度也受方塊與條件影響，單一速度標籤不能涵蓋所有工作。模組、伺服器規則與附魔可能改變示範結果。"
+            ],
+            "ja": [
+              "番号 939 は Java 26.1 の目録内の識別番号です。アイテム名は minecraft:diamond_pickaxe を使います。Java と Bedrock の戦闘ルールを混ぜないでください。採掘速度は対象や条件でも変わるため、単一の速度表示では全用途を説明できません。MOD、サーバー設定、エンチャントにも注意してください。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "From diamond to netherite",
+            "zh": "從鑽石升級獄髓",
+            "ja": "ダイヤからネザライトへ"
+          },
+          "detail": {
+            "en": "The current community recipe documents a diamond pickaxe as an input for a netherite upgrade, together with a Netherite Upgrade template and a netherite ingot. This is an equipment progression path, not an automatic transformation.",
+            "zh": "社群目前的配方記載：鑽石鎬可搭配獄髓升級鍛造模板與獄髓錠進行升級。這是裝備進度路徑，不會自動轉變。",
+            "ja": "コミュニティのレシピでは、ダイヤモンドのツルハシ、ネザライト強化用の鍛冶型、ネザライトインゴットを使って強化します。装備の発展経路であり、自動変化ではありません。"
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Minecraft — Taking Inventory: Pickaxe",
+          "url": "https://www.minecraft.net/en-us/article/taking-inventory-pickaxe",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Minecraft Wiki — Pickaxe",
+          "url": "https://minecraft.wiki/w/Pickaxe",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "Minecraft Wiki — Obsidian",
+          "url": "https://minecraft.wiki/w/obsidian",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Minecraft — Taking Inventory: Anvil",
+          "url": "https://www.minecraft.net/en-us/article/taking-inventory--anvil",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Official pickaxe illustrations",
+            "zh": "官方鎬子圖解",
+            "ja": "公式ツルハシ図解"
+          },
+          "url": "https://www.minecraft.net/en-us/article/taking-inventory-pickaxe",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Illustrations and the official explanation of pickaxe progression.",
+            "zh": "官方插圖與鎬子進度說明。",
+            "ja": "公式イラストとツルハシの発展段階を確認できます。"
+          }
+        },
+        {
+          "label": {
+            "en": "Pickaxe renders and recipes",
+            "zh": "鎬子模型與配方",
+            "ja": "ツルハシのモデルとレシピ"
+          },
+          "url": "https://minecraft.wiki/w/Pickaxe",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Compare the actual diamond-tool appearance with other tiers; screenshots may use a different game version.",
+            "zh": "比較鑽石工具與其他等級的外觀；截圖可能使用不同遊戲版本。",
+            "ja": "ダイヤ道具と他の段階の見た目を比較できます。画像のゲームバージョンは異なる場合があります。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "minecraft",
+      "collection": "minecraft-pc-items",
+      "entryId": "335",
+      "layout": "item",
+      "sections": [
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Build a basic furnace",
+            "zh": "製作基本熔爐",
+            "ja": "基本のかまどを作る"
+          },
+          "paragraphs": {
+            "en": [
+              "Arrange eight cobblestone around the outside of the crafting table grid, leaving the center empty. Collect the furnace, place it beside your work area and open it with the use action. This is a practical first smelting setup: keep the crafting table close enough that you can turn processed materials into equipment without repeatedly moving between rooms."
+            ],
+            "zh": [
+              "將八個鵝卵石排列在工作台合成格的外圈，中間留空。取出熔爐，放在工作區旁並使用它。這是實用的初期冶煉配置；工作台放近一點，能把加工後材料直接製成裝備，減少往返不同房間。"
+            ],
+            "ja": [
+              "作業台の外周 8 マスに丸石を置き、中央を空けるとかまどができます。回収して作業場所に設置し、使用操作で開きます。近くに作業台も置けば、加工した素材をすぐ装備にでき、部屋を行き来する手間を減らせます。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Input, fuel and output",
+            "zh": "原料、燃料與成品",
+            "ja": "素材・燃料・完成品"
+          },
+          "paragraphs": {
+            "en": [
+              "Put the material to process in the upper slot and fuel in the lower slot. The output appears separately after processing. Furnaces handle more than metal: supported recipes include food, building materials and sponge drying. If nothing starts, check the recipe, available fuel and whether the output slot can accept the result before assuming the furnace is broken."
+            ],
+            "zh": [
+              "上方格放待處理材料，下方格放燃料，完成後成品會出現在另一格。熔爐不只處理金屬，也有食物、建材與海綿乾燥等配方。沒有開始運作時，先查配方、燃料與輸出格是否能容納成品，不要直接判定熔爐壞了。"
+            ],
+            "ja": [
+              "上の枠に加工素材、下の枠に燃料を入れると、完成後に別の枠へ結果が出ます。金属以外にも食料、建材、スポンジの乾燥などに対応します。動かない場合はレシピ、燃料、完成品を受け取る枠を順に確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Plan a smelting batch",
+            "zh": "規劃冶煉批次",
+            "ja": "まとめて精錬する"
+          },
+          "paragraphs": {
+            "en": [
+              "The community reference describes ordinary furnace processing as 200 game ticks per item. Fuel types do not all last equally long, so count the intended batch before spending a valuable fuel source. The visible progress arrow describes the current item; it does not mean every item in the input stack has already finished. Collect and check the output."
+            ],
+            "zh": [
+              "社群資料記載一般熔爐每件物品處理時間為 200 遊戲刻。不同燃料的持續時間不同，使用珍貴燃料前先計算要處理的數量。畫面上的進度箭頭只表示目前這件物品，不代表輸入堆疊已全部完成；請取出並檢查成品。"
+            ],
+            "ja": [
+              "コミュニティ資料では通常の処理は 1 個につき 200 ゲームティックです。燃料によって持続時間が異なるため、先に処理数を決めましょう。進捗の矢印は現在の 1 個を示すもので、投入したスタック全体の完了を意味しません。完成品を回収して確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Recover the block safely",
+            "zh": "正確回收方塊",
+            "ja": "安全に回収する"
+          },
+          "paragraphs": {
+            "en": [
+              "For this Java entry, use a pickaxe when recovering the furnace: breaking it without one does not drop the block. Empty important contents first so you can track what you recovered. Bedrock behavior differs, so do not treat the Java recovery rule or dataset number 335 as a universal rule. The named item is minecraft:furnace."
+            ],
+            "zh": [
+              "此頁為 Java 條目，回收熔爐請使用鎬；不用鎬破壞時不會掉落熔爐方塊。建議先取走重要內容物，方便確認回收結果。Bedrock 行為不同，不能把 Java 回收規則或資料編號 335 當成通用規則。物品名稱識別碼是 minecraft:furnace。"
+            ],
+            "ja": [
+              "この Java 項目では、かまどの回収にツルハシを使ってください。他の方法で壊すとかまど自体は落ちません。大切な中身は先に取り出すと回収物を確認しやすくなります。Bedrock では挙動が異なり、Java の回収条件や番号 335 は共通ルールではありません。名前は minecraft:furnace です。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "19 February 2010",
+            "zh": "2010 年 2 月 19 日",
+            "ja": "2010 年 2 月 19 日"
+          },
+          "detail": {
+            "en": "Mojang’s retrospective dates the furnace to version 0.31. It replaced a much less convenient early smelting approach and later gained a more familiar interface and wider uses.",
+            "zh": "Mojang 的回顧文章將熔爐的加入時間記為 0.31 版本。它取代早期較不方便的冶煉方式，後續逐漸形成較熟悉的介面與用途。",
+            "ja": "Mojang の回顧記事では、かまどは 0.31 で追加されたとされています。初期の不便な精錬方法に代わり、その後、現在に近い画面と用途が整えられました。"
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Minecraft — Block of the Week: Furnace",
+          "url": "https://www.minecraft.net/en-us/article/block-week-furnace",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Minecraft Wiki — Furnace",
+          "url": "https://minecraft.wiki/w/Furnace",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Furnace in-game views",
+            "zh": "熔爐遊戲內畫面",
+            "ja": "かまどのゲーム内画像"
+          },
+          "url": "https://minecraft.wiki/w/Furnace#Gallery",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "See the active block, furnace interface and version-specific renders in the community gallery.",
+            "zh": "查看運作中的方塊、熔爐介面及不同版本模型。",
+            "ja": "稼働中のブロック、かまど画面、エディション別の外観を確認できます。"
+          }
+        },
+        {
+          "label": {
+            "en": "Official furnace feature",
+            "zh": "官方熔爐專文",
+            "ja": "公式かまど特集"
+          },
+          "url": "https://www.minecraft.net/en-us/article/block-week-furnace",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Mojang’s illustrated feature explains smelting and the block’s early history.",
+            "zh": "Mojang 圖文專欄說明冶煉與方塊早期歷史。",
+            "ja": "Mojang の図解記事で精錬と初期の歴史を確認できます。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "roblox",
+      "collection": "roblox-field-reference",
+      "entryId": "roblox-field-rush",
+      "layout": "encounter",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Hotel threat profile",
+            "zh": "旅館威脅檔案",
+            "ja": "ホテルの脅威"
+          },
+          "paragraphs": {
+            "en": [
+              "Rush is a fast passing threat in DOORS, the Roblox experience made by LSPLASH. This dossier covers ordinary Hotel runs. Its purpose is to help identify a warning and choose shelter, not to promise a fixed spawn at a particular door. Event modes and later floors need their own rules and should not inherit a Hotel timing guide unchanged."
+            ],
+            "zh": [
+              "Rush 是 LSPLASH 製作的 Roblox 體驗 DOORS 中快速通過房間的威脅。本頁只討論一般旅館流程，目的是辨識警告並選擇躲藏處，不保證它固定出現在某一扇門。活動模式與後續樓層有自己的規則，不應直接套用旅館的時間攻略。"
+            ],
+            "ja": [
+              "Rush は LSPLASH の Roblox 作品 DOORS に登場する、高速で部屋を通過する脅威です。この項目は通常のホテルを対象に、警告と避難判断を説明します。特定のドアで必ず出現するという保証ではありません。イベントや別フロアには個別のルールがあります。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Read the approach",
+            "zh": "辨識接近訊號",
+            "ja": "接近の合図を読む"
+          },
+          "paragraphs": {
+            "en": [
+              "Flickering lights can warn that Rush is approaching, and its sound becomes an important cue. Rush can break room lights as it passes, leaving later exploration darker. The Greenhouse has different lighting conditions, so a plan based only on a visible flicker is incomplete. Locate usable shelter before becoming absorbed in drawers, keys or another screen."
+            ],
+            "zh": [
+              "燈光閃爍可能是 Rush 接近的警告，聲音也很重要。它通過時會破壞房間燈光，使後續探索更黑。溫室的照明條件不同，只等看見閃燈並不可靠。專心翻抽屜、找鑰匙或看其他畫面前，先確認可用的躲藏處。"
+            ],
+            "ja": [
+              "照明の点滅が接近の合図になることがあり、音も重要です。通過時に照明を壊すため、その後は暗くなります。温室では照明条件が異なるので、点滅だけに頼る計画では不十分です。引き出しや鍵に集中する前に、使える隠れ場所を確認しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Shelter, listen, then move",
+            "zh": "躲藏、聆聽，再前進",
+            "ja": "隠れ、聞き、移動する"
+          },
+          "paragraphs": {
+            "en": [
+              "Get into a valid hiding place before the passage reaches you, then listen for the danger to clear. Avoid leaving just to inspect the monster. GameBreak’s suggested practice is to identify the nearest shelter each time you enter a room; this reduces decision time when a warning arrives. It is a practice suggestion, not a tested guarantee of survival."
+            ],
+            "zh": [
+              "在 Rush 到達前進入有效的躲藏處，再聽聲音判斷危險是否通過。不要只為了看怪物而離開。GameBreak 建議練習每進一間房就先辨識最近的躲藏處，縮短收到警告時的決策時間；這是練習建議，不是已實測的生存保證。"
+            ],
+            "ja": [
+              "通過が届く前に有効な隠れ場所へ入り、音で危険が去ったか判断します。怪物を見たいだけで外へ出ないでください。GameBreak では、部屋に入るたび最寄りの隠れ場所を確認する練習を提案します。判断を早める工夫であり、生存を実測保証するものではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Hide is a second timer",
+            "zh": "Hide 是另一個壓力",
+            "ja": "Hide にも注意"
+          },
+          "paragraphs": {
+            "en": [
+              "Remaining hidden too long can bring Hide into the encounter and force you out. Pay attention to its warning while also tracking Rush outside. The available hiding time changes with context and modifiers; copying one countdown from an old video can fail. Ambush is a different encounter with returning passes, so do not treat every rushing sound as identical."
+            ],
+            "zh": [
+              "躲藏過久可能引來 Hide，將你強制趕出。注意它的警告，同時追蹤外面的 Rush。可躲藏時間會受到情境與修正條件影響，照抄舊影片的固定倒數可能失敗。Ambush 會反覆通過，屬於不同遭遇，不要把所有衝刺聲當成同一種威脅。"
+            ],
+            "ja": [
+              "隠れ続けると Hide に追い出される場合があります。外の Rush と Hide の警告を同時に確認してください。隠れられる時間は状況やモディファイアで変わり、古い動画の秒数だけでは判断できません。往復する Ambush は別の遭遇なので、似た音をすべて同じ扱いにしないでください。"
+            ]
+          },
+          "sourceIds": [
+            "s2",
+            "s4"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "A floor-specific change",
+            "zh": "樓層限定的變化",
+            "ja": "フロアごとの変化"
+          },
+          "detail": {
+            "en": "The community history records forward-origin attacks added for The Mines in August 2024. That history is a reason to keep Hotel and Mines instructions separate, not evidence that every Hotel attack comes from ahead.",
+            "zh": "社群歷史記載 2024 年 8 月為礦坑加入從前方開始的攻擊。這說明旅館與礦坑攻略需要分開，並不表示每次旅館攻擊都來自前方。",
+            "ja": "コミュニティ履歴には 2024 年 8 月、鉱山で前方からの攻撃が追加されたとあります。ホテルと鉱山の手順を分ける理由であり、ホテルでも常に前方から来るという意味ではありません。"
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "DOORS Wiki — Rush",
+          "url": "https://doors-game.fandom.com/wiki/Rush",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "DOORS Wiki — Hide",
+          "url": "https://doors-game.fandom.com/wiki/Hide",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "LSPLASH — DOORS on Roblox",
+          "url": "https://www.roblox.com/games/6516141723/DOORS",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "DOORS Wiki — Ambush",
+          "url": "https://doors-game.fandom.com/wiki/Ambush",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Rush gameplay gallery",
+            "zh": "Rush 遊戲畫面集",
+            "ja": "Rush のゲーム内ギャラリー"
+          },
+          "url": "https://doors-game.fandom.com/wiki/Rush#Gallery",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community images show Rush passing a wardrobe, its in-game appearance and visual variants.",
+            "zh": "社群圖片展示 Rush 經過衣櫃、遊戲內外觀與視覺變體。",
+            "ja": "クローゼット付近の Rush、ゲーム内の姿、見た目の違いを確認できます。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "roblox",
+      "collection": "roblox-hotel-reference",
+      "entryId": "doors-ref-figure",
+      "layout": "encounter",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Two Hotel objectives",
+            "zh": "旅館的兩個重要關卡",
+            "ja": "ホテルの二つの目標"
+          },
+          "paragraphs": {
+            "en": [
+              "Figure patrols key Hotel encounters, including the Library and the Electrical Room. Treat it as an obstacle while completing the room’s objective, rather than a normal enemy with an invented health bar. This reference covers standard Hotel play; Mines encounters and special modes can change the route, distractions and required actions."
+            ],
+            "zh": [
+              "Figure 會巡邏旅館的重要遭遇場景，包括圖書館與電力室。完成房間目標時要避開它，不能把它當成有虛構血條的普通敵人。本頁討論標準旅館流程；礦坑與特殊模式可能改變路線、干擾方式與所需操作。"
+            ],
+            "ja": [
+              "Figure は図書館や電気室など、ホテルの重要な場面を巡回します。架空の体力バーを持つ通常の敵として扱わず、部屋の目的を進めながら回避してください。この項目は通常のホテル向けで、鉱山や特殊モードでは経路や行動が変わります。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Sound and distance",
+            "zh": "聲音與距離",
+            "ja": "音と距離"
+          },
+          "paragraphs": {
+            "en": [
+              "Figure reacts to sound and close proximity. Crouching near it helps reduce the chance of attracting attention, but does not make contact safe. Keep space, watch its movement and avoid crossing its path merely because you are crouched. If it approaches your hiding place, follow the on-screen encounter prompts instead of assuming every wardrobe is unconditional protection."
+            ],
+            "zh": [
+              "Figure 會對聲音與近距離接觸作出反應。在附近蹲下能減少引起注意的風險，但不代表碰到它也安全。保持距離並觀察移動，不要因為蹲著就穿過它的路線。若它接近躲藏處，請依畫面提示處理，不要認為所有衣櫃都能無條件保護你。"
+            ],
+            "ja": [
+              "Figure は音や近距離の存在に反応します。近くではしゃがんで注意を引きにくくできますが、接触が安全になるわけではありません。距離を保ち、しゃがんでいても進路を横切らないでください。隠れ場所に近づかれたら画面の指示に従いましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Solve the Library while moving safely",
+            "zh": "安全移動並解開圖書館",
+            "ja": "安全に図書館を解く"
+          },
+          "paragraphs": {
+            "en": [
+              "Collect the marked books to reveal symbol–number pairs, then use the Solution Paper to place the needed numbers in order. Enter that sequence at the exit lock. GameBreak suggests separating the task into observe, collect and decode: pause the search when Figure blocks a route, and check your recorded pairs before moving to the lock."
+            ],
+            "zh": [
+              "收集標記書籍取得圖形與數字配對，再依提示紙決定需要的數字順序，輸入出口鎖。GameBreak 建議把工作拆成觀察、收集、解碼：Figure 擋住路線時暫停搜尋，前往鎖之前再檢查已記錄的配對。"
+            ],
+            "ja": [
+              "目印のある本から図形と数字の組を集め、解答用紙で順番を決めて出口の錠に入力します。GameBreak では観察、収集、解読を分ける方法を提案します。Figure が道をふさぐ間は探索を止め、錠へ向かう前に記録を確かめましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Temporary help is not a defeat",
+            "zh": "暫時牽制不等於擊敗",
+            "ja": "一時停止は撃破ではない"
+          },
+          "paragraphs": {
+            "en": [
+              "A Crucifix only restrains Figure temporarily; it does not permanently banish this boss. Use the pause to reposition rather than waiting beside the chains. Old footage may show safe corners or different behavior that no longer matches the room. Once the exit objective is complete, prioritize leaving instead of returning for optional loot near Figure."
+            ],
+            "zh": [
+              "十字架只能暫時束縛 Figure，不能永久放逐這個頭目。利用短暫空檔調整位置，不要站在鎖鏈旁等。舊影片可能展示已不適用的安全角落或行為。出口目標完成後，優先離開，別為可選戰利品回到 Figure 附近。"
+            ],
+            "ja": [
+              "十字架は Figure を一時的に拘束しますが、このボスを永久に追放できません。鎖のそばで待たず、その間に位置を変えましょう。古い映像の安全地帯や挙動が現在も通用するとは限りません。出口の目標が完了したら、追加の戦利品より退室を優先します。"
+            ]
+          },
+          "sourceIds": [
+            "s3",
+            "s2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "The Mines update, August 2024",
+            "zh": "2024 年 8 月礦坑更新",
+            "ja": "2024 年 8 月の鉱山アップデート"
+          },
+          "detail": {
+            "en": "The community history documents changes to Figure’s AI, animations and hit detection. This explains why older routes should be checked against the current encounter rather than labeled permanently safe.",
+            "zh": "社群歷史記錄 Figure 的 AI、動畫與碰撞判定曾改動，因此舊路線需要對照目前遭遇，不能標為永遠安全。",
+            "ja": "コミュニティ履歴には AI、アニメーション、接触判定の変更が記録されています。そのため古い経路を永久に安全とせず、現在の遭遇に照らして確認する必要があります。"
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "DOORS Wiki — Figure",
+          "url": "https://doors-game.fandom.com/wiki/Figure",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "DOORS Wiki — The Library",
+          "url": "https://doors-game.fandom.com/wiki/The_Library",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "DOORS Wiki — Crucifix",
+          "url": "https://doors-game.fandom.com/wiki/Crucifix",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "LSPLASH — DOORS on Roblox",
+          "url": "https://www.roblox.com/games/6516141723/DOORS",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Figure and Library visuals",
+            "zh": "Figure 與圖書館畫面",
+            "ja": "Figure と図書館の画像"
+          },
+          "url": "https://doors-game.fandom.com/wiki/Figure",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community renders and encounter images; use the caption to distinguish Hotel, Mines and older versions.",
+            "zh": "社群模型與遭遇圖片；請依說明區分旅館、礦坑與舊版本。",
+            "ja": "コミュニティのモデルや遭遇画像です。キャプションでホテル、鉱山、旧版を区別してください。"
+          }
+        },
+        {
+          "label": {
+            "en": "Library layout and puzzle",
+            "zh": "圖書館布局與謎題",
+            "ja": "図書館の配置と謎解き"
+          },
+          "url": "https://doors-game.fandom.com/wiki/The_Library",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Reference images show the room and puzzle context; a historic layout is not a guaranteed current route.",
+            "zh": "參考圖片展示房間與謎題情境；歷史布局不代表目前保證可行的路線。",
+            "ja": "部屋と謎解きの状況を確認できます。過去の配置が現行の安全経路を保証するわけではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "roblox",
+      "collection": "roblox-hotel-reference",
+      "entryId": "doors-ref-lockpick",
+      "layout": "item",
+      "sections": [
+        {
+          "id": "usage",
+          "title": {
+            "en": "Spend a tool to skip a key search",
+            "zh": "消耗工具換取搜尋時間",
+            "ja": "鍵探しを道具で短縮する"
+          },
+          "paragraphs": {
+            "en": [
+              "A Lockpick opens supported ordinary locks without finding the matching key. Equip it at the locked object and complete the interaction. It is consumed when used, so the useful question is not simply whether the door can be opened, but whether skipping this search is worth losing a tool that might help later."
+            ],
+            "zh": [
+              "開鎖器可在不找到對應鑰匙的情況下開啟支援的普通鎖。靠近上鎖物件、裝備工具並完成互動即可。使用後會消耗，因此重點不只是能否開門，也要考慮省下這次搜尋是否值得耗掉後續可能需要的工具。"
+            ],
+            "ja": [
+              "ロックピックは対応する通常の錠を、専用の鍵なしで開けられます。対象の前で装備して操作を完了します。使うと消費されるため、開けられるかだけでなく、後で役立つ道具を使ってまで今回の探索を省く価値があるか考えましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Find or buy in the Hotel",
+            "zh": "在旅館尋找或購買",
+            "ja": "ホテルで拾う・買う"
+          },
+          "paragraphs": {
+            "en": [
+              "The community reference lists containers, the Pre-Run Shop and Jeff Shop as Hotel sources. Check what is actually offered in your run rather than expecting a specific purchase to appear. GameBreak suggests counting the tools you already hold before shopping, then deciding which upcoming locked objective you intend to reserve one for."
+            ],
+            "zh": [
+              "社群資料列出旅館容器、出發前商店及 Jeff 商店等取得途徑。請看當次實際販售內容，不要假設特定物品一定出現。GameBreak 建議購物前先清點已有工具，再決定是否要為後續上鎖目標保留一個。"
+            ],
+            "ja": [
+              "コミュニティ資料では、ホテルの容器、開始前ショップ、Jeff Shop が入手先として挙げられています。その回で実際に提示される商品を確認してください。購入前に所持数を数え、どの先の目標に残すか決める方法を GameBreak では勧めます。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Locks it does and does not solve",
+            "zh": "能處理與不能處理的鎖",
+            "ja": "開けられる錠・開けられない錠"
+          },
+          "paragraphs": {
+            "en": [
+              "Lockpicks can open ordinary locked doors and supported locked containers. They cannot substitute for the Library’s combination puzzle or open skeleton-locked doors by themselves. The community article also records generator use in The Mines, which is a separate floor mechanic. Do not read that extra function as a reason to insert the tool into every Hotel object."
+            ],
+            "zh": [
+              "開鎖器能開普通上鎖門與支援的上鎖容器，但無法取代圖書館密碼謎題，也不能單獨開啟骷髏鎖門。社群文章另記載它可在礦坑發電機使用，這是另一樓層的機制，不能因此認為旅館每個物件都可插入開鎖器。"
+            ],
+            "ja": [
+              "通常の施錠ドアや対応する容器を開けられますが、図書館の暗号を省略したり、骸骨の錠を単独で開けたりはできません。鉱山の発電機で使う機能も記録されていますが、別フロアの仕組みです。ホテル内のすべての装置に使えるわけではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Time saved versus resources spent",
+            "zh": "省時與資源消耗的取捨",
+            "ja": "時間と資源の交換"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak’s planning suggestion is to search an easy, well-understood room normally and consider a Lockpick when searching is taking attention away from survival. A tool does not identify the correct exit for you. Track room numbers and the objective first; opening the wrong route quickly is still a mistake. This advice has been source reviewed, not tested in your run settings."
+            ],
+            "zh": [
+              "GameBreak 的規劃建議是：容易辨識的房間先正常搜尋，當搜尋已影響生存注意力時再考慮開鎖器。工具不會替你辨認正確出口；先追蹤房號與目標，快速開錯路仍是錯誤。這些建議經來源核對，尚未在你的當次設定實測。"
+            ],
+            "ja": [
+              "GameBreak の提案は、分かりやすい部屋では通常通り探し、生存への注意が削られる場合にロックピックを検討することです。道具が正しい出口を判断するわけではありません。部屋番号と目標を確認してください。これは資料に基づく提案で、そのプレイ設定での実測ではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "20 December 2024",
+            "zh": "2024 年 12 月 20 日",
+            "ja": "2024 年 12 月 20 日"
+          },
+          "detail": {
+            "en": "The community history records its addition to The Mines with new uses. Hotel-only guides written before that change may omit those later functions.",
+            "zh": "社群歷史記載這天在礦坑加入開鎖器與新用途；更早的旅館專用攻略可能沒有涵蓋後續功能。",
+            "ja": "コミュニティ履歴には、この日に鉱山へ新しい用途とともに追加されたとあります。それ以前のホテル向け攻略には後の機能が載っていない場合があります。"
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "DOORS Wiki — Lockpick",
+          "url": "https://doors-game.fandom.com/wiki/Lockpick",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "DOORS Wiki — The Library",
+          "url": "https://doors-game.fandom.com/wiki/The_Library",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "DOORS Wiki — Dupe",
+          "url": "https://doors-game.fandom.com/wiki/Dupe",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "LSPLASH — DOORS on Roblox",
+          "url": "https://www.roblox.com/games/6516141723/DOORS",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Lockpick in use",
+            "zh": "開鎖器實際使用畫面",
+            "ja": "ロックピックの使用画像"
+          },
+          "url": "https://doors-game.fandom.com/wiki/Lockpick#Gallery",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "The gallery includes shop placement, locked-chest use and generator use. Check the floor shown in each caption.",
+            "zh": "圖片集包含商店陳列、開啟上鎖箱及發電機用途；請確認各張說明所屬樓層。",
+            "ja": "販売場所、施錠された箱、発電機での使用例があります。各画像の説明でフロアを確認してください。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "fortnite",
+      "collection": "fortnite-shop",
+      "entryId": "CID_337_Athena_Commando_F_Celestial",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Galaxy Pack identity",
+            "zh": "Galaxy Pack 外觀身分",
+            "ja": "Galaxy Pack の衣装"
+          },
+          "paragraphs": {
+            "en": [
+              "Galaxy Scout is an Outfit from the Galaxy Pack set, introduced during Chapter 2, Season 3. The community record associates it with the Nucleus Back Bling. Its star-filled appearance is a visual theme, not a documented character class. Keep the Outfit, its matching accessories and the differently named Galaxy Grappler as separate catalog records when planning a cosmetic combination."
+            ],
+            "zh": [
+              "Galaxy Scout 是 Chapter 2 Season 3 推出的 Galaxy Pack 系列造型，社群資料將它與 Nucleus 背飾連結。星空外觀是視覺主題，不是已證實的角色職業。搭配外觀時，請把造型、配件及名稱不同的 Galaxy Grappler 視為不同條目。"
+            ],
+            "ja": [
+              "Galaxy Scout はチャプター 2 シーズン 3 の Galaxy Pack セットのコスチュームで、コミュニティ資料では Nucleus バックアクセサリーと関連付けられています。星空の外観は視覚テーマであり、確認済みの職業設定ではありません。衣装、付属品、Galaxy Grappler を別項目として扱いましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Historical reward and current shop",
+            "zh": "歷史獎勵與目前商店",
+            "ja": "過去の報酬と現在のショップ"
+          },
+          "paragraphs": {
+            "en": [
+              "Epic announced early access through the July 25–26, 2020 Android Galaxy Cup and said the Outfit would later reach the Item Shop. That competition is historical, not an active free-unlock method. A stored shop offer is also only a snapshot: use the official shop to check whether it is available today and whether the displayed price belongs to a bundle."
+            ],
+            "zh": [
+              "Epic 曾公告可透過 2020 年 7 月 25–26 日 Android Galaxy Cup 提早取得，之後會進入物品商店。該賽事已是歷史，並非現在可用的免費解鎖方法。目錄中的商店報價也只是快照；請到官方商店確認今天是否販售，以及價格是否屬於套裝。"
+            ],
+            "ja": [
+              "Epic は 2020 年 7 月 25～26 日の Android Galaxy Cup で先行入手でき、後にショップへ登場すると発表しました。これは過去の大会で、現在の無料入手方法ではありません。保存された販売情報もスナップショットです。現在の販売有無と、価格がセット全体のものかを公式ショップで確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s4"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Equip and inspect",
+            "zh": "裝備與檢視",
+            "ja": "装備して確認する"
+          },
+          "paragraphs": {
+            "en": [
+              "After ownership is confirmed, open Locker from the lobby, select Character and choose the Outfit, then return to view your avatar. For a useful visual check, compare the front and back with any Back Bling you plan to use. GameBreak recommends inspecting the actual preview rather than deciding from the small catalog icon alone."
+            ],
+            "zh": [
+              "確認已擁有後，從大廳開啟 Locker，選 Character，再選造型並返回查看角色。建議比較正面與背面，檢查準備使用的背飾是否符合喜好。GameBreak 建議看實際預覽，不要只靠目錄的小圖示決定。"
+            ],
+            "ja": [
+              "所持していることを確認後、ロビーからロッカーを開き、キャラクターで衣装を選び、戻ってアバターを確認します。使いたいバックアクセサリーと合わせて前後を見比べると便利です。小さな目録アイコンだけで判断せず、実際のプレビューを見ることを勧めます。"
+            ]
+          },
+          "sourceIds": [
+            "s3"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Appearance, not a combat upgrade",
+            "zh": "外觀用途，不是戰鬥升級",
+            "ja": "見た目の変更"
+          },
+          "paragraphs": {
+            "en": [
+              "Epic states that Outfits do not change hitbox size or improve competitive performance. Galaxy Scout therefore has no Outfit-based damage, shield or movement bonus to list. If your goal is to improve a Battle Royale result, use a mechanics guide alongside this cosmetic record; buying the appearance does not replace practice with the weapons and movement in your selected mode."
+            ],
+            "zh": [
+              "Epic 說明造型不會改變命中判定大小，也不會提升競技表現。因此 Galaxy Scout 沒有造型本身帶來的傷害、護盾或移動加成。若目標是改善 Battle Royale 表現，請搭配玩法攻略；購買外觀不能取代對所選模式武器與移動的練習。"
+            ],
+            "ja": [
+              "Epic によれば衣装で当たり判定の大きさや競技性能は変わりません。そのため Galaxy Scout 固有の攻撃力、シールド、移動ボーナスはありません。バトルロイヤルの上達が目的なら、この外観項目と仕組みの攻略を併用してください。購入は武器や移動の練習の代わりにはなりません。"
+            ]
+          },
+          "sourceIds": [
+            "s5"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "July–August 2020",
+            "zh": "2020 年 7–8 月",
+            "ja": "2020 年 7～8 月"
+          },
+          "detail": {
+            "en": "Epic’s July announcement documents the original Galaxy Cup route; the community catalog records the Item Shop release on August 1, 2020. Neither date predicts the next shop rotation.",
+            "zh": "Epic 七月公告記錄原始 Galaxy Cup 取得方式；社群目錄記載 2020 年 8 月 1 日進入物品商店。這些日期都不能預測下次輪替。",
+            "ja": "Epic の 7 月発表に最初の大会での入手方法があり、コミュニティ目録では 2020 年 8 月 1 日にショップ登場と記録されています。次回販売日の予測ではありません。"
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Epic — Fortnite Galaxy Cup for Android Players",
+          "url": "https://www.fortnite.com/news/fortnite-galaxy-cup-for-android-players?lang=en-US",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Fortnite Wiki — Galaxy Scout",
+          "url": "https://fortnite.fandom.com/wiki/Galaxy_Scout",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "Epic Support — Change your Fortnite Outfit",
+          "url": "https://www.epicgames.com/help/c-34254770/c-33726977/a13582871?lang=en-US",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Fortnite — Official Item Shop",
+          "url": "https://www.fortnite.com/item-shop",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s5",
+          "name": "Epic Support — Outfit gameplay advantage",
+          "url": "https://www.epicgames.com/help/c-34254770/c-33726977/do-fortnite-outfits-provide-a-gameplay-advantage-a13997117",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Official Galaxy Scout artwork",
+            "zh": "官方 Galaxy Scout 圖片",
+            "ja": "公式 Galaxy Scout アート"
+          },
+          "url": "https://www.fortnite.com/news/fortnite-galaxy-cup-for-android-players?lang=en-US",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Official promotional image of the Outfit and wrap from the original event; this is artwork, not a gameplay test.",
+            "zh": "原始活動的官方造型與武器塗裝宣傳圖；這是官方圖片，不是玩法實測。",
+            "ja": "初回イベントの衣装とラップの公式画像です。宣伝画像であり、ゲームプレイの実測ではありません。"
+          }
+        },
+        {
+          "label": {
+            "en": "Outfit visual reference",
+            "zh": "造型視覺資料",
+            "ja": "衣装の見た目資料"
+          },
+          "url": "https://fortnite.fandom.com/wiki/Galaxy_Scout",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community icon, full Outfit presentation and release references.",
+            "zh": "社群圖示、完整造型展示與推出資料。",
+            "ja": "コミュニティのアイコン、衣装全体の表示、登場記録です。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "fortnite",
+      "collection": "fortnite-shop",
+      "entryId": "CID_A_174_Athena_Commando_F_CelestialGlow",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Event Horizon set",
+            "zh": "Event Horizon 系列",
+            "ja": "Event Horizon セット"
+          },
+          "paragraphs": {
+            "en": [
+              "Galaxy Grappler is an Outfit in the Event Horizon set, distinct from Galaxy Scout and from the Grappler gameplay item. Its matching Hands of the Galaxy is a Back Bling, while Galaxy Starblades is a Pickaxe cosmetic. Keeping these categories separate prevents a cosmetic bundle from being presented as a weapon loadout with invented combat statistics."
+            ],
+            "zh": [
+              "Galaxy Grappler 是 Event Horizon 系列造型，與 Galaxy Scout 以及遊戲中的 Grappler 道具不同。Hands of the Galaxy 是搭配背飾，Galaxy Starblades 則是鎬造型。區分類別能避免把外觀套裝誤寫成附有虛構戰鬥數值的武器配置。"
+            ],
+            "ja": [
+              "Galaxy Grappler は Event Horizon セットの衣装で、Galaxy Scout や移動アイテムの Grappler とは別物です。Hands of the Galaxy は背中の装飾、Galaxy Starblades はツルハシ外観です。分類を分けることで、外観セットを架空の戦闘数値付き装備構成として扱う誤りを防げます。"
+            ]
+          },
+          "sourceIds": [
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Tournament origin and rotation",
+            "zh": "賽事起源與輪替",
+            "ja": "大会での登場と再販"
+          },
+          "paragraphs": {
+            "en": [
+              "The original Galaxy Cup 2.0 ran on August 29, 2021 for eligible Android players. Epic announced the Outfit, Back Bling and wrap as early rewards and confirmed later Item Shop availability. Those tournament instructions describe a past event. Today, check the current official offer and its included items; an old event article does not grant the Outfit to an account."
+            ],
+            "zh": [
+              "原始 Galaxy Cup 2.0 於 2021 年 8 月 29 日開放符合資格的 Android 玩家參加。Epic 公告造型、背飾與塗裝可提前獲得，之後進入商店。這些賽事說明屬於過去活動；現在請確認官方當期商品與內容物，舊公告不會替帳號發放造型。"
+            ],
+            "ja": [
+              "最初の Galaxy Cup 2.0 は 2021 年 8 月 29 日、対象 Android プレイヤー向けに開催されました。Epic は衣装、背中装飾、ラップの先行報酬と後日のショップ販売を発表しました。過去の記事を読んでも入手できません。現在の公式商品と同梱内容を確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Inspect the matching pieces",
+            "zh": "檢視搭配配件",
+            "ja": "組み合わせを確認する"
+          },
+          "paragraphs": {
+            "en": [
+              "Equip the owned Outfit through the Locker’s Character section and check your avatar after returning. Inspect any matching accessory separately instead of assuming that everything shown in promotional art is included in a single-item purchase. GameBreak’s visual suggestion is to preview the full combination in motion and check how the Back Bling sits against the character’s silhouette."
+            ],
+            "zh": [
+              "透過 Locker 的 Character 區域裝備已擁有的造型，返回後確認角色。搭配配件請分別檢查，不能假設單件購買包含宣傳圖所有內容。GameBreak 建議預覽整套搭配的動態效果，看看背飾如何與角色輪廓組合。"
+            ],
+            "ja": [
+              "所持衣装をロッカーのキャラクター欄で装備し、戻って姿を確認します。宣伝画像の品がすべて単品購入に付くとは限らないため、付属品は別々に確認してください。GameBreak では動きのあるプレビューで全体を見て、背中装飾と輪郭の相性を確かめる方法を提案します。"
+            ]
+          },
+          "sourceIds": [
+            "s3",
+            "s4"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Reactive accessory, cosmetic effect",
+            "zh": "反應式配件是視覺效果",
+            "ja": "反応する装飾も見た目の効果"
+          },
+          "paragraphs": {
+            "en": [
+              "The official bundle page describes Hands of the Galaxy as reactive to eliminations. This is an accessory effect, not an ability that increases elimination damage. Epic’s Outfit guidance also says cosmetic appearance does not change hitbox size or competitive performance. This record therefore separates visual reactions from gameplay powers and does not assign a fabricated skill tree to the Outfit."
+            ],
+            "zh": [
+              "官方套裝頁指出 Hands of the Galaxy 會對淘汰作出反應。這是配件視覺效果，不是提高淘汰傷害的能力。Epic 也說明外觀不改變命中判定大小或競技表現。本頁因此把視覺反應與遊戲能力分開，不替造型編造技能樹。"
+            ],
+            "ja": [
+              "公式セットページは Hands of the Galaxy が撃破に反応すると説明しています。これは装飾の視覚効果で、ダメージを上げる能力ではありません。Epic の説明でも衣装は当たり判定や競技性能を変えません。この項目では視覚反応とゲーム能力を分け、架空のスキルツリーを付けません。"
+            ]
+          },
+          "sourceIds": [
+            "s4",
+            "s5"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "August–September 2021",
+            "zh": "2021 年 8–9 月",
+            "ja": "2021 年 8～9 月"
+          },
+          "detail": {
+            "en": "Galaxy Cup 2.0 introduced early access in August; the community catalog records a September 5, 2021 shop release in Chapter 2, Season 7. This is release history, not proof of current availability.",
+            "zh": "Galaxy Cup 2.0 在八月提供提前取得；社群目錄記載它於 Chapter 2 Season 7 的 2021 年 9 月 5 日進入商店。這是推出歷史，不是目前販售證明。",
+            "ja": "8 月の Galaxy Cup 2.0 で先行入手でき、コミュニティ目録はチャプター 2 シーズン 7 の 2021 年 9 月 5 日にショップ登場と記録しています。現在の販売を保証する情報ではありません。"
+          },
+          "sourceIds": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Epic — Galaxy Cup 2.0 announcement",
+          "url": "https://www.fortnite.com/news/galaxy-cup-2-0-on-android-win-the-new-galaxy-grappler-outfit-and-more",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Fortnite Wiki — Galaxy Grappler",
+          "url": "https://fortnite.fandom.com/wiki/Galaxy_Grappler",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "Epic Support — Change your Fortnite Outfit",
+          "url": "https://www.epicgames.com/help/c-34254770/c-33726977/a13582871?lang=en-US",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Fortnite — Galaxy Grappler Bundle",
+          "url": "https://www.fortnite.com/item-shop/offers/galaxy-grappler-bundle-31e87208",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s5",
+          "name": "Epic Support — Outfit gameplay advantage",
+          "url": "https://www.epicgames.com/help/c-34254770/c-33726977/do-fortnite-outfits-provide-a-gameplay-advantage-a13997117",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Official set and event gallery",
+            "zh": "官方系列與活動圖片",
+            "ja": "公式セット・イベント画像"
+          },
+          "url": "https://www.fortnite.com/news/galaxy-cup-2-0-on-android-win-the-new-galaxy-grappler-outfit-and-more",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Includes the Outfit, matching accessories and an Arsenal mode illustration from the 2021 event.",
+            "zh": "包含造型、搭配配件與 2021 活動 Arsenal 模式圖片。",
+            "ja": "衣装、対応する装飾、2021 年大会の Arsenal モード画像が掲載されています。"
+          }
+        },
+        {
+          "label": {
+            "en": "Outfit animation reference",
+            "zh": "造型動畫參考",
+            "ja": "衣装アニメーション資料"
+          },
+          "url": "https://fortnite.fandom.com/wiki/Galaxy_Grappler",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "The community page links Outfit render videos, including its LEGO representation; these are cosmetic previews.",
+            "zh": "社群頁連結造型模型影片及 LEGO 外觀；屬於外觀預覽。",
+            "ja": "衣装モデルの動画や LEGO 表現へのリンクがあります。外観のプレビューです。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "fortnite",
+      "collection": "fortnite-shop",
+      "entryId": "CID_101_Athena_Commando_M_Stealth",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Stealth Syndicate Outfit",
+            "zh": "Stealth Syndicate 造型",
+            "ja": "Stealth Syndicate の衣装"
+          },
+          "paragraphs": {
+            "en": [
+              "Midnight Ops belongs to the Stealth Syndicate set and first appeared in the original Season 3 period. This page describes the Battle Royale Outfit, not the Save the World hero Undercover Vaughn. A shared visual model or similar name does not transfer a hero’s abilities into Battle Royale. Use the exact Outfit record when comparing appearances or checking your collection."
+            ],
+            "zh": [
+              "Midnight Ops 屬於 Stealth Syndicate 系列，最早出現在原始 Season 3 時期。本頁是 Battle Royale 造型，不是 Save the World 英雄 Undercover Vaughn。共用外觀模型或相似名稱不會把英雄能力帶入 Battle Royale。比較外觀或檢查收藏時，請確認正確造型條目。"
+            ],
+            "ja": [
+              "Midnight Ops は Stealth Syndicate セットで、初登場は初期のシーズン 3 です。このページはバトルロイヤルの衣装であり、世界を救えのヒーロー Undercover Vaughn ではありません。似たモデルや名前でもヒーロー能力は引き継ぎません。外観比較では正確な衣装項目を使ってください。"
+            ]
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "An Item Shop cosmetic",
+            "zh": "物品商店外觀商品",
+            "ja": "ショップの外観アイテム"
+          },
+          "paragraphs": {
+            "en": [
+              "The community catalog records it as an Item Shop Outfit with a historical single-item price of 1,200 V-Bucks. That is reference information, not a live offer or a promise of its next return. Read the official shop’s current price and availability before making a decision, especially when a site card shows a provider date from an earlier rotation."
+            ],
+            "zh": [
+              "社群目錄記載它是物品商店造型，歷史單件價格為 1,200 V-Bucks。這是參考資料，不是即時報價，也不能保證下次回歸。做決定前查看官方當期價格與供應狀況，尤其當網站卡片顯示的是較早輪替的供應者日期。"
+            ],
+            "ja": [
+              "コミュニティ目録ではショップ衣装として扱われ、過去の単品価格は 1,200 V-Bucks です。これは参考記録で、現在の販売や再登場を保証しません。サイトのカードが以前の更新日を示している場合は特に、公式ショップの現行価格と販売状況を確認しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "s1",
+            "s4"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Locker and visual checks",
+            "zh": "衣櫃與視覺檢查",
+            "ja": "ロッカーで見た目を確認"
+          },
+          "paragraphs": {
+            "en": [
+              "Choose the owned Outfit through the lobby Locker’s Character section, then return to see the selected avatar. GameBreak suggests viewing it with your intended Back Bling and Pickaxe cosmetic before a match. Look at the complete silhouette, rather than treating the isolated portrait as the whole design. This is a styling workflow, not a required purchase recommendation."
+            ],
+            "zh": [
+              "從大廳 Locker 的 Character 區域選擇已擁有的造型，返回查看角色。GameBreak 建議對戰前先配上預計使用的背飾與鎬造型，看完整輪廓，而不是把頭像當成全部設計。這是搭配流程，並不要求購買任何配件。"
+            ],
+            "ja": [
+              "ロビーのロッカーからキャラクター欄を開き、所持衣装を選んで戻るとアバターを確認できます。試合前に予定の背中装飾やツルハシ外観を合わせ、顔アイコンだけでなく全体の輪郭を見る方法を提案します。これは外観確認の手順で、追加購入を求めるものではありません。"
+            ]
+          },
+          "sourceIds": [
+            "s2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "No stealth statistic",
+            "zh": "沒有隱匿能力數值",
+            "ja": "ステルス能力値はない"
+          },
+          "paragraphs": {
+            "en": [
+              "The name and dark visual theme do not supply a stealth skill, reduced hitbox or movement bonus. Epic states that Outfits are cosmetic and do not improve competitive performance. For practical play, evaluate your position, cover and selected mode’s mechanics separately. There is no verified character biography or combat skill tree in these sources, so this dossier does not invent either."
+            ],
+            "zh": [
+              "名稱與深色主題不會提供隱匿技能、縮小命中判定或移動加成。Epic 說明造型屬於外觀，不提升競技表現。實際遊玩時，站位、掩體與所選模式機制應另外評估。這些來源沒有可核實的角色傳記或戰鬥技能樹，因此本頁不會虛構。"
+            ],
+            "ja": [
+              "名前や暗い外観から、ステルス技能、小さな当たり判定、移動ボーナスが得られるわけではありません。Epic は衣装を外観要素と説明しています。立ち位置、遮蔽物、選んだモードの仕組みは別に判断してください。確認した資料には詳しい伝記や戦闘スキルツリーがないため、作り足していません。"
+            ]
+          },
+          "sourceIds": [
+            "s3",
+            "s1"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "30 March 2018",
+            "zh": "2018 年 3 月 30 日",
+            "ja": "2018 年 3 月 30 日"
+          },
+          "detail": {
+            "en": "The community record dates the first release to March 30, 2018 and associates the asset with update v3.40. Shop appearance counts and last-seen dates are deliberately not fixed here because they change with later rotations.",
+            "zh": "社群紀錄將首次推出日期列為 2018 年 3 月 30 日，並與 v3.40 更新連結。本頁不固定列出商店出現次數與最後販售日，因為後續輪替會改變這些數字。",
+            "ja": "コミュニティ記録では初登場が 2018 年 3 月 30 日、関連更新が v3.40 です。販売回数や最終登場日は今後のローテーションで変わるため、ここでは固定値にしていません。"
+          },
+          "sourceIds": [
+            "s1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Fortnite Wiki — Midnight Ops",
+          "url": "https://fortnite.fandom.com/wiki/Midnight_Ops",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s2",
+          "name": "Epic Support — Change your Fortnite Outfit",
+          "url": "https://www.epicgames.com/help/c-34254770/c-33726977/a13582871?lang=en-US",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s3",
+          "name": "Epic Support — Outfit gameplay advantage",
+          "url": "https://www.epicgames.com/help/c-34254770/c-33726977/do-fortnite-outfits-provide-a-gameplay-advantage-a13997117",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "s4",
+          "name": "Fortnite — Official Item Shop",
+          "url": "https://www.fortnite.com/item-shop",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Midnight Ops visual reference",
+            "zh": "Midnight Ops 外觀資料",
+            "ja": "Midnight Ops の外観資料"
+          },
+          "url": "https://fortnite.fandom.com/wiki/Midnight_Ops",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community icon and featured Outfit view; this is a cosmetic reference, not proof of current shop availability.",
+            "zh": "社群圖示與造型展示；這是外觀參考，不是目前販售證明。",
+            "ja": "コミュニティのアイコンと衣装表示です。現行ショップでの販売を証明するものではありません。"
+          }
+        }
+      ]
+    }
+  ]
+}

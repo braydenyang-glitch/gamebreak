@@ -1,0 +1,2004 @@
+[
+  {
+    "game": "delta",
+    "intro": {
+      "tagline": [
+        "Plan the raid. Bring the loot home.",
+        "規劃出擊，把戰利品帶回家。",
+        "作戦を立て、戦利品を持ち帰ろう。"
+      ],
+      "summary": [
+        "Operations is an extraction mode: your route, equipment budget and decision to leave matter together. This starting plan focuses on a small objective, affordable gear and learning one map before chasing expensive loot.",
+        "烽火地帶是撤離模式：路線、裝備預算與撤離時機同樣重要。先用負擔得起的裝備完成小目標，熟悉一張地圖，再追求高價物資。",
+        "Operationsは脱出型モード。経路、装備予算、撤退判断が重要です。高価な戦利品を狙う前に、無理のない装備で小さな目標を達成し、一つのマップを覚えましょう。"
+      ],
+      "loop": [
+        [
+          "Prepare one loadout and one objective.",
+          "準備一套裝備和一個目標。",
+          "装備と目標を一つずつ決める。"
+        ],
+        [
+          "Move, gather supplies and reassess risk.",
+          "移動、收集物資，持續評估風險。",
+          "移動と物資回収のたびに危険を見直す。"
+        ],
+        [
+          "Extract, sort the stash and plan upgrades.",
+          "撤離後整理倉庫，規劃升級。",
+          "脱出後に保管庫を整理し、強化を計画する。"
+        ]
+      ],
+      "start": [
+        [
+          "Choose Operations in the PC client, then read the selected map and difficulty.",
+          "在 PC 選擇 Operations，確認地圖與難度。",
+          "PC版でOperationsを選び、マップと難易度を確認する。"
+        ],
+        [
+          "Inspect ammunition compatibility, armor condition and medical supplies before deployment.",
+          "出發前檢查彈藥相容性、護甲狀態及醫療用品。",
+          "出撃前に弾薬の適合、装甲の状態、医療品を確認する。"
+        ],
+        [
+          "Tell teammates the objective and a fallback extraction plan.",
+          "告訴隊友任務目標與備用撤離計畫。",
+          "目標と予備の脱出計画を仲間に伝える。"
+        ]
+      ],
+      "pitfalls": [
+        [
+          "A powerful gun does not make every ammunition type suitable.",
+          "強力槍枝不代表所有彈藥都適合。",
+          "強い銃でも、どの弾薬でもよいわけではありません。"
+        ],
+        [
+          "Do not sell every material before checking mission and Black Site needs.",
+          "販售材料前，先確認任務與黑站需求。",
+          "素材を売る前に任務とBlack Siteの必要品を確認。"
+        ],
+        [
+          "An old guide may describe a different region, difficulty or Warfare mode.",
+          "舊攻略可能屬於不同地區、難度或全面戰場模式。",
+          "古い攻略は別地域、別難易度、Warfare向けの場合があります。"
+        ]
+      ]
+    },
+    "articles": [
+      {
+        "id": "delta-combat",
+        "topic": "combat",
+        "title": [
+          "Match the gun, ammunition and engagement",
+          "槍枝、彈藥與交戰距離",
+          "銃・弾薬・交戦距離を合わせる"
+        ],
+        "summary": [
+          "Build a repeatable starting setup instead of judging a weapon only by its price or rarity.",
+          "建立可以反覆使用的入門配置，不只看槍價或稀有度。",
+          "値段やレア度だけで選ばず、使い慣れる基本構成を作ります。"
+        ],
+        "keywords": [
+          "ammunition",
+          "armor",
+          "Gunsmith",
+          "彈藥",
+          "護甲",
+          "改槍",
+          "弾薬",
+          "装甲",
+          "ガンスミス"
+        ],
+        "steps": [
+          [
+            "Open the weapon and ammunition details; verify caliber compatibility and the displayed penetration information.",
+            "開啟槍枝與彈藥詳情，確認口徑相容及畫面上的穿透資訊。",
+            "銃と弾薬の詳細で、口径の適合と表示される貫通情報を確認。"
+          ],
+          [
+            "Use Gunsmith to compare one attachment at a time; keep a simple configuration you can afford to replace.",
+            "在改槍介面一次比較一個配件，保留負擔得起的簡單配置。",
+            "ガンスミスで一度に一つの部品を比較し、買い直せる構成にする。"
+          ],
+          [
+            "Before a fight, identify cover and a retreat route; avoid testing an unfamiliar weapon in open ground.",
+            "開戰前找掩體與退路，不要在空地試用不熟悉的武器。",
+            "交戦前に遮蔽物と退路を探し、不慣れな銃を開けた場所で試さない。"
+          ],
+          [
+            "After the raid, note whether ammunition, recoil control or positioning caused the problem; change just that part next time.",
+            "出擊後記錄問題來自彈藥、控槍或站位，下次只調整該項。",
+            "帰還後、弾薬・反動制御・位置取りのどれが問題だったか記録し、次回は一つだけ変える。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Operations and Warfare balance can differ. No damage breakpoint or best build is claimed here.",
+            "兩種模式的平衡可能不同；此處不宣稱固定擊殺門檻或最強配裝。",
+            "OperationsとWarfareでは調整が異なる場合があります。確殺条件や最強構成の保証ではありません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Garena · Operations Mode 101",
+            "url": "https://deltaforce.garena.com/en/news/system/RMDWVM"
+          },
+          {
+            "label": "Garena · Eclipse Vigil PC update (April 2025)",
+            "url": "https://deltaforce.garena.com/en/news/announcement/M3DB35"
+          }
+        ],
+        "scope": [
+          "PC · Operations. Check regional client descriptions; Warfare rules are separate.",
+          "PC・烽火地帶（Operations）。以地區版本說明為準；不套用全面戰場規則。",
+          "PC・Operations。地域版の説明を確認。Warfareのルールとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "delta-teams",
+        "topic": "teams",
+        "title": [
+          "Build a squad plan, not three solo routes",
+          "組成有計畫的小隊",
+          "各自行動ではなく分隊で動く"
+        ],
+        "summary": [
+          "Use operator descriptions and clear markers to decide who checks ahead, who supports and when everybody leaves.",
+          "依照幹員說明與標記，分配偵察、支援及共同撤離時機。",
+          "オペレーターの説明とマーカーを使い、索敵・支援・撤退の役割を決めます。"
+        ],
+        "keywords": [
+          "operators",
+          "Morse",
+          "Mark System",
+          "幹員",
+          "偵察",
+          "標記",
+          "オペレーター",
+          "索敵",
+          "ピン"
+        ],
+        "steps": [
+          [
+            "Read each chosen operator’s Operations ability text; do not copy a Warfare role description.",
+            "閱讀所選幹員的 Operations 能力說明，不直接套用全面戰場定位。",
+            "選んだオペレーターのOperations向け能力説明を読む。Warfareの説明を流用しない。"
+          ],
+          [
+            "Agree who scouts the next approach and who watches the team’s rear while someone searches a container.",
+            "約定誰偵察前方、誰在隊友搜索容器時看守後方。",
+            "次の経路を調べる人と、物資回収中に後方を警戒する人を決める。"
+          ],
+          [
+            "Customize the Operations marker wheel outside a match, then use short calls for threats, supplies and movement.",
+            "在對局外設定 Operations 標記輪盤，用簡短訊息回報威脅、物資與移動。",
+            "試合外でOperationsのマーカーホイールを設定し、敵・物資・移動を短く伝える。"
+          ],
+          [
+            "For a recon operator such as Morse, report what the ability actually detected; keep an escape option if information is incomplete.",
+            "使用 Morse 等偵察幹員時，只回報能力實際偵測到的資訊，並保留退路。",
+            "Morseなどの索敵役は実際に検知した情報を伝え、不明点があれば退路を残す。"
+          ],
+          [
+            "Set a regroup point before splitting briefly; leave together when ammunition or medical supplies become a shared concern.",
+            "短暫分開前先訂集合點；全隊彈藥或醫療物資不足時一起撤離。",
+            "短時間分かれる前に集合場所を決め、弾薬や医療品が不足したら一緒に撤退する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Ability ranges and cooldowns change with updates; read the current client rather than assuming permanent detection.",
+            "能力範圍與冷卻可能改動，不要假設偵測效果永久存在。",
+            "能力の範囲や再使用時間は変更されます。永続的な索敵だと思い込まないでください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Garena · Echo season update (April 2026)",
+            "url": "https://deltaforce.garena.com/en/news/announcement/YVRATP"
+          }
+        ],
+        "scope": [
+          "PC · Operations. Check regional client descriptions; Warfare rules are separate.",
+          "PC・烽火地帶（Operations）。以地區版本說明為準；不套用全面戰場規則。",
+          "PC・Operations。地域版の説明を確認。Warfareのルールとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "delta-resources",
+        "topic": "resources",
+        "title": [
+          "Protect the raid budget and sort your loot",
+          "保護出擊預算，整理戰利品",
+          "出撃予算を守り、戦利品を整理する"
+        ],
+        "summary": [
+          "Separate storage, carried equipment and mission materials so one failed raid does not end your next attempt.",
+          "區分倉庫、隨身裝備與任務材料，避免一次失敗就無法再出發。",
+          "保管品、持ち込み装備、任務素材を分け、失敗しても次の出撃ができるようにします。"
+        ],
+        "keywords": [
+          "Stash",
+          "Loadout",
+          "Safe Box",
+          "Gear Ticket",
+          "倉庫",
+          "安全箱",
+          "裝備券",
+          "保管庫",
+          "装備",
+          "セーフボックス"
+        ],
+        "steps": [
+          [
+            "Keep spare gear in Stash; put only the equipment for this objective into your Loadout.",
+            "備用裝備留在倉庫，只把本次目標需要的裝備放進配置。",
+            "予備装備はStashに残し、今回の目的に必要な物だけLoadoutへ入れる。"
+          ],
+          [
+            "Check Safe Box eligibility and available space before placing valuable items there.",
+            "放入貴重物品前，先確認安全箱的容納規則及空間。",
+            "高価な物をSafe Boxに入れる前に、収納条件と空きを確認する。"
+          ],
+          [
+            "If you own a Gear Ticket, inspect its supplied kit and restrictions before spending extra Tekniq Alloy.",
+            "持有裝備券時，先看套裝內容與限制，再決定是否額外花費哈夫幣。",
+            "Gear Ticketがあれば、内容と制限を確認してから追加のTekniq Alloyを使う。"
+          ],
+          [
+            "After extraction, reserve required materials, refill essentials and sell only items you have deliberately classified as spare.",
+            "撤離後保留需求材料、補齊必需品，只賣掉確定多餘的物資。",
+            "脱出後は必要素材を残し、必需品を補充して、余剰と判断した物だけ売る。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Carried loot can be lost when extraction fails; Safe Box protection has item and access restrictions.",
+            "撤離失敗可能損失攜帶物資；安全箱仍有物品與使用權限制。",
+            "脱出失敗で持ち物を失う場合があります。Safe Boxにも品目や利用権の制限があります。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Garena · Operations Mode 101",
+            "url": "https://deltaforce.garena.com/en/news/system/RMDWVM"
+          }
+        ],
+        "scope": [
+          "PC · Operations. Check regional client descriptions; Warfare rules are separate.",
+          "PC・烽火地帶（Operations）。以地區版本說明為準；不套用全面戰場規則。",
+          "PC・Operations。地域版の説明を確認。Warfareのルールとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "delta-exploration",
+        "topic": "exploration",
+        "title": [
+          "Read the map before choosing the loot route",
+          "先讀地圖，再規劃搜刮路線",
+          "回収ルートの前にマップを読む"
+        ],
+        "summary": [
+          "Use the official map tool as preparation, then confirm extraction conditions inside the actual raid.",
+          "用官方地圖預先規劃，再於實際對局確認撤離條件。",
+          "公式マップで予習し、実際の出撃中に脱出条件を確認します。"
+        ],
+        "keywords": [
+          "Zero Dam",
+          "Layali Grove",
+          "extraction",
+          "零號大壩",
+          "撤離",
+          "路線",
+          "脱出",
+          "ルート",
+          "マップ"
+        ],
+        "steps": [
+          [
+            "Select the correct Operations map and difficulty in the official map tool; begin with one map you want to learn.",
+            "在官方工具選擇正確地圖與難度，先專注熟悉一張地圖。",
+            "公式ツールでOperationsのマップと難易度を選び、まず一つを覚える。"
+          ],
+          [
+            "Find your objective and nearby map markers; sketch a short route instead of crossing the entire map for loot.",
+            "找出目標與附近標記，規劃短路線，不為搜刮橫跨整張地圖。",
+            "目標と近くのマーカーを確認し、全域を横断せず短い経路を考える。"
+          ],
+          [
+            "In the raid, inspect the extraction list, requirements and remaining time; identify a second option when available.",
+            "進入對局後查看撤離清單、條件及剩餘時間；可行時準備第二方案。",
+            "出撃中は脱出先、条件、残り時間を確認し、可能なら第二候補も決める。"
+          ],
+          [
+            "Recalculate the route after injuries, gunfire or a full backpack; a completed small objective is a reason to leave.",
+            "受傷、聽到槍聲或背包滿時重新評估；小目標完成就可以撤離。",
+            "負傷、銃声、満杯のバッグをきっかけに経路を再評価。小目標の達成でも帰還を考える。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Map availability and extraction rules can change. An archived route is not a guarantee that an exit is open.",
+            "地圖與撤離規則會改變；舊路線不保證出口當下開放。",
+            "マップの提供状況や脱出ルールは変わります。古い経路情報だけで出口が使えるとは限りません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Delta Force · official Operations map tool",
+            "url": "https://www.playdeltaforce.com/act/mapswiki/?lang=en"
+          },
+          {
+            "label": "Garena · Eclipse Vigil PC update (April 2025)",
+            "url": "https://deltaforce.garena.com/en/news/announcement/M3DB35"
+          }
+        ],
+        "scope": [
+          "PC · Operations. Check regional client descriptions; Warfare rules are separate.",
+          "PC・烽火地帶（Operations）。以地區版本說明為準；不套用全面戰場規則。",
+          "PC・Operations。地域版の説明を確認。Warfareのルールとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "delta-commands",
+        "topic": "commands",
+        "title": [
+          "Set up PC audio, gadget controls and markers",
+          "設定 PC 音效、道具操作與標記",
+          "PCの音・ガジェット操作・マーカー設定"
+        ],
+        "summary": [
+          "These are client settings, not console commands. Change one option, test its behavior, then keep or revert it.",
+          "這裡是遊戲設定，不是控制台指令；每次改一項，試用後決定保留或還原。",
+          "これはクライアント設定です。コンソールコマンドではありません。一つずつ変更して動作を確認します。"
+        ],
+        "keywords": [
+          "HRTF",
+          "Quick Throw",
+          "Flash Protection",
+          "音效",
+          "投擲",
+          "閃光保護",
+          "音響",
+          "投擲",
+          "フラッシュ保護"
+        ],
+        "steps": [
+          [
+            "With headphones, find Settings → Audio → HRTF and compare directional sound before committing to the option.",
+            "戴耳機時到 Settings → Audio → HRTF，比較方向音效後再決定。",
+            "ヘッドホンでSettings → Audio → HRTFを開き、方向の聞き分けを比較する。"
+          ],
+          [
+            "In Control & Combat, inspect Quick Throw, Hold and Default for supported tactical gadgets.",
+            "在 Control & Combat 查看支援道具的 Quick Throw、Hold、Default 操作。",
+            "Control & Combatで、対応ガジェットのQuick Throw、Hold、Defaultを確認する。"
+          ],
+          [
+            "Try Flash Protection if bright flash effects are uncomfortable; it changes the flash presentation rather than removing the effect.",
+            "若明亮閃光不舒服，可試用 Flash Protection；它改變畫面呈現，不會取消閃光效果。",
+            "強い白色の閃光がつらければFlash Protectionを試す。効果を無効化する設定ではありません。"
+          ],
+          [
+            "Set the marker wheel outside combat and rehearse a threat ping and a movement ping before your next raid.",
+            "在戰鬥外設定標記輪盤，下次出擊前練習威脅與移動標記。",
+            "戦闘前にマーカーホイールを設定し、敵と移動先のピンを練習する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "These options were documented in official PC updates; names and availability may differ by regional client or input device.",
+            "官方 PC 更新曾列出這些設定；名稱及可用性可能因地區版本或輸入裝置不同。",
+            "公式PC更新に記載された設定です。地域版や入力機器によって名称・利用可否が異なる場合があります。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Garena · Eclipse Vigil PC update (April 2025)",
+            "url": "https://deltaforce.garena.com/en/news/announcement/M3DB35"
+          },
+          {
+            "label": "Garena · Echo season update (April 2026)",
+            "url": "https://deltaforce.garena.com/en/news/announcement/YVRATP"
+          }
+        ],
+        "scope": [
+          "PC · Operations. Check regional client descriptions; Warfare rules are separate.",
+          "PC・烽火地帶（Operations）。以地區版本說明為準；不套用全面戰場規則。",
+          "PC・Operations。地域版の説明を確認。Warfareのルールとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "delta-progression",
+        "topic": "progression",
+        "title": [
+          "Connect Department missions to Black Site upgrades",
+          "把部門任務連到黑站升級",
+          "部門任務とBlack Site強化をつなげる"
+        ],
+        "summary": [
+          "Make an upgrade plan around an actual supply need instead of producing items only because a recipe is available.",
+          "依照真正缺少的物資規劃升級，不因配方解鎖就盲目生產。",
+          "レシピがあるから作るのではなく、実際に不足している物資から強化計画を立てます。"
+        ],
+        "keywords": [
+          "Departments",
+          "Black Site",
+          "Supply Station",
+          "部門任務",
+          "黑站",
+          "生產",
+          "任務",
+          "生産",
+          "補給"
+        ],
+        "steps": [
+          [
+            "Choose one Department mission and read its completion requirements before entering a raid.",
+            "選一個部門任務，出擊前讀完達成條件。",
+            "部門任務を一つ選び、出撃前に達成条件を読む。"
+          ],
+          [
+            "Inspect the next Supply Station or Black Site requirement; keep a short list of materials you still need.",
+            "查看下一項補給站或黑站需求，列出還缺少的材料。",
+            "次のSupply StationやBlack Siteの条件を確認し、不足素材を短くまとめる。"
+          ],
+          [
+            "Compare a Black Site Workbench, Pharmacy or Armor Bench recipe with the supplies you actually use.",
+            "比較黑站工作台、藥劑台或防具台配方，優先處理自己會用的物資。",
+            "Black SiteのWorkbench、Pharmacy、Armor Benchのレシピを実際の消耗品と比べる。"
+          ],
+          [
+            "Check recipe cost and completion time in the client, then collect the result and update your material list.",
+            "在遊戲確認成本與完成時間，領取成品後更新材料清單。",
+            "ゲーム内で必要費用と製作時間を確認し、完成品を受け取って素材メモを更新する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Season missions, access items and recipes can change. This is a planning routine, not a guaranteed profit method.",
+            "賽季任務、使用權與配方可能改動；這是規劃方法，不是保證賺錢的方法。",
+            "シーズン任務、利用権、レシピは変更されます。利益を保証する手順ではありません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Delta Force · HQ / Black Site production",
+            "url": "https://www.playdeltaforce.com/events/hq/en/m/index.html"
+          },
+          {
+            "label": "Garena · Operations Mode 101",
+            "url": "https://deltaforce.garena.com/en/news/system/RMDWVM"
+          },
+          {
+            "label": "Garena · Eclipse Vigil PC update (April 2025)",
+            "url": "https://deltaforce.garena.com/en/news/announcement/M3DB35"
+          }
+        ],
+        "scope": [
+          "PC · Operations. Check regional client descriptions; Warfare rules are separate.",
+          "PC・烽火地帶（Operations）。以地區版本說明為準；不套用全面戰場規則。",
+          "PC・Operations。地域版の説明を確認。Warfareのルールとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "game": "fortnite",
+    "intro": {
+      "tagline": [
+        "Land with a plan. Adapt with the Storm.",
+        "有計畫地落地，跟著風暴調整。",
+        "着地から計画し、ストームに合わせて動こう。"
+      ],
+      "summary": [
+        "Battle Royale combines looting, combat and movement toward safe ground. Choose build-enabled Battle Royale or Zero Build first, then practice a familiar inventory and a repeatable landing routine on the current island.",
+        "Battle Royale 結合搜裝、戰鬥與安全區移動。先選擇可建造模式或 Zero Build，再於當前島嶼練習固定的物品配置與落地流程。",
+        "バトルロイヤルは物資回収、戦闘、安全な場所への移動を組み合わせるモード。建築ありかゼロビルドかを選び、現在の島で持ち物と着地の基本手順を覚えましょう。"
+      ],
+      "loop": [
+        [
+          "Land, find usable equipment and regroup.",
+          "落地、取得可用裝備並集合。",
+          "着地して装備を集め、合流する。"
+        ],
+        [
+          "Read the Storm and move between cover.",
+          "查看風暴，利用掩體移動。",
+          "ストームを確認し、遮蔽物をつないで移動する。"
+        ],
+        [
+          "Survive the final fights, then review one mistake.",
+          "存活到決勝階段，再檢討一個失誤。",
+          "終盤まで生き残り、失敗を一つ振り返る。"
+        ]
+      ],
+      "start": [
+        [
+          "Confirm the playlist; building advice does not apply to Zero Build.",
+          "先確認模式，建造技巧不適用 Zero Build。",
+          "モードを確認。建築の助言はゼロビルドには当てはまりません。"
+        ],
+        [
+          "Bind your essential actions and arrange weapons consistently.",
+          "設定重要操作，固定武器排列習慣。",
+          "基本操作を割り当て、武器の配置をそろえる。"
+        ],
+        [
+          "Choose a landing option and a nearby backup with your squad.",
+          "和隊友選擇落點及附近備案。",
+          "仲間と着地点と近くの予備地点を決める。"
+        ]
+      ],
+      "pitfalls": [
+        [
+          "Chasing loot can leave you with no safe route out of the Storm.",
+          "一直搜裝可能錯失離開風暴的安全路線。",
+          "物資を追い続けると、ストームから安全に抜けられなくなります。"
+        ],
+        [
+          "A rare weapon is not automatically useful at every distance.",
+          "高稀有度武器不一定適合所有距離。",
+          "レアな武器でも、すべての距離に向くとは限りません。"
+        ],
+        [
+          "Seasonal loot, locations and quests change; verify them in the live client.",
+          "賽季武器、地點與任務會改變，請查看目前遊戲內容。",
+          "武器、地点、クエストはシーズンで変わります。現在のゲーム内表示を確認。"
+        ]
+      ]
+    },
+    "articles": [
+      {
+        "id": "fortnite-combat",
+        "topic": "combat",
+        "title": [
+          "Fight from a useful range and position",
+          "在適合的距離與位置交戰",
+          "適切な距離と位置から戦う"
+        ],
+        "summary": [
+          "Use a simple weapon-role plan and preserve a way back to cover. Practice building only when your playlist supports it.",
+          "用簡單武器分工並保留回掩體的路線；只有支援建造的模式才練建造。",
+          "武器の役割を決めて遮蔽物への退路を残します。建築は対応モードで練習しましょう。"
+        ],
+        "keywords": [
+          "combat",
+          "range",
+          "cover",
+          "建造",
+          "掩體",
+          "戰鬥",
+          "戦闘",
+          "射程",
+          "建築"
+        ],
+        "steps": [
+          [
+            "Identify one close-range weapon and one weapon for more distant targets from the loot you actually find.",
+            "從實際撿到的武器中，分配近距離與較遠距離用途。",
+            "実際に拾った武器から、近距離用と離れた相手用を選ぶ。"
+          ],
+          [
+            "Before firing, locate hard cover and check whether moving closer would expose you to another direction.",
+            "開火前找掩體，判斷靠近時是否會暴露給其他方向的敵人。",
+            "撃つ前に遮蔽物を探し、接近時に別方向へ体をさらさないか確認する。"
+          ],
+          [
+            "Use your familiar slots to switch weapons; reload and recover when you have a safe opportunity.",
+            "用熟悉的欄位切換武器，在安全空檔補彈及恢復。",
+            "慣れたスロットで武器を切り替え、安全な時間に装填と回復を行う。"
+          ],
+          [
+            "In build-enabled BR, rehearse one defensive build; in Zero Build, plan the next natural cover instead.",
+            "可建造 BR 先練一種防禦建築；Zero Build 則先找下一個天然掩體。",
+            "建築ありなら防御用建築を一つ練習。ゼロビルドでは次の遮蔽物を探す。"
+          ],
+          [
+            "After a loss, choose one adjustment: positioning, range choice or control sensitivity.",
+            "失敗後只挑一項調整：站位、距離選擇或操作靈敏度。",
+            "負けた後は、位置取り・距離・感度のどれか一つだけ調整する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "This is a practice routine, not a seasonal weapon tier list; available weapons depend on the playlist and update.",
+            "這是練習流程，不是賽季武器排名；可用武器依模式與更新不同。",
+            "練習手順であり、シーズン武器ランキングではありません。武器はモードや更新で変わります。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Epic Games · Battle Royale and Zero Build",
+            "url": "https://www.fortnite.com/%40epic/battle-royale?lang=en-US"
+          },
+          {
+            "label": "Epic Games · PC settings guide (2026)",
+            "url": "https://store.epicgames.com/news/fortnite-on-pc-best-settings-for-competitive-play-in-2026?lang=en-US"
+          }
+        ],
+        "scope": [
+          "Battle Royale / Zero Build. Use the current playlist and island; not Reload or Save the World.",
+          "Battle Royale／Zero Build；以當前模式與島嶼為準，不混用 Reload 或 Save the World。",
+          "バトルロイヤル／ゼロビルド。現在のモードと島が対象。Reloadや世界を救えとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "fortnite-teams",
+        "topic": "teams",
+        "title": [
+          "Keep the squad together through a recovery",
+          "讓小隊撐過救援階段",
+          "救助の場面でも分隊を保つ"
+        ],
+        "summary": [
+          "Communicate a safe recovery plan instead of sending every teammate into the same dangerous position.",
+          "先溝通安全救援計畫，避免所有隊友一起進入危險位置。",
+          "全員で危険な場所へ飛び込まず、安全な救助計画を共有します。"
+        ],
+        "keywords": [
+          "squad",
+          "revive",
+          "Reboot Van",
+          "復活車",
+          "救援",
+          "隊伍",
+          "リブートバン",
+          "蘇生",
+          "分隊"
+        ],
+        "steps": [
+          [
+            "Pick a common landing area and announce any change before the team separates.",
+            "選擇共同落地區，改變計畫時先通知隊友。",
+            "同じ着地区域を決め、変更する時は離れる前に伝える。"
+          ],
+          [
+            "When someone is downed, check cover and enemy pressure before starting a revive.",
+            "有人倒地時，先確認掩體與敵方壓力，再開始救援。",
+            "仲間がダウンしたら、蘇生の前に遮蔽物と敵の攻撃を確認する。"
+          ],
+          [
+            "If a teammate is eliminated, read the current Reboot Card and Reboot Van prompts rather than expecting an ordinary revive.",
+            "隊友被淘汰時，查看當前重啟卡及重啟車提示，不把它當成一般救援。",
+            "仲間が撃破されたら、通常の蘇生ではなく現在のリブートカードとバンの案内を確認する。"
+          ],
+          [
+            "Let one player handle the recovery while others watch approaches; abandon a route that the Storm makes impossible.",
+            "一人負責救援，其他人看守入口；風暴讓路線不可行時立即改變計畫。",
+            "一人が救助を担当し、他の人は接近経路を警戒。ストームで無理になった経路は変更する。"
+          ],
+          [
+            "After recovery, share useful equipment and regroup before starting another fight.",
+            "救援後分配可用裝備，重新集合再開戰。",
+            "救助後は使える装備を分け、合流してから次の戦闘へ進む。"
+          ]
+        ],
+        "cautions": [
+          [
+            "The linked v8.30 note explains the original Reboot system. Its old timers and equipment values are not current instructions.",
+            "連結的 v8.30 是重啟系統的歷史介紹；舊計時與裝備數值不作為目前指令。",
+            "リンク先のv8.30はリブート導入時の資料です。当時の時間や装備数値を現在の値として使わないでください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Epic Games · Reboot Van introduction (v8.30 archive)",
+            "url": "https://www.fortnite.com/patch-notes/v8-30"
+          },
+          {
+            "label": "Epic Games · Battle Royale and Zero Build",
+            "url": "https://www.fortnite.com/%40epic/battle-royale?lang=en-US"
+          }
+        ],
+        "scope": [
+          "Battle Royale / Zero Build. Use the current playlist and island; not Reload or Save the World.",
+          "Battle Royale／Zero Build；以當前模式與島嶼為準，不混用 Reload 或 Save the World。",
+          "バトルロイヤル／ゼロビルド。現在のモードと島が対象。Reloadや世界を救えとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "fortnite-resources",
+        "topic": "resources",
+        "title": [
+          "Give every inventory slot a purpose",
+          "讓每個物品欄都有用途",
+          "持ち物の各枠に役割を持たせる"
+        ],
+        "summary": [
+          "Organize around the next encounter: usable weapons, recovery and whatever utility the current loot pool provides.",
+          "依下一次交戰整理：可用武器、恢復用品，以及當前模式提供的工具。",
+          "次の戦闘に向け、使える武器・回復・現在手に入る補助アイテムを整理します。"
+        ],
+        "keywords": [
+          "inventory",
+          "ammo",
+          "healing",
+          "背包",
+          "彈藥",
+          "補品",
+          "インベントリ",
+          "弾薬",
+          "回復"
+        ],
+        "steps": [
+          [
+            "Place your close-range and ranged options in consistent slots so a stressful fight does not become an inventory search.",
+            "把近距離與遠距離武器放在固定欄位，避免交戰時還在找武器。",
+            "近距離用と遠距離用を決まった枠に置き、戦闘中に探さず切り替えられるようにする。"
+          ],
+          [
+            "Before taking another weapon, check ammunition and whether it adds a role your current equipment lacks.",
+            "撿另一把武器前，檢查彈藥，以及它是否補足現有配置缺少的用途。",
+            "別の銃を拾う前に、弾薬と現在の構成にない役割を補えるか確認する。"
+          ],
+          [
+            "Keep recovery items when possible and read their use conditions; do not assume every item restores the same resource.",
+            "盡量保留恢復用品並閱讀使用條件，不假設每種道具恢復相同資源。",
+            "可能なら回復アイテムを残し、使用条件を読む。何でも同じものを回復するとは限りません。"
+          ],
+          [
+            "In build-enabled BR, check your material supply before an exposed crossing; in Zero Build, prioritize cover and usable utility.",
+            "可建造 BR 跨空地前檢查建材；Zero Build 則優先考慮掩體與可用工具。",
+            "建築ありでは開けた場所を渡る前に資材を確認。ゼロビルドでは遮蔽物と補助アイテムを優先する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Epic’s developer inventory page describes a BR-like structure, not a guarantee of the live loot pool or every playlist’s slot rules.",
+            "Epic 開發者頁說明類 BR 的背包架構，不保證當前掉落池或所有模式的欄位規則。",
+            "Epicの開発者資料はBRに似た構造の説明です。現在の戦利品や全モードの枠数を保証しません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Epic Developer Community · inventory components",
+            "url": "https://dev.epicgames.com/documentation/fortnite/fort-inventory-component-in-fortnite?lang=en-US"
+          },
+          {
+            "label": "Epic Games · Battle Royale and Zero Build",
+            "url": "https://www.fortnite.com/%40epic/battle-royale?lang=en-US"
+          }
+        ],
+        "scope": [
+          "Battle Royale / Zero Build. Use the current playlist and island; not Reload or Save the World.",
+          "Battle Royale／Zero Build；以當前模式與島嶼為準，不混用 Reload 或 Save the World。",
+          "バトルロイヤル／ゼロビルド。現在のモードと島が対象。Reloadや世界を救えとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "fortnite-exploration",
+        "topic": "exploration",
+        "title": [
+          "Rotate before the Storm chooses for you",
+          "在風暴逼迫前先轉點",
+          "ストームに追われる前に移動する"
+        ],
+        "summary": [
+          "Use the live match map instead of memorizing an old season’s route. Make a primary plan and a nearby backup.",
+          "用當局地圖規劃，不死背舊賽季路線；準備主要路線與附近備案。",
+          "古いシーズンの経路を暗記するより、現在の試合マップで本命と予備の移動先を決めます。"
+        ],
+        "keywords": [
+          "Storm",
+          "landing",
+          "rotation",
+          "風暴",
+          "落點",
+          "轉點",
+          "ストーム",
+          "着地",
+          "移動"
+        ],
+        "steps": [
+          [
+            "Choose a landing area with an alternative nearby; change early if the area is too crowded for your plan.",
+            "選落地區時準備附近替代點；人太多就及早調整。",
+            "着地点と近くの代替地を決め、混雑していれば早めに変更する。"
+          ],
+          [
+            "After initial looting, open the map and read the current safe area and Storm countdown.",
+            "完成初步搜裝後開地圖，查看當前安全區及風暴倒數。",
+            "最初の物資回収後、マップで安全地帯とストームの残り時間を確認する。"
+          ],
+          [
+            "Move through terrain that offers cover and a second exit; avoid turning every distant gunshot into a fight.",
+            "選有掩體與第二出口的地形移動，不必對每個遠方槍聲都追擊。",
+            "遮蔽物と別の出口がある地形を通り、遠くの銃声をすべて追わない。"
+          ],
+          [
+            "Reopen the map after each circle change; tell the squad the next stop before looking for more loot.",
+            "每次安全區變化後重看地圖，先告訴隊友下一站，再繼續搜裝。",
+            "円が変わるたびに地図を確認し、追加の物資より先に次の目的地を共有する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Named locations, movement items and vehicles rotate. This route method does not promise a fixed spawn or safe landing.",
+            "地名、移動道具與載具會輪替；此方法不保證固定生成或安全落地。",
+            "地点や移動アイテム、乗り物は変わります。固定出現や安全な着地を保証する手順ではありません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Epic Games · Battle Royale and Zero Build",
+            "url": "https://www.fortnite.com/%40epic/battle-royale?lang=en-US"
+          }
+        ],
+        "scope": [
+          "Battle Royale / Zero Build. Use the current playlist and island; not Reload or Save the World.",
+          "Battle Royale／Zero Build；以當前模式與島嶼為準，不混用 Reload 或 Save the World。",
+          "バトルロイヤル／ゼロビルド。現在のモードと島が対象。Reloadや世界を救えとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "fortnite-commands",
+        "topic": "commands",
+        "title": [
+          "Tune controls and visualize important sounds",
+          "調整操作與聲音視覺化",
+          "操作と重要な音の表示を調整する"
+        ],
+        "summary": [
+          "Make actions readable and reachable on your actual device; copying somebody else’s sensitivity is only a starting experiment.",
+          "讓操作在自己的裝置上清楚好按；別人的靈敏度只能當測試起點。",
+          "自分の機器で分かりやすく押しやすい操作にします。他人の感度は試す出発点にすぎません。"
+        ],
+        "keywords": [
+          "keybinds",
+          "controller",
+          "Visualize Sound Effects",
+          "按鍵",
+          "音效視覺化",
+          "靈敏度",
+          "キー設定",
+          "コントローラー",
+          "サウンドエフェクト"
+        ],
+        "steps": [
+          [
+            "Open the menu, choose Settings, then the keyboard-arrow or gamepad tab for your input device.",
+            "開選單進入 Settings，依裝置選鍵盤箭頭或手把分頁。",
+            "メニューからSettingsを開き、入力機器に合うキーボード矢印またはゲームパッドのタブへ進む。"
+          ],
+          [
+            "Check weapon switching, interaction and movement bindings; avoid assigning essential actions to keys you cannot reach comfortably.",
+            "檢查切槍、互動與移動按鍵，重要操作不要放在難按的位置。",
+            "武器切替・インタラクト・移動の割り当てを確認し、無理なく届くキーにする。"
+          ],
+          [
+            "In Audio, try Visualize Sound Effects and apply the change; it displays indicators for some sounds.",
+            "在 Audio 試用 Visualize Sound Effects 並套用，可顯示部分聲音的提示。",
+            "AudioでVisualize Sound Effectsを試して適用。特定の音が画面上の手がかりになります。"
+          ],
+          [
+            "Play a short practice session, adjust one sensitivity or display setting, and compare before changing anything else.",
+            "做短時間練習，每次只調整一個靈敏度或畫面設定，再比較差異。",
+            "短く練習し、感度か表示を一つだけ調整してから違いを比べる。"
+          ]
+        ],
+        "cautions": [
+          [
+            "These are settings, not console cheats. Visual sound indicators are not complete enemy tracking, and available control tabs vary by platform.",
+            "這是設定而非作弊指令；聲音提示不能完整追蹤敵人，操作分頁也依平台不同。",
+            "設定手順でありチートコマンドではありません。音の表示で敵を完全追跡できるわけではなく、設定タブも機種で異なります。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Epic Support · change PC or console controls",
+            "url": "https://www.epicgames.com/help/ko/c-Category_Fortnite/c-Fortnite_TechnicalSupport/how-can-i-change-my-fortnite-controls-on-pc-or-console-a000084920?lang=en-US&sessionInvalidated=true"
+          },
+          {
+            "label": "Epic Support · Visualize Sound Effects",
+            "url": "https://www.epicgames.com/help/c-34254770/c-33726977/a25071786?lang=en-US"
+          },
+          {
+            "label": "Epic Games · PC settings guide (2026)",
+            "url": "https://store.epicgames.com/news/fortnite-on-pc-best-settings-for-competitive-play-in-2026?lang=en-US"
+          }
+        ],
+        "scope": [
+          "Battle Royale / Zero Build. Use the current playlist and island; not Reload or Save the World.",
+          "Battle Royale／Zero Build；以當前模式與島嶼為準，不混用 Reload 或 Save the World。",
+          "バトルロイヤル／ゼロビルド。現在のモードと島が対象。Reloadや世界を救えとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "fortnite-progression",
+        "topic": "progression",
+        "title": [
+          "Turn a short session into clear quest progress",
+          "讓短時間遊玩也有明確任務進度",
+          "短いプレイでもクエストを進める"
+        ],
+        "summary": [
+          "Choose a manageable quest, verify its conditions and check the result. XP and reward eligibility are separate things.",
+          "選能完成的任務、確認條件，再查看成果；經驗值與獎勵領取資格是兩件事。",
+          "達成しやすいクエストを選び、条件と結果を確認。XPと報酬の受取条件は別です。"
+        ],
+        "keywords": [
+          "quests",
+          "XP",
+          "Battle Pass",
+          "任務",
+          "經驗值",
+          "通行證",
+          "クエスト",
+          "経験値",
+          "バトルパス"
+        ],
+        "steps": [
+          [
+            "Open the current quest list and choose one objective compatible with the Battle Royale playlist you intend to play.",
+            "開啟當前任務列表，選一項符合準備遊玩之 Battle Royale 模式的目標。",
+            "現在のクエスト一覧から、遊ぶバトルロイヤルのモードに合う目標を一つ選ぶ。"
+          ],
+          [
+            "Read the required action, location or item and any deadline before planning your drop.",
+            "規劃落地前先讀行動、地點、物品條件與期限。",
+            "着地計画の前に、必要な行動・場所・アイテム・期限を読む。"
+          ],
+          [
+            "Follow the quest during normal play without abandoning squad safety or Storm timing.",
+            "在正常遊玩中完成任務，不犧牲隊伍安全與轉點時間。",
+            "仲間の安全やストーム移動を無視せず、通常のプレイの中で目標を進める。"
+          ],
+          [
+            "After the match, confirm progress and inspect the Pass page for level, prerequisite and ownership requirements before claiming rewards.",
+            "結束後確認進度，領獎前查看通行證的等級、前置與擁有權條件。",
+            "試合後に進捗を確認し、報酬を受け取る前にパスのレベル・前提条件・所有条件を確認する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "XP rates, quests and rewards can change. No instant leveling, guaranteed XP amount or free premium reward is promised.",
+            "經驗值速度、任務與獎勵會變動，不保證瞬間升級、固定經驗值或免費付費獎勵。",
+            "XP量やクエスト、報酬は変わります。即レベルアップ、固定XP、プレミアム報酬の無料入手を保証しません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Epic Support · earning XP",
+            "url": "https://www.epicgames.com/help/c-34254770/c-33726977/a17775130"
+          },
+          {
+            "label": "Epic Support · Battle Pass and reward requirements",
+            "url": "https://www.epicgames.com/help/c-34254770/c-Fortnite_BillingSupport/a21682761?lang=en-US"
+          }
+        ],
+        "scope": [
+          "Battle Royale / Zero Build. Use the current playlist and island; not Reload or Save the World.",
+          "Battle Royale／Zero Build；以當前模式與島嶼為準，不混用 Reload 或 Save the World。",
+          "バトルロイヤル／ゼロビルド。現在のモードと島が対象。Reloadや世界を救えとは別です。"
+        ],
+        "reviewedAt": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "game": "pubg",
+    "intro": {
+      "tagline": [
+        "Read the ground. Survive the next decision.",
+        "讀懂地形，做出下一個生存決定。",
+        "地形を読み、次の判断を生き残る。"
+      ],
+      "summary": [
+        "PUBG on PC rewards a balance of shooting, looting and timely movement. Start with one familiar weapon, a manageable landing area and a plan for the Blue Zone; a good decision matters before the first shot.",
+        "PC 版 PUBG 需要射擊、搜裝與及時移動互相配合。先熟悉一把武器、選能掌握的落地區，並規劃藍圈路線；開槍前的判斷就很重要。",
+        "PC版PUBGでは射撃、物資回収、移動のタイミングを組み合わせます。武器を一つ覚え、無理のない着地区域とブルーゾーンへの対応を決めましょう。"
+      ],
+      "loop": [
+        [
+          "Land, equip and identify a safe next position.",
+          "落地、裝備，找下一個安全位置。",
+          "着地して装備し、次の安全な位置を探す。"
+        ],
+        [
+          "Rotate with the circle and choose useful fights.",
+          "配合安全區轉點，選有價值的交戰。",
+          "安全地帯に合わせて動き、必要な戦闘を選ぶ。"
+        ],
+        [
+          "Review the result and practice one weakness.",
+          "檢討結果，針對一項弱點練習。",
+          "結果を振り返り、弱点を一つ練習する。"
+        ]
+      ],
+      "start": [
+        [
+          "Use PC Training Mode to learn your chosen weapon and sight.",
+          "在 PC 訓練模式熟悉選定武器與瞄具。",
+          "PCのトレーニングで選んだ武器と照準器に慣れる。"
+        ],
+        [
+          "Check attachment compatibility instead of carrying everything you find.",
+          "確認配件相容性，不要把所有撿到的東西都帶著。",
+          "部品の適合を確認し、見つけた物を全部持たない。"
+        ],
+        [
+          "Choose a route with cover and check the circle before extending your loot run.",
+          "選有掩體的路線，繼續搜裝前先看安全區。",
+          "遮蔽物のある経路を選び、物資回収を続ける前に円を確認する。"
+        ]
+      ],
+      "pitfalls": [
+        [
+          "PUBG Mobile guides can describe different items, controls and systems.",
+          "PUBG Mobile 攻略的物品、操作及系統可能不同。",
+          "PUBG Mobileの攻略はアイテムや操作、仕組みが異なる場合があります。"
+        ],
+        [
+          "More ammunition is not always worth giving up all recovery supplies.",
+          "多帶彈藥不一定值得犧牲所有恢復物資。",
+          "弾薬を増やすために回復品をすべて手放す必要はありません。"
+        ],
+        [
+          "Old Blue Zone timers and medical-item values may have changed.",
+          "舊藍圈時間與醫療用品數值可能已改變。",
+          "古いブルーゾーンの時間や医療品の数値は変わっている可能性があります。"
+        ]
+      ]
+    },
+    "articles": [
+      {
+        "id": "pubg-combat",
+        "topic": "combat",
+        "title": [
+          "Learn one weapon before changing everything",
+          "先熟悉一把武器再全面調整",
+          "すべて変える前に、一つの武器を覚える"
+        ],
+        "summary": [
+          "Use a repeatable Training Mode exercise to separate recoil problems from unsuitable attachments or range choices.",
+          "用固定的訓練模式練習，區分後座力、配件與距離選擇問題。",
+          "同じトレーニングを繰り返し、反動、部品、交戦距離の問題を分けて考えます。"
+        ],
+        "keywords": [
+          "recoil",
+          "Training Mode",
+          "attachments",
+          "後座力",
+          "訓練模式",
+          "配件",
+          "反動",
+          "トレーニング",
+          "アタッチメント"
+        ],
+        "steps": [
+          [
+            "In Training Mode, choose a weapon you often find and use one sight consistently for the first exercise.",
+            "在訓練模式選一把常見武器，第一輪固定使用同一瞄具。",
+            "トレーニングでよく拾う武器を選び、最初は同じ照準器を使う。"
+          ],
+          [
+            "Compare short controlled bursts with sustained fire at the same target; observe your actual spread rather than guessing.",
+            "對同一目標比較短點射與連續射擊，觀察實際散布。",
+            "同じ標的で短い連射と長い連射を比べ、実際の弾の広がりを見る。"
+          ],
+          [
+            "Add one compatible recoil or stability attachment and repeat, keeping other conditions the same.",
+            "裝上一個相容的控槍或穩定配件，在其他條件不變時重試。",
+            "適合する反動・安定性の部品を一つ加え、他の条件を変えずに再試行する。"
+          ],
+          [
+            "In a match, select cover before firing and choose a range you have practiced; disengage if your equipment cannot support the fight.",
+            "實戰先找掩體，再選練過的距離；裝備不適合就脫離交戰。",
+            "実戦では撃つ前に遮蔽物を選び、練習した距離で戦う。装備に合わない戦闘からは離れる。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Training targets do not reproduce every live fight. No fixed damage or recoil value is asserted here.",
+            "訓練目標無法重現所有實戰情境；此處不宣稱固定傷害或後座力數值。",
+            "練習標的は実戦のすべてを再現しません。固定のダメージや反動値を示すものではありません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "PUBG · Update 16.2 / Aim-Sound Lab archive",
+            "url": "https://pubg.com/en/news/1717"
+          },
+          {
+            "label": "PUBG Support · attachments and auto-equip",
+            "url": "https://support.pubg.com/hc/en-us/articles/115004202454-What-are-attachments-What-do-they-do"
+          }
+        ],
+        "scope": [
+          "PUBG: BATTLEGROUNDS · PC. Normal/Ranked rules and current client settings take priority; not PUBG Mobile.",
+          "PUBG: BATTLEGROUNDS・PC。以一般／競技模式及目前設定為準，不適用 PUBG Mobile。",
+          "PUBG: BATTLEGROUNDS・PC。ノーマル／ランクと現在の設定を確認。PUBG Mobile向けではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "pubg-teams",
+        "topic": "teams",
+        "title": [
+          "Use pings, supply calls and a safe rescue plan",
+          "用標記、物資回報及安全救援配合",
+          "ピン・物資連絡・安全な救助を組み合わせる"
+        ],
+        "summary": [
+          "Useful communication tells teammates where to move and what is missing, not just that an enemy exists.",
+          "有效溝通要讓隊友知道往哪走、缺什麼，不只是喊有敵人。",
+          "役立つ連絡は、敵の存在だけでなく、移動先や不足品も伝えます。"
+        ],
+        "keywords": [
+          "Radio Message",
+          "Carry",
+          "revive",
+          "無線電訊息",
+          "搬運",
+          "救援",
+          "ラジオメッセージ",
+          "運搬",
+          "蘇生"
+        ],
+        "steps": [
+          [
+            "Agree on a landing area and a regroup location before splitting into nearby buildings.",
+            "分頭搜索附近建築前，先約定落地區與集合點。",
+            "近くの建物へ分かれる前に、着地区域と合流地点を決める。"
+          ],
+          [
+            "Use screen pings with a brief description of direction and cover; update the call when the enemy moves.",
+            "用畫面標記搭配方向與掩體說明，敵人移動時更新回報。",
+            "画面ピンに方向と遮蔽物の説明を添え、敵が動いたら更新する。"
+          ],
+          [
+            "Use inventory Radio Messages to request or announce compatible ammunition, optics or supplies.",
+            "用背包無線電訊息請求或回報相容彈藥、瞄具及補給。",
+            "インベントリのラジオメッセージで、必要な弾薬・照準器・物資を知らせる。"
+          ],
+          [
+            "For a knocked teammate, assess the route to cover before using Carry; moving them is not the same as reviving them.",
+            "隊友倒地時，先評估通往掩體的路線再搬運；搬運不等於復活。",
+            "ダウンした仲間は遮蔽物までの経路を確認してから運ぶ。運搬自体は蘇生ではありません。"
+          ],
+          [
+            "Assign one player to watch approaches while another helps; regroup and redistribute supplies after the rescue.",
+            "安排一人警戒、一人救援；完成後集合並重新分配物資。",
+            "一人が接近経路を警戒し、別の人が救助。終わったら合流し、物資を分け直す。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Check your current Limited Interact and Radio Message bindings. The source documents their introduction, not a universal key layout.",
+            "確認目前的 Limited Interact 與無線電按鍵；來源介紹功能，不代表所有人的按鍵相同。",
+            "現在のLimited Interactとラジオメッセージのキーを確認。導入時の資料を全員共通の配置として扱わないでください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "PUBG · Update 20.1 / Carry and Radio Messages archive",
+            "url": "https://pubg.com/en/news/1730"
+          }
+        ],
+        "scope": [
+          "PUBG: BATTLEGROUNDS · PC. Normal/Ranked rules and current client settings take priority; not PUBG Mobile.",
+          "PUBG: BATTLEGROUNDS・PC。以一般／競技模式及目前設定為準，不適用 PUBG Mobile。",
+          "PUBG: BATTLEGROUNDS・PC。ノーマル／ランクと現在の設定を確認。PUBG Mobile向けではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "pubg-resources",
+        "topic": "resources",
+        "title": [
+          "Loot for compatibility and recovery",
+          "為相容性與恢復需求搜裝",
+          "適合と回復を考えて物資を集める"
+        ],
+        "summary": [
+          "A useful backpack supports the weapons you carry and leaves room for recovery. Recheck it after every weapon swap.",
+          "好用的背包能支援手上武器，也保留恢復空間；每次換槍後重新檢查。",
+          "使う武器を支え、回復品も入るバッグを目指します。武器を替えるたびに中身を見直しましょう。"
+        ],
+        "keywords": [
+          "inventory",
+          "medical",
+          "auto attachment",
+          "背包",
+          "醫療",
+          "自動配件",
+          "バッグ",
+          "医療品",
+          "自動装着"
+        ],
+        "steps": [
+          [
+            "Check the ammunition type of both carried weapons and stop collecting rounds that neither can use.",
+            "確認兩把隨身武器的彈種，不再收集兩把都不能用的子彈。",
+            "携帯武器の弾薬を確認し、どちらにも使えない弾は集めない。"
+          ],
+          [
+            "Inspect attached optics, magazines and grips; compatible parts help only when actually equipped.",
+            "查看瞄具、彈匣與握把是否已裝上；相容配件要裝備才有作用。",
+            "照準器、マガジン、グリップが装着済みか確認。適合品も装着してこそ役立ちます。"
+          ],
+          [
+            "In Settings → Gameplay, review auto-attachment options and check your inventory again after a weapon swap.",
+            "在 Settings → Gameplay 查看自動裝配選項，換槍後再檢查背包。",
+            "Settings → Gameplayで自動装着を確認し、武器交換後にもう一度持ち物を見る。"
+          ],
+          [
+            "Carry a considered mix of medical and boost items, reading current weight and use descriptions rather than relying on an old chart.",
+            "搭配醫療與增益用品，閱讀當前重量及使用說明，不依賴舊表格。",
+            "医療品とブースト品を考えて組み合わせ、古い表ではなく現在の重量や使用説明を読む。"
+          ],
+          [
+            "Before a long move, remove redundant parts and share useful spares with teammates instead of extending a risky loot stop.",
+            "長距離移動前移除多餘配件、分給隊友可用備品，不延長危險搜裝時間。",
+            "長距離移動の前に不要な部品を整理し、使える予備を仲間へ渡す。危険な回収を長引かせない。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Update 42.1 changed healing-item weight and usability. This checklist deliberately avoids old fixed healing times or quantities.",
+            "42.1 更新調整醫療用品重量與使用性，因此這份清單不套用舊固定時間或數量。",
+            "更新42.1で医療品の重量や使いやすさが変更。古い固定時間や数量はここでは使いません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "PUBG Support · attachments and auto-equip",
+            "url": "https://support.pubg.com/hc/en-us/articles/115004202454-What-are-attachments-What-do-they-do"
+          },
+          {
+            "label": "PUBG · Update 42.1 / Blue Zone and healing changes",
+            "url": "https://www.pubg.com/en-asia/news/10179?category=patch_notes"
+          }
+        ],
+        "scope": [
+          "PUBG: BATTLEGROUNDS · PC. Normal/Ranked rules and current client settings take priority; not PUBG Mobile.",
+          "PUBG: BATTLEGROUNDS・PC。以一般／競技模式及目前設定為準，不適用 PUBG Mobile。",
+          "PUBG: BATTLEGROUNDS・PC。ノーマル／ランクと現在の設定を確認。PUBG Mobile向けではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "pubg-exploration",
+        "topic": "exploration",
+        "title": [
+          "Plan the next circle, not just the next building",
+          "規劃下一個安全區，不只是下一棟樓",
+          "次の建物より次の円を考える"
+        ],
+        "summary": [
+          "Choose a route around current terrain, the white circle and the live timer. Avoid gambling the whole match on one late crossing.",
+          "依地形、白圈與當局倒數規劃，別把整場比賽賭在最後一刻穿越。",
+          "地形、白い円、現在のタイマーから経路を選びます。遅い横断一回に試合を賭けないようにしましょう。"
+        ],
+        "keywords": [
+          "Blue Zone",
+          "Erangel",
+          "rotation",
+          "藍圈",
+          "艾倫格",
+          "轉點",
+          "ブルーゾーン",
+          "エランゲル",
+          "移動"
+        ],
+        "steps": [
+          [
+            "After landing, identify your location and the next white circle on the map before choosing another loot stop.",
+            "落地後先找自己與下一個白圈的位置，再決定要不要繼續搜裝。",
+            "着地後、自分の位置と次の白い円を確認してから追加の回収地点を選ぶ。"
+          ],
+          [
+            "Pick a route with terrain cover and a backup direction; consider exposed roads, ridges and narrow crossings.",
+            "選有地形掩體及備用方向的路線，注意道路、稜線與狹窄通道。",
+            "地形の遮蔽物と予備の方向を確保し、道路、尾根、狭い通路を確認する。"
+          ],
+          [
+            "If the route is long, assess available transport early instead of searching only when the Blue Zone reaches you.",
+            "路線很長就提早評估交通工具，不等藍圈到了才尋找。",
+            "遠い経路なら早めに移動手段を検討し、ブルーゾーンが来てから探さない。"
+          ],
+          [
+            "Recheck the timer and regroup after each circle change; leave a loot area when the next move becomes the priority.",
+            "每次安全區變化後重看倒數並集合，需要轉點時就離開搜裝區。",
+            "円が変わるたびに時間を確認して合流。移動が優先になったら物資回収を切り上げる。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Official 42.1 notes changed Blue Zone timing and damage scaling. Follow the live timer; old distance-based advice may be obsolete.",
+            "官方 42.1 更新改動藍圈時間與傷害計算；跟隨當局倒數，舊距離傷害建議可能失效。",
+            "公式42.1でブルーゾーンの時間とダメージ計算が変更。現在のタイマーを優先し、古い距離依存の助言に頼らないでください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "PUBG Support · Blue Zone basics",
+            "url": "https://support.pubg.com/hc/en-us/articles/115004168813-What-is-the-blue-circle"
+          },
+          {
+            "label": "PUBG · Update 42.1 / Blue Zone and healing changes",
+            "url": "https://www.pubg.com/en-asia/news/10179?category=patch_notes"
+          },
+          {
+            "label": "PUBG · official Erangel map overview",
+            "url": "https://www.pubg.com/en-asia/game-info/maps/erangel"
+          }
+        ],
+        "scope": [
+          "PUBG: BATTLEGROUNDS · PC. Normal/Ranked rules and current client settings take priority; not PUBG Mobile.",
+          "PUBG: BATTLEGROUNDS・PC。以一般／競技模式及目前設定為準，不適用 PUBG Mobile。",
+          "PUBG: BATTLEGROUNDS・PC。ノーマル／ランクと現在の設定を確認。PUBG Mobile向けではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "pubg-commands",
+        "topic": "commands",
+        "title": [
+          "Use the Aim/Sound Lab and check PC bindings",
+          "使用瞄準／聽聲訓練並確認 PC 按鍵",
+          "Aim/Sound LabとPC操作を確認する"
+        ],
+        "summary": [
+          "Create a short practice routine for aim, sound direction and item handling. These are training and settings instructions, not console commands.",
+          "建立瞄準、聲音方向與物品操作的短練習；這是訓練與設定，不是控制台指令。",
+          "照準、音の方向、アイテム操作を短く練習します。コンソールコマンドではなく訓練と設定の手順です。"
+        ],
+        "keywords": [
+          "Aim/Sound Lab",
+          "keybinds",
+          "settings",
+          "聽聲辨位",
+          "按鍵",
+          "設定",
+          "サウンド練習",
+          "キー設定",
+          "設定"
+        ],
+        "steps": [
+          [
+            "Enter Training Mode and locate the Aim/Sound Lab using the current map and interaction prompts.",
+            "進入訓練模式，依目前地圖與互動提示找到 Aim/Sound Lab。",
+            "トレーニングに入り、現在のマップと操作案内でAim/Sound Labを探す。"
+          ],
+          [
+            "Run an aim session with one selected weapon and note the result before changing sensitivity.",
+            "選定一把武器做瞄準練習，先記錄結果再調靈敏度。",
+            "武器を一つ選んで照準練習を行い、感度を変える前に結果を記録する。"
+          ],
+          [
+            "Run sound practice with your normal headphones; compare perceived direction with the displayed answer.",
+            "用平常耳機做聽聲練習，將自己判斷的方向與畫面答案比較。",
+            "普段のヘッドホンで音の練習をし、聞こえた方向と表示される答えを比べる。"
+          ],
+          [
+            "Inspect Limited Interact, Radio Message and auto-attachment settings; rehearse them in training before using them under pressure.",
+            "檢查 Limited Interact、無線電與自動裝配設定，先在訓練練習再用於實戰。",
+            "Limited Interact、ラジオメッセージ、自動装着の設定を確認し、実戦の前に練習する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "The Lab is documented in the 16.2 archive; follow current access prompts. Change one setting at a time so comparisons remain meaningful.",
+            "訓練室記載於 16.2 歷史更新，入口以目前提示為準；一次只改一項設定。",
+            "Labは16.2の資料に記載。現在の入口案内を優先し、比較できるよう設定は一つずつ変えてください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "PUBG · Update 16.2 / Aim-Sound Lab archive",
+            "url": "https://pubg.com/en/news/1717"
+          },
+          {
+            "label": "PUBG · Update 20.1 / Carry and Radio Messages archive",
+            "url": "https://pubg.com/en/news/1730"
+          },
+          {
+            "label": "PUBG Support · attachments and auto-equip",
+            "url": "https://support.pubg.com/hc/en-us/articles/115004202454-What-are-attachments-What-do-they-do"
+          }
+        ],
+        "scope": [
+          "PUBG: BATTLEGROUNDS · PC. Normal/Ranked rules and current client settings take priority; not PUBG Mobile.",
+          "PUBG: BATTLEGROUNDS・PC。以一般／競技模式及目前設定為準，不適用 PUBG Mobile。",
+          "PUBG: BATTLEGROUNDS・PC。ノーマル／ランクと現在の設定を確認。PUBG Mobile向けではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "pubg-progression",
+        "topic": "progression",
+        "title": [
+          "Use Weapon Mastery to guide practice",
+          "用武器熟練度安排練習",
+          "武器マスタリーを練習に活かす"
+        ],
+        "summary": [
+          "Treat Mastery and weapon statistics as feedback on repeated play, not a substitute for learning positioning and survival.",
+          "把熟練度與武器統計當成回饋，不讓它取代站位與生存練習。",
+          "マスタリーや武器統計をプレイの振り返りに使い、位置取りと生存の練習も続けます。"
+        ],
+        "keywords": [
+          "Weapon Mastery",
+          "stats",
+          "progression",
+          "武器熟練度",
+          "統計",
+          "成長",
+          "武器マスタリー",
+          "統計",
+          "進行"
+        ],
+        "steps": [
+          [
+            "Open Weapon Mastery and select a weapon you genuinely use, rather than chasing progress on every weapon at once.",
+            "開啟武器熟練度，選一把真的常用的武器，不同時追求全部武器進度。",
+            "武器マスタリーで実際によく使う武器を選び、すべてを同時に進めようとしない。"
+          ],
+          [
+            "Inspect the available mode and weapon filters; compare statistics from similar modes instead of mixing unrelated sessions.",
+            "查看模式與武器篩選，用相同模式的統計比較，不混合不同玩法。",
+            "モードと武器のフィルターを確認し、似たモードの統計同士を比べる。"
+          ],
+          [
+            "Choose one practice goal, such as more controlled hits or safer positioning after firing, and repeat it across a few sessions.",
+            "選一項練習目標，例如穩定命中或開火後安全換位，持續數次遊玩。",
+            "安定した命中や射撃後の安全な移動など、目標を一つ決めて数回練習する。"
+          ],
+          [
+            "Review the trend and the current reward screen afterward; check eligibility instead of assuming an archived reward still applies.",
+            "之後查看趨勢與當前獎勵頁，確認資格，不假設歷史獎勵仍適用。",
+            "後から傾向と現在の報酬画面を確認し、古い報酬説明が今も当てはまると決めつけない。"
+          ]
+        ],
+        "cautions": [
+          [
+            "The 18.2 source explains the Mastery overhaul historically. Current caps, XP rates and reward eligibility must be checked in game.",
+            "18.2 來源介紹歷史上的熟練度改版；目前上限、經驗值與獎勵資格請在遊戲確認。",
+            "18.2はマスタリー改修時の歴史資料です。現在の上限、XP、報酬条件はゲーム内で確認してください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "PUBG · Update 18.2 / Weapon Mastery archive",
+            "url": "https://pubg.com/en/news/1741?category=patch_notes"
+          }
+        ],
+        "scope": [
+          "PUBG: BATTLEGROUNDS · PC. Normal/Ranked rules and current client settings take priority; not PUBG Mobile.",
+          "PUBG: BATTLEGROUNDS・PC。以一般／競技模式及目前設定為準，不適用 PUBG Mobile。",
+          "PUBG: BATTLEGROUNDS・PC。ノーマル／ランクと現在の設定を確認。PUBG Mobile向けではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "game": "brawl",
+    "intro": {
+      "tagline": [
+        "Play the objective. Make every move count.",
+        "瞄準勝利條件，讓每步都有用。",
+        "勝利条件を見て、一手ずつ大切に。"
+      ],
+      "summary": [
+        "Brawl Stars changes with its event rules: carrying gems, scoring a goal and surviving a Knockout round require different decisions. Learn a small group of Brawlers and read the map and modifiers before matching.",
+        "荒野亂鬥的判斷隨活動改變：攜帶寶石、射門與淘汰賽生存需要不同做法。先熟悉少數角色，配對前閱讀地圖與特殊規則。",
+        "ブロスタでは、宝石の運搬、ゴール、ノックアウトでの生存など、イベントごとに判断が変わります。少数のキャラクターを覚え、開始前にマップと特殊ルールを確認しましょう。"
+      ],
+      "loop": [
+        [
+          "Read the mode, map and selected Brawler abilities.",
+          "閱讀模式、地圖與所選角色能力。",
+          "モード、マップ、選んだキャラクターの能力を読む。"
+        ],
+        [
+          "Control useful space and protect the objective.",
+          "控制重要位置，守住勝利目標。",
+          "重要な場所を押さえ、目標を守る。"
+        ],
+        [
+          "Review a mistake and choose a focused next upgrade.",
+          "檢討一個失誤，再決定下一項升級。",
+          "失敗を一つ見直し、次の強化を絞る。"
+        ]
+      ],
+      "start": [
+        [
+          "Choose one event and a Brawler whose range and role you understand.",
+          "選一項活動，使用了解射程與定位的角色。",
+          "イベントを一つ選び、射程と役割が分かるキャラクターを使う。"
+        ],
+        [
+          "Use a Friendly Battle to practice before risking Trophy progress.",
+          "先用友誼賽練習，再進入獎盃對戰。",
+          "トロフィー戦の前にフレンドバトルで練習する。"
+        ],
+        [
+          "Open the Brawler Collection to inspect abilities and Brawler Blast progress.",
+          "打開角色收藏，查看能力與 Brawler Blast 進度。",
+          "キャラクター一覧で能力とBrawler Blastの進捗を確認する。"
+        ]
+      ],
+      "pitfalls": [
+        [
+          "Eliminations alone do not win every event.",
+          "擊倒數不是每個活動的勝利條件。",
+          "倒した数だけで勝てるイベントばかりではありません。"
+        ],
+        [
+          "A modifier can change a tactic that normally works.",
+          "特殊規則可能讓原本有效的戰術失效。",
+          "特殊ルールで、普段の戦術が通用しないことがあります。"
+        ],
+        [
+          "Old Starr Road instructions are outdated after the Brawler Blast rework.",
+          "Brawler Blast 改版後，舊 Starr Road 解鎖說明已過時。",
+          "Brawler Blastへの変更後、古いStarr Roadの説明はそのまま使えません。"
+        ]
+      ]
+    },
+    "articles": [
+      {
+        "id": "brawl-combat",
+        "topic": "combat",
+        "title": [
+          "Practice range, ammo timing and an ability purpose",
+          "練習射程、彈藥時機與技能用途",
+          "射程・弾の使い方・能力の目的を練習する"
+        ],
+        "summary": [
+          "Start with a Brawler you understand, then test one action at a time. Poco shows why reading current ability text matters.",
+          "先用理解的角色，一次測試一個操作；Poco 就是必須讀當前技能的例子。",
+          "分かるキャラクターで、一つずつ動作を試します。Pocoは現在の能力説明を読む重要性が分かる例です。"
+        ],
+        "keywords": [
+          "Poco",
+          "attack",
+          "Super",
+          "波可",
+          "攻擊",
+          "超級技能",
+          "ポコ",
+          "攻撃",
+          "必殺技"
+        ],
+        "steps": [
+          [
+            "Read your Brawler’s attack, Super and equipped abilities before the match; note the intended range and role.",
+            "開場前閱讀普通攻擊、超級技能及已裝備能力，確認射程與用途。",
+            "試合前に通常攻撃、必殺技、装備能力を読み、射程と役割を確認する。"
+          ],
+          [
+            "In a Friendly Battle, compare deliberate aiming with hurried attacks while moving at the edge of your useful range.",
+            "在友誼賽比較仔細瞄準與匆忙攻擊，並練習有效射程邊緣的移動。",
+            "フレンドバトルで丁寧な照準と急いだ攻撃を比べ、有効射程の端で動く練習をする。"
+          ],
+          [
+            "Watch the available attack resources and wait for a useful opening instead of spending every attack immediately.",
+            "留意可用攻擊資源，等待有效空檔，不立刻把攻擊全用光。",
+            "使える攻撃回数を見ながら、すぐ使い切らず有効なタイミングを待つ。"
+          ],
+          [
+            "When using Poco, test positioning that lets an attack support an ally; the 2026 rework added baseline healing to his main attack.",
+            "用 Poco 時練習讓攻擊支援隊友的站位；2026 改版讓普通攻擊自帶治療。",
+            "Pocoでは仲間を支援できる位置を試す。2026年の改修で通常攻撃に基本の回復効果が追加されています。"
+          ],
+          [
+            "Give each Super a purpose before using it: protecting an objective, helping a teammate or finishing a favorable fight.",
+            "施放超級技能前先決定用途：守目標、支援隊友或結束有利交戰。",
+            "必殺技を使う前に、目標防衛・仲間の支援・有利な戦闘の決着など目的を決める。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Do not copy old Poco healing assumptions or fixed damage figures. Power Level, equipped abilities and balance updates affect results.",
+            "不要沿用 Poco 舊治療規則或固定傷害；能力等級、裝備技能與平衡更新都會影響結果。",
+            "Pocoの古い回復条件や固定ダメージを流用しないでください。パワーレベル、装備能力、調整で結果は変わります。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Supercell · August 2026 release notes / Brawler Blast and Poco",
+            "url": "https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-august-2026/"
+          },
+          {
+            "label": "Supercell Support · teams and Friendly Battles",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/friendly-games-4.html"
+          }
+        ],
+        "scope": [
+          "Brawl Stars · mobile. Check the selected event, current Brawler ability text and active modifiers.",
+          "荒野亂鬥・手機版。確認所選活動、當前角色能力與啟用中的特殊規則。",
+          "ブロスタ・モバイル。選択イベント、現在のキャラクター能力、特殊ルールを確認してください。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "brawl-teams",
+        "topic": "teams",
+        "title": [
+          "Assign roles around the event’s win condition",
+          "依活動勝利條件分工",
+          "イベントの勝利条件から役割を決める"
+        ],
+        "summary": [
+          "Your team needs someone advancing the objective and teammates making that possible. The best job changes with the mode.",
+          "隊伍需要有人推進目標，也需要隊友創造空間；適合的工作依模式不同。",
+          "目標を進める人と、そのための空間を作る仲間が必要です。役割はモードによって変わります。"
+        ],
+        "keywords": [
+          "Gem Grab",
+          "Brawl Ball",
+          "Knockout",
+          "寶石爭奪",
+          "亂鬥足球",
+          "淘汰賽",
+          "エメラルドハント",
+          "ブロストライカー",
+          "ノックアウト"
+        ],
+        "steps": [
+          [
+            "Read the event rules before choosing Brawlers; agree who handles the objective and who covers nearby space.",
+            "選角前閱讀活動規則，約定誰處理目標、誰看守附近空間。",
+            "選択前にイベントのルールを読み、目標担当と周辺を守る担当を決める。"
+          ],
+          [
+            "In 3v3 Gem Grab, protect the gem carrier and maintain a retreat route instead of chasing an unnecessary elimination.",
+            "3 對 3 寶石模式保護攜帶者並保留退路，不追不必要的擊倒。",
+            "3対3の宝石モードでは運搬役を守り、不要な撃破を追わず退路を残す。"
+          ],
+          [
+            "In Brawl Ball, create a passing or scoring lane while keeping somebody able to contest a counterattack.",
+            "足球模式創造傳球或射門路線，同時留人應付反擊。",
+            "ボールモードではパスやシュートの経路を作り、反撃に対応できる人も残す。"
+          ],
+          [
+            "In Knockout, value survival and coordinated pressure; a defeated teammate waits until the next round.",
+            "淘汰賽重視生存與共同施壓，倒下的隊友要等下一回合。",
+            "ノックアウトでは生存と連携を優先。倒された仲間は次のラウンドまで戻れません。"
+          ],
+          [
+            "Use team suggestions and Quick Chat before readying up to agree on a useful composition.",
+            "準備前用隊伍建議與快速聊天協調陣容。",
+            "準備完了の前に提案機能とクイックチャットで編成を相談する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "3v3, 5v5 and special-event versions can have different objectives or thresholds. Use the selected event’s rules.",
+            "3 對 3、5 對 5 與特殊活動可能有不同目標或門檻，請看當前活動。",
+            "3対3、5対5、特別イベントでは目標や必要数が異なる場合があります。選んだイベントのルールを確認。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Supercell Support · game modes",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/game-modes-13.html"
+          },
+          {
+            "label": "Supercell Support · teams and Friendly Battles",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/friendly-games-4.html"
+          }
+        ],
+        "scope": [
+          "Brawl Stars · mobile. Check the selected event, current Brawler ability text and active modifiers.",
+          "荒野亂鬥・手機版。確認所選活動、當前角色能力與啟用中的特殊規則。",
+          "ブロスタ・モバイル。選択イベント、現在のキャラクター能力、特殊ルールを確認してください。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "brawl-resources",
+        "topic": "resources",
+        "title": [
+          "Separate upgrades, equipment and cosmetics",
+          "分清角色升級、裝備與造型",
+          "強化・装備・見た目を分けて考える"
+        ],
+        "summary": [
+          "Choose the next useful upgrade before spending currencies. A small plan is easier to follow than upgrading every Brawler at once.",
+          "花資源前先選下一項有用升級；小計畫比同時升所有角色更好掌握。",
+          "通貨を使う前に次の有用な強化を決めます。全員を同時に強化するより、絞った計画が管理しやすくなります。"
+        ],
+        "keywords": [
+          "Coins",
+          "Power Points",
+          "Gears",
+          "金幣",
+          "能量點數",
+          "裝備",
+          "コイン",
+          "パワーポイント",
+          "ギア"
+        ],
+        "steps": [
+          [
+            "Open your chosen Brawler’s page and read the Coin and Power Point requirements for the next upgrade.",
+            "開啟目標角色頁，查看下一級需要的金幣與能量點數。",
+            "対象キャラクターの画面で、次の強化に必要なコインとパワーポイントを確認する。"
+          ],
+          [
+            "Compare that upgrade with an available Gear or ability; choose one improvement that fits the event you play most.",
+            "比較升級與可用裝備或能力，選最符合常玩活動的一項。",
+            "強化と利用可能なギア・能力を比べ、よく遊ぶイベントに合う改善を一つ選ぶ。"
+          ],
+          [
+            "Check the free Brawl Pass track and quest progress for resources already available to earn or claim.",
+            "查看免費通行證軌道及任務進度，確認可取得或領取的資源。",
+            "無料のブロスタパス報酬とクエスト進捗で、獲得・受取できる資源を確認する。"
+          ],
+          [
+            "Inspect Catalog cosmetics separately and read their price before deciding whether they fit your remaining budget.",
+            "將目錄造型與戰力升級分開規劃，讀清價格再評估剩餘預算。",
+            "カタログの見た目アイテムは強化と分けて考え、価格と残り予算を確認する。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Prices, unlock requirements and rewards can change. A paid Pass or cosmetic purchase is not required for this planning routine.",
+            "價格、解鎖需求與獎勵可能改動；這個規劃流程不需要購買付費通行證或造型。",
+            "価格、解放条件、報酬は変わります。この計画のために有料パスやスキンを買う必要はありません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Google Play · upgrading Brawl Stars characters",
+            "url": "https://play.google.com/store/apps/editorial?hl=en_US&id=mc_games__editorial_evergreen__postinstall__how_to_upgrade_your_characters__brawl_stars__fcp"
+          },
+          {
+            "label": "Supercell Support · Gears",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/gears-8.html"
+          },
+          {
+            "label": "Supercell Support · Brawl Pass and free track",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/brawl-pass-quests-7.html"
+          },
+          {
+            "label": "Supercell Support · the Catalog",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/the-catalog-2.html"
+          }
+        ],
+        "scope": [
+          "Brawl Stars · mobile. Check the selected event, current Brawler ability text and active modifiers.",
+          "荒野亂鬥・手機版。確認所選活動、當前角色能力與啟用中的特殊規則。",
+          "ブロスタ・モバイル。選択イベント、現在のキャラクター能力、特殊ルールを確認してください。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "brawl-exploration",
+        "topic": "exploration",
+        "title": [
+          "Read lanes, objectives and event modifiers",
+          "讀懂路線、目標與特殊規則",
+          "経路・目標・特殊ルールを読む"
+        ],
+        "summary": [
+          "A familiar map can play differently with a different event or modifier. Decide where your Brawler is useful before moving forward.",
+          "熟悉的地圖也會因活動或特殊規則改變；前進前先找適合角色的位置。",
+          "同じマップでもイベントや特殊ルールで戦い方が変わります。進む前に自分の役立つ場所を考えましょう。"
+        ],
+        "keywords": [
+          "map",
+          "modifiers",
+          "Energy Drinks",
+          "地圖",
+          "特殊規則",
+          "能量飲料",
+          "マップ",
+          "特殊ルール",
+          "エナジードリンク"
+        ],
+        "steps": [
+          [
+            "Read the selected event and inspect the map layout; identify the objective, open sight lines and constrained approaches.",
+            "閱讀所選活動與地圖，找出目標、開闊視線及狹窄入口。",
+            "イベントとマップを確認し、目標、開けた射線、狭い接近経路を探す。"
+          ],
+          [
+            "Choose a starting lane that suits your Brawler’s range and leaves a way back to teammates.",
+            "選適合角色射程、也能回到隊友身邊的起始路線。",
+            "キャラクターの射程に合い、仲間へ戻れる最初の経路を選ぶ。"
+          ],
+          [
+            "Check active modifiers. For example, Energy Drinks boost attack and movement but do not increase health.",
+            "確認特殊規則；例如能量飲料提升攻擊與移動，但不增加生命值。",
+            "特殊ルールを確認。たとえばEnergy Drinksは攻撃と移動を強化しますが、体力は増やしません。"
+          ],
+          [
+            "When a route becomes unsafe, fall back and support another approach instead of repeating the same failed push.",
+            "路線不安全時先後退支援其他方向，不重複失敗的衝鋒。",
+            "経路が危険になったら下がって別方向を支援し、失敗した突撃を繰り返さない。"
+          ],
+          [
+            "As the objective or round changes, reassess your position; holding useful space may matter more than collecting another elimination.",
+            "目標或回合改變時重新站位；守住重要空間可能比多擊倒一人更有用。",
+            "目標やラウンドが変われば位置を見直す。撃破一回より重要な場所を守る方が有効な場合があります。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Map and modifier rotations change. This is a reading method, not a claim that a named modifier is active today.",
+            "地圖與特殊規則會輪替；此處教判讀方法，不表示某規則今天一定開放。",
+            "マップや特殊ルールは入れ替わります。ここで紹介したルールが今日有効とは限りません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Supercell Support · event modifiers",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/event-modifiers-13.html"
+          },
+          {
+            "label": "Supercell Support · game modes",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/game-modes-13.html"
+          }
+        ],
+        "scope": [
+          "Brawl Stars · mobile. Check the selected event, current Brawler ability text and active modifiers.",
+          "荒野亂鬥・手機版。確認所選活動、當前角色能力與啟用中的特殊規則。",
+          "ブロスタ・モバイル。選択イベント、現在のキャラクター能力、特殊ルールを確認してください。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "brawl-commands",
+        "topic": "commands",
+        "title": [
+          "Set up a Friendly Battle for focused practice",
+          "設定友誼賽做重點練習",
+          "フレンドバトルで目的を絞って練習する"
+        ],
+        "summary": [
+          "Use a private practice setup to try controls, ability timing and a map without treating the match as Trophy progress.",
+          "用練習房測試操作、能力時機與地圖，不把練習當成獎盃進度。",
+          "練習用の部屋で操作、能力のタイミング、マップを試します。トロフィーを増やす試合とは分けましょう。"
+        ],
+        "keywords": [
+          "Friendly Battle",
+          "controls",
+          "practice",
+          "友誼賽",
+          "操作",
+          "練習",
+          "フレンドバトル",
+          "操作",
+          "練習"
+        ],
+        "steps": [
+          [
+            "Open the top-right menu on the main screen and choose Friendly Battle.",
+            "在主畫面開右上選單，選擇 Friendly Battle。",
+            "ホーム右上のメニューからFriendly Battleを選ぶ。"
+          ],
+          [
+            "Select the event you want to practice, then invite friends or Club members who are online.",
+            "選擇要練習的活動，再邀請上線好友或戰隊成員。",
+            "練習したいイベントを選び、オンラインのフレンドやクラブメンバーを招待する。"
+          ],
+          [
+            "Use the power button on each slot to manage bots, and inspect the wrench menu for available rule adjustments.",
+            "用各欄位電源鍵控制機器人，透過扳手選單查看可調規則。",
+            "各枠の電源ボタンでボットを調整し、レンチメニューで変更可能なルールを確認する。"
+          ],
+          [
+            "Agree on one exercise: moving while aiming, timing a Super or protecting a carrier; repeat with only one change.",
+            "約定一項練習：移動瞄準、技能時機或保護攜帶者；每次只改一項再重試。",
+            "移動しながら狙う、必殺技のタイミング、運搬役の護衛など一つを練習し、一点だけ変えて繰り返す。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Friendly Battles do not award Trophies and use fully upgraded Brawlers. Their conditions may not match your normal account loadout.",
+            "友誼賽不給獎盃，使用完整升級角色；條件可能與平常帳號配置不同。",
+            "フレンドバトルではトロフィーを獲得できず、キャラクターは最大強化状態です。通常の装備条件と異なる場合があります。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Supercell Support · teams and Friendly Battles",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/friendly-games-4.html"
+          }
+        ],
+        "scope": [
+          "Brawl Stars · mobile. Check the selected event, current Brawler ability text and active modifiers.",
+          "荒野亂鬥・手機版。確認所選活動、當前角色能力與啟用中的特殊規則。",
+          "ブロスタ・モバイル。選択イベント、現在のキャラクター能力、特殊ルールを確認してください。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "brawl-progression",
+        "topic": "progression",
+        "title": [
+          "Follow Brawler Blast and plan the next unlock",
+          "追蹤 Brawler Blast，規劃下一次解鎖",
+          "Brawler Blastで次の解放を確認する"
+        ],
+        "summary": [
+          "The August 2026 release notes replaced Starr Road with Brawler Blast. Follow the new collection interface instead of old unlock-path screenshots.",
+          "2026 年 8 月更新說明以 Brawler Blast 取代 Starr Road；請使用新的收藏介面，不照搬舊解鎖截圖。",
+          "2026年8月更新の説明でStarr RoadはBrawler Blastに変更。古い解放画面ではなく新しい一覧を使いましょう。"
+        ],
+        "keywords": [
+          "Brawler Blast",
+          "Credits",
+          "Starr Road",
+          "角色解鎖",
+          "英雄券",
+          "收藏",
+          "キャラクター解放",
+          "クレジット",
+          "コレクション"
+        ],
+        "steps": [
+          [
+            "Tap Brawlers on the home screen and open Brawler Blast on the left side of the collection.",
+            "在首頁點 Brawlers，開啟收藏左側的 Brawler Blast。",
+            "ホームのBrawlersを開き、一覧の左側にあるBrawler Blastへ進む。"
+          ],
+          [
+            "Read the next rarity and Credit requirement; Credits now advance the Brawler Blast unlock sequence.",
+            "查看下一個稀有度與英雄券需求；英雄券現在推進 Brawler Blast 解鎖順序。",
+            "次のレア度と必要クレジットを確認。クレジットはBrawler Blastの解放順序を進めます。"
+          ],
+          [
+            "Follow the opening prompts when the requirement is met; do not assume you can always choose any specific Brawler.",
+            "達到需求後依畫面提示開啟，不假設每次都能自由選指定角色。",
+            "条件を満たしたら画面の案内に従い、毎回好きな一人を自由に選べるとは考えない。"
+          ],
+          [
+            "After unlocking, inspect the new Brawler’s abilities and usable upgrades before planning a practice session.",
+            "解鎖後先讀新角色能力與可用升級，再安排練習。",
+            "解放後は新キャラクターの能力と使える強化を確認し、練習を計画する。"
+          ],
+          [
+            "Choose a manageable quest and review the free Pass track for the next session’s progress goal.",
+            "選可完成的任務，查看免費通行證軌道，設定下次進度目標。",
+            "無理のないクエストと無料パス報酬を確認し、次回の目標を決める。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Unlock outcomes and bonus upgrades are not guaranteed. Check current official probabilities and the in-game collection before spending resources.",
+            "解鎖結果與額外升級不保證，花資源前查看官方當前機率與遊戲收藏。",
+            "解放結果や追加強化は保証されません。資源を使う前に現在の公式確率とゲーム内一覧を確認してください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Supercell · August 2026 release notes / Brawler Blast and Poco",
+            "url": "https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-august-2026/"
+          },
+          {
+            "label": "Supercell Support · What’s New / Brawler Collection",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/whats-new-9.html"
+          },
+          {
+            "label": "Supercell Support · Brawl Pass and free track",
+            "url": "https://support.supercell.com/brawl-stars/en/articles/brawl-pass-quests-7.html"
+          }
+        ],
+        "scope": [
+          "Brawl Stars · mobile. Check the selected event, current Brawler ability text and active modifiers.",
+          "荒野亂鬥・手機版。確認所選活動、當前角色能力與啟用中的特殊規則。",
+          "ブロスタ・モバイル。選択イベント、現在のキャラクター能力、特殊ルールを確認してください。"
+        ],
+        "reviewedAt": "2026-10-27"
+      }
+    ]
+  }
+]

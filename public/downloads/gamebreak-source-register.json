@@ -1,0 +1,259 @@
+{
+  "preparedOn": "2026-10-15",
+  "notice": "Independent student reference project. Retrieval is not gameplay verification. Game imagery belongs to its publishers.",
+  "collections": [
+    {
+      "id": "genshin-characters",
+      "game": "genshin",
+      "label": "Characters",
+      "provider": "genshin-db",
+      "endpoint": "https://genshin-db-api.vercel.app/api/v5/characters?query=names&matchCategories=true&verboseCategories=true",
+      "source": "https://github.com/theBowja/genshin-db",
+      "note": "Community character data. Introduction version is not the current game patch.",
+      "count": 124,
+      "retrievedAt": "2026-10-15T06:01:42.041632+00:00",
+      "version": null
+    },
+    {
+      "id": "genshin-weapons",
+      "game": "genshin",
+      "label": "Weapons",
+      "provider": "genshin-db",
+      "endpoint": "https://genshin-db-api.vercel.app/api/v5/weapons?query=names&matchCategories=true&verboseCategories=true",
+      "source": "https://github.com/theBowja/genshin-db",
+      "note": "Weapon attributes and ascension materials. Check refinement and level in-game.",
+      "count": 255,
+      "retrievedAt": "2026-10-15T06:01:43.654462+00:00",
+      "version": null
+    },
+    {
+      "id": "brawl-brawlers",
+      "game": "brawl",
+      "label": "Brawlers",
+      "provider": "BrawlAPI",
+      "endpoint": "https://api.brawlapi.com/v1/brawlers",
+      "source": "https://brawlapi.com",
+      "note": "Community reference data, not player statistics or a live tier list.",
+      "count": 109,
+      "retrievedAt": "2026-10-15T06:01:42.769172+00:00",
+      "version": null
+    },
+    {
+      "id": "brawl-modes",
+      "game": "brawl",
+      "label": "Game modes",
+      "provider": "BrawlAPI",
+      "endpoint": "https://api.brawlapi.com/v1/gamemodes",
+      "source": "https://brawlapi.com",
+      "note": "Enabled does not mean currently in rotation. Check the event screen in-game.",
+      "count": 70,
+      "retrievedAt": "2026-10-15T06:01:42.421352+00:00",
+      "version": null
+    },
+    {
+      "id": "brawl-maps",
+      "game": "brawl",
+      "label": "Maps",
+      "provider": "BrawlAPI",
+      "endpoint": "https://api.brawlapi.com/v1/maps",
+      "source": "https://brawlapi.com",
+      "note": "Includes archived maps. Map status comes from the dataset, not the current event rotation.",
+      "count": 1300,
+      "retrievedAt": "2026-10-15T06:01:43.071255+00:00",
+      "version": null
+    },
+    {
+      "id": "minecraft-pc-items",
+      "game": "minecraft",
+      "label": "Java items",
+      "provider": "minecraft-data",
+      "version": "Java 26.1",
+      "endpoint": "https://raw.githubusercontent.com/PrismarineJS/minecraft-data/master/data/pc/26.1/items.json",
+      "source": "https://github.com/PrismarineJS/minecraft-data",
+      "note": "Pinned Java 26.1 item registry. Numeric IDs are dataset IDs, not chat commands. This is not a claim of latest release.",
+      "count": 1506,
+      "retrievedAt": "2026-10-15T06:01:45.102760+00:00"
+    },
+    {
+      "id": "minecraft-bedrock-items",
+      "game": "minecraft",
+      "label": "Bedrock items",
+      "provider": "minecraft-data",
+      "version": "Bedrock data 1.26.30",
+      "endpoint": "https://raw.githubusercontent.com/PrismarineJS/minecraft-data/master/data/bedrock/1.26.30/items.json",
+      "source": "https://github.com/PrismarineJS/minecraft-data",
+      "note": "Pinned Bedrock 1.26.30 item data. Separate from Java; item IDs and recipes must not be mixed.",
+      "count": 1933,
+      "retrievedAt": "2026-10-15T06:01:45.672857+00:00"
+    },
+    {
+      "id": "fortnite-map",
+      "game": "fortnite",
+      "label": "Map & locations",
+      "provider": "Fortnite-API",
+      "endpoint": "https://fortnite-api.com/v1/map",
+      "source": "https://fortnite-api.com",
+      "note": "Provider map data may lag an in-game update. Match location labels against your current Battle Royale map.",
+      "count": 40,
+      "retrievedAt": "2026-10-15T06:01:42.503886+00:00",
+      "version": null
+    },
+    {
+      "id": "fortnite-shop",
+      "game": "fortnite",
+      "label": "Shop cosmetics",
+      "provider": "Fortnite-API",
+      "endpoint": "https://fortnite-api.com/v2/shop",
+      "source": "https://fortnite-api.com",
+      "note": "Battle Royale cosmetics in the returned shop snapshot. This is not the complete cosmetic archive. Prices and availability must be checked in-game.",
+      "count": 248,
+      "retrievedAt": "2026-10-15T06:01:43.890516+00:00",
+      "version": null
+    },
+    {
+      "id": "hsr-combat-starter",
+      "game": "starrail",
+      "label": "Combat & equipment starter reference",
+      "note": "12 selected concepts, including five Paths. This is not every Path, character or build. HoYoWiki is publisher-hosted community content. Source review does not establish current optimal builds.",
+      "source": "https://wiki.hoyolab.com/pc/hsr/home?lang=en-us",
+      "provider": "GameBreak · sourced reference",
+      "kind": "curated",
+      "endpoint": null,
+      "count": 12,
+      "retrievedAt": "2026-10-15T00:00:00Z",
+      "version": null
+    },
+    {
+      "id": "gta-story-starter",
+      "game": "gta",
+      "label": "Story skills & vehicle starter reference",
+      "note": "12 selected records. Vehicle availability is documented in 1.27 for PS4, Xbox One and PC; inspect your edition’s store before buying. This excludes GTA Online businesses and is not a full vehicle database.",
+      "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+      "provider": "GameBreak · sourced reference",
+      "kind": "curated",
+      "endpoint": null,
+      "count": 12,
+      "retrievedAt": "2026-10-15T00:00:00Z",
+      "version": null
+    },
+    {
+      "id": "delta-operations-starter",
+      "game": "delta",
+      "label": "Operations systems starter reference",
+      "note": "12 selected systems, mainly based on Garena documentation. Regional services, unlocks and balance can differ. This is not the full item catalog; current client values take priority over historical patch examples.",
+      "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+      "provider": "GameBreak · sourced reference",
+      "kind": "curated",
+      "endpoint": null,
+      "count": 12,
+      "retrievedAt": "2026-10-15T00:00:00Z",
+      "version": null
+    },
+    {
+      "id": "roblox-hotel-reference",
+      "game": "roblox",
+      "label": "DOORS Hotel starter reference",
+      "note": "12 selected threats and supplies for ordinary Hotel runs on PC and mobile. Not a complete DOORS encyclopedia. Modifiers and other floors can change these rules. Community article text was checked through the search index; direct Fandom access was blocked.",
+      "source": "https://doors-game.fandom.com/wiki/The_Hotel",
+      "sourceChecked": "2026-10-15",
+      "provider": "GameBreak · sourced reference",
+      "kind": "curated",
+      "endpoint": null,
+      "count": 12,
+      "retrievedAt": "2026-10-15T00:00:00Z",
+      "version": null
+    },
+    {
+      "id": "pubg-pc-reference",
+      "game": "pubg",
+      "label": "PUBG PC starter reference",
+      "note": "12 selected weapon families and maps from the publisher directory. This is not a full weapon-stat database or a current map-rotation list. Individual ammo, attachments, balance and availability should be checked in-game.",
+      "source": "https://www.pubg.com/en-asia/game-info/overview",
+      "sourceChecked": "2026-10-15",
+      "provider": "GameBreak · sourced reference",
+      "kind": "curated",
+      "endpoint": null,
+      "count": 12,
+      "retrievedAt": "2026-10-15T00:00:00Z",
+      "version": null
+    },
+    {
+      "id": "wuwa-core-reference",
+      "game": "wuwa",
+      "label": "Wuthering Waves starter reference",
+      "note": "12 selected attributes, weapon families and progression terms. This is not a complete character roster, build ranking or item database. Community article text was checked through the search index; no in-game combat test was performed.",
+      "source": "https://wutheringwaves.fandom.com/wiki/Attribute",
+      "sourceChecked": "2026-10-15",
+      "provider": "GameBreak · sourced reference",
+      "kind": "curated",
+      "endpoint": null,
+      "count": 12,
+      "retrievedAt": "2026-10-15T00:00:00Z",
+      "version": null
+    }
+  ],
+  "licenses": [
+    {
+      "provider": "genshin-db",
+      "docs": "https://github.com/theBowja/genshin-db",
+      "license": "MIT as declared in repo LICENSE; game artwork remains HoYoverse property",
+      "source": "https://github.com/theBowja/genshin-db/blob/main/LICENSE",
+      "notes": [
+        "Prefer images.mihoyo_icon for characters/weapons; Amber representative PNG returned200.",
+        "version means introduction version, not latest patch verification.",
+        "Remove huge weapon story field during normalization.",
+        "API can lag library updates. Endpoint HTTP200 does not verify gameplay."
+      ]
+    },
+    {
+      "provider": "BrawlAPI",
+      "docs": "https://brawlapi.com/",
+      "license": "No general open-source/data license stated in public API reference; API expressly offered free/no-key, with API and CDN usage shown. Attribute BrawlAPI/Brawlify and Supercell.",
+      "policy": "https://supercell.com/en/fan-content-policy/",
+      "notes": [
+        "Use api.brawlapi.com, not old api.brawlify.com.",
+        "Filter brawlers released:true and modes/maps disabled:false for current default; offer archive separately.",
+        "Descriptions may have x placeholders. Do not substitute zero.",
+        "unlock=null and videos=[] by design, omit rather than display0.",
+        "events API intentionally empty, do not label as live events.",
+        "Include unofficiality notice with Supercell Fan Content Policy link."
+      ]
+    },
+    {
+      "provider": "minecraft-data",
+      "docs": "https://github.com/PrismarineJS/minecraft-data",
+      "license": "README explicitly states MIT, notes some data derived from wiki.vg and minecraft.gamepedia.com and upstream rights may apply.",
+      "notes": [
+        "Current data resolver pc26.1 items1506; bedrock1.26.51 resolves items from1.26.30 with1933 items.",
+        "Do not mix edition IDs, recipes or version labels.",
+        "minecraft-assets texture inventory1.21.8 is older than datasets; image-map only includes filenames proven present. Use generic game artwork for missing/new items.",
+        "textures are game artwork; MIT data declaration is not a transfer of Mojang copyright."
+      ]
+    },
+    {
+      "provider": "Fortnite-API",
+      "docs": "https://fortnite-api.com/",
+      "authDocs": "https://fortnite-api.readthedocs.io/en/latest/",
+      "license": "Free community API; public site all rights reserved; game art belongs to Epic. No broad data/art relicensing statement found.",
+      "notes": [
+        "Shop and map verified200+CORS without key. Player statistics require API key.",
+        "shop.data.date is2026-10-15T00:00:00Z; rows may be tracks,vehicles,BRitems, etc.",
+        "Use entry.brItems to limit to BR cosmetics; track albumArt is not character art.",
+        "Map image 1.84MB, lazy load.",
+        "Never interpret API fetch success as guide playtesting."
+      ]
+    }
+  ],
+  "artwork": "Publisher artwork and exact-identifier Minecraft textures. Local WebP copies improve reliability; original image and data attribution remains with the providers. Enka.Network supplies documented UI images for recovered Genshin weapons.",
+  "brawlNotice": "This material is unofficial and is not endorsed by Supercell. See https://supercell.com/en/fan-content-policy/",
+  "images": {
+    "generatedAt": "2026-10-15T08:59:38.647727+00:00",
+    "localFiles": 3390,
+    "bytes": 28806400,
+    "notice": "Exact-entity image mapping. Missing upstream art uses text references; no unrelated pictures substituted.",
+    "additionalProvider": {
+      "name": "Enka.Network documented UI image service",
+      "url": "https://github.com/EnkaNetwork/API-docs/blob/master/api.md"
+    }
+  }
+}

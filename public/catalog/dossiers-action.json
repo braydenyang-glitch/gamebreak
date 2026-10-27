@@ -1,0 +1,2145 @@
+{
+  "reviewedAt": "2026-10-27",
+  "entries": [
+    {
+      "game": "gta",
+      "collection": "gta-story-starter",
+      "entryId": "gta-vehicle-osiris",
+      "layout": "item",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Vehicle identity",
+            "zh": "車輛身分",
+            "ja": "車両プロフィール"
+          },
+          "paragraphs": {
+            "en": [
+              "The Pegassi Osiris is a two-seat Super-class hypercar. Its low body and upward-opening doors distinguish it from ordinary Los Santos traffic. GTA Wiki records it in both GTA V and GTA Online; this dossier covers Story Mode only."
+            ],
+            "zh": [
+              "Pegassi Osiris 是雙座、Super 分類的超級跑車。低矮車身與上掀式車門是外觀特徵。GTA Wiki 同時記錄 GTA V 與 GTA Online；本篇只討論故事模式。"
+            ],
+            "ja": [
+              "Pegassi Osiris は 2 人乗りの Super クラスのハイパーカーです。低い車体と上に開くドアが特徴です。GTA Wiki は GTA V と GTA Online の両方を扱いますが、本記事はストーリーモード用です。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "How to obtain",
+            "zh": "如何取得",
+            "ja": "入手方法"
+          },
+          "paragraphs": {
+            "en": [
+              "Rockstar’s historical notes specify Legendary Motorsport purchases for PS4, Xbox One and PC; PS3/Xbox 360 used vehicle-storage delivery. The community reference lists a Story price of $1,950,000. Check the in-game listing and your edition before spending; an Online event prize is a different acquisition route."
+            ],
+            "zh": [
+              "Rockstar 的歷史公告說明 PS4、Xbox One 與 PC 可向 Legendary Motorsport 購買；PS3／Xbox 360 則放入車輛儲存處。社群資料列出的故事模式價格為 $1,950,000。花錢前核對版本與遊戲售價；Online 活動獎品是不同的取得方式。"
+            ],
+            "ja": [
+              "過去の公式ノートでは PS4・Xbox One・PC は Legendary Motorsport で購入し、PS3／Xbox 360 では車庫に配布されます。コミュニティ資料のストーリー価格は $1,950,000。購入前にゲーム内価格とエディションを確認してください。Online のイベント報酬は別の入手方法です。"
+            ]
+          },
+          "sourceIds": [
+            "r1",
+            "r2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Handling and upgrades",
+            "zh": "操控與改裝",
+            "ja": "操作感と改造"
+          },
+          "paragraphs": {
+            "en": [
+              "The community vehicle article describes all-wheel drive and notes that suspension upgrades are unavailable at Los Santos Customs. These are reference descriptions, not GameBreak lap tests. Avoid comparing an advertised speed bar with another site’s measured maximum speed as if they were the same measurement."
+            ],
+            "zh": [
+              "社群車輛條目記錄四輪驅動，並指出 Los Santos Customs 沒有懸吊升級選項。這些是參考描述，不是 GameBreak 的圈速測試。遊戲廣告速度條與他站實測極速採用不同量測方式，不應直接當成同一數字比較。"
+            ],
+            "ja": [
+              "コミュニティ記事は四輪駆動で、Los Santos Customs にサスペンション改造がないと説明しています。GameBreak のラップ計測ではありません。販売画面の速度バーと他サイトの実測最高速度を同じ測定値として比較しないでください。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Driving practice",
+            "zh": "駕駛練習",
+            "ja": "運転練習"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: use a familiar road loop to compare braking before a bend, corner exit and recovery after a collision. Keep the same character, weather and upgrade state. Photograph the car from the side and inside the cockpit, then label those images with the platform instead of presenting an Online race clip as Story evidence."
+            ],
+            "zh": [
+              "GameBreak 建議：用熟悉的道路迴圈比較入彎煞車、出彎與碰撞後恢復。維持相同角色、天氣及改裝狀態。從側面和駕駛艙拍攝，並標示平台；不要把 Online 比賽影片當成故事模式證據。"
+            ],
+            "ja": [
+              "GameBreak の提案：慣れた道路で進入時のブレーキ、立ち上がり、衝突後の復帰を比較します。キャラクター・天候・改造状態をそろえ、側面と車内の画像にプラットフォームを記録しましょう。Online のレース映像はストーリーの検証にはなりません。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Scope and saved vehicles",
+            "zh": "模式與車輛保存",
+            "ja": "対象モードと保存"
+          },
+          "paragraphs": {
+            "en": [
+              "The dossier does not promise insurance, mechanic delivery or Online discounts in single-player. Before experimenting, keep a separate manual save and read your Story garage instructions. Current prices, vehicle persistence and performance have not been playtested on your installed build."
+            ],
+            "zh": [
+              "本篇不保證單人模式提供保險、技工送車或 Online 折扣。試車前建立獨立手動存檔，閱讀故事模式車庫說明。目前售價、車輛保存及性能尚未在你的安裝版本內實測。"
+            ],
+            "ja": [
+              "シングルプレイに保険・メカニック配送・Online 割引があるとは保証しません。試す前に別の手動セーブを作り、ストーリーの車庫説明を確認してください。現在の価格・車両保存・性能は使用中のビルドで未検証です。"
+            ]
+          },
+          "sourceIds": [
+            "r1"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Title Update 1.27",
+            "zh": "版本更新 1.27",
+            "ja": "タイトルアップデート 1.27"
+          },
+          "detail": {
+            "en": "Rockstar documents this vehicle among the cars added to Story Mode by Update 1.27. The 2015-06-10 announcement names the Ill-Gotten Gains Part One release; it is release history, not a claim that today’s Story Mode received a new vehicle.",
+            "zh": "Rockstar 將這輛車列為 1.27 更新加入故事模式的車款。2015-06-10 公告記錄「不義之財：第一部分」推出；這是推出歷史，不是說今天的故事模式新增車輛。",
+            "ja": "Rockstar はこの車をアップデート 1.27 でストーリーモードに追加したと記載しています。2015-06-10 の告知は Ill-Gotten Gains Part One の発売記録であり、現在の新規追加という意味ではありません。"
+          },
+          "sourceIds": [
+            "r1",
+            "r3"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "r1",
+          "name": "Rockstar Support · Title Update 1.27",
+          "url": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "r2",
+          "name": "GTA Wiki · Osiris",
+          "url": "https://gta.fandom.com/wiki/Osiris",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "r3",
+          "name": "Rockstar Newswire · Ill-Gotten Gains Part One",
+          "url": "https://www.rockstargames.com/newswire/article/25o2411812k84a/gta-online-ill-gotten-gains-update-part-one-now-available",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Osiris vehicle gallery",
+            "zh": "Osiris 車輛圖集",
+            "ja": "Osiris の車両ギャラリー"
+          },
+          "url": "https://gta.fandom.com/wiki/Osiris#Gallery",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community gallery includes exterior, interior and first-person cockpit views. Individual images can depict different editions or Online.",
+            "zh": "社群圖集含外觀、內裝與第一人稱駕駛艙；個別圖片可能來自不同版本或 Online。",
+            "ja": "外観・内装・一人称の車内画像を含むコミュニティギャラリー。画像ごとにエディションや Online の違いがあります。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "gta",
+      "collection": "gta-story-starter",
+      "entryId": "gta-vehicle-virgo",
+      "layout": "item",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Which Virgo?",
+            "zh": "是哪一款 Virgo？",
+            "ja": "どの Virgo？"
+          },
+          "paragraphs": {
+            "en": [
+              "This entry is the Albany Virgo added to GTA V. It is a two-seat Muscle-class car with rear-wheel drive. Do not substitute the similarly named Virgo Classic or Virgo Classic Custom: a matching word in a search result does not identify the same vehicle."
+            ],
+            "zh": [
+              "本條目是 GTA V 中新增的 Albany Virgo，雙座、後輪驅動，分類為 Muscle。不要與 Virgo Classic 或 Virgo Classic Custom 混用；搜尋結果名稱相似，不代表是同一款車。"
+            ],
+            "ja": [
+              "対象は GTA V に追加された Albany Virgo です。2 人乗り、後輪駆動の Muscle クラス車両です。Virgo Classic／Virgo Classic Custom は別車種なので、検索語が似ているだけで同一と判断しないでください。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Story Mode purchase",
+            "zh": "故事模式購買",
+            "ja": "ストーリーモードでの購入"
+          },
+          "paragraphs": {
+            "en": [
+              "Rockstar lists the Virgo among Update 1.27’s Legendary Motorsport additions. GTABase records a Story Mode purchase price of $195,000. Confirm the vehicle name and current in-game price; the same reference page also contains Online-only purchase, sale and delivery information."
+            ],
+            "zh": [
+              "Rockstar 將 Virgo 列入 1.27 更新的 Legendary Motorsport 車款。GTABase 記錄故事模式購買價格為 $195,000。請核對車名及遊戲內現價；同一參考頁也包含僅適用 Online 的購買、出售與送車資訊。"
+            ],
+            "ja": [
+              "Rockstar は Virgo を 1.27 の Legendary Motorsport 追加車種に挙げています。GTABase のストーリー価格は $195,000。車名と現在のゲーム内価格を確認してください。同じ資料には Online 専用の売却や配送も載っています。"
+            ]
+          },
+          "sourceIds": [
+            "r1",
+            "r2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Driving characteristics",
+            "zh": "駕駛特性",
+            "ja": "走行特性"
+          },
+          "paragraphs": {
+            "en": [
+              "Its rear-wheel-drive layout is a useful contrast to an all-wheel-drive supercar. GameBreak practice suggestion: compare gentle and abrupt acceleration leaving one corner, then repeat with the same upgrades. A vehicle’s class is a catalogue category; it does not guarantee a competitive result on every route."
+            ],
+            "zh": [
+              "後輪驅動配置可與四輪驅動超跑做比較。GameBreak 練習建議：在同一彎角分別柔和與突然加速，再維持相同改裝重測。車輛分類是目錄分類，不保證每條路線都有競爭力。"
+            ],
+            "ja": [
+              "後輪駆動なので四輪駆動のスーパーカーとの違いを学べます。GameBreak の練習案：同じコーナーで穏やかな加速と急加速を比べ、改造をそろえて再試行します。車両クラスは分類であり、すべてのコースでの優位を保証しません。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "A collection and photo subject",
+            "zh": "收藏與攝影玩法",
+            "ja": "収集と撮影の遊び方"
+          },
+          "paragraphs": {
+            "en": [
+              "For a Story collection, record manufacturer, paint, wheels and garage location together. Take one side view for body shape and one front view for the grille. A before/after customization pair is more informative than repeating a promotional cover image, and it makes accidental variant substitutions easier to spot."
+            ],
+            "zh": [
+              "建立故事模式收藏時，一起記錄製造商、烤漆、輪圈與車庫位置。拍側面呈現車形、正面呈現水箱護罩。改裝前後對照比重複宣傳封面更有資訊，也容易發現是否誤用了其他版本。"
+            ],
+            "ja": [
+              "ストーリーのコレクションにはメーカー・塗装・ホイール・車庫の位置を一緒に記録します。側面で車体、正面でグリルを見せましょう。改造前後の比較は宣伝画像の繰り返しより役立ち、別バリエーションとの取り違えにも気づけます。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Avoid Online-only assumptions",
+            "zh": "避免套用 Online 規則",
+            "ja": "Online 専用ルールに注意"
+          },
+          "paragraphs": {
+            "en": [
+              "No current Story speed test is supplied here. Online resale percentages, special event discounts and delivery services are outside this entry’s scope. Save before buying or changing a collection vehicle, and treat any numerical comparison without an edition and test method as incomplete."
+            ],
+            "zh": [
+              "此處沒有提供目前故事模式的極速實測。Online 回售比例、活動折扣與送車服務不屬本篇範圍。購買或改動收藏車前先存檔；沒有版本及測試方法的數字比較都不完整。"
+            ],
+            "ja": [
+              "現在のストーリー版最高速度は未計測です。Online の売却率・イベント割引・配送サービスは対象外です。購入や改造前にセーブし、エディションと計測条件がない数値比較は不完全な資料として扱ってください。"
+            ]
+          },
+          "sourceIds": [
+            "r1",
+            "r2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Title Update 1.27",
+            "zh": "版本更新 1.27",
+            "ja": "タイトルアップデート 1.27"
+          },
+          "detail": {
+            "en": "Rockstar documents this vehicle among the cars added to Story Mode by Update 1.27. The 2015-06-10 announcement names the Ill-Gotten Gains Part One release; it is release history, not a claim that today’s Story Mode received a new vehicle.",
+            "zh": "Rockstar 將這輛車列為 1.27 更新加入故事模式的車款。2015-06-10 公告記錄「不義之財：第一部分」推出；這是推出歷史，不是說今天的故事模式新增車輛。",
+            "ja": "Rockstar はこの車をアップデート 1.27 でストーリーモードに追加したと記載しています。2015-06-10 の告知は Ill-Gotten Gains Part One の発売記録であり、現在の新規追加という意味ではありません。"
+          },
+          "sourceIds": [
+            "r1",
+            "r3"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "r1",
+          "name": "Rockstar Support · Title Update 1.27",
+          "url": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "r2",
+          "name": "GTABase · Albany Virgo",
+          "url": "https://www.gtabase.com/grand-theft-auto-v/vehicles/albany-virgo",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "r3",
+          "name": "Rockstar Newswire · Ill-Gotten Gains Part One",
+          "url": "https://www.rockstargames.com/newswire/article/25o2411812k84a/gta-online-ill-gotten-gains-update-part-one-now-available",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "r4",
+          "name": "GTA Wiki · Virgo (HD Universe)",
+          "url": "https://gta.fandom.com/wiki/Virgo_(HD_Universe)",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Virgo vehicle reference images",
+            "zh": "Virgo 車輛參考圖片",
+            "ja": "Virgo の車両画像"
+          },
+          "url": "https://www.gtabase.com/grand-theft-auto-v/vehicles/albany-virgo",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Vehicle reference page with the Albany Virgo image. Read the Story Mode subsection; Online delivery and sale rules differ.",
+            "zh": "車輛參考頁提供 Albany Virgo 圖片；請閱讀 Story Mode 段落，Online 送車及出售規則不同。",
+            "ja": "Albany Virgo の画像がある車両資料ページ。Story Mode 欄を読み、Online の配送・売却ルールと区別してください。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "gta",
+      "collection": "gta-story-starter",
+      "entryId": "gta-vehicle-stirling",
+      "layout": "item",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Classic coupe identity",
+            "zh": "經典雙門車身分",
+            "ja": "クラシッククーペの特徴"
+          },
+          "paragraphs": {
+            "en": [
+              "The Benefactor Stirling GT is a two-seat Sports Classics coupe. Gull-wing doors and its long front body give it a different visual identity from the Osiris, even though both were included in the same content update. The name is a vehicle model, not a separate racing activity."
+            ],
+            "zh": [
+              "Benefactor Stirling GT 是雙座 Sports Classics 雙門跑車。鷗翼門和較長車頭讓它與同次更新加入的 Osiris 有不同外觀。Stirling GT 是車款名稱，不是另一種賽事。"
+            ],
+            "ja": [
+              "Benefactor Stirling GT は 2 人乗りの Sports Classics クーペです。同じ更新で追加された Osiris とも、ガルウイングドアと長いノーズで見分けられます。名前は車種名で、独立したレース種目ではありません。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Find the correct Story listing",
+            "zh": "找到故事模式車款",
+            "ja": "ストーリーの販売ページ"
+          },
+          "paragraphs": {
+            "en": [
+              "The Story reference price is $975,000 at Legendary Motorsport. Rockstar’s notes distinguish the PS4/Xbox One/PC purchase route from the older PS3/Xbox 360 garage delivery. Check your actual edition and available garage before purchasing rather than following an Online showroom event."
+            ],
+            "zh": [
+              "故事模式參考價格是 Legendary Motorsport 的 $975,000。Rockstar 公告區分 PS4／Xbox One／PC 購買與舊版 PS3／Xbox 360 車庫配發。購買前確認實際版本及車庫，不要直接照著 Online 展間活動操作。"
+            ],
+            "ja": [
+              "ストーリーの参考価格は Legendary Motorsport で $975,000。公式ノートは PS4／Xbox One／PC の購入と、旧 PS3／Xbox 360 の車庫配布を区別しています。Online のショールームイベントではなく、自分のエディションと車庫を確認します。"
+            ]
+          },
+          "sourceIds": [
+            "r1",
+            "r2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Customization boundaries",
+            "zh": "改裝範圍",
+            "ja": "改造の範囲"
+          },
+          "paragraphs": {
+            "en": [
+              "GTA Wiki separates GTA V and Online modification columns. Its HSW upgrade column is unavailable for GTA V Story Mode. Use the Story column when budgeting brakes, engine, exhaust or appearance changes; an HSW performance demonstration cannot establish this Story car’s speed."
+            ],
+            "zh": [
+              "GTA Wiki 將 GTA V 和 Online 改裝欄位分開；HSW 升級在 GTA V 故事模式欄為不適用。估算煞車、引擎、排氣管或外觀改裝時看故事欄；HSW 展示不能證明故事車款的速度。"
+            ],
+            "ja": [
+              "GTA Wiki は GTA V と Online の改造欄を分けており、ストーリーに HSW アップグレードはありません。ブレーキ・エンジン・排気・外観の予算は GTA V 欄で確認し、HSW 映像をストーリー性能の証拠にしないでください。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Make a useful comparison",
+            "zh": "有用的展示比較",
+            "ja": "役立つ比較方法"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: photograph the door open and closed, then run the same short road section before and after one upgrade. Note braking point, camera view and whether traffic interfered. This produces an understandable vehicle showcase without inventing a lap record or claiming a visual modification adds performance."
+            ],
+            "zh": [
+              "GameBreak 建議：拍攝開門與關門狀態，再用同一道路比較單一改裝前後。記錄煞車點、視角及交通干擾。這樣能做出容易理解的車輛展示，而不用捏造圈速或聲稱外觀改裝會提升性能。"
+            ],
+            "ja": [
+              "GameBreak の提案：ドアの開閉を撮影し、改造を一つだけ変更して同じ短い道路を走ります。ブレーキ位置・視点・交通の影響を記録すれば、架空のラップ記録や外観改造の性能効果を持ち出さずに分かりやすく展示できます。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Historical and current information",
+            "zh": "歷史與目前資訊",
+            "ja": "過去と現在の情報"
+          },
+          "paragraphs": {
+            "en": [
+              "Community galleries contain Online cargo variants and later liveries. Label those images rather than assuming every pictured option exists in Story Mode. This source review confirms identity and documented availability; it does not verify your save, upgrade prices or present-day handling."
+            ],
+            "zh": [
+              "社群圖集中有 Online 載具貨物版本與後來新增塗裝，應註明來源，不要假設所有圖片選項都存在於故事模式。本次資料審閱確認身分及記錄中的取得方式，沒有驗證你的存檔、改裝現價或目前操控。"
+            ],
+            "ja": [
+              "コミュニティ画像には Online の車両貨物バリエーションや後年のリバリーもあります。すべてがストーリーで選べるとは考えず表示を付けてください。今回は車種と記録上の入手方法を確認したもので、セーブ・現在価格・操作感の実測ではありません。"
+            ]
+          },
+          "sourceIds": [
+            "r2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Title Update 1.27",
+            "zh": "版本更新 1.27",
+            "ja": "タイトルアップデート 1.27"
+          },
+          "detail": {
+            "en": "Rockstar documents this vehicle among the cars added to Story Mode by Update 1.27. The 2015-06-10 announcement names the Ill-Gotten Gains Part One release; it is release history, not a claim that today’s Story Mode received a new vehicle.",
+            "zh": "Rockstar 將這輛車列為 1.27 更新加入故事模式的車款。2015-06-10 公告記錄「不義之財：第一部分」推出；這是推出歷史，不是說今天的故事模式新增車輛。",
+            "ja": "Rockstar はこの車をアップデート 1.27 でストーリーモードに追加したと記載しています。2015-06-10 の告知は Ill-Gotten Gains Part One の発売記録であり、現在の新規追加という意味ではありません。"
+          },
+          "sourceIds": [
+            "r1",
+            "r3"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "r1",
+          "name": "Rockstar Support · Title Update 1.27",
+          "url": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "r2",
+          "name": "GTA Wiki · Stirling GT",
+          "url": "https://gta.fandom.com/wiki/Stirling_GT",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "r3",
+          "name": "Rockstar Newswire · Ill-Gotten Gains Part One",
+          "url": "https://www.rockstargames.com/newswire/article/25o2411812k84a/gta-online-ill-gotten-gains-update-part-one-now-available",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Stirling GT appearance and variants",
+            "zh": "Stirling GT 外觀與版本",
+            "ja": "Stirling GT の外観と種類"
+          },
+          "url": "https://gta.fandom.com/wiki/Stirling_GT#Gallery",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community reference contains model views and later Online variants; it is not a current Story Mode gameplay test.",
+            "zh": "社群參考包含車型視圖與後來的 Online 版本，並非目前故事模式實測。",
+            "ja": "コミュニティ資料には車体画像と後年の Online バリエーションがあります。現在のストーリー実測ではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "delta",
+      "collection": "delta-weapons-reference",
+      "entryId": "delta-weapon-m4a1",
+      "layout": "weapon",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Weapon and ammunition",
+            "zh": "武器與彈藥",
+            "ja": "武器と弾薬"
+          },
+          "paragraphs": {
+            "en": [
+              "The M4A1 is an assault rifle using 5.56×45 mm ammunition. The community database lists single and automatic fire, with a reference magazine of 30 rounds. Those catalogue values are not a verified Operations build: attachments and mode-specific balancing can change the result."
+            ],
+            "zh": [
+              "M4A1 是使用 5.56×45 mm 彈藥的突擊步槍。社群資料庫列出單發、自動射擊及參考彈匣 30 發。這些目錄值不是已驗證的 Operations 配裝；配件和模式平衡可能改變結果。"
+            ],
+            "ja": [
+              "M4A1 は 5.56×45 mm 弾を使うアサルトライフルです。コミュニティ資料は単発・フルオートと参考装弾数 30 発を掲載しています。Operations の検証済みビルドではなく、アタッチメントやモード調整で変わります。"
+            ]
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Prepare an Operations loadout",
+            "zh": "準備 Operations 配裝",
+            "ja": "Operations の装備を準備"
+          },
+          "paragraphs": {
+            "en": [
+              "Garena’s guide describes buying or exchanging battle supplies and moving equipment from Stash into Loadout. Check M4A1 availability and requirements in your own client. Do not use a Warfare level-unlock guide as proof of the Operations acquisition route."
+            ],
+            "zh": [
+              "Garena 指南說明可購買／交換戰鬥物資，並從倉庫移入配裝。請在自己的客戶端確認 M4A1 庫存與條件；不要把 Warfare 等級解鎖指南當成 Operations 取得證據。"
+            ],
+            "ja": [
+              "Garena のガイドは物資の購入・交換と Stash から Loadout への装備移動を説明しています。M4A1 の在庫と条件は利用中のクライアントで確認し、Warfare のレベル解放条件を Operations に流用しないでください。"
+            ]
+          },
+          "sourceIds": [
+            "d1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Ammunition is part of the build",
+            "zh": "彈藥也是配裝的一部分",
+            "ja": "弾薬もビルドの一部"
+          },
+          "paragraphs": {
+            "en": [
+              "The database lists M995, M855A1, M855, FMJ and RRLP as compatible 5.56×45 mm choices. Compatibility is not a recommendation to buy the most expensive round. Compare the client’s penetration, damage and cost information against the raid you are preparing for."
+            ],
+            "zh": [
+              "資料庫列出 M995、M855A1、M855、FMJ、RRLP 等相容 5.56×45 mm 彈藥。相容不代表一定要買最貴子彈；應依出擊需求比較客戶端穿透、傷害與成本資訊。"
+            ],
+            "ja": [
+              "資料には M995・M855A1・M855・FMJ・RRLP が対応弾として載っています。対応しているから最も高価な弾が必須という意味ではありません。出撃内容に合わせ、ゲーム内の貫通・ダメージ・費用を比較します。"
+            ]
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Build a repeatable range test",
+            "zh": "建立可重複靶場測試",
+            "ja": "再現できる射撃場テスト"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: save a plain M4A1 build, choose one target distance, and fire the same-length burst before changing a single attachment. Record ammunition, sight and magazine along with the result. Prefer a configuration you can control consistently over a copied popularity ranking."
+            ],
+            "zh": [
+              "GameBreak 建議：先保存基本 M4A1 配裝，固定目標距離及連射長度，每次只改一個配件。結果一併記錄彈種、瞄具和彈匣。選擇自己能穩定操控的配置，不要只複製熱門排行。"
+            ],
+            "ja": [
+              "GameBreak の提案：基本ビルドを保存し、距離と連射時間を固定して一つずつ部品を変えます。結果と弾種・サイト・マガジンも記録しましょう。人気順位だけでなく、自分が安定して扱える構成を優先します。"
+            ]
+          },
+          "sourceIds": [
+            "d1",
+            "d2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Codes, server and patch",
+            "zh": "配裝碼、伺服器與版本",
+            "ja": "コード・サーバー・更新"
+          },
+          "paragraphs": {
+            "en": [
+              "Garena explicitly warns that its share codes are for the Garena version. This dossier does not certify any imported build, recoil pattern or time-to-kill figure. Read the Operations label and inspect the final in-game configuration before buying parts; screenshots can outlive the patch they depict."
+            ],
+            "zh": [
+              "Garena 明確提醒其分享碼適用 Garena 版本。本篇沒有認證任何匯入配裝、後座軌跡或擊殺時間。買配件前確認 Operations 標示及遊戲內最終配置；截圖可能比它對應的版本更舊。"
+            ],
+            "ja": [
+              "Garena は共有コードが Garena 版用だと注意しています。本記事は輸入ビルド・反動・キル時間を保証しません。購入前に Operations 表示と完成装備を確認してください。スクリーンショットは現行パッチと異なる場合があります。"
+            ]
+          },
+          "sourceIds": [
+            "d1"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Version history not established",
+            "zh": "尚未建立版本歷史",
+            "ja": "更新履歴は未確認"
+          },
+          "detail": {
+            "en": "The reviewed weapon page mixes Operations and Warfare build links and does not supply a complete dated balance history. This dossier therefore does not invent a release date, latest buff or current Operations damage value.",
+            "zh": "審閱的武器頁混列 Operations 與 Warfare 配裝，沒有完整、有日期的平衡歷史。因此本篇不捏造推出日期、最新強化或目前 Operations 傷害值。",
+            "ja": "確認した武器ページには Operations と Warfare のビルドが混在し、日付付きの完全な調整履歴はありません。発売日・最新強化・現在の Operations ダメージ値は推測で埋めません。"
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "d1",
+          "name": "Garena Delta Force · Operations Mode 101",
+          "url": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "d2",
+          "name": "Delta Force Database · M4A1",
+          "url": "https://deltaforcedb.com/weapon/m4a1",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "M4A1 weapon image",
+            "zh": "M4A1 武器圖片",
+            "ja": "M4A1 の武器画像"
+          },
+          "url": "https://deltaforcedb.com/weapon/m4a1",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community weapon view and build browser. Inspect the mode label before using a build.",
+            "zh": "社群武器展示與配裝瀏覽器；使用前檢查模式標籤。",
+            "ja": "コミュニティの武器画像とビルド一覧。使用前にモード表示を確認してください。"
+          }
+        },
+        {
+          "label": {
+            "en": "Official loadout screen guide",
+            "zh": "官方配裝畫面指南",
+            "ja": "公式の装備画面ガイド"
+          },
+          "url": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Publisher-hosted Loadout and Gunsmith interface illustrations; some embedded videos are credited to creators.",
+            "zh": "發行商頁面的 Loadout 與 Gunsmith 介面圖解；部分嵌入影片署名為社群創作者。",
+            "ja": "発売元ページの Loadout・Gunsmith 画面図解。埋め込み動画の一部はクリエイター制作と明記されています。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "delta",
+      "collection": "delta-weapons-reference",
+      "entryId": "delta-weapon-akm",
+      "layout": "weapon",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "AKM identity",
+            "zh": "AKM 身分",
+            "ja": "AKM の基本"
+          },
+          "paragraphs": {
+            "en": [
+              "The AKM is a 7.62×39 mm assault rifle. Community reference data lists single and automatic fire and a 30-round magazine. It is not interchangeable with every weapon bearing an AK name: ammunition family, compatible attachments and imported codes need the exact model."
+            ],
+            "zh": [
+              "AKM 是 7.62×39 mm 突擊步槍。社群參考列出單發、自動射擊及 30 發彈匣。不是名稱含 AK 就能互換；彈種、相容配件與匯入碼都要核對確切型號。"
+            ],
+            "ja": [
+              "AKM は 7.62×39 mm のアサルトライフルです。資料上は単発・フルオート、30 発マガジンです。AK という名前だけで他モデルと互換とは限らず、弾薬・部品・コードは正確な型式で確認します。"
+            ]
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Choose compatible rounds",
+            "zh": "選擇相容子彈",
+            "ja": "対応弾を選ぶ"
+          },
+          "paragraphs": {
+            "en": [
+              "Listed ammunition includes AP, BP, PS, T45M and LP in 7.62×39 mm. The names identify different rounds rather than cosmetic skins. The weapon page mixes mode references, so its headline damage and fire-rate table is not reproduced here as confirmed current Operations performance."
+            ],
+            "zh": [
+              "列出的相容彈藥有 7.62×39 mm AP、BP、PS、T45M、LP。這些是不同子彈，不是外觀造型。原武器頁混合模式資料，因此此處不把主表傷害與射速當成目前 Operations 的確定性能。"
+            ],
+            "ja": [
+              "対応候補は 7.62×39 mm の AP・BP・PS・T45M・LP です。見た目のスキンではなく別の弾種です。元ページには複数モードが混在するため、表のダメージや発射速度を現在の Operations 確定値として転載しません。"
+            ]
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Prepare the whole kit",
+            "zh": "準備整套裝備",
+            "ja": "装備全体を準備"
+          },
+          "paragraphs": {
+            "en": [
+              "Use the Stash and Loadout screens to check weapon, magazines, spare ammunition and medical supplies together. The official starter guide explains the Supply Station and progression-dependent stock. Specific AKM offers, barter requirements and prices must be read in the installed regional client."
+            ],
+            "zh": [
+              "使用倉庫及配裝畫面，一起確認武器、彈匣、備彈和醫療用品。官方新手指南說明補給站與進度解鎖庫存。AKM 的特定販售、交換條件及價格需在所屬地區客戶端查看。"
+            ],
+            "ja": [
+              "Stash と Loadout で武器・マガジン・予備弾・医療品をまとめて確認します。公式入門ガイドは Supply Station と進行による在庫解放を説明しています。AKM の個別販売・交換条件・価格は地域版クライアントで確認してください。"
+            ]
+          },
+          "sourceIds": [
+            "d1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Control before expense",
+            "zh": "先掌握控制再加預算",
+            "ja": "費用より操作の安定"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: compare short bursts against sustained fire at the same distance, then inspect where missed rounds land. Change only one recoil-related attachment per comparison. Keep a note of the final weapon name and ammunition so a later session can reproduce the test instead of merely copying a screenshot."
+            ],
+            "zh": [
+              "GameBreak 建議：固定距離，比較短點射與持續連射，觀察落空位置。每次只更換一個後座相關配件。記錄最終武器名與彈種，下一次才能重現測試，而不是只照抄截圖。"
+            ],
+            "ja": [
+              "GameBreak の提案：同じ距離で短いバーストと連射を比較し、外れた弾の位置を観察します。反動に関する部品を一つずつ変更し、最終武器名と弾種を記録します。画像の模倣ではなく再現可能な試験にしましょう。"
+            ]
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Do not merge Warfare rules",
+            "zh": "不要混用 Warfare 規則",
+            "ja": "Warfare の条件を混同しない"
+          },
+          "paragraphs": {
+            "en": [
+              "An Operations loadout must be assessed in Operations. A Warfare class restriction or unlock level is not automatically valid here. No current-market budget, guaranteed armor break or universal best build is claimed. Check version and server labels before importing community codes."
+            ],
+            "zh": [
+              "Operations 配裝要在 Operations 內評估；Warfare 職業限制或解鎖等級不能直接套用。本篇不宣稱即時市場預算、保證破甲或通用最強配裝。匯入社群碼前核對版本和伺服器。"
+            ],
+            "ja": [
+              "Operations の装備は Operations で評価します。Warfare のクラス制限や解放レベルをそのまま適用しないでください。現在相場・確実な装甲突破・万能最強ビルドは保証しません。共有コードの版とサーバーを確認します。"
+            ]
+          },
+          "sourceIds": [
+            "d1",
+            "d2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Version history not established",
+            "zh": "尚未建立版本歷史",
+            "ja": "更新履歴は未確認"
+          },
+          "detail": {
+            "en": "The reviewed weapon page mixes Operations and Warfare build links and does not supply a complete dated balance history. This dossier therefore does not invent a release date, latest buff or current Operations damage value.",
+            "zh": "審閱的武器頁混列 Operations 與 Warfare 配裝，沒有完整、有日期的平衡歷史。因此本篇不捏造推出日期、最新強化或目前 Operations 傷害值。",
+            "ja": "確認した武器ページには Operations と Warfare のビルドが混在し、日付付きの完全な調整履歴はありません。発売日・最新強化・現在の Operations ダメージ値は推測で埋めません。"
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "d1",
+          "name": "Garena Delta Force · Operations Mode 101",
+          "url": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "d2",
+          "name": "Delta Force Database · AKM",
+          "url": "https://deltaforcedb.com/weapon/akm",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "AKM weapon image",
+            "zh": "AKM 武器圖片",
+            "ja": "AKM の武器画像"
+          },
+          "url": "https://deltaforcedb.com/weapon/akm",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community weapon view and build browser. Inspect the mode label before using a build.",
+            "zh": "社群武器展示與配裝瀏覽器；使用前檢查模式標籤。",
+            "ja": "コミュニティの武器画像とビルド一覧。使用前にモード表示を確認してください。"
+          }
+        },
+        {
+          "label": {
+            "en": "Official loadout screen guide",
+            "zh": "官方配裝畫面指南",
+            "ja": "公式の装備画面ガイド"
+          },
+          "url": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Publisher-hosted Loadout and Gunsmith interface illustrations; some embedded videos are credited to creators.",
+            "zh": "發行商頁面的 Loadout 與 Gunsmith 介面圖解；部分嵌入影片署名為社群創作者。",
+            "ja": "発売元ページの Loadout・Gunsmith 画面図解。埋め込み動画の一部はクリエイター制作と明記されています。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "delta",
+      "collection": "delta-weapons-reference",
+      "entryId": "delta-weapon-mp5",
+      "layout": "weapon",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "SMG identity",
+            "zh": "衝鋒槍身分",
+            "ja": "SMG の特徴"
+          },
+          "paragraphs": {
+            "en": [
+              "The MP5 is a 9×19 mm submachine gun. The community database lists single, burst and automatic fire, plus a 30-round reference magazine. It is a different platform from the SMG-45 or P90; do not transfer an ammunition list just because all three belong to the SMG family."
+            ],
+            "zh": [
+              "MP5 是 9×19 mm 衝鋒槍。社群資料列出單發、點放、自動射擊及參考 30 發彈匣。它與 SMG-45、P90 不同；同屬衝鋒槍不代表彈藥清單通用。"
+            ],
+            "ja": [
+              "MP5 は 9×19 mm のサブマシンガンです。資料は単発・バースト・フルオートと参考 30 発マガジンを掲載しています。SMG-45 や P90 と別系統なので、同じ SMG 分類でも弾薬一覧は流用できません。"
+            ]
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Compatible ammunition",
+            "zh": "相容彈藥",
+            "ja": "対応弾薬"
+          },
+          "paragraphs": {
+            "en": [
+              "The reference lists PBP, AP6.3, Pst, PSO and RIP as 9×19 mm options. Use the client to inspect each round’s actual attributes. A compatible cartridge does not imply equal effect against armor; build selection should consider the ammunition you can carry, not only the gun image."
+            ],
+            "zh": [
+              "參考列出 9×19 mm PBP、AP6.3、Pst、PSO、RIP。實際屬性需查看客戶端。相容子彈對護甲的作用未必相同，配裝必須考慮能攜帶的彈藥，而不只是武器圖片。"
+            ],
+            "ja": [
+              "対応候補は 9×19 mm の PBP・AP6.3・Pst・PSO・RIP。実際の特性はクライアントで確認します。装填できても装甲への効果が同じとは限りません。武器画像だけでなく、持参できる弾薬を含めて選びます。"
+            ]
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Loadout checks",
+            "zh": "配裝檢查",
+            "ja": "出撃前の確認"
+          },
+          "paragraphs": {
+            "en": [
+              "Check the exact MP5 listing in the Supply Station or your existing Stash, then inspect ammunition compatibility before deployment. Official Operations guidance covers equipment preparation and exchange systems; it does not establish a permanent MP5 price or universally available starter reward."
+            ],
+            "zh": [
+              "先在補給站或現有倉庫核對 MP5，再於出擊前檢查彈藥相容性。官方 Operations 指南介紹裝備準備與交換系統，但沒有保證固定 MP5 售價或人人可領的新手獎品。"
+            ],
+            "ja": [
+              "Supply Station または所持 Stash で MP5 を確認し、出撃前に弾薬の互換性を調べます。公式ガイドは準備・交換制度を説明しますが、固定価格や全員への初心者配布を保証するものではありません。"
+            ]
+          },
+          "sourceIds": [
+            "d1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Practice a close-range route",
+            "zh": "練習近距離路線",
+            "ja": "近距離の動きを練習"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: set a short target route with a corner and cover. Compare aimed fire with hip fire while recording which attachments changed. Repeat after a reload so the test includes recovery time, and leave room in the plan to disengage instead of treating every close encounter as a required fight."
+            ],
+            "zh": [
+              "GameBreak 建議：設定包含轉角與掩體的短路線，比較瞄準射擊和腰射，記錄更換配件。換彈後再測，把恢復時間納入。路線也要保留撤離空間，不要把每次近距離遭遇都當成必須交火。"
+            ],
+            "ja": [
+              "GameBreak の提案：角と遮蔽物を含む短い標的ルートで ADS と腰撃ちを比較し、変更部品を記録します。リロード後も試し、復帰時間を含めましょう。すべての遭遇で戦う前提ではなく、離脱経路も残します。"
+            ]
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Reference limits",
+            "zh": "參考限制",
+            "ja": "資料の限界"
+          },
+          "paragraphs": {
+            "en": [
+              "The database’s build list includes Warfare entries. Its numerical table has not been verified for your current PC Operations build, so no universal damage or range claim is made. Region-specific share codes and patch changes should be checked in the Gunsmith before purchasing a complete kit."
+            ],
+            "zh": [
+              "資料庫配裝清單包含 Warfare 項目。數值表尚未對你的目前 PC Operations 版本驗證，因此不宣稱通用傷害或距離。購買整套裝備前，在 Gunsmith 檢查地區專用分享碼與版本變化。"
+            ],
+            "ja": [
+              "データベースのビルド一覧には Warfare 用もあります。数値は現在の PC Operations ビルドで未検証のため、共通のダメージや射程とはしません。地域用コードとパッチ変更を Gunsmith で確認してから一式を購入してください。"
+            ]
+          },
+          "sourceIds": [
+            "d1",
+            "d2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Version history not established",
+            "zh": "尚未建立版本歷史",
+            "ja": "更新履歴は未確認"
+          },
+          "detail": {
+            "en": "The reviewed weapon page mixes Operations and Warfare build links and does not supply a complete dated balance history. This dossier therefore does not invent a release date, latest buff or current Operations damage value.",
+            "zh": "審閱的武器頁混列 Operations 與 Warfare 配裝，沒有完整、有日期的平衡歷史。因此本篇不捏造推出日期、最新強化或目前 Operations 傷害值。",
+            "ja": "確認した武器ページには Operations と Warfare のビルドが混在し、日付付きの完全な調整履歴はありません。発売日・最新強化・現在の Operations ダメージ値は推測で埋めません。"
+          },
+          "sourceIds": [
+            "d2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "d1",
+          "name": "Garena Delta Force · Operations Mode 101",
+          "url": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "d2",
+          "name": "Delta Force Database · MP5",
+          "url": "https://deltaforcedb.com/weapon/mp5",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "MP5 weapon image",
+            "zh": "MP5 武器圖片",
+            "ja": "MP5 の武器画像"
+          },
+          "url": "https://deltaforcedb.com/weapon/mp5",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community weapon view and build browser. Inspect the mode label before using a build.",
+            "zh": "社群武器展示與配裝瀏覽器；使用前檢查模式標籤。",
+            "ja": "コミュニティの武器画像とビルド一覧。使用前にモード表示を確認してください。"
+          }
+        },
+        {
+          "label": {
+            "en": "Official loadout screen guide",
+            "zh": "官方配裝畫面指南",
+            "ja": "公式の装備画面ガイド"
+          },
+          "url": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Publisher-hosted Loadout and Gunsmith interface illustrations; some embedded videos are credited to creators.",
+            "zh": "發行商頁面的 Loadout 與 Gunsmith 介面圖解；部分嵌入影片署名為社群創作者。",
+            "ja": "発売元ページの Loadout・Gunsmith 画面図解。埋め込み動画の一部はクリエイター制作と明記されています。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "pubg",
+      "collection": "pubg-pc-reference",
+      "entryId": "pubg-ref-erangel",
+      "layout": "location",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Island overview",
+            "zh": "島嶼概覽",
+            "ja": "島の概要"
+          },
+          "paragraphs": {
+            "en": [
+              "Erangel is an 8 × 8 km battleground combining settlements, farmland, hills and a southern military island. The official location guide highlights Stalber, Georgopol, Pochinki and Military Base. These are useful orientation points rather than promises of uncontested loot."
+            ],
+            "zh": [
+              "Erangel 是 8 × 8 公里的戰場，結合城鎮、農地、山丘與南方軍事島。官方地點指南列出 Stalber、Georgopol、Pochinki、Military Base，適合作為方位參考，不代表能安全獨占物資。"
+            ],
+            "ja": [
+              "Erangel は 8 × 8 km で、集落・農地・丘・南の軍用島がある戦場です。公式ガイドは Stalber・Georgopol・Pochinki・Military Base を紹介しています。位置の目安であり、安全な独占物資を保証しません。"
+            ]
+          },
+          "sourceIds": [
+            "p1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "A first rotation plan",
+            "zh": "第一輪轉移計畫",
+            "ja": "最初の移動計画"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: choose a landing compound, one backup compound and the first route toward the safe zone before jumping. After landing, recheck the actual circle and transport options. Treat bridges and open fields as route decisions, and explain the next destination to teammates instead of chasing every gunshot."
+            ],
+            "zh": [
+              "GameBreak 建議：跳傘前選一個落點、一個備用建築群及第一條入圈路線。落地後重新看實際圈位與交通選項。橋樑和空地都需要路線決策，先向隊友說明下一站，不要追逐每一聲槍響。"
+            ],
+            "ja": [
+              "GameBreak の提案：降下前に第一候補の建物群、予備の建物群、安全地帯への初期ルートを決めます。着地後に実際の円と移動手段を確認し、橋や開けた野原を通る判断を共有します。銃声をすべて追う必要はありません。"
+            ]
+          },
+          "sourceIds": [
+            "p1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Terrain and special features",
+            "zh": "地形與特殊設施",
+            "ja": "地形と固有要素"
+          },
+          "paragraphs": {
+            "en": [
+              "The official map page lists ferries, the UAZ and Secret Rooms as notable features. Use the linked gallery to recognise the landscape, then verify feature availability in the match you entered. A showcase page does not specify every ranked, custom or temporary-event rule."
+            ],
+            "zh": [
+              "官方地圖頁將渡輪、UAZ 與密室列為特色。先從連結圖集辨認景觀，再確認實際對局是否提供。展示頁不會列出所有積分、自訂或期間活動規則。"
+            ],
+            "ja": [
+              "公式ページはフェリー・UAZ・Secret Room を特徴として挙げています。ギャラリーで景観を確認し、入った試合で使用可否を確かめてください。紹介ページにはランク・カスタム・期間イベントの全ルールは載っていません。"
+            ]
+          },
+          "sourceIds": [
+            "p1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "How to enter the map",
+            "zh": "如何進入地圖",
+            "ja": "マップへの入り方"
+          },
+          "paragraphs": {
+            "en": [
+              "Erangel is selected through the game’s available queues, map service or custom-match options, not acquired as an inventory item. Check the live lobby for your region and PC/console platform. Old patch schedules are historical evidence and must not be shown as today’s active rotation."
+            ],
+            "zh": [
+              "Erangel 透過遊戲當前佇列、地圖輪替或自訂對局進入，不是背包物品。請查看所在地區及 PC／主機的大廳選項。舊更新的排程只屬歷史資料，不能當成今日輪替。"
+            ],
+            "ja": [
+              "Erangel は所持品として入手するものではなく、利用可能なキュー・マップサービス・カスタムマッチから遊びます。地域と PC／コンソールの現在のロビーを確認してください。過去の更新日程は今日のローテーションではありません。"
+            ]
+          },
+          "sourceIds": [
+            "p2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Current layouts and evidence",
+            "zh": "目前地形與證據",
+            "ja": "現行地形と確認範囲"
+          },
+          "paragraphs": {
+            "en": [
+              "Erangel’s visuals have changed over time. When following a route image, compare the building shape and surrounding roads against your client. This dossier provides a navigation framework, not exact loot spawns, a current ranked rotation or a claim that every old screenshot matches today’s map."
+            ],
+            "zh": [
+              "Erangel 的美術和地形曾更新。照著路線圖行動時，核對建築形狀及周圍道路。本篇提供導航方法，不宣稱精確物資生成點、目前積分輪替，也不保證所有舊截圖符合今日地圖。"
+            ],
+            "ja": [
+              "Erangel の景観は更新されています。ルート画像を見るときは建物の形と周辺道路をクライアントと照合してください。本記事は移動計画の考え方であり、固定出現地点・現在のランクローテーション・古い画像との完全一致を保証しません。"
+            ]
+          },
+          "sourceIds": [
+            "p3"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "PC Update 4.1 · visual update",
+            "zh": "PC 4.1 更新：美術更新",
+            "ja": "PC 4.1：景観更新"
+          },
+          "detail": {
+            "en": "The publisher’s July 17, 2019 announcement describes refreshed buildings and terrain for Erangel. This identifies a historical visual revision, not the latest map patch.",
+            "zh": "發行商在 2019-07-17 公告中說明 Erangel 建築與地形美術翻新。這記錄的是一次歷史改版，不是最新地圖更新。",
+            "ja": "発売元の 2019-07-17 告知は建物と地形の景観刷新を説明しています。過去の改修記録であり、最新パッチの表示ではありません。"
+          },
+          "sourceIds": [
+            "p3"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "p1",
+          "name": "PUBG · Erangel official map",
+          "url": "https://www.pubg.com/en-asia/game-info/maps/erangel",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "p2",
+          "name": "PUBG · Update 25.1 map-service documentation",
+          "url": "https://pubg.com/en/news/6548",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "p3",
+          "name": "PUBG official Steam announcement · PC Update 4.1",
+          "url": "https://store.steampowered.com/news/posts/?appids=578080%22&enddate=1563360906",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "p4",
+          "name": "PUBG Wiki · Erangel Remastered",
+          "url": "https://pubg.wiki.gg/wiki/Erangel_(Remastered)",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Erangel official map gallery",
+            "zh": "Erangel 官方地圖圖集",
+            "ja": "Erangel 公式マップギャラリー"
+          },
+          "url": "https://www.pubg.com/en-asia/game-info/maps/erangel",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Official location screenshots and map artwork. Use the gallery to identify terrain; image publication is not a live match or loot guarantee.",
+            "zh": "官方地點截圖與地圖美術；可用來辨認地形，但圖片不代表即時對局或保證戰利品。",
+            "ja": "公式のロケーション画像とマップアート。地形確認に使えますが、ライブ試合や固定戦利品を保証するものではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "pubg",
+      "collection": "pubg-pc-reference",
+      "entryId": "pubg-ref-miramar",
+      "layout": "location",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Desert map identity",
+            "zh": "沙漠地圖特色",
+            "ja": "砂漠マップの特徴"
+          },
+          "paragraphs": {
+            "en": [
+              "Miramar is an 8 × 8 km desert battleground. Its open views, ridges and towns create different navigation problems from Erangel’s greener landscape. The official guide highlights Partona, Resort, Truck Stop and the southern island as locations to recognise."
+            ],
+            "zh": [
+              "Miramar 是 8 × 8 公里的沙漠戰場。開闊視線、山脊和城鎮帶來不同於 Erangel 綠地的移動課題。官方指南介紹 Partona、Resort、Truck Stop 與南方島嶼，可先熟悉這些地點。"
+            ],
+            "ja": [
+              "Miramar は 8 × 8 km の砂漠戦場です。見通しの良さ・尾根・町により、緑の多い Erangel とは違う移動判断が必要です。公式ガイドは Partona・Resort・Truck Stop・南の島を紹介しています。"
+            ]
+          },
+          "sourceIds": [
+            "p1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Read the ridgeline",
+            "zh": "讀懂山脊路線",
+            "ja": "尾根を読む"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: plan travel from cover to cover and identify the next ridge before moving. Stop to look from a position where you can retreat, rather than standing on the skyline. When comparing two routes, record exposure and travel time; a shorter straight line is not automatically the better route."
+            ],
+            "zh": [
+              "GameBreak 建議：規劃從掩體到掩體的移動，前進前辨認下一道山脊。觀察時停在能退回的位置，不要直接站上天際線。比較兩條路線時記錄暴露程度和耗時，直線較短不一定較好。"
+            ],
+            "ja": [
+              "GameBreak の提案：遮蔽物から次の遮蔽物へのルートを考え、移動前に次の尾根を確認します。稜線上で立ち止まらず、引き返せる場所から観察します。距離だけでなく露出と所要時間を比較しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "p1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Sandstorm and traversal",
+            "zh": "沙塵暴與移動",
+            "ja": "砂嵐と移動手段"
+          },
+          "paragraphs": {
+            "en": [
+              "Update 25.1 documented the Sandstorm and ziplines. The storm affects visibility and health; ziplines provide marked travel routes. Treat these as features to check in the current match, not guarantees that a photographed route is safe or that an old equipment interaction remains unchanged."
+            ],
+            "zh": [
+              "25.1 更新記錄沙塵暴與滑索。沙塵暴影響視野和生命，滑索提供標示路線。應在當前對局確認，不要把照片路線當成安全保證，也不要假設舊裝備互動永遠不變。"
+            ],
+            "ja": [
+              "25.1 は砂嵐とジップラインを記録しています。砂嵐は視界と体力に影響し、ジップラインは表示された移動経路になります。現行試合で確認し、画像の経路の安全性や旧装備との相互作用を永続保証とみなさないでください。"
+            ]
+          },
+          "sourceIds": [
+            "p2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Queue and map service",
+            "zh": "佇列與地圖輪替",
+            "ja": "キューとマップサービス"
+          },
+          "paragraphs": {
+            "en": [
+              "Use your platform’s live lobby to determine whether Miramar is offered through selection, rotation or a custom match. A guide can explain the map without controlling the matchmaking pool. PC and console rollout schedules have differed in official patch notes."
+            ],
+            "zh": [
+              "從所用平台的即時大廳確認 Miramar 目前透過選圖、輪替或自訂對局提供。攻略可以解釋地圖，但不能控制配對池。官方更新曾為 PC 和主機列出不同推出排程。"
+            ],
+            "ja": [
+              "現在のロビーで選択・ローテーション・カスタムのどれから Miramar を遊べるか確認します。攻略はマップを説明できますが、マッチメイキング対象は変更できません。公式ノートでは PC とコンソールの適用日が異なることがあります。"
+            ]
+          },
+          "sourceIds": [
+            "p2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Recognise renamed places",
+            "zh": "注意更名地點",
+            "ja": "改名された場所"
+          },
+          "paragraphs": {
+            "en": [
+              "Partona replaced Los Higos and Truck Stop replaced Junkyard in the documented 25.1 revision. If an older guide uses those names, compare its map date before navigating. No fixed vehicle spawn, secret guaranteed route or current best landing spot is asserted here."
+            ],
+            "zh": [
+              "25.1 記錄 Partona 取代 Los Higos、Truck Stop 取代 Junkyard。舊攻略若使用舊名，先比較地圖日期再導航。本篇不宣稱固定車輛生成、保證安全密道或目前最佳落點。"
+            ],
+            "ja": [
+              "25.1 では Los Higos が Partona に、Junkyard が Truck Stop に変わりました。旧名を使う攻略は地図の日付を確かめます。固定車両出現・確実な安全ルート・現在の最強降下地点は断定しません。"
+            ]
+          },
+          "sourceIds": [
+            "p2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Update 25.1 · Miramar revision",
+            "zh": "25.1 更新：Miramar 改版",
+            "ja": "25.1：Miramar 改修"
+          },
+          "detail": {
+            "en": "The official notes document new named areas and the introduction of Sandstorm and ziplines. Use this as a specific historical milestone; it is not a complete changelog through October 2026.",
+            "zh": "官方公告記錄新命名區域，以及沙塵暴和滑索加入。這是明確的歷史節點，不是截至 2026 年 10 月的完整更新史。",
+            "ja": "公式ノートは新エリア、砂嵐、ジップラインの追加を記録しています。特定の過去の変更であり、2026 年 10 月までの完全な履歴ではありません。"
+          },
+          "sourceIds": [
+            "p2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "p1",
+          "name": "PUBG · Miramar official map",
+          "url": "https://www.pubg.com/en-asia/game-info/maps/miramar",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "p2",
+          "name": "PUBG · Update 25.1",
+          "url": "https://pubg.com/en/news/6548",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Miramar official map gallery",
+            "zh": "Miramar 官方地圖圖集",
+            "ja": "Miramar 公式マップギャラリー"
+          },
+          "url": "https://www.pubg.com/en-asia/game-info/maps/miramar",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Official location screenshots and map artwork. Use the gallery to identify terrain; image publication is not a live match or loot guarantee.",
+            "zh": "官方地點截圖與地圖美術；可用來辨認地形，但圖片不代表即時對局或保證戰利品。",
+            "ja": "公式のロケーション画像とマップアート。地形確認に使えますが、ライブ試合や固定戦利品を保証するものではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "pubg",
+      "collection": "pubg-pc-reference",
+      "entryId": "pubg-ref-taego",
+      "layout": "location",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Taego landmarks",
+            "zh": "Taego 地標",
+            "ja": "Taego の目印"
+          },
+          "paragraphs": {
+            "en": [
+              "Taego is an 8 × 8 km map with varied environments, including reed fields and the Ho San Prison area. The official guide also highlights Terminal, Buk San Sa and School. Learn the names together with the shapes of compounds so a team callout identifies an actual location."
+            ],
+            "zh": [
+              "Taego 是 8 × 8 公里地圖，環境包含蘆葦田與 Ho San Prison 區域。官方也介紹 Terminal、Buk San Sa、School。學地名時一起記建築群形狀，隊伍報點才有具體位置。"
+            ],
+            "ja": [
+              "Taego は 8 × 8 km で、葦原や Ho San Prison など多様な環境があります。公式は Terminal・Buk San Sa・School も紹介しています。地名と建物配置を一緒に覚えると、味方への報告が具体的になります。"
+            ]
+          },
+          "sourceIds": [
+            "p1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "A route with a fallback",
+            "zh": "保留備用的路線",
+            "ja": "代替案のあるルート"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: choose a compound with a clear exit, then decide which nearby terrain you will use if the circle shifts away. Check open approaches before committing to a building. A useful practice note records where your team could regroup, not only where the strongest item happened to appear once."
+            ],
+            "zh": [
+              "GameBreak 建議：選有清楚出口的建築群，再決定圈位偏移時利用哪片附近地形。進屋前看清開闊接近路線。練習紀錄應寫隊伍能在哪重新集合，不只寫某次最強物品出現處。"
+            ],
+            "ja": [
+              "GameBreak の提案：出口が分かる建物群を選び、円が離れた際に使う地形も決めます。建物へ入る前に開けた接近路を確認しましょう。強いアイテムを一度拾った場所より、再集合できる場所を記録すると役立ちます。"
+            ]
+          },
+          "sourceIds": [
+            "p1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Documented map features",
+            "zh": "記錄中的地圖特色",
+            "ja": "記録されている固有要素"
+          },
+          "paragraphs": {
+            "en": [
+              "The official map page lists Multi Care Packages, the K2 and Self AED. Taego’s launch notes described the K2 as a 5.56 mm rifle and introduced Self AED and Comeback BR. These establish feature history; they do not prove that the original revive rules remain active in every present-day mode."
+            ],
+            "zh": [
+              "官方地圖頁列出多重空投、K2、自救器。推出公告將 K2 描述為 5.56 mm 步槍，並介紹自救器與 Comeback BR。這能確認功能歷史，不能證明原始復活規則仍適用所有目前模式。"
+            ],
+            "ja": [
+              "公式マップページは複数ケアパッケージ、K2、Self AED を紹介しています。登場時のノートは K2 を 5.56 mm ライフルとし、Self AED と Comeback BR を追加しました。これは履歴で、当初の復活ルールが現在の全モードに残る証明ではありません。"
+            ]
+          },
+          "sourceIds": [
+            "p1",
+            "p2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Entering Taego",
+            "zh": "進入 Taego",
+            "ja": "Taego で遊ぶ"
+          },
+          "paragraphs": {
+            "en": [
+              "Look at the current map service in the PC or console lobby. The launch-era Featured Map queue and mode list in Update 12.2 are historical, not instructions to find the same menu today. Use your live region and playlist when planning a team session."
+            ],
+            "zh": [
+              "請查看 PC 或主機大廳目前地圖輪替。12.2 推出時的特色地圖佇列與模式清單屬歷史，並非要求今天找出相同選單。揪團時以實際地區及當前播放清單為準。"
+            ],
+            "ja": [
+              "PC／コンソールの現在のロビーでマップサービスを確認します。12.2 当時の Featured Map キューやモード一覧は過去の情報で、今日も同じメニューがあるとは限りません。地域と現在のプレイリストで予定を立てましょう。"
+            ]
+          },
+          "sourceIds": [
+            "p2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Revive and loot assumptions",
+            "zh": "復活與物資假設",
+            "ja": "復活と物資の思い込み"
+          },
+          "paragraphs": {
+            "en": [
+              "Check the active rules before relying on a return-to-battle feature. A map gallery is for visual identification, not a promise of a Self AED, a guaranteed crate or a safe landing. This article has been source-reviewed but does not claim a current PC/console gameplay test."
+            ],
+            "zh": [
+              "依賴重返戰場功能前先檢查實際規則。地圖圖集用來辨認外觀，不保證自救器、空投或安全降落。本篇已審閱來源，但不宣稱完成目前 PC／主機實測。"
+            ],
+            "ja": [
+              "戦闘復帰機能に頼る前に有効なルールを確認します。ギャラリーは外観の資料で、Self AED・ケアパッケージ・安全な降下を保証しません。出典確認済みですが、現在の PC／コンソール実測ではありません。"
+            ]
+          },
+          "sourceIds": [
+            "p1",
+            "p2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Update 12.2 · Taego introduction",
+            "zh": "12.2 更新：Taego 推出",
+            "ja": "12.2：Taego 登場"
+          },
+          "detail": {
+            "en": "PUBG’s Update 12.2 notes introduce the 8 × 8 map with K2, Mk12, Self AED and Comeback BR. The source describes the release-era feature set and should be read separately from current playlist rules.",
+            "zh": "PUBG 12.2 公告介紹 8 × 8 地圖、K2、Mk12、自救器與 Comeback BR。來源描述推出時的功能組合，應與目前播放清單規則分開閱讀。",
+            "ja": "PUBG 12.2 は 8 × 8 マップ、K2、Mk12、Self AED、Comeback BR を紹介しています。登場当時の仕様を記録したもので、現在のプレイリスト規則とは分けて読んでください。"
+          },
+          "sourceIds": [
+            "p2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "p1",
+          "name": "PUBG · Taego official map",
+          "url": "https://www.pubg.com/en-asia/game-info/maps/taego",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "p2",
+          "name": "PUBG · Update 12.2",
+          "url": "https://pubg.com/en/news/1740",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Taego official map gallery",
+            "zh": "Taego 官方地圖圖集",
+            "ja": "Taego 公式マップギャラリー"
+          },
+          "url": "https://www.pubg.com/en-asia/game-info/maps/taego",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Official location screenshots and map artwork. Use the gallery to identify terrain; image publication is not a live match or loot guarantee.",
+            "zh": "官方地點截圖與地圖美術；可用來辨認地形，但圖片不代表即時對局或保證戰利品。",
+            "ja": "公式のロケーション画像とマップアート。地形確認に使えますが、ライブ試合や固定戦利品を保証するものではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "brawl",
+      "collection": "brawl-brawlers",
+      "entryId": "16000000",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Starting Brawler",
+            "zh": "起始鬥士",
+            "ja": "最初のブロウラー"
+          },
+          "paragraphs": {
+            "en": [
+              "Shelly is the starting Brawler and a Damage Dealer. Her defining mechanic is a spread of shotgun pellets: landing several pellets on one target matters more than reading one projectile’s damage as the whole attack. Character art and skin rarity do not by themselves describe combat strength."
+            ],
+            "zh": [
+              "Shelly 是起始鬥士，定位為 Damage Dealer。她的核心是散射霰彈：讓多顆彈丸命中同一目標很重要，不能把單顆傷害當成整次攻擊。角色美術與造型稀有度本身不代表戰力。"
+            ],
+            "ja": [
+              "シェリーは最初のブロウラーで、Damage Dealer に分類されます。散弾を複数当てるのが特徴で、弾 1 発の数値を攻撃全体のダメージと混同しないでください。イラストやスキンのレア度だけでは強さは分かりません。"
+            ]
+          },
+          "sourceIds": [
+            "b1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Buckshot and Super Shell",
+            "zh": "Buckshot 與 Super Shell",
+            "ja": "通常攻撃と必殺技"
+          },
+          "paragraphs": {
+            "en": [
+              "Buckshot fires a spreading pellet attack. Super Shell adds knockback and destroys cover. The community reference notes that pellets disappear after breaking a wall tile, so removing cover does not mean every pellet then reaches a target behind it. Count the obstruction when planning a follow-up."
+            ],
+            "zh": [
+              "Buckshot 是散射霰彈；Super Shell 增加擊退並破壞掩體。社群參考指出彈丸破壞牆格後會消失，所以破牆不代表每顆都會再打中後方敵人。規劃接續攻擊時要考慮障礙。"
+            ],
+            "ja": [
+              "通常攻撃 Buckshot は散弾、Super Shell はノックバックと遮蔽物破壊を備えます。資料では弾は壁を壊すと消えるため、破壊した弾がすべて奥の相手まで届くわけではありません。追撃には障害物を考慮します。"
+            ]
+          },
+          "sourceIds": [
+            "b1"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Spacing practice",
+            "zh": "距離練習",
+            "ja": "間合いの練習"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: practise the same shot at near, middle and outer range in the training area, observing how many pellets connect. Then practise holding Super until a threat commits. A useful replay question is whether the Super created a safe follow-up or merely pushed the target out of your effective reach."
+            ],
+            "zh": [
+              "GameBreak 建議：在訓練區以近、中、外圍距離重複射擊，觀察命中彈丸數。再練習保留大招，等威脅靠近。回放時問自己：大招是否創造安全追擊，還是只把目標推離有效距離？"
+            ],
+            "ja": [
+              "GameBreak の提案：練習場で近距離・中距離・外縁から同じ攻撃を行い、命中弾数を比べます。次に相手が踏み込むまで必殺技を温存する練習をします。安全な追撃を作ったか、相手を射程外へ押しただけかを見返しましょう。"
+            ]
+          },
+          "sourceIds": [
+            "b1"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Progression and loadout",
+            "zh": "成長與技能配置",
+            "ja": "育成と装備"
+          },
+          "paragraphs": {
+            "en": [
+              "Shelly is available at the beginning of play. Open her Brawler page to inspect the equipped Gadget, Star Power and Hypercharge rather than assuming an old video has your exact kit. Supercell’s Hypercharge support page explains where to inspect the enhanced Super effect after it is unlocked."
+            ],
+            "zh": [
+              "Shelly 在開始遊戲時可用。打開鬥士頁確認已裝備的 Gadget、Star Power 和 Hypercharge，不要假設舊影片與自己的技能完全一樣。Supercell Hypercharge 支援頁說明解鎖後可在哪查看強化大招效果。"
+            ],
+            "ja": [
+              "シェリーはプレイ開始時から使用できます。ブロウラー画面でガジェット・スターパワー・ハイパーチャージを確認し、古い動画と同じ装備だと思い込まないでください。公式サポートは解放後の強化必殺技の確認場所を説明しています。"
+            ]
+          },
+          "sourceIds": [
+            "b1",
+            "b3"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Cooldowns require a version",
+            "zh": "冷卻時間需對應版本",
+            "ja": "クールダウンには版情報を"
+          },
+          "paragraphs": {
+            "en": [
+              "Supercell’s June 2026 notes changed Fast Forward’s cooldown and Shell Shock’s slow. A community page can retain older numbers after a patch. This dossier therefore explains the mechanics and records the historical change separately; it does not label any damage, cooldown or win rate as a freshly playtested live value."
+            ],
+            "zh": [
+              "Supercell 2026 年 6 月公告更改 Fast Forward 冷卻與 Shell Shock 緩速。社群頁可能仍保留舊數字。因此本篇解釋機制，將歷史改動另列，不把任何傷害、冷卻或勝率標示為剛實測的即時數值。"
+            ],
+            "ja": [
+              "2026 年 6 月の公式ノートは Fast Forward の待ち時間と Shell Shock の減速を変更しました。コミュニティには古い数値が残る場合があります。機構と過去の変更を分け、ダメージ・待ち時間・勝率を最新実測値とは表示しません。"
+            ]
+          },
+          "sourceIds": [
+            "b2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "June 2026 · documented tuning",
+            "zh": "2026 年 6 月：已記錄調整",
+            "ja": "2026 年 6 月：公式の調整記録"
+          },
+          "detail": {
+            "en": "The release notes reduce Fast Forward’s cooldown from 20 to 16 seconds and describe Shell Shock as a percentage-based slow. These are that update’s changes, not proof that no later adjustment occurred.",
+            "zh": "公告將 Fast Forward 冷卻由 20 秒降至 16 秒，並以百分比描述 Shell Shock 緩速。這是該次更新內容，不能證明之後沒有調整。",
+            "ja": "ノートは Fast Forward を 20 秒から 16 秒に短縮し、Shell Shock の減速を割合で示しています。その更新での変更であり、その後に調整がない証明ではありません。"
+          },
+          "sourceIds": [
+            "b2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "b1",
+          "name": "Brawl Stars Wiki · Shelly",
+          "url": "https://brawlstars.fandom.com/wiki/Shelly",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "b2",
+          "name": "Supercell · June 2026 release notes",
+          "url": "https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-june-2026/",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "b3",
+          "name": "Supercell Support · Hypercharges",
+          "url": "https://support.supercell.com/brawl-stars/en/articles/hypercharge-5.html",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Shelly model and ability reference",
+            "zh": "Shelly 模型與技能參考",
+            "ja": "シェリーのモデルと能力資料"
+          },
+          "url": "https://brawlstars.fandom.com/wiki/Shelly",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community character article includes model, skin and ability imagery. Historical skin and mutation sections must not be confused with a current equipped ability.",
+            "zh": "社群角色頁含模型、造型和技能圖像；歷史造型與 Mutation 段落不能當成目前裝備技能。",
+            "ja": "コミュニティ記事にはモデル・スキン・能力画像があります。過去のスキンや Mutation 欄を現在の装備能力と混同しないでください。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "brawl",
+      "collection": "brawl-brawlers",
+      "entryId": "16000001",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Colt’s role",
+            "zh": "Colt 的定位",
+            "ja": "コルトの役割"
+          },
+          "paragraphs": {
+            "en": [
+              "Colt is a Rare Damage Dealer whose Six-Shooters attack sends six shots along a straight line. The important distinction is a sequence of hits rather than one wide splash. His Bullet Storm Super extends the line of fire and can remove cover, changing the space available to both teams."
+            ],
+            "zh": [
+              "Colt 是 Rare Damage Dealer；Six-Shooters 沿直線射出六發。它是連續命中，不是一次大範圍爆炸。Bullet Storm 大招延長火線並能破壞掩體，改變雙方可利用空間。"
+            ],
+            "ja": [
+              "コルトはレアの Damage Dealer。Six-Shooters は直線に 6 発を放ち、広い一撃ではなく連続命中が重要です。Bullet Storm は射線を延ばして遮蔽物を壊し、両チームの使える空間を変えます。"
+            ]
+          },
+          "sourceIds": [
+            "b1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Gadget and Star Power choices",
+            "zh": "Gadget 與 Star Power 選擇",
+            "ja": "ガジェットとスターパワー"
+          },
+          "paragraphs": {
+            "en": [
+              "Supercell’s rework description gives Speedloader two slowing shots; it is not the older instant reload described in legacy guides. Silver Bullet pierces Brawlers and removes terrain while consuming ammo. Slick Boots affects movement, while Magnum Special affects range and projectile speed. Buffies add separate effects and should be labelled separately."
+            ],
+            "zh": [
+              "Supercell 重製說明讓 Speedloader 射出兩發緩速子彈，已不是舊攻略的瞬間換彈。Silver Bullet 消耗彈藥、穿透鬥士並破壞地形。Slick Boots 影響移動，Magnum Special 影響距離與彈速。Buffies 的額外效果要分開標示。"
+            ],
+            "ja": [
+              "公式の再設計では Speedloader は減速弾 2 発で、旧攻略の即時リロードとは異なります。Silver Bullet は弾を消費して敵を貫通し地形を壊します。Slick Boots は移動、Magnum Special は射程と弾速に関係し、Buffies の追加効果は分けて扱います。"
+            ]
+          },
+          "sourceIds": [
+            "b2"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Track a moving target",
+            "zh": "追蹤移動目標",
+            "ja": "移動目標を追う"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: practise aiming along an opponent’s movement rather than repeatedly firing at their previous position. Review one burst at a time: which shots missed, and did your own movement pull the line away? Before destroying a wall, decide whether opening that lane helps your team or gives enemies an easier approach."
+            ],
+            "zh": [
+              "GameBreak 建議：練習沿敵人的移動方向瞄準，不要一直打他剛才的位置。一次回看一組連射：哪幾發落空、自己的移動是否拉偏射線？破牆前判斷開路會幫隊友，還是讓敵人更容易靠近。"
+            ],
+            "ja": [
+              "GameBreak の提案：直前の位置へ撃ち続けず、相手の移動方向に合わせて狙います。一連射ごとに外れた弾と自分の移動による射線ずれを見直します。壁を壊す前に味方の利点になるか、敵の接近路を作るか考えましょう。"
+            ]
+          },
+          "sourceIds": [
+            "b1",
+            "b2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Unlocking in the documented system",
+            "zh": "記錄中的解鎖系統",
+            "ja": "記録された解放システム"
+          },
+          "paragraphs": {
+            "en": [
+              "The August 2026 official notes move Rare and Super Rare unlocks into Brawler Blast, replacing the older Trophy Road route. Check the Brawler Collection’s current unlock screen for your account. This is progression guidance, not a promise that a specific random opening will give Colt."
+            ],
+            "zh": [
+              "2026 年 8 月官方公告將 Rare 和 Super Rare 解鎖移到 Brawler Blast，取代舊 Trophy Road 方式。請查看帳號鬥士收藏的目前解鎖畫面。這是成長指引，不保證某次隨機開啟一定取得 Colt。"
+            ],
+            "ja": [
+              "2026 年 8 月の公式ノートはレア・スーパーレアの解放を Trophy Road から Brawler Blast へ移しています。自分のコレクション画面を確認してください。進行の案内であり、特定の抽選でコルトが必ず出る保証ではありません。"
+            ]
+          },
+          "sourceIds": [
+            "b3"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Do not treat missing values as zero",
+            "zh": "缺值不代表零",
+            "ja": "欠損値はゼロではない"
+          },
+          "paragraphs": {
+            "en": [
+              "The provider’s ability text can omit numeric values. Missing damage or speed figures are unknown, not zero. Use the game client for the equipped level and Buffie state, and do not compare a community percentage lacking context with a different patch or an unmodified Brawler."
+            ],
+            "zh": [
+              "資料供應商技能文字可能缺少數值；傷害或速度缺值代表未知，不是零。依遊戲客戶端確認等級及 Buffie 狀態，不要把缺少背景的社群百分比與不同版本或未強化鬥士直接比較。"
+            ],
+            "ja": [
+              "提供元の能力文には数値が欠ける場合があります。欠けたダメージや速度は不明でありゼロではありません。ゲーム内でレベルと Buffie の有無を確認し、文脈のない割合を別パッチや未強化状態と比較しないでください。"
+            ]
+          },
+          "sourceIds": [
+            "b1",
+            "b2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "Buffies rework announcement",
+            "zh": "Buffies 重製公告",
+            "ja": "Buffies 再設計の告知"
+          },
+          "detail": {
+            "en": "Supercell’s new-power article documents Colt’s Gadget rework and distinguishes base effects from Buffie additions. This is the source for the updated Speedloader description rather than older reload-based guides.",
+            "zh": "Supercell 新能力文章記錄 Colt Gadget 重製，並區分基礎與 Buffie 額外效果。此為更新版 Speedloader 說明來源，不沿用舊換彈攻略。",
+            "ja": "公式の新能力記事はコルトのガジェット再設計と、基本効果・Buffie 追加効果の違いを記録しています。旧リロード攻略ではなく、この資料を Speedloader 説明の根拠にしています。"
+          },
+          "sourceIds": [
+            "b2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "b1",
+          "name": "Brawlify · Colt",
+          "url": "https://brawlify.com/brawlers/16000001",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "b2",
+          "name": "Supercell · New power and Buffies",
+          "url": "https://supercell.com/en/games/brawlstars/blog/news/new-power-brawl-pass-changes-and-a-new-starr-drop-2/",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "b3",
+          "name": "Supercell · August 2026 release notes",
+          "url": "https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-august-2026/",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Colt official rework illustrations",
+            "zh": "Colt 官方重製圖解",
+            "ja": "コルト公式の再設計図解"
+          },
+          "url": "https://supercell.com/en/games/brawlstars/blog/news/new-power-brawl-pass-changes-and-a-new-starr-drop-2/",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Official before/added-effect descriptions and illustrations for Colt’s rework. This is a feature explanation, not a live win-rate analysis.",
+            "zh": "官方 Colt 重製效果說明與圖片，屬功能解說，不是即時勝率分析。",
+            "ja": "公式のコルト再設計と追加効果の説明・図解。機能紹介であり、リアルタイム勝率分析ではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "game": "brawl",
+      "collection": "brawl-brawlers",
+      "entryId": "16000013",
+      "layout": "character",
+      "sections": [
+        {
+          "id": "background",
+          "title": {
+            "en": "Support identity",
+            "zh": "輔助定位",
+            "ja": "サポートとしての役割"
+          },
+          "paragraphs": {
+            "en": [
+              "Poco is a Rare Support Brawler. His guitar-themed Power Chord sends a broad sound-wave attack, and Encore is a healing Super. The useful question is which teammates can benefit from his position, not simply whether he can win a damage race against a solo opponent."
+            ],
+            "zh": [
+              "Poco 是 Rare Support 鬥士。吉他風格的 Power Chord 發出寬廣聲波，Encore 是治療大招。重點是站位能幫助哪些隊友，不只是和單一敵人比傷害。"
+            ],
+            "ja": [
+              "ポコはレアのサポートです。ギターを使う Power Chord は広い音波攻撃、Encore は回復の必殺技です。単独の相手との火力勝負だけでなく、立ち位置からどの味方を支援できるかが重要です。"
+            ]
+          },
+          "sourceIds": [
+            "b1"
+          ]
+        },
+        {
+          "id": "abilities",
+          "title": {
+            "en": "Healing and utility",
+            "zh": "治療與輔助效果",
+            "ja": "回復と支援効果"
+          },
+          "paragraphs": {
+            "en": [
+              "The August 2026 official rework makes Power Chord heal allies by default; Da Capo adds healing rather than enabling it from nothing. Tuning Fork provides healing pulses, while Protective Tunes creates an area against adverse effects. Screeching Solo adds enemy damage to Encore, and Buffies introduce further conditional benefits."
+            ],
+            "zh": [
+              "2026 年 8 月官方重製讓 Power Chord 本身就能治療隊友；Da Capo 增加治療，不是從零解鎖治療。Tuning Fork 提供脈衝治療，Protective Tunes 建立抵抗負面效果區域。Screeching Solo 讓 Encore 傷害敵人，Buffies 再加條件效果。"
+            ],
+            "ja": [
+              "2026 年 8 月の公式再設計では通常の Power Chord も味方を回復し、Da Capo は回復量を追加します。Tuning Fork は回復の波、Protective Tunes は不利な効果に対処するエリアです。Screeching Solo は Encore に敵へのダメージを加え、Buffies が追加効果を与えます。"
+            ]
+          },
+          "sourceIds": [
+            "b2"
+          ]
+        },
+        {
+          "id": "usage",
+          "title": {
+            "en": "Position for two jobs",
+            "zh": "同時照顧兩個任務",
+            "ja": "二つの仕事を意識する"
+          },
+          "paragraphs": {
+            "en": [
+              "GameBreak suggestion: practise an angle that lets you pressure an enemy while keeping a teammate in your support area. Watch allied health before spending Super, and identify an exit if the frontline collapses. Review whether a heal prevented a defeat or merely restored safe damage that would already recover later."
+            ],
+            "zh": [
+              "GameBreak 建議：練習能壓制敵人又把隊友留在支援範圍內的角度。用大招前看友方血量，前線崩潰時要有出口。回放判斷治療是否阻止倒下，還是只補回稍後本可安全恢復的損傷。"
+            ],
+            "ja": [
+              "GameBreak の提案：敵へ圧力を掛けながら味方も支援範囲に入る角度を練習します。必殺技前に味方の体力を確認し、前線が崩れた場合の逃げ道を決めます。回復が撃破を防いだのか、後で安全に回復できた分だったのか見返します。"
+            ]
+          },
+          "sourceIds": [
+            "b1",
+            "b2"
+          ]
+        },
+        {
+          "id": "obtain",
+          "title": {
+            "en": "Progression and equipped kit",
+            "zh": "解鎖進度與裝備",
+            "ja": "解放と装備の確認"
+          },
+          "paragraphs": {
+            "en": [
+              "Check Brawler Blast in the Brawler Collection for the documented Rare unlock path. After unlocking Poco, verify which Gadget, Star Power and Buffies are actually equipped. A video showing a protected area or extra Super damage may be demonstrating upgrades your own account does not yet have."
+            ],
+            "zh": [
+              "依官方記錄，在鬥士收藏的 Brawler Blast 查看 Rare 解鎖路線。取得 Poco 後確認實際裝備的 Gadget、Star Power 及 Buffies。影片中的保護區或額外大招傷害，可能來自你的帳號尚未有的升級。"
+            ],
+            "ja": [
+              "公式に記録されたレア解放先は、コレクション内の Brawler Blast です。解放後は実際のガジェット・スターパワー・Buffies を確認します。映像の保護エリアや追加ダメージは、自分がまだ持たない強化かもしれません。"
+            ]
+          },
+          "sourceIds": [
+            "b2"
+          ]
+        },
+        {
+          "id": "cautions",
+          "title": {
+            "en": "Old guides describe a different kit",
+            "zh": "舊攻略可能是不同技能組",
+            "ja": "古い攻略とは構成が違う場合"
+          },
+          "paragraphs": {
+            "en": [
+              "Older explanations that require Da Capo for every normal-attack heal no longer match the cited rework. Numerical healing in a provider response can also be incomplete. Keep the source date and equipped level visible, and treat the history below as a documented revision rather than a complete current balance table."
+            ],
+            "zh": [
+              "舊說明若稱一般攻擊必須裝 Da Capo 才能治療，就不符合引用的重製內容。資料供應商的治療數字也可能不完整。保留來源日期與裝備等級，將下方歷史視為已記錄改動，不是完整即時平衡表。"
+            ],
+            "ja": [
+              "通常攻撃の回復に必ず Da Capo が必要だという旧説明は、この再設計と一致しません。提供元の回復数値も不完全な場合があります。出典日と装備レベルを確認し、下の履歴を完全な現行バランス表と見なさないでください。"
+            ]
+          },
+          "sourceIds": [
+            "b1",
+            "b2"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "label": {
+            "en": "August 2026 · support rework",
+            "zh": "2026 年 8 月：輔助重製",
+            "ja": "2026 年 8 月：サポート再設計"
+          },
+          "detail": {
+            "en": "Supercell records baseline allied healing for Power Chord, revised Tuning Fork and Protective Tunes, and Poco’s Buffies. This records the published redesign; later tuning still needs separate review.",
+            "zh": "Supercell 記錄 Power Chord 基礎友方治療、Tuning Fork 與 Protective Tunes 修改，以及 Poco Buffies。這記錄已公布的重製，後續平衡仍需另外審閱。",
+            "ja": "Supercell は Power Chord の基礎回復、Tuning Fork・Protective Tunes の変更、ポコの Buffies を記録しています。公表された再設計の記録であり、後続調整は別途確認が必要です。"
+          },
+          "sourceIds": [
+            "b2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "b1",
+          "name": "Brawlify · Poco",
+          "url": "https://brawlify.com/brawlers/16000013",
+          "kind": "community",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "b2",
+          "name": "Supercell · August 2026 release notes",
+          "url": "https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-august-2026/",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        },
+        {
+          "id": "b3",
+          "name": "Supercell Support · New Poco Buffies",
+          "url": "https://support.supercell.com/brawl-stars/en/articles/whats-new-9.html",
+          "kind": "official",
+          "accessed": "2026-10-27"
+        }
+      ],
+      "media": [
+        {
+          "label": {
+            "en": "Poco official update illustrations",
+            "zh": "Poco 官方更新圖解",
+            "ja": "ポコ公式の更新図解"
+          },
+          "url": "https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-august-2026/",
+          "kind": "official-gallery",
+          "description": {
+            "en": "Publisher article includes Poco’s Buffies and ability explanations. Scroll to New Buffies → Poco; promotional art is not a recorded match.",
+            "zh": "發行商文章含 Poco Buffies 與能力說明；尋找 New Buffies → Poco。宣傳美術不是對局錄影。",
+            "ja": "発売元記事の New Buffies → Poco 欄に能力説明があります。宣伝アートは試合録画ではありません。"
+          }
+        },
+        {
+          "label": {
+            "en": "Poco character and skin browser",
+            "zh": "Poco 角色與造型瀏覽",
+            "ja": "ポコのキャラクター・スキン一覧"
+          },
+          "url": "https://brawlify.com/brawlers/16000013",
+          "kind": "wiki-gallery",
+          "description": {
+            "en": "Community character browser with ability icons and skins. Missing numerical placeholders are not verified game values.",
+            "zh": "社群角色瀏覽器含技能圖示和造型；缺少的數值佔位不是已驗證遊戲數值。",
+            "ja": "能力アイコンとスキンのあるコミュニティ一覧。欠損した数値は確認済みのゲーム値ではありません。"
+          }
+        }
+      ]
+    }
+  ]
+}

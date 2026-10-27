@@ -1,0 +1,1528 @@
+[
+  {
+    "game": "genshin",
+    "intro": {
+      "tagline": [
+        "Explore Teyvat. Learn one reaction at a time.",
+        "探索提瓦特，一次學會一種元素反應。",
+        "テイワットを旅し、元素反応をひとつずつ覚えよう。"
+      ],
+      "summary": [
+        "Genshin Impact combines open-world exploration with a party you can switch during action combat. Elemental Skills, Bursts and reactions connect your characters. Follow the story, open travel points and improve a small working team before chasing every collectible or perfect Artifact.",
+        "《原神》結合開放世界探索與可即時換人的動作戰鬥。元素戰技、爆發與反應讓隊友互相配合。先推進故事、開啟傳送點、養好一支可用隊伍，再追求全收集或完美聖遺物。",
+        "原神はオープンワールド探索と、戦闘中に交代できるパーティーを組み合わせた作品です。元素スキル・爆発・反応で仲間を連携させます。まず物語と移動地点を進め、使えるチームを育ててから収集や聖遺物を詰めましょう。"
+      ],
+      "loop": [
+        [
+          "Explore and complete quests to open more of the world.",
+          "探索與完成任務，逐步開放世界。",
+          "探索と任務で行ける場所を増やす。"
+        ],
+        [
+          "Find the next missing upgrade material, then choose its source.",
+          "先找下一個缺少的養成素材，再選取得途徑。",
+          "次の育成に足りない素材と入手先を確認する。"
+        ],
+        [
+          "Return to a familiar fight and test one improvement.",
+          "回到熟悉戰鬥，測試一項改進。",
+          "慣れた戦闘でひとつの改善を試す。"
+        ]
+      ],
+      "start": [
+        [
+          "Track the current Archon Quest and activate nearby Waypoints.",
+          "追蹤目前魔神任務，順路開傳送錨點。",
+          "進行中の魔神任務を追い、近くのワープポイントを開く。"
+        ],
+        [
+          "Learn the Skill and Burst of the characters you already own.",
+          "先讀懂已有角色的戰技與爆發。",
+          "所持キャラクターのスキルと爆発を読む。"
+        ],
+        [
+          "Set one character or weapon upgrade as today’s goal.",
+          "把一項角色或武器升級當作今天目標。",
+          "今日の目標をキャラクターか武器の育成ひとつに絞る。"
+        ]
+      ],
+      "pitfalls": [
+        [
+          "Spreading materials across every newly obtained character.",
+          "把素材平均投入所有剛拿到的角色。",
+          "入手した全員へ素材を分散すること。"
+        ],
+        [
+          "Climbing or swimming without a stamina reserve.",
+          "爬山或游泳時沒有留下體力。",
+          "登山や水泳でスタミナを使い切ること。"
+        ],
+        [
+          "Assuming old Wish screenshots describe the current banner.",
+          "把舊祈願截圖當成目前卡池。",
+          "昔の祈願画像を現在の開催内容と思うこと。"
+        ]
+      ]
+    },
+    "articles": [
+      {
+        "id": "genshin-combat-reactions",
+        "topic": "combat",
+        "title": [
+          "Start with one clear elemental reaction",
+          "先練會一種明確的元素反應",
+          "まずひとつの元素反応を練習"
+        ],
+        "summary": [
+          "Learn what your own attacks apply before copying a long rotation.",
+          "先看懂自己的攻擊施加什麼元素，再學長循環。",
+          "長い手順を真似する前に、自分の攻撃の元素を確かめます。"
+        ],
+        "keywords": [
+          "reaction",
+          "Swirl",
+          "Skill",
+          "Burst",
+          "元素反應",
+          "擴散",
+          "元素反応",
+          "拡散"
+        ],
+        "steps": [
+          [
+            "Read the Skill and Burst descriptions of two characters; identify which action actually applies an element.",
+            "閱讀兩名角色的戰技與爆發，確認哪個動作真正施加元素。",
+            "2人のスキルと爆発を読み、どの動作で元素が付くか確認します。"
+          ],
+          [
+            "On a suitable enemy, apply Hydro, Pyro, Cryo or Electro, then use an Anemo attack to observe Swirl.",
+            "對適合的敵人先施加水、火、冰或雷，再用風元素攻擊觀察擴散。",
+            "対応する敵に水・炎・氷・雷を付け、風元素で拡散を確認します。"
+          ],
+          [
+            "Watch the elemental icon and reaction name. Repeat slowly so you can tell which action caused the reaction.",
+            "觀察元素圖示與反應名稱，放慢重做，分辨哪次操作觸發反應。",
+            "元素アイコンと反応名を見て、どの操作で起きたか分かる速さで繰り返します。"
+          ],
+          [
+            "Add movement and a defensive option before extending the sequence. Save a little stamina for dodging.",
+            "再加入移動與防禦手段，最後才延長連段，並留一些體力閃避。",
+            "移動と防御を加えてから手順を伸ばし、回避用のスタミナを残します。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Enemy immunities and character-specific mechanics can change the result; this is a beginner drill, not a universal rotation.",
+            "敵人免疫與角色特殊機制可能改變結果；這是入門練習，不是通用最佳循環。",
+            "敵の無効化や固有能力で結果は変わります。初心者向け練習で、万能な最適手順ではありません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse · combat and exploration introduction",
+            "url": "https://blog.playstation.com/?p=341471"
+          }
+        ],
+        "scope": [
+          "General elemental combat; no damage benchmark or current-meta claim.",
+          "一般元素戰鬥；不提供實測傷害或當期強度排名。",
+          "一般的な元素戦闘。実測火力や現行順位は示しません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "genshin-teams-working-party",
+        "topic": "teams",
+        "title": [
+          "Build a party with a job for every slot",
+          "讓每個隊伍位置都有任務",
+          "各枠の役割を決める"
+        ],
+        "summary": [
+          "A usable team needs a simple sequence and a way to stay alive.",
+          "可用隊伍需要清楚的操作順序與生存方式。",
+          "使いやすいチームには明確な順序と生存手段が必要です。"
+        ],
+        "keywords": [
+          "team",
+          "build",
+          "weapon",
+          "artifact",
+          "隊伍",
+          "配裝",
+          "聖遺物",
+          "編成",
+          "装備",
+          "聖遺物"
+        ],
+        "steps": [
+          [
+            "Choose one main way to deal damage using a character you own; write down its key Skill or Burst.",
+            "先用已有角色選一種主要輸出方式，記下關鍵戰技或爆發。",
+            "所持キャラで主な攻撃方法を決め、中心となるスキルか爆発を書き出します。"
+          ],
+          [
+            "Choose teammates that help that action through reactions, buffs, healing or shielding. This is a planning template, not a fixed composition.",
+            "用反應、增益、治療或護盾補足隊伍。這是規劃方法，不是固定陣容。",
+            "反応・強化・回復・バリアでその動作を支えます。固定編成ではなく考え方の例です。"
+          ],
+          [
+            "Check weapon level, relevant Talents and useful Artifact main stats before investing in an entirely new party.",
+            "先檢查武器等級、重要天賦與合適的聖遺物主詞條，再考慮重養整隊。",
+            "新しいチームを育て始める前に、武器レベル、必要な天賦、聖遺物のメイン効果を確認します。"
+          ],
+          [
+            "Try the same encounter twice. Change one weak point—survival, Energy or damage—instead of replacing everything at once.",
+            "同一關卡測兩次，每次只改生存、充能或傷害中的一個弱點。",
+            "同じ戦闘で試し、生存・エネルギー・火力の弱点を一度にひとつだけ直します。"
+          ]
+        ],
+        "cautions": [
+          [
+            "A five-star item or a popular team does not automatically fit your available characters and upgrades.",
+            "五星物品或熱門隊伍不一定符合你的角色與養成進度。",
+            "★5装備や人気編成でも、所持キャラと育成状態に合うとは限りません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse Help · dealing with difficulty",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333859009561-What-can-I-do-if-the-game-feels-too-difficult"
+          },
+          {
+            "label": "HoYoverse Help · weapon materials",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333964005913-How-can-I-farm-materials-to-upgrade-my-weapons"
+          }
+        ],
+        "scope": [
+          "Early team-building workflow; equipment recommendations remain character-specific.",
+          "初期組隊流程；裝備建議仍需依角色判斷。",
+          "序盤の編成手順。装備選びはキャラクターごとに確認します。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "genshin-resources-resin-plan",
+        "topic": "resources",
+        "title": [
+          "Spend Resin toward a visible upgrade",
+          "把樹脂用在看得見的升級",
+          "樹脂を具体的な育成に使う"
+        ],
+        "summary": [
+          "Plan from the missing material rather than farming without a target.",
+          "從缺少素材倒推，不要沒有目標地刷。",
+          "不足素材から逆算し、目的のない周回を避けます。"
+        ],
+        "keywords": [
+          "Resin",
+          "Mora",
+          "ascension",
+          "domain",
+          "樹脂",
+          "摩拉",
+          "突破",
+          "天然樹脂",
+          "モラ",
+          "突破"
+        ],
+        "steps": [
+          [
+            "Open the next character or weapon upgrade and list its missing materials and Mora.",
+            "打開下一階角色或武器升級，列出缺少素材與摩拉。",
+            "次のキャラクター・武器育成画面で不足素材とモラを確認します。"
+          ],
+          [
+            "Use the material’s source panel; check the displayed Domain schedule before travelling to a weapon-material challenge.",
+            "查看素材來源，刷武器素材前先核對秘境顯示的開放日。",
+            "素材の入手先を開き、武器素材の秘境では表示された開催曜日を確認します。"
+          ],
+          [
+            "Use regenerating Original Resin for the reward that removes your current bottleneck; check the claim cost before confirming.",
+            "將自然恢復的原粹樹脂用來解決目前瓶頸，領獎前確認消耗。",
+            "自然回復する天然樹脂を今の不足に使い、受取前に消費量を確認します。"
+          ],
+          [
+            "After the upgrade is ready, stop that farm and set the next target. Keep Fragile Resin separate from your everyday plan.",
+            "達到目標就停止該項刷取，再定下一個目標；脆弱樹脂另外規劃。",
+            "必要分がそろったら周回を止め、次の目標を決めます。脆弱樹脂は日々の使用と分けて管理します。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Do not assume premium-currency refills are necessary; this plan works with free regeneration.",
+            "不要把花原石回復樹脂當成必要步驟；此計畫可用免費自然恢復完成。",
+            "原石での回復を必須にしないでください。自然回復を使う計画です。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse Help · Resin management",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333934832537-Effective-Resin-Management"
+          },
+          {
+            "label": "HoYoverse Help · weapon materials",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333964005913-How-can-I-farm-materials-to-upgrade-my-weapons"
+          }
+        ],
+        "scope": [
+          "Material planning; costs and reward multipliers come from the live client.",
+          "素材規劃；實際消耗及獎勵倍率以遊戲內為準。",
+          "素材計画。消費量と報酬倍率はゲーム内表示を確認します。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "genshin-exploration-oculi-route",
+        "topic": "exploration",
+        "title": [
+          "Explore one area without losing your place",
+          "有紀錄地探索一個區域",
+          "現在地を見失わず1地域を探索"
+        ],
+        "summary": [
+          "Combine travel points, quest tracking and map layers.",
+          "結合傳送點、任務追蹤與地圖分層。",
+          "移動地点・任務追跡・地図の階層を組み合わせます。"
+        ],
+        "keywords": [
+          "exploration",
+          "Oculi",
+          "map",
+          "quest",
+          "神瞳",
+          "探索",
+          "地圖",
+          "瞳",
+          "探索",
+          "マップ"
+        ],
+        "steps": [
+          [
+            "Activate nearby Waypoints and Statues, then track one quest or collectible goal instead of several distant ones.",
+            "先開附近錨點與神像，再追蹤一個任務或收集目標，別同時跑太多遠點。",
+            "近くのワープポイントと神像を開き、遠い目標を並行せずひとつだけ追います。"
+          ],
+          [
+            "For a missing Oculus, compare the official Teyvat Interactive Map with your area and underground layer.",
+            "找不到神瞳時，對照官方提瓦特互動地圖的區域與地下分層。",
+            "瞳が見つからない場合、公式テイワットマップの地域と地下階層を照合します。"
+          ],
+          [
+            "If a Resonance Stone marks an area, search above, below and behind nearby terrain; its circle is not an exact pin.",
+            "神瞳共鳴石圈出區域後，查看高處、地下及地形後方；圓圈不是精確定位點。",
+            "共鳴石の範囲は正確な一点ではありません。高所、地下、地形の裏も探します。"
+          ],
+          [
+            "Mark confirmed finds and save unfinished puzzles for later. Check stamina before a long climb or swim back.",
+            "將確認取得的項目標記，未解謎題先記錄；長距離攀爬或游回前確認體力。",
+            "取得を確認して印を付け、未解決の謎は後で戻れるよう記録します。帰りのスタミナも確認します。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Some collectibles require a quest or regional mechanic; a visible map marker does not prove the route is already open.",
+            "部分收集物需要任務或地區機制；地圖有標記不代表路線已開放。",
+            "任務や地域固有の仕組みが必要な収集物もあります。地図にあるだけで到達できるとは限りません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse Help · Oculi and map layers",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333953089817-Why-can-t-I-find-Oculi-or-level-up-my-Statue-of-The-Seven"
+          },
+          {
+            "label": "HoYoverse · combat and exploration introduction",
+            "url": "https://blog.playstation.com/?p=341471"
+          }
+        ],
+        "scope": [
+          "Spoiler-light exploration workflow, not a complete collectible route.",
+          "低劇透探索流程，並非完整全收集路線。",
+          "ネタバレを抑えた探索手順。完全収集ルートではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "genshin-gacha-read-wish",
+        "topic": "gacha",
+        "title": [
+          "Read a Wish before using currency",
+          "花資源前先看懂祈願",
+          "通貨を使う前に祈願を読む"
+        ],
+        "summary": [
+          "Separate the banner, its rules and your own spending limit.",
+          "分清卡池、規則與自己的資源上限。",
+          "祈願の種類、ルール、自分の上限を分けて考えます。"
+        ],
+        "keywords": [
+          "Wish",
+          "pity",
+          "Fate",
+          "Primogem",
+          "祈願",
+          "保底",
+          "原石",
+          "祈願",
+          "天井",
+          "原石"
+        ],
+        "steps": [
+          [
+            "Open the exact Wish you intend to use and read Details, including its featured items and end time.",
+            "打開想抽的那個祈願，閱讀詳情、當期物品與結束時間。",
+            "使いたい祈願そのものを開き、詳細・対象・終了時刻を読みます。"
+          ],
+          [
+            "Check whether the button consumes Intertwined Fate, Acquaint Fate or another stated resource before converting Primogems.",
+            "兌換原石前，確認按鈕消耗糾纏之緣、相遇之緣或其他指定資源。",
+            "原石を交換する前に、紡がれた運命・出会いの縁など何を使うか確認します。"
+          ],
+          [
+            "Review the history and guarantee rules for that Wish type. Do not combine character, weapon and special-banner assumptions.",
+            "查看該類祈願的歷史與保底規則，不要混用角色、武器與特殊卡池的假設。",
+            "その祈願の履歴と保証ルールを確認し、キャラ・武器・特殊祈願を混同しません。"
+          ],
+          [
+            "Set a maximum currency amount, try any available character trial, and stop at your chosen limit.",
+            "先設定最多花多少資源，試玩可用的角色試用，到達上限就停止。",
+            "使う通貨の上限を決め、利用できるお試しを遊び、上限で止めます。"
+          ]
+        ],
+        "cautions": [
+          [
+            "A guarantee for a rarity is not always a guarantee for your chosen item; current in-game Details take priority.",
+            "保證某稀有度不一定保證指定物品；以目前遊戲內詳情為準。",
+            "レアリティ保証が希望の品の保証とは限りません。現行のゲーム内詳細を優先します。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse Help · Wish rules",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333906347929-What-are-the-rules-for-making-a-Wish"
+          },
+          {
+            "label": "HoYoverse Help · Wish guarantees",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333940684953-How-does-the-Wish-guarantee-system-work"
+          }
+        ],
+        "scope": [
+          "Rules-reading and budgeting; no pull-rate forecast or banner recommendation.",
+          "規則閱讀與預算；不預測抽取結果或推薦當期卡池。",
+          "ルール確認と予算管理。抽選結果や開催中祈願の推奨は行いません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "genshin-progression-rank-check",
+        "topic": "progression",
+        "title": [
+          "When Adventure Rank stops increasing",
+          "冒險等階卡住時怎麼查",
+          "冒険ランクが止まったら"
+        ],
+        "summary": [
+          "Separate account progression from character and weapon upgrades.",
+          "將帳號進度與角色、武器升級分開檢查。",
+          "アカウント進行とキャラクター・武器育成を分けて確認します。"
+        ],
+        "keywords": [
+          "Adventure Rank",
+          "World Level",
+          "ascension",
+          "冒險等階",
+          "世界等級",
+          "突破",
+          "冒険ランク",
+          "世界ランク"
+        ],
+        "steps": [
+          [
+            "Check your Adventure Rank and the Quest Menu for an Adventure Rank Ascension task when EXP appears capped.",
+            "經驗看似卡住時，查看冒險等階與任務欄是否有冒險等階突破任務。",
+            "経験値が止まったように見えたら、冒険ランクと突破任務を確認します。"
+          ],
+          [
+            "Before the challenge, review your active team’s weapon levels, important Talents, Artifacts and survival option.",
+            "挑戰前檢查目前隊伍的武器、重要天賦、聖遺物及生存手段。",
+            "挑戦前に、使用チームの武器・重要天賦・聖遺物・生存手段を確認します。"
+          ],
+          [
+            "Complete the required ascension task when ready. Stored Adventure EXP is applied after the required quest is cleared.",
+            "準備好後完成必要突破任務；累積冒險閱歷會在完成後計入。",
+            "準備ができたら必要な突破任務をクリアします。蓄積した冒険経験はその後に反映されます。"
+          ],
+          [
+            "If overworld difficulty becomes uncomfortable, inspect the available World Level adjustment and improve one bottleneck before retrying.",
+            "若大世界難度不舒服，查看是否可調整世界等級，先改善一個瓶頸再重試。",
+            "フィールドが厳しい場合、利用可能な世界ランク調整を確認し、弱点をひとつ育成して再挑戦します。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Account rank is not a substitute for upgraded equipment; raising difficulty can expose an unfinished team.",
+            "帳號等階不能取代裝備養成，難度提升可能暴露隊伍不足。",
+            "アカウントランクは装備育成の代わりになりません。難度上昇で未育成部分が目立つ場合があります。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse Help · Adventure Rank ascension",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333963592729-Why-is-my-Adventure-Rank-not-increasing"
+          },
+          {
+            "label": "HoYoverse Help · dealing with difficulty",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333859009561-What-can-I-do-if-the-game-feels-too-difficult"
+          },
+          {
+            "label": "HoYoverse Help · World Level adjustment",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50333912769561-How-do-I-lower-my-World-Rank"
+          }
+        ],
+        "scope": [
+          "General rank troubleshooting; use the exact unlock conditions shown in your account.",
+          "一般等階排查；解鎖條件以帳號目前顯示為準。",
+          "一般的なランク確認。自分のアカウントに表示された条件を使います。"
+        ],
+        "reviewedAt": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "game": "starrail",
+    "intro": {
+      "tagline": [
+        "Read the next turn. Plan your next stop.",
+        "讀懂下一回合，規劃下一站。",
+        "次の行動を読み、次の旅先へ。"
+      ],
+      "summary": [
+        "Honkai: Star Rail is a turn-based space adventure aboard the Astral Express. Build a team around enemy weaknesses, shared Skill Points and each character’s role. Story missions open destinations; character levels, Light Cones, Traces and Relics help your team handle harder encounters.",
+        "《崩壞：星穹鐵道》是搭乘星穹列車展開的回合制宇宙冒險。依敵方弱點、共用戰技點與角色職責組隊。主線開放目的地，角色等級、光錐、行跡與遺器則幫隊伍面對更難的戰鬥。",
+        "崩壊：スターレイルは星穹列車で宇宙を巡るターン制RPGです。敵の弱点、共有するSP、各キャラクターの役割を見て編成します。開拓クエストで行き先を増やし、レベル・光円錐・軌跡・遺物でチームを育てます。"
+      ],
+      "loop": [
+        [
+          "Follow a mission and inspect the next enemy encounter.",
+          "推進任務，查看下一場敵人的資訊。",
+          "クエストを進め、次の敵の情報を確認する。"
+        ],
+        [
+          "Choose a focused upgrade and find its material source.",
+          "選一項明確的養成目標，找對素材來源。",
+          "育成目標をひとつ決め、素材の入手先を探す。"
+        ],
+        [
+          "Adjust your team after a fight instead of only raising damage.",
+          "戰後調整隊伍，而非只追求傷害。",
+          "戦闘後は火力だけでなく編成も見直す。"
+        ]
+      ],
+      "start": [
+        [
+          "Read your characters’ Basic ATK, Skill and Ultimate descriptions.",
+          "讀懂角色的普攻、戰技與終結技。",
+          "通常攻撃・戦闘スキル・必殺技の説明を読む。"
+        ],
+        [
+          "Bring a way to recover HP or protect the team.",
+          "帶上能恢復生命或保護全隊的手段。",
+          "回復か味方を守る手段を用意する。"
+        ],
+        [
+          "Use the Interastral Peace Guide to locate unlocked activities.",
+          "從星際和平指南找到已解鎖的活動。",
+          "星間ピースガイドで解放済みのコンテンツを探す。"
+        ]
+      ],
+      "pitfalls": [
+        [
+          "Spending every Skill Point before the main attacker acts.",
+          "主力行動前就用光戰技點。",
+          "主力の番が来る前にSPを使い切ること。"
+        ],
+        [
+          "Using a Light Cone passive without checking its Path requirement.",
+          "沒有確認命途要求就期待光錐效果生效。",
+          "光円錐の命途条件を確かめずに効果を期待すること。"
+        ],
+        [
+          "Mixing different forms of the same character in one build guide.",
+          "把同一角色不同型態的配裝混在一起。",
+          "同じ人物の別形態の育成情報を混ぜること。"
+        ]
+      ]
+    },
+    "articles": [
+      {
+        "id": "starrail-combat-turn-plan",
+        "topic": "combat",
+        "title": [
+          "Control a battle with Skill Points and weaknesses",
+          "用戰技點與弱點掌握戰局",
+          "SPと弱点で戦闘を組み立てる"
+        ],
+        "summary": [
+          "A repeatable first-fight routine for manual play.",
+          "適合手動戰鬥的基本練習流程。",
+          "手動戦闘を練習するための基本手順。"
+        ],
+        "keywords": [
+          "Skill Points",
+          "weakness",
+          "Ultimate",
+          "戰技點",
+          "弱點",
+          "終結技",
+          "SP",
+          "弱点",
+          "必殺技"
+        ],
+        "steps": [
+          [
+            "Inspect an enemy’s weakness icons before choosing a target. Matching an attack type can reduce Toughness; read special shields or encounter rules separately.",
+            "選目標前先看敵人弱點圖示。對應屬性的攻擊可削減韌性；特殊護盾與關卡規則要另外讀。",
+            "狙う敵の弱点アイコンを確認。対応する属性で靭性を削れます。特殊なバリアやステージ条件は別に確認します。"
+          ],
+          [
+            "Check the action-order bar and the shared Skill Point count. Plan who needs a Skill before choosing the current character’s action.",
+            "查看行動順序與共用戰技點，先規劃接下來誰需要戰技，再決定目前角色的動作。",
+            "行動順と共有SPを確認し、次に誰がスキルを使うか決めてから行動します。"
+          ],
+          [
+            "Many ordinary Basic ATKs restore Skill Points, while Skills often spend them. Read enhanced attacks and character-specific exceptions rather than assuming every kit works alike.",
+            "一般普攻多可回復戰技點，戰技通常會消耗；強化普攻與角色例外應以技能說明為準。",
+            "通常攻撃はSPを回復し、スキルは消費することが多いですが、強化攻撃などの例外は説明で確認します。"
+          ],
+          [
+            "When an Ultimate is ready, ask what it solves: damage, recovery or protection. Practice one fight manually, then note whether your failure came from survival, targeting or Skill Point shortage.",
+            "終結技就緒時，先判斷它要解決傷害、回復還是保護。手動練一場，記下失敗是生存、選錯目標或缺戰技點造成。",
+            "必殺技は火力・回復・防御のどれに使うか考えます。一戦を手動で試し、敗因が耐久・狙い・SP不足のどれか記録します。"
+          ]
+        ],
+        "cautions": [
+          [
+            "A special character or mode can change these basic rules. The skill text and battle tutorial take priority.",
+            "特殊角色或模式可能改變基本規則，以技能文字與戰鬥教學為準。",
+            "特殊なキャラクターやモードではルールが変わるため、スキル説明と戦闘チュートリアルを優先してください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoWiki · in-game basic mechanics reference",
+            "url": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us"
+          }
+        ],
+        "scope": [
+          "General turn-based combat; individual skill exceptions apply.",
+          "一般回合制戰鬥；各角色可能有特殊規則。",
+          "通常のターン制戦闘向け。個別スキルの例外あり。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "starrail-teams-role-and-path",
+        "topic": "teams",
+        "title": [
+          "Build a team that can finish a fight",
+          "組出能穩定打完的隊伍",
+          "最後まで戦えるチームを組む"
+        ],
+        "summary": [
+          "Use roles, exact character forms and compatible equipment.",
+          "從職責、正確型態與相容裝備出發。",
+          "役割、正しい形態、装備の相性から考えます。"
+        ],
+        "keywords": [
+          "team",
+          "Light Cone",
+          "Path",
+          "March 7th",
+          "隊伍",
+          "光錐",
+          "命途",
+          "三月七",
+          "編成",
+          "光円錐",
+          "三月なのか"
+        ],
+        "steps": [
+          [
+            "Choose one main source of damage and describe how it works. Add a healer or protector if the team cannot survive, then supports that help the chosen damage plan.",
+            "先選主要傷害來源並說清楚輸出方式；無法生存時加入治療或保護，再補上能配合該打法的輔助。",
+            "主なダメージ源と戦い方を決めます。耐久が足りなければ回復・防御役を入れ、その戦い方に合う支援を加えます。"
+          ],
+          [
+            "Match a Light Cone’s required Path to its wearer before relying on the passive. A higher rarity does not automatically make an incompatible passive useful.",
+            "想使用光錐被動前，先確認佩戴者符合命途；稀有度高不代表不相容的效果也會生效。",
+            "光円錐の追加効果を使うには、装備者の命途条件を確認します。レア度だけで選ばないようにします。"
+          ],
+          [
+            "Check the exact form in the team screen. March 7th and the Trailblazer have distinct forms; a guide for one Path is not automatically a guide for another. Save the intended form in a team preset.",
+            "在隊伍畫面確認型態。三月七與開拓者有不同型態；某命途攻略不能直接套到另一型態，可用隊伍預設保存。",
+            "編成画面で形態を確認。三月なのかや開拓者は形態で性能が異なるため、別の命途の攻略を流用せずプリセットに保存します。"
+          ],
+          [
+            "Run one familiar encounter and watch Skill Point usage. If everyone wants a Skill every turn, change the action plan before spending more materials on equipment.",
+            "打一場熟悉戰鬥觀察戰技點。若所有人每回合都想放戰技，先調整行動安排，再投入更多裝備素材。",
+            "慣れた敵でSPの使い方を確認。全員が毎ターンスキルを必要とするなら、装備を強化する前に行動計画を直します。"
+          ]
+        ],
+        "cautions": [
+          [
+            "This is a team-building method, not a current tier list. Some encounters require a different survival or damage approach.",
+            "這是組隊方法，不是當期強度榜；部分關卡需要不同生存或輸出策略。",
+            "これは編成の考え方で、最新ランキングではありません。敵によって必要な耐久・攻撃手段は変わります。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse · Version 3.7 update notes",
+            "url": "https://www.hoyolab.com/article/42166551"
+          },
+          {
+            "label": "HoYoverse · Version 3.8 update notes",
+            "url": "https://hsr.hoyoverse.com/en-us/news/161539"
+          },
+          {
+            "label": "HoYoWiki · in-game basic mechanics reference",
+            "url": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us"
+          }
+        ],
+        "scope": [
+          "Character form, Light Cone Path and ordinary team planning.",
+          "角色型態、光錐命途與一般組隊。",
+          "キャラクター形態・光円錐の命途・基本編成。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "starrail-resources-targeted-farming",
+        "topic": "resources",
+        "title": [
+          "Farm for the next upgrade, not everything",
+          "為下一次升級刷素材",
+          "次の育成に必要な素材を集める"
+        ],
+        "summary": [
+          "Turn an upgrade screen into a short farming plan.",
+          "把養成畫面變成一張短刷取清單。",
+          "育成画面から短い周回計画を作ります。"
+        ],
+        "keywords": [
+          "Trailblaze Power",
+          "Calyx",
+          "Traces",
+          "materials",
+          "開拓力",
+          "擬造花萼",
+          "行跡",
+          "素材",
+          "開拓力",
+          "疑似花萼",
+          "軌跡"
+        ],
+        "steps": [
+          [
+            "Open one character, Light Cone or Trace upgrade and note the missing material. Choose a useful near-term upgrade instead of farming every possible requirement.",
+            "開啟一項角色、光錐或行跡升級，記下缺少素材；先選近期用得到的提升，不必一次刷滿全部。",
+            "キャラクター・光円錐・軌跡の育成画面で不足素材を確認し、すぐ役立つ育成に絞ります。"
+          ],
+          [
+            "Use the material’s source or the Interastral Peace Guide’s Survival Index. Confirm the reward and entry conditions for Calyx, Stagnant Shadow, Cavern of Corrosion or Echo of War.",
+            "從素材來源或星際和平指南的生存索引進入，確認擬造花萼、凝滯虛影、侵蝕隧洞或歷戰餘響的獎勵與條件。",
+            "素材の入手先か星間ピースガイドの生存手引で、疑似花萼・凝結虚影・侵蝕トンネル・歴戦余韻の報酬と条件を確認します。"
+          ],
+          [
+            "Check the displayed Trailblaze Power cost before claiming rewards. Stop once the planned upgrade is covered; save optional refills until you have a clear need.",
+            "領獎前確認畫面上的開拓力消耗，達到預定素材量即可停手；額外補充道具留到有明確需求再用。",
+            "報酬受取前に開拓力の消費を確認し、目標分が集まれば止めます。追加回復は必要が明確になってから使います。"
+          ],
+          [
+            "If the cultivation guide’s material total looks wrong, inspect its Trace filter. “Recommended Traces only” can exclude upgrades you intended to count.",
+            "若養成指南的總素材量不符預期，檢查行跡篩選；只計算推薦行跡可能漏掉你想升的項目。",
+            "育成ガイドの素材数が合わなければ軌跡の絞り込みを確認。「推奨する軌跡のみ」では予定した育成が除外される場合があります。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Stage access and early-access options depend on your progress and current rules. Read the lock message rather than following an old unlock screenshot.",
+            "關卡與提前體驗入口依進度和現行規則而定，請讀取鎖定提示，不要只照舊截圖。",
+            "解放条件や先行体験は進行状況と現行ルールによります。古い画像よりロック表示を確認してください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse · Version 3.0 update notes",
+            "url": "https://hsr.hoyoverse.com/en-us/news/127987?type=activity"
+          },
+          {
+            "label": "HoYoverse Help · cultivation-guide material filters",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/52306165153049-Why-does-the-cultivation-guidance-show-an-incorrect-quantity-of-materials"
+          },
+          {
+            "label": "HoYoverse Help · unlocking Stagnant Shadow",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50913737829657-How-do-I-unlock-Stagnant-Shadow"
+          }
+        ],
+        "scope": [
+          "Material planning; no assumed drop amount or current stamina cap.",
+          "素材規劃；不預設掉落量或當前體力上限。",
+          "素材計画向け。ドロップ数や現在の開拓力上限は断定しません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "starrail-exploration-quest-blockers",
+        "topic": "exploration",
+        "title": [
+          "Find the route and clear quest blockers",
+          "找對路線，處理任務卡點",
+          "道順とクエストの行き詰まりを確認する"
+        ],
+        "summary": [
+          "Use navigation and quest state before assuming a location is broken.",
+          "先看導航與任務狀態，再判斷是不是地點出錯。",
+          "不具合と思う前に案内とクエスト状態を確認します。"
+        ],
+        "keywords": [
+          "quest",
+          "map",
+          "NPC",
+          "Pom-Pom",
+          "任務",
+          "地圖",
+          "帕姆",
+          "クエスト",
+          "マップ",
+          "パム"
+        ],
+        "steps": [
+          [
+            "Track one active mission. Read its objective and location before travelling, and inspect the displayed map floor when a marker seems nearby but unreachable.",
+            "一次追蹤一項任務，出發前閱讀目標與地點；標記很近卻到不了時，先檢查地圖樓層。",
+            "クエストをひとつ追跡し、目的と場所を読みます。近くに見える印へ届かなければマップの階層を確認します。"
+          ],
+          [
+            "If an NPC is unavailable, inspect the quest conflict message. Another active mission can occupy that NPC; complete the named conflict before returning.",
+            "NPC無法互動時讀取衝突提示；其他進行中的任務可能占用該角色，先完成提示的任務再返回。",
+            "NPCと話せない場合は競合表示を確認。別の進行中クエストが使用しているなら、指定されたクエストを進めて戻ります。"
+          ],
+          [
+            "Treat locked destinations and activities as progression checks. Use the current entry condition in the Guide or mission screen to decide your next task.",
+            "把鎖定地區與活動當成進度檢查，依指南或任務畫面的現行開放條件決定下一步。",
+            "地域やコンテンツがロックされていれば、ガイドかクエスト画面の解放条件から次の目標を決めます。"
+          ],
+          [
+            "If Pom-Pom cannot give Trailblaze Level rewards, check whether an Astral Express quest is occupying the interaction. Resolve it, then return to claim the rewards.",
+            "無法向帕姆領取開拓等級獎勵時，檢查是否被列車任務占用；處理後再回來領取。",
+            "パムから開拓レベル報酬を受け取れなければ、列車のクエストが会話を使用していないか確認し、解決後に戻ります。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Some quests deliberately change an area or NPC. Reloading alone will not resolve a required story step.",
+            "部分任務會刻意改變地區或NPC狀態，單純重登無法取代必要的故事步驟。",
+            "クエストによって地域やNPCの状態は変わります。再起動だけでは必要な進行を代わりに完了できません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse Help · occupied quest NPC",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50913753890969-Why-is-the-NPC-for-my-quest-unavailable"
+          },
+          {
+            "label": "HoYoverse Help · claiming Trailblaze Level rewards",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/52306209443481-Why-can-t-I-interact-with-Pom-Pom-to-claim-my-Trailblaze-Level-rewards"
+          },
+          {
+            "label": "HoYoverse · Version 3.0 update notes",
+            "url": "https://hsr.hoyoverse.com/en-us/news/127987?type=activity"
+          }
+        ],
+        "scope": [
+          "Quest navigation and interaction conflicts; story spoilers avoided.",
+          "任務導航與互動衝突；避免故事劇透。",
+          "クエスト案内と会話の競合。物語のネタバレは避けています。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "starrail-gacha-warp-budget",
+        "topic": "gacha",
+        "title": [
+          "Read a Warp before spending Jade",
+          "花星瓊前讀懂躍遷",
+          "星玉を使う前に跳躍を確認する"
+        ],
+        "summary": [
+          "Separate banner types, check Records and set a limit.",
+          "分清卡池種類、查看紀錄並設定上限。",
+          "跳躍の種類と履歴を確認し、上限を決めます。"
+        ],
+        "keywords": [
+          "Warp",
+          "Stellar Jade",
+          "pity",
+          "Records",
+          "躍遷",
+          "星瓊",
+          "保底",
+          "紀錄",
+          "跳躍",
+          "星玉",
+          "天井",
+          "履歴"
+        ],
+        "steps": [
+          [
+            "Open the selected Warp’s View Details. Read the featured items, end time, currency and guarantee rules for that exact banner.",
+            "打開所選躍遷的查看詳情，閱讀該卡池的提升物品、結束時間、消耗貨幣與保底規則。",
+            "選んだ跳躍の詳細で、ピックアップ・終了時刻・必要通貨・確定ルールを確認します。"
+          ],
+          [
+            "Keep Character Event Warp, Light Cone Event Warp and Regular Warp counts separate. Do not add all your account’s pulls together to predict one banner’s guarantee.",
+            "角色活動躍遷、光錐活動躍遷與常駐躍遷需分開計算，不要把帳號所有抽數相加推估一個卡池的保底。",
+            "キャラクターイベント・光円錐イベント・恒常跳躍の回数を混ぜず、アカウント全体の回数でひとつの天井を予想しないようにします。"
+          ],
+          [
+            "Check Warp → View Details → Records. Recent pulls can appear after a delay, and older records disappearing from the visible list does not by itself reset the guarantee count.",
+            "從躍遷→查看詳情→紀錄確認；新紀錄可能延遲顯示，舊紀錄不在可見列表中也不代表保底歸零。",
+            "跳躍→詳細→履歴を確認。直近の結果は反映が遅れることがあり、古い履歴が表示されなくても、それだけで確定回数がリセットされるわけではありません。"
+          ],
+          [
+            "Decide a stopping point before pulling and check the confirmation screen’s Pass type. Save enough for your actual priority rather than pulling because a timer is running out.",
+            "抽取前先決定停止點並確認票券種類；保留資源給真正想要的目標，不要只因倒數結束就抽。",
+            "回す前に止める回数とチケットの種類を確認し、終了間近という理由だけで使わず本命のために残します。"
+          ]
+        ],
+        "cautions": [
+          [
+            "This page does not promise a specific result or recommend spending money. Current in-game Details control banner-specific rules.",
+            "本頁不保證特定結果，也不建議付費；個別卡池規則以遊戲內目前詳情為準。",
+            "特定の結果や課金は勧めません。各跳躍のルールは現在のゲーム内詳細を優先してください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse Help · Warp types and guarantees",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50913710696217-How-does-the-pity-system-work-for-different-banners-and-reruns"
+          },
+          {
+            "label": "HoYoverse Help · Warp history and delayed records",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50913754903577-How-can-I-check-my-Warp-history-and-why-aren-t-my-latest-pulls-showing-up"
+          }
+        ],
+        "scope": [
+          "Warp literacy and budgeting; no current featured-banner recommendation.",
+          "躍遷閱讀與預算管理；不提供當期卡池推薦。",
+          "跳躍の確認と予算管理。開催中ガチャの推奨ではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "starrail-progression-equilibrium-ready",
+        "topic": "progression",
+        "title": [
+          "Prepare for the next Equilibrium step",
+          "為下一階均衡做好準備",
+          "次の均衡段階へ備える"
+        ],
+        "summary": [
+          "A focused checklist for story and account progress.",
+          "聚焦主線與帳號進度的檢查清單。",
+          "物語とアカウントの進行を整理するチェック。"
+        ],
+        "keywords": [
+          "Equilibrium",
+          "Trailblaze Level",
+          "ascension",
+          "均衡",
+          "開拓等級",
+          "突破",
+          "均衡",
+          "開拓レベル",
+          "昇格"
+        ],
+        "steps": [
+          [
+            "Read the next mission’s requirement and any Trial of the Equilibrium entry in your mission list. Do not assume every locked activity uses the same level requirement.",
+            "先看下一任務需求與任務列表中的均衡試煉，不要假設所有鎖定活動都有相同等級門檻。",
+            "次のクエスト条件と均衡の試練を確認し、全コンテンツが同じレベル条件だと思わないようにします。"
+          ],
+          [
+            "Before a difficult trial, review the main team’s character levels, Light Cone levels and useful Traces. Fix a weak survival option as well as the damage dealer.",
+            "挑戰困難試煉前檢查主隊角色等級、光錐與常用行跡；除了主輸出，也補強不足的生存手段。",
+            "難しい試練の前に、主力のレベル・光円錐・よく使う軌跡を確認。攻撃役だけでなく耐久の弱点も補います。"
+          ],
+          [
+            "Use the stage entry to check its actual unlock path. Stagnant Shadow and other material stages can have story requirements or early-access options, so follow the current prompt.",
+            "從關卡入口確認真正解鎖途徑；凝滯虛影等素材關卡可能有故事條件或提前體驗選項，以目前提示為準。",
+            "凝結虚影などの入口で実際の条件を確認。物語の条件や先行体験があるため、現在の案内に従います。"
+          ],
+          [
+            "After progressing, review new Guide entries and claim available Trailblaze Level rewards. Pick one next upgrade for the team instead of starting many unfinished builds.",
+            "進度提升後查看指南的新入口並領取可領的開拓等級獎勵，接著只選一項隊伍養成目標。",
+            "進行後はガイドの新項目と開拓レベル報酬を確認。未完成の育成を増やしすぎず、次の強化をひとつ決めます。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Account level is not a substitute for team readiness. This checklist does not guarantee a clear of any particular endgame mode.",
+            "帳號等級不能取代隊伍準備，本清單不保證通過特定終局模式。",
+            "アカウントレベルだけで戦力は決まりません。特定の高難度モードのクリアを保証するものではありません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "HoYoverse Help · unlocking Stagnant Shadow",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/50913737829657-How-do-I-unlock-Stagnant-Shadow"
+          },
+          {
+            "label": "HoYoverse · Version 3.0 update notes",
+            "url": "https://hsr.hoyoverse.com/en-us/news/127987?type=activity"
+          },
+          {
+            "label": "HoYoverse Help · claiming Trailblaze Level rewards",
+            "url": "https://support.hoyoverse.com/hc/en-us/articles/52306209443481-Why-can-t-I-interact-with-Pom-Pom-to-claim-my-Trailblaze-Level-rewards"
+          }
+        ],
+        "scope": [
+          "Story progression and general readiness; current entry prompts take priority.",
+          "主線推進與一般準備；以目前入口提示優先。",
+          "物語の進行と準備向け。現在の解放案内を優先します。"
+        ],
+        "reviewedAt": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "game": "wuwa",
+    "intro": {
+      "tagline": [
+        "Read the rhythm. Explore beyond the signal.",
+        "讀懂戰鬥節奏，向信號之外探索。",
+        "戦いのリズムを読み、信号の先へ。"
+      ],
+      "summary": [
+        "Wuthering Waves is an open-world action RPG on Solaris-3. You play as Rover and travel with Resonators whose skills, timing and swaps shape combat. Exploration supplies materials and Echoes; focused character and weapon upgrades turn those discoveries into useful progress.",
+        "《鳴潮》是在索拉里斯展開的開放世界動作RPG。你扮演漂泊者，與共鳴者同行，透過技能、時機與換人形成戰鬥節奏。探索取得素材與聲骸，再把資源集中投入角色和武器養成。",
+        "鳴潮はソラリスを舞台とするオープンワールドアクションRPGです。漂泊者として共鳴者と旅をし、スキル・タイミング・交代を組み合わせて戦います。探索で素材と音骸を集め、役立つ育成へつなげましょう。"
+      ],
+      "loop": [
+        [
+          "Explore an unlocked region and activate travel points.",
+          "探索已開放地區並啟用傳送點。",
+          "解放済み地域を探索し、移動地点を開く。"
+        ],
+        [
+          "Practice one Resonator’s skill sequence and swap timing.",
+          "練習一位共鳴者的技能順序與換人時機。",
+          "共鳴者ひとりのスキル順と交代時機を練習する。"
+        ],
+        [
+          "Spend materials on the next useful upgrade, then test it.",
+          "把素材用在下一項實用提升，再實際練習。",
+          "次に役立つ育成へ素材を使い、試す。"
+        ]
+      ],
+      "start": [
+        [
+          "Follow the main quest and unlock nearby Resonance Beacons.",
+          "跟隨主線，啟用附近共鳴信標。",
+          "メイン任務を進め、近くの共鳴信標を開く。"
+        ],
+        [
+          "Open Skill Training and learn your current Resonator.",
+          "打開技能教學，先學會目前共鳴者。",
+          "スキルトレーニングで使用中の共鳴者を覚える。"
+        ],
+        [
+          "Read an upgrade’s source before choosing what to farm.",
+          "先讀養成素材來源，再決定刷什麼。",
+          "育成素材の入手先を読んでから周回先を決める。"
+        ]
+      ],
+      "pitfalls": [
+        [
+          "Copying another game’s elemental-reaction rules into this one.",
+          "直接套用其他遊戲的元素反應規則。",
+          "別のゲームの元素反応をそのまま当てはめること。"
+        ],
+        [
+          "Equipping Echoes by appearance without checking their effects.",
+          "只看外觀選聲骸，沒有讀效果。",
+          "見た目だけで音骸を選び、効果を読まないこと。"
+        ],
+        [
+          "Treating a historical event notice as an active Convene.",
+          "把過去活動公告當成正在開放的喚取。",
+          "過去の告知を開催中の集音と勘違いすること。"
+        ]
+      ]
+    },
+    "articles": [
+      {
+        "id": "wuwa-combat-skill-rhythm",
+        "topic": "combat",
+        "title": [
+          "Learn a Resonator’s actual combat rhythm",
+          "學會共鳴者真正的戰鬥節奏",
+          "共鳴者の戦闘リズムを覚える"
+        ],
+        "summary": [
+          "Practice a small sequence before copying a long combo.",
+          "先練短流程，再學長連招。",
+          "長いコンボの前に短い手順を練習します。"
+        ],
+        "keywords": [
+          "combat",
+          "Forte Circuit",
+          "Concerto",
+          "dodge",
+          "戰鬥",
+          "共鳴回路",
+          "協奏",
+          "閃避",
+          "戦闘",
+          "共鳴回路",
+          "協奏",
+          "回避"
+        ],
+        "steps": [
+          [
+            "Find Skill Training through the Guidebook’s Path of Growth. Read the current Resonator’s Resonance Skill, Resonance Liberation and Forte Circuit before practicing.",
+            "從指南的成長之路找到技能教學，先讀目前共鳴者的共鳴技能、共鳴解放與共鳴回路。",
+            "ガイドのPath of Growthからスキルトレーニングへ進み、共鳴スキル・共鳴解放・共鳴回路を読みます。"
+          ],
+          [
+            "Practice a basic attack sequence, then a defensive response. Watch the enemy’s animation and the game’s dodge or parry prompts rather than pressing every button at once.",
+            "先練一段普攻，再練防守反應；觀察敵人動作與閃避或逆勢回擊提示，不要同時亂按所有按鈕。",
+            "通常攻撃の流れと防御を練習します。敵の動きや回避・パリィの合図を見て、全ボタンを連打しないようにします。"
+          ],
+          [
+            "Watch your Forte gauge and read what fills or spends it. Use the official guide’s sequence for that specific Resonator; different characters do not share one universal rotation.",
+            "觀察共鳴回路量表，讀懂如何累積與消耗；依官方指南練該角色流程，不同角色沒有通用的一套循環。",
+            "共鳴回路のゲージが増減する条件を確認。公式ガイドでその共鳴者の手順を読み、全員に同じ順番を当てはめません。"
+          ],
+          [
+            "Check Concerto readiness before swapping for Intro and Outro effects. Compare one short practice run with and without the intended swap, then adjust only one step.",
+            "為觸發變奏與延奏效果換人前，確認協奏準備狀態；比較有無該換人安排的短練習，每次只改一個步驟。",
+            "変奏・終奏を使う交代前に協奏の準備を確認。狙った交代を入れた短い練習を行い、一度にひとつだけ手順を変えます。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Enemy attacks and character kits have exceptions. This practice routine is not a tested maximum-damage combo.",
+            "敵人招式與角色機制都有例外；這是練習流程，不是經實測的最高傷害連招。",
+            "敵の攻撃やキャラクターには例外があります。これは練習方法で、実測した最大火力コンボではありません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Kuro Games · Version 2.5 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2966"
+          },
+          {
+            "label": "Kuro Games · official Wuthering Waves guides",
+            "url": "https://wuwaguide.kurogames.com/"
+          },
+          {
+            "label": "Kuro Games · Version 1.1 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/996"
+          }
+        ],
+        "scope": [
+          "Manual combat practice; follow the current Resonator’s skill text.",
+          "手動戰鬥練習；依目前共鳴者技能文字。",
+          "手動戦闘の練習向け。使用中の共鳴者の説明を優先。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "wuwa-teams-guide-and-echoes",
+        "topic": "teams",
+        "title": [
+          "Connect teammates, weapons and Echoes",
+          "讓隊友、武器與聲骸配合",
+          "仲間・武器・音骸をつなげる"
+        ],
+        "summary": [
+          "Use character-specific guidance and a repeatable comparison.",
+          "使用角色專屬指南，並建立可重複的比較方式。",
+          "キャラクター別ガイドと比較しやすい手順を使います。"
+        ],
+        "keywords": [
+          "team",
+          "Echo",
+          "Guide Depot",
+          "weapon",
+          "隊伍",
+          "聲骸",
+          "攻略",
+          "武器",
+          "編成",
+          "音骸",
+          "武器"
+        ],
+        "steps": [
+          [
+            "Choose the character whose playstyle you want to build around. Add teammates that support that plan, with recovery or protection if survival is the main problem.",
+            "先選想作為核心的角色打法，再加入能配合的隊友；若生存是主要問題，先補回復或保護。",
+            "中心にしたい共鳴者と戦い方を決め、合う仲間を選びます。倒れやすければ回復や防御を補います。"
+          ],
+          [
+            "Open Guide Depot from the Terminal, or use Kuro’s guide portal. Select the exact Resonator and inspect its weapon, Echo, upgrade-priority and teammate advice.",
+            "從終端進入攻略入口，或使用庫洛官方指南；選對共鳴者，查看武器、聲骸、升級優先度與隊友建議。",
+            "端末のGuide Depotか公式ガイドで対象の共鳴者を選び、武器・音骸・育成順・仲間の提案を確認します。"
+          ],
+          [
+            "Read the actual Outro effect and the intended recipient before planning a swap. Also check whether your equipped weapon and Echo effects help the role you assigned.",
+            "安排換人前讀清楚延奏效果與受益角色，也檢查武器和聲骸是否符合你分配的職責。",
+            "交代前に終奏の効果と対象を読み、武器や音骸の効果も担当する役割に合っているか確認します。"
+          ],
+          [
+            "Save the current Echo setup as a preset before changing it. Compare the displayed attributes, then test the same encounter so a new build is not judged on a completely different fight.",
+            "更動前把目前聲骸配置存為預設，比較顯示屬性，再用同一場戰鬥測試，避免拿不同條件判斷配裝。",
+            "変更前に音骸プリセットへ保存。表示ステータスを比較し、同じ敵で試して条件をそろえます。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Guide Depot can contain different guide authors and update times. A recommended set is guidance, not proof that it is best for your account.",
+            "攻略入口可能有不同作者與更新時間；推薦配置是參考，不代表一定最適合你的帳號。",
+            "ガイドは作者や更新時期で異なります。推奨装備が自分のアカウントで必ず最適とは限りません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Kuro Games · Version 2.4 Guide Depot introduction",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2801"
+          },
+          {
+            "label": "Kuro Games · Version 2.1 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2154"
+          },
+          {
+            "label": "Kuro Games · official Wuthering Waves guides",
+            "url": "https://wuwaguide.kurogames.com/"
+          }
+        ],
+        "scope": [
+          "Team planning and Echo presets; no current meta ranking.",
+          "組隊規劃與聲骸預設；不提供當期強度排名。",
+          "編成計画と音骸プリセット。最新環境の順位付けではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "wuwa-resources-material-route",
+        "topic": "resources",
+        "title": [
+          "Make a useful material route",
+          "規劃真正需要的素材路線",
+          "必要な素材のルートを作る"
+        ],
+        "summary": [
+          "Connect upgrade screens, Collection Spots and reward costs.",
+          "串起養成畫面、採集點與領獎成本。",
+          "育成画面・採集地点・報酬コストをつなぎます。"
+        ],
+        "keywords": [
+          "Waveplate",
+          "Astrite",
+          "materials",
+          "Collection Spots",
+          "結晶波片",
+          "星聲",
+          "素材",
+          "採集點",
+          "結晶波長板",
+          "星声",
+          "素材",
+          "採集"
+        ],
+        "steps": [
+          [
+            "Pick one upgrade and write down its missing materials and currency. Separate world-gathered items from challenge rewards before choosing a route.",
+            "選一項升級，記下缺少素材與貨幣；先分清世界採集物和挑戰獎勵，再安排路線。",
+            "育成ひとつに足りない素材と通貨を確認し、フィールド採集と挑戦報酬を分けて考えます。"
+          ],
+          [
+            "For supported gathering materials, open the item from the Backpack or Resonator screen and choose Collection Spots. Track a nearby group rather than wandering without a target.",
+            "支援追蹤的採集素材可從背包或共鳴者畫面開啟，選採集點並追蹤附近一組，避免沒有目標地亂跑。",
+            "対応素材をバッグか共鳴者画面から開き、Collection Spotsで近くの採集地点を追跡します。"
+          ],
+          [
+            "Before a reward claim, inspect the displayed Waveplate cost and reward type. Spend it toward the missing upgrade rather than assuming every activity gives the same materials.",
+            "領取獎勵前看清結晶波片消耗與獎勵種類，把它花在缺少的養成項目，不要假設所有挑戰掉落相同素材。",
+            "報酬受取前にWaveplateの消費と報酬内容を確認し、不足している育成に使います。どの挑戦でも同じ素材が出るとは限りません。"
+          ],
+          [
+            "Check the inventory after the planned run and stop when the next upgrade is ready. Keep Astrite spending separate from everyday material farming decisions.",
+            "完成預定路線後檢查背包，夠下一次升級就停；將星聲預算與日常刷素材的決定分開。",
+            "予定した周回後に所持数を確認し、次の育成分がそろえば止めます。星声の予算は日常の素材集めと分けます。"
+          ]
+        ],
+        "cautions": [
+          [
+            "A past double-reward event is not a permanent rate. Use the current claim screen and active event notice for actual costs and bonuses.",
+            "過去雙倍活動不是永久掉落率；實際成本與加成要看目前領獎畫面和正在開放的公告。",
+            "過去の報酬倍増イベントは常設ではありません。現在の受取画面と開催中の告知で費用・ボーナスを確認してください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Kuro Games · Version 1.3 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1454"
+          },
+          {
+            "label": "Google Play · Wuthering Waves starter tips",
+            "url": "https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_postinstall_wuthering_waves_starter_tips_now_fcp"
+          }
+        ],
+        "scope": [
+          "Resource planning; no promised drop quantities or active bonus.",
+          "資源規劃；不承諾掉落數量或正在生效的加成。",
+          "資源計画向け。ドロップ数や開催中ボーナスは保証しません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "wuwa-exploration-region-route",
+        "topic": "exploration",
+        "title": [
+          "Explore a region without losing your route",
+          "探索地區時不再迷失路線",
+          "地域探索で道順を見失わない"
+        ],
+        "summary": [
+          "Use travel points, map layers and unlock information.",
+          "善用傳送點、地圖分層與開放資訊。",
+          "移動地点・マップ階層・解放情報を使います。"
+        ],
+        "keywords": [
+          "exploration",
+          "Resonance Beacon",
+          "Region Guide",
+          "map",
+          "探索",
+          "共鳴信標",
+          "地區指南",
+          "地圖",
+          "探索",
+          "共鳴信標",
+          "マップ"
+        ],
+        "steps": [
+          [
+            "Follow the active main quest until it opens the destination you want. Activate nearby Resonance Beacons so you can return without repeating the whole journey.",
+            "先跟隨當前主線開放目標地區，順路啟用共鳴信標，之後就能快速返回。",
+            "目的地が開くまでメイン任務を進め、近くの共鳴信標を開いて再訪しやすくします。"
+          ],
+          [
+            "Open the map’s Region Guide when available. Inspect a feature’s unlock condition instead of guessing why an activity or facility cannot be entered.",
+            "可用時打開地圖的地區指南，查看玩法開放條件，不必猜測為何活動或設施進不去。",
+            "利用可能ならマップのRegion Guideで機能の解放条件を確認し、入れない理由を調べます。"
+          ],
+          [
+            "Check map layers and the tracked objective’s height or entrance. A marker at similar horizontal coordinates can still be in another area or floor.",
+            "檢查地圖分層、目標高度或入口；平面位置很接近，也可能在不同區域或樓層。",
+            "マップの階層と目標の高さ・入口を確認。平面上で近くても別の場所や階層にあることがあります。"
+          ],
+          [
+            "Finish one small route before changing regions: a quest objective, nearby gathering group and return point. Note an inaccessible spot and revisit after its requirement is met.",
+            "換區前先完成一段小路線：任務目標、附近採集點與返回點；目前進不去的地方先記下，達成條件後再來。",
+            "地域を移る前に任務・近くの採集・帰還地点を短いルートでまとめます。入れない場所は記録し、条件達成後に戻ります。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Not every location is available at the same story stage. Map tools help navigation but do not bypass quest requirements.",
+            "不同故事階段開放地點不同，地圖工具能協助找路，不能跳過任務條件。",
+            "場所の解放は物語の進行で異なります。マップ機能で任務条件を無視することはできません。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Kuro Games · Version 3.0 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3920"
+          },
+          {
+            "label": "Kuro Games · Version 1.3 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1454"
+          },
+          {
+            "label": "Kuro Games · Version 1.1 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/996"
+          }
+        ],
+        "scope": [
+          "General regional exploration; no claim of a complete collectible map.",
+          "一般區域探索；不宣稱包含完整收集物地圖。",
+          "基本の地域探索。全収集地点を網羅した地図ではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "wuwa-gacha-convene-check",
+        "topic": "gacha",
+        "title": [
+          "Check a Convene before using your currency",
+          "使用貨幣前先確認喚取",
+          "通貨を使う前に集音を確認する"
+        ],
+        "summary": [
+          "Read the current rules and try the offered character when possible.",
+          "閱讀目前規則，能試用時先試用角色。",
+          "現行ルールを読み、可能なら先にキャラクターを試します。"
+        ],
+        "keywords": [
+          "Convene",
+          "Astrite",
+          "banner",
+          "trial",
+          "喚取",
+          "星聲",
+          "卡池",
+          "試用",
+          "集音",
+          "星声",
+          "ガチャ",
+          "お試し"
+        ],
+        "steps": [
+          [
+            "Open the current Convene and its Details. Check the target, end time, ticket type and conversion cost on the confirmation screen.",
+            "開啟目前喚取及詳情，確認目標、結束時間、票券種類，以及確認畫面的兌換成本。",
+            "開催中の集音と詳細を開き、対象・終了時刻・チケット種類・確認画面の交換費用を読みます。"
+          ],
+          [
+            "Read that specific banner’s guarantee and carry-over rules. Character, weapon, beginner or special celebration banners may not follow identical rules.",
+            "讀取該卡池保底與繼承規則；角色、武器、新手或特殊慶典喚取不一定完全相同。",
+            "その集音の確定・引継ぎルールを確認。キャラクター・武器・初心者・記念集音を同じルールだと考えないようにします。"
+          ],
+          [
+            "If the current event offers a trial such as First Resonance, try the featured Resonator’s attacks and movement. Decide whether you enjoy the playstyle before deciding to pull.",
+            "若當期活動提供初聲先覺等試用，先體驗共鳴者攻擊與操作，確定喜歡打法再決定抽取。",
+            "開催中にFirst Resonanceなどのお試しがあれば、攻撃と操作感を確認。遊び方が好きか考えてから回すか決めます。"
+          ],
+          [
+            "Set a stopping budget and record what you spent. Save for your chosen priority; a historical announcement is a reference for past rules, not proof that its banner is still available.",
+            "設定停止預算並記錄支出，保留資源給真正優先目標；舊公告只代表過去規則，不代表該卡池仍開放。",
+            "止める予算と使用量を決め、本命のために残します。過去の告知があるだけでは、その集音が今も開催中とは言えません。"
+          ]
+        ],
+        "cautions": [
+          [
+            "No result is promised here and no real-money purchase is recommended. The current in-game Details are the authority for your selected Convene.",
+            "這裡不保證結果，也不建議付費；所選喚取的規則以遊戲內目前詳情為準。",
+            "結果や課金は勧めません。選んだ集音は現在のゲーム内詳細を基準にしてください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Kuro Games · Version 2.5 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2966"
+          },
+          {
+            "label": "Kuro Games · Version 3.5 Phase II event notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5220"
+          },
+          {
+            "label": "Kuro Games · anniversary Convene rules example (historical)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2533"
+          }
+        ],
+        "scope": [
+          "Convene literacy; linked event examples are historical, not an active schedule.",
+          "喚取閱讀；連結中的活動是歷史範例，不是即時時程。",
+          "集音の読み方。リンク先のイベント例は過去の告知で、現在の日程ではありません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      },
+      {
+        "id": "wuwa-progression-core-upgrades",
+        "topic": "progression",
+        "title": [
+          "Turn exploration into steady account progress",
+          "把探索變成穩定的帳號進度",
+          "探索を着実な育成につなげる"
+        ],
+        "summary": [
+          "Keep the story moving while preparing a usable core team.",
+          "推進故事，同時培養一支真正能用的核心隊伍。",
+          "物語を進めながら使える主力を育てます。"
+        ],
+        "keywords": [
+          "progression",
+          "Union Level",
+          "Data Bank",
+          "Guidebook",
+          "養成",
+          "聯覺等級",
+          "資料塢",
+          "指南",
+          "育成",
+          "ユニオンレベル",
+          "データドック",
+          "ガイド"
+        ],
+        "steps": [
+          [
+            "Read the next main quest’s prerequisites and use the Guidebook to choose an available task. A new region’s introduction does not mean every account can enter it immediately.",
+            "閱讀下一段主線前置條件，再從指南選可進行的任務；新地區推出不代表所有帳號都能立即進入。",
+            "次のメイン任務の前提条件を読み、ガイドで今できる課題を選びます。新地域の追加だけで全員がすぐ入れるとは限りません。"
+          ],
+          [
+            "Prioritize a small core of Resonators and their weapons. Check the exact missing upgrade in-game instead of spreading materials across every new character at once.",
+            "優先養少數核心共鳴者及武器，在遊戲內確認缺少的升級材料，不要一次平均投入所有新角色。",
+            "少数の主力共鳴者と武器を優先し、不足素材をゲーム内で確認。新しい全員に素材を分散しすぎないようにします。"
+          ],
+          [
+            "Review the Data Bank and Echo screens as you collect. Distinguish collection progress from the upgrade level and equipment effects of an individual Echo.",
+            "收集時查看資料塢與聲骸畫面，分清收集進度、單一聲骸養成等級與裝備效果。",
+            "収集時はデータドックと音骸画面を確認。収集の進み具合、個別音骸の強化、装備効果を区別します。"
+          ],
+          [
+            "When combat becomes harder, return to Skill Training and inspect a current character guide. Choose whether the next improvement should be practice, weapon growth, skills or Echo setup.",
+            "戰鬥變難時回到技能教學並查角色指南，判斷下一步應該是練習、武器養成、技能還是聲骸配置。",
+            "戦闘が難しくなったらスキルトレーニングと対象のガイドを確認。練習・武器・スキル・音骸のどこを改善するか決めます。"
+          ]
+        ],
+        "cautions": [
+          [
+            "Guide recommendations and account unlocks can change. Read the current panel before following an older progression checklist or assuming a maximum level.",
+            "攻略建議與帳號解鎖條件可能調整，採用舊清單或預設最高等級前，先讀目前畫面。",
+            "推奨や解放条件は変わることがあります。古い手順や上限値を前提にせず、現在の画面を確認してください。"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Kuro Games · Version 1.1 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/996"
+          },
+          {
+            "label": "Kuro Games · Version 2.4 Guide Depot introduction",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2801"
+          },
+          {
+            "label": "Kuro Games · Version 2.5 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2966"
+          },
+          {
+            "label": "Kuro Games · Version 3.0 update notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3920"
+          }
+        ],
+        "scope": [
+          "Newcomer progression principles; no claimed current level cap or optimal endgame build.",
+          "新手養成原則；不宣稱目前等級上限或終局最佳配裝。",
+          "初心者の育成方針。現在の上限や最適な高難度構成は断定しません。"
+        ],
+        "reviewedAt": "2026-10-27"
+      }
+    ]
+  }
+]

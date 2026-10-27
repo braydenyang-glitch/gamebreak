@@ -1,0 +1,281 @@
+{
+  "entries": [
+    {
+      "id": "delta-weapon-m4a1",
+      "name": "M4A1",
+      "kind": "Weapon",
+      "group": "Assault Rifle",
+      "image": "",
+      "summary": "Assault Rifle · 5.56×45 mm · Operations reference.",
+      "facts": [
+        [
+          "Weapon family",
+          "Assault Rifle"
+        ],
+        [
+          "Ammunition family",
+          "5.56×45 mm"
+        ],
+        [
+          "Mode scope",
+          "Operations"
+        ],
+        [
+          "Performance / current patch",
+          "Not verified"
+        ]
+      ],
+      "body": [
+        "Official April 20 patch notes list M4A1 in Operations gear-ticket changes; community profile also lists an Operations build.",
+        "Caliber alone does not establish penetration, damage, compatibility of attachments, or current availability. Check the current regional game client."
+      ],
+      "source": "https://deltaforcedb.com/weapon/m4a1",
+      "sourceName": "Delta Force Database",
+      "sourceType": "Community reference",
+      "sourceChecked": "2026-10-25",
+      "sources": [
+        {
+          "url": "https://deltaforcedb.com/weapon/m4a1",
+          "name": "Delta Force Database"
+        },
+        {
+          "url": "https://deltaforce.garena.com/en/news/announcement/YVRATP",
+          "name": "Garena Delta Force"
+        }
+      ],
+      "playtested": null,
+      "active": true
+    },
+    {
+      "id": "delta-weapon-akm",
+      "name": "AKM",
+      "kind": "Weapon",
+      "group": "Assault Rifle",
+      "image": "",
+      "summary": "Assault Rifle · 7.62×39 mm · Operations reference.",
+      "facts": [
+        [
+          "Weapon family",
+          "Assault Rifle"
+        ],
+        [
+          "Ammunition family",
+          "7.62×39 mm"
+        ],
+        [
+          "Mode scope",
+          "Operations"
+        ],
+        [
+          "Performance / current patch",
+          "Not verified"
+        ]
+      ],
+      "body": [
+        "Community profile explicitly lists an AKM Operations build. Operations availability was not independently verified in the live game client.",
+        "Caliber alone does not establish penetration, damage, compatibility of attachments, or current availability. Check the current regional game client."
+      ],
+      "source": "https://deltaforcedb.com/weapon/akm",
+      "sourceName": "Delta Force Database",
+      "sourceType": "Community reference",
+      "sourceChecked": "2026-10-25",
+      "sources": [
+        {
+          "url": "https://deltaforcedb.com/weapon/akm",
+          "name": "Delta Force Database"
+        }
+      ],
+      "playtested": null,
+      "active": true
+    },
+    {
+      "id": "delta-weapon-mp5",
+      "name": "MP5",
+      "kind": "Weapon",
+      "group": "Submachine Gun",
+      "image": "",
+      "summary": "Submachine Gun · 9×19 mm · Operations reference.",
+      "facts": [
+        [
+          "Weapon family",
+          "Submachine Gun"
+        ],
+        [
+          "Ammunition family",
+          "9×19 mm"
+        ],
+        [
+          "Mode scope",
+          "Operations"
+        ],
+        [
+          "Performance / current patch",
+          "Not verified"
+        ]
+      ],
+      "body": [
+        "Official April 20 patch notes list MP5 in Operations Elite Gear Ticket changes. Community profile examples are Warfare builds and are not used as Operations codes.",
+        "Caliber alone does not establish penetration, damage, compatibility of attachments, or current availability. Check the current regional game client."
+      ],
+      "source": "https://deltaforcedb.com/weapon/mp5",
+      "sourceName": "Delta Force Database",
+      "sourceType": "Community reference",
+      "sourceChecked": "2026-10-25",
+      "sources": [
+        {
+          "url": "https://deltaforcedb.com/weapon/mp5",
+          "name": "Delta Force Database"
+        },
+        {
+          "url": "https://deltaforce.garena.com/en/news/announcement/YVRATP",
+          "name": "Garena Delta Force"
+        }
+      ],
+      "playtested": null,
+      "active": true
+    },
+    {
+      "id": "delta-weapon-p90",
+      "name": "P90",
+      "kind": "Weapon",
+      "group": "Submachine Gun",
+      "image": "",
+      "summary": "Submachine Gun · 5.7×28 mm · Operations reference.",
+      "facts": [
+        [
+          "Weapon family",
+          "Submachine Gun"
+        ],
+        [
+          "Ammunition family",
+          "5.7×28 mm"
+        ],
+        [
+          "Mode scope",
+          "Operations"
+        ],
+        [
+          "Performance / current patch",
+          "Not verified"
+        ]
+      ],
+      "body": [
+        "Official April 20 patch notes add P90 to an Operations Elite Gear Ticket. The community page labels a build Operations but its displayed code says Warfare; that build/code is excluded.",
+        "Caliber alone does not establish penetration, damage, compatibility of attachments, or current availability. Check the current regional game client."
+      ],
+      "source": "https://deltaforcedb.com/weapon/p90",
+      "sourceName": "Delta Force Database",
+      "sourceType": "Community reference",
+      "sourceChecked": "2026-10-25",
+      "sources": [
+        {
+          "url": "https://deltaforcedb.com/weapon/p90",
+          "name": "Delta Force Database"
+        },
+        {
+          "url": "https://deltaforce.garena.com/en/news/announcement/YVRATP",
+          "name": "Garena Delta Force"
+        }
+      ],
+      "playtested": null,
+      "active": true
+    },
+    {
+      "id": "delta-weapon-m249",
+      "name": "M249",
+      "kind": "Weapon",
+      "group": "Light Machine Gun",
+      "image": "",
+      "summary": "Light Machine Gun · 5.56×45 mm · Operations reference.",
+      "facts": [
+        [
+          "Weapon family",
+          "Light Machine Gun"
+        ],
+        [
+          "Ammunition family",
+          "5.56×45 mm"
+        ],
+        [
+          "Mode scope",
+          "Operations"
+        ],
+        [
+          "Performance / current patch",
+          "Not verified"
+        ]
+      ],
+      "body": [
+        "Official April 20 patch notes add M249 to an Operations Elite Gear Ticket; community profile also lists an Operations build.",
+        "Caliber alone does not establish penetration, damage, compatibility of attachments, or current availability. Check the current regional game client."
+      ],
+      "source": "https://deltaforcedb.com/weapon/m249",
+      "sourceName": "Delta Force Database",
+      "sourceType": "Community reference",
+      "sourceChecked": "2026-10-25",
+      "sources": [
+        {
+          "url": "https://deltaforcedb.com/weapon/m249",
+          "name": "Delta Force Database"
+        },
+        {
+          "url": "https://deltaforce.garena.com/en/news/announcement/YVRATP",
+          "name": "Garena Delta Force"
+        }
+      ],
+      "playtested": null,
+      "active": true
+    },
+    {
+      "id": "delta-weapon-as-val",
+      "name": "AS Val",
+      "kind": "Weapon",
+      "group": "Assault Rifle",
+      "image": "",
+      "summary": "Assault Rifle · 9×39 mm · Operations reference.",
+      "facts": [
+        [
+          "Weapon family",
+          "Assault Rifle"
+        ],
+        [
+          "Ammunition family",
+          "9×39 mm"
+        ],
+        [
+          "Mode scope",
+          "Operations"
+        ],
+        [
+          "Performance / current patch",
+          "Not verified"
+        ]
+      ],
+      "body": [
+        "Official April 20 patch notes have a named AS Val adjustment under Operations; community profile also lists an Operations build. Its performance values appear to predate those official changes and are deliberately excluded.",
+        "Caliber alone does not establish penetration, damage, compatibility of attachments, or current availability. Check the current regional game client."
+      ],
+      "source": "https://deltaforcedb.com/weapon/as-val",
+      "sourceName": "Delta Force Database",
+      "sourceType": "Community reference",
+      "sourceChecked": "2026-10-25",
+      "sources": [
+        {
+          "url": "https://deltaforcedb.com/weapon/as-val",
+          "name": "Delta Force Database"
+        },
+        {
+          "url": "https://deltaforce.garena.com/en/news/announcement/YVRATP",
+          "name": "Garena Delta Force"
+        }
+      ],
+      "playtested": null,
+      "active": true
+    }
+  ],
+  "retrievedAt": "2026-10-25T08:00:00.000Z",
+  "version": "Source review 2026-10-25",
+  "meta": {
+    "scope": "Six source-linked weapon identities, classes and ammunition families for a reference comparison UI. Current performance, prices, patch validity, meta rankings and working build codes are not established."
+  }
+}

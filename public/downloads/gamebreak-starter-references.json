@@ -1,0 +1,2290 @@
+{
+  "notice": "Reviewed starter references for six games, not live APIs. Read each entry source and scope.",
+  "collections": [
+    {
+      "id": "hsr-combat-starter",
+      "game": "starrail",
+      "label": "Combat & equipment starter reference",
+      "note": "12 selected concepts, including five Paths. This is not every Path, character or build. HoYoWiki is publisher-hosted community content. Source review does not establish current optimal builds.",
+      "source": "https://wiki.hoyolab.com/pc/hsr/home?lang=en-us",
+      "entries": [
+        {
+          "id": "hsr-path-destruction",
+          "name": "Destruction",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Flexible damage with durability.",
+          "facts": [
+            [
+              "Typical role",
+              "Damage / survival"
+            ],
+            [
+              "Aeon",
+              "Nanook"
+            ],
+            [
+              "Example",
+              "Clara"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/79?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/79?lang=en-us",
+          "sourceName": "HoYoWiki · Destruction",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-path-hunt",
+          "name": "The Hunt",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Focused damage against one target.",
+          "facts": [
+            [
+              "Typical role",
+              "Single-target damage"
+            ],
+            [
+              "Aeon",
+              "Lan"
+            ],
+            [
+              "Example",
+              "Dan Heng"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/81?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/81?lang=en-us",
+          "sourceName": "HoYoWiki · The Hunt",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-path-erudition",
+          "name": "Erudition",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Damage that suits groups.",
+          "facts": [
+            [
+              "Typical role",
+              "Multi-target damage"
+            ],
+            [
+              "Aeon",
+              "Nous"
+            ],
+            [
+              "Example",
+              "Himeko"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/80?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/80?lang=en-us",
+          "sourceName": "HoYoWiki · Erudition",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-path-harmony",
+          "name": "Harmony",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Support through ally buffs.",
+          "facts": [
+            [
+              "Typical role",
+              "Ally buffs"
+            ],
+            [
+              "Aeon",
+              "Xipe"
+            ],
+            [
+              "Example",
+              "Asta"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/83?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/83?lang=en-us",
+          "sourceName": "HoYoWiki · Harmony",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-path-abundance",
+          "name": "Abundance",
+          "kind": "Path",
+          "category": "Selected Paths",
+          "group": "Selected Paths",
+          "summary": "Support through healing.",
+          "facts": [
+            [
+              "Typical role",
+              "HP recovery"
+            ],
+            [
+              "Aeon",
+              "Yaoshi"
+            ],
+            [
+              "Example",
+              "Natasha"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/84?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/84?lang=en-us",
+          "sourceName": "HoYoWiki · Abundance",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-skill-points",
+          "name": "Skill Points",
+          "kind": "Resource",
+          "category": "Battle",
+          "group": "Battle",
+          "summary": "A shared team budget.",
+          "facts": [
+            [
+              "Owner",
+              "Team"
+            ],
+            [
+              "Typical spending",
+              "Skills"
+            ],
+            [
+              "Typical recovery",
+              "Basic attacks"
+            ]
+          ],
+          "body": [
+            "Individual ability descriptions can change the usual cost or recovery."
+          ],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "sourceName": "HoYoWiki · Base Mechanism",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-energy",
+          "name": "Energy",
+          "kind": "Resource",
+          "category": "Battle",
+          "group": "Battle",
+          "summary": "Charge for an Ultimate.",
+          "facts": [
+            [
+              "Sources",
+              "Abilities, defeats, incoming attacks"
+            ],
+            [
+              "Threshold",
+              "Character-specific"
+            ],
+            [
+              "Use",
+              "Ultimate when ready"
+            ]
+          ],
+          "body": [
+            "Some characters use special Ultimate resources; inspect their kit."
+          ],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "sourceName": "HoYoWiki · Base Mechanism",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-toughness",
+          "name": "Toughness",
+          "kind": "Enemy gauge",
+          "category": "Battle",
+          "group": "Battle",
+          "summary": "Attack the listed weakness.",
+          "facts": [
+            [
+              "Target",
+              "Enemy"
+            ],
+            [
+              "Depletion",
+              "Matching attack type"
+            ],
+            [
+              "At zero",
+              "Weakness Break and action delay"
+            ]
+          ],
+          "body": [],
+          "source": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "primarySourceURL": "https://wiki.hoyolab.com/pc/hsr/entry/1618?lang=en-us",
+          "sourceName": "HoYoWiki · Base Mechanism",
+          "sourceType": "Community",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-path-filter",
+          "name": "Light Cone Path filter",
+          "kind": "Tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Narrow the equipment list.",
+          "facts": [
+            [
+              "Menu",
+              "Inventory"
+            ],
+            [
+              "Category",
+              "Light Cones"
+            ],
+            [
+              "Filter",
+              "Path"
+            ]
+          ],
+          "body": [],
+          "source": "https://hsr.hoyoverse.com/en-us/news/123034",
+          "primarySourceURL": "https://hsr.hoyoverse.com/en-us/news/123034",
+          "sourceName": "Honkai: Star Rail · Version 2.1",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-material-synthesis",
+          "name": "Material Synthesis",
+          "kind": "Tool",
+          "category": "Progression",
+          "group": "Progression",
+          "summary": "Convert compatible materials.",
+          "facts": [
+            [
+              "Menu",
+              "Synthesize"
+            ],
+            [
+              "Series",
+              "Match material family"
+            ],
+            [
+              "Rarity choice",
+              "Blue or purple where supported"
+            ]
+          ],
+          "body": [],
+          "source": "https://hsr.hoyoverse.com/en-us/news/123034",
+          "primarySourceURL": "https://hsr.hoyoverse.com/en-us/news/123034",
+          "sourceName": "Honkai: Star Rail · Version 2.1",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-smart-equip",
+          "name": "Smart Equip",
+          "kind": "Tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Review automatic equipment suggestions.",
+          "facts": [
+            [
+              "Menu",
+              "Character > Relics"
+            ],
+            [
+              "Control",
+              "Replace individual slots"
+            ],
+            [
+              "After equipping",
+              "Panel remains open"
+            ]
+          ],
+          "body": [],
+          "source": "https://hsr.hoyoverse.com/en-us/news/158598",
+          "primarySourceURL": "https://hsr.hoyoverse.com/en-us/news/158598",
+          "sourceName": "Honkai: Star Rail · Version 3.5",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "hsr-ref-salvage",
+          "name": "Salvage Retrieval",
+          "kind": "Support tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Check recovery eligibility.",
+          "facts": [
+            [
+              "Access",
+              "Smartphone > Bug Report"
+            ],
+            [
+              "Relics",
+              "5-star salvage"
+            ],
+            [
+              "Light Cones",
+              "4-star salvage"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.hoyoverse.com/hc/en-us/articles/52306180180633-How-can-I-recover-an-accidentally-salvaged-5-star-Relic-or-4-star-Light-Cone",
+          "primarySourceURL": "https://support.hoyoverse.com/hc/en-us/articles/52306180180633-How-can-I-recover-an-accidentally-salvaged-5-star-Relic-or-4-star-Light-Cone",
+          "sourceName": "HoYoverse Help · Salvage retrieval",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "gta-story-starter",
+      "game": "gta",
+      "label": "Story skills & vehicle starter reference",
+      "note": "12 selected records. Vehicle availability is documented in 1.27 for PS4, Xbox One and PC; inspect your edition’s store before buying. This excludes GTA Online businesses and is not a full vehicle database.",
+      "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+      "entries": [
+        {
+          "id": "gta-stat-stamina",
+          "name": "Stamina",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Endurance skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Run, swim, cycle"
+            ],
+            [
+              "Benefit",
+              "Longer exertion"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-shooting",
+          "name": "Shooting",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Weapon skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Shooting challenges"
+            ],
+            [
+              "Benefit",
+              "Accuracy / reload"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-flying",
+          "name": "Flying",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Aircraft skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Fly / Pilot School"
+            ],
+            [
+              "Benefit",
+              "Reduced turbulence"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-driving",
+          "name": "Driving",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Vehicle skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Driving practice"
+            ],
+            [
+              "Benefit",
+              "Airborne handling"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-stealth",
+          "name": "Stealth",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Quiet movement skill.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Stealth movement"
+            ],
+            [
+              "Benefit",
+              "Quieter movement"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-stat-lungs",
+          "name": "Lung Capacity",
+          "kind": "Skill",
+          "category": "Story skills",
+          "group": "Story skills",
+          "summary": "Underwater endurance.",
+          "facts": [
+            [
+              "Scope",
+              "Per protagonist"
+            ],
+            [
+              "Train",
+              "Time underwater"
+            ],
+            [
+              "Benefit",
+              "Longer submersion"
+            ]
+          ],
+          "body": [],
+          "source": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "primarySourceURL": "https://dlassets-ssl.xboxlive.com/public/content/4f0a3089-ba2c-4f3d-9e38-102a41cbd885/GameManual/bffef18e-3f19-4190-a9b1-75402359b13b/en-IL/index.html",
+          "sourceName": "Rockstar · GTAV manual",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-osiris",
+          "name": "Pegassi Osiris",
+          "kind": "Car",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Legendary Motorsport"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-virgo",
+          "name": "Albany Virgo",
+          "kind": "Car",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Legendary Motorsport"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-stirling",
+          "name": "Benefactor Stirling GT",
+          "kind": "Car",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Legendary Motorsport"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-windsor",
+          "name": "Enus Windsor",
+          "kind": "Car",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Legendary Motorsport"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-luxor",
+          "name": "Buckingham Luxor Deluxe",
+          "kind": "Aircraft",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Elitás Travel"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "gta-vehicle-swift",
+          "name": "Buckingham Swift Deluxe",
+          "kind": "Aircraft",
+          "category": "Documented Story vehicles",
+          "group": "Documented Story vehicles",
+          "summary": "Story purchase reference.",
+          "facts": [
+            [
+              "Seller",
+              "Elitás Travel"
+            ],
+            [
+              "Documented platforms",
+              "PS4 / Xbox One / PC"
+            ],
+            [
+              "Added",
+              "Title Update 1.27"
+            ]
+          ],
+          "body": [],
+          "source": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "primarySourceURL": "https://support.rockstargames.com/articles/2pAEQzoAjMvFybi8P96coc/gtav-title-update-1-27-notes-ps4-xbox-one-ps3-xbox-360-pc",
+          "sourceName": "Rockstar Support · Title Update 1.27",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "delta-operations-starter",
+      "game": "delta",
+      "label": "Operations systems starter reference",
+      "note": "12 selected systems, mainly based on Garena documentation. Regional services, unlocks and balance can differ. This is not the full item catalog; current client values take priority over historical patch examples.",
+      "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+      "entries": [
+        {
+          "id": "delta-ref-stash",
+          "name": "Stash",
+          "kind": "Storage",
+          "category": "Progression",
+          "group": "Progression",
+          "summary": "Equipment storage.",
+          "facts": [
+            [
+              "Contents",
+              "Gear / items"
+            ],
+            [
+              "Loadout",
+              "Separate area"
+            ],
+            [
+              "Mode",
+              "Operations"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-safebox",
+          "name": "Safe box",
+          "kind": "Storage",
+          "category": "Loadout",
+          "group": "Loadout",
+          "summary": "Protected inventory.",
+          "facts": [
+            [
+              "Location",
+              "Loadout"
+            ],
+            [
+              "Death",
+              "Contents retained"
+            ],
+            [
+              "Capacity",
+              "Check client"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-alloy",
+          "name": "Tekniq Alloy",
+          "kind": "Currency",
+          "category": "Economy",
+          "group": "Economy",
+          "summary": "Operations currency.",
+          "facts": [
+            [
+              "Source",
+              "Selling loot"
+            ],
+            [
+              "Use",
+              "Purchases"
+            ],
+            [
+              "Scope",
+              "Operations"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-departments",
+          "name": "Departments",
+          "kind": "Progression",
+          "category": "Progression",
+          "group": "Progression",
+          "summary": "Mission progression.",
+          "facts": [
+            [
+              "Activity",
+              "Missions"
+            ],
+            [
+              "Reward",
+              "Department levels"
+            ],
+            [
+              "Unlocks",
+              "Supply items"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-supply",
+          "name": "Supply Station",
+          "kind": "Shop",
+          "category": "Economy",
+          "group": "Economy",
+          "summary": "Equipment supply.",
+          "facts": [
+            [
+              "Methods",
+              "Purchase / exchange"
+            ],
+            [
+              "Stock",
+              "Battle items"
+            ],
+            [
+              "Locks",
+              "Department progression"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/system/RMDWVM",
+          "sourceName": "Garena · Operations 101",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-workshop",
+          "name": "Black Site Workshop",
+          "kind": "Production",
+          "category": "Progression",
+          "group": "Progression",
+          "summary": "Inspect production in the official HQ tool.",
+          "facts": [
+            [
+              "HQ sections",
+              "Production details / recommendations"
+            ],
+            [
+              "Facilities shown",
+              "Workbench / Pharmacy / Armor Bench"
+            ],
+            [
+              "Action",
+              "Produce inside the game"
+            ]
+          ],
+          "body": [],
+          "source": "https://www.playdeltaforce.com/events/hq/en/m/index.html",
+          "primarySourceURL": "https://www.playdeltaforce.com/events/hq/en/m/index.html",
+          "sourceName": "Delta Force · HQ Tool Station",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-gunsmith",
+          "name": "Gunsmith preview",
+          "kind": "Tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Compare trial builds.",
+          "facts": [
+            [
+              "Calibrate",
+              "Available in Preview Mode"
+            ],
+            [
+              "Range return",
+              "Trial configuration preserved"
+            ],
+            [
+              "Decision",
+              "Apply manually"
+            ]
+          ],
+          "body": [],
+          "source": "https://www.playdeltaforce.com/en/detail.html?content_id=5156e818a5073a493fa80d5a7df7fee7010d&father_content_id=5156e818a5073a493fa80d5a7df7fee7010d",
+          "primarySourceURL": "https://www.playdeltaforce.com/en/detail.html?content_id=5156e818a5073a493fa80d5a7df7fee7010d&father_content_id=5156e818a5073a493fa80d5a7df7fee7010d",
+          "sourceName": "Delta Force · Gunsmith update",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-repair",
+          "name": "Gear Repair",
+          "kind": "Tool",
+          "category": "Equipment",
+          "group": "Equipment",
+          "summary": "Inspect the chosen repair.",
+          "facts": [
+            [
+              "Default",
+              "Unlocked higher-tier option"
+            ],
+            [
+              "Locked types",
+              "Unlock guidance shown"
+            ],
+            [
+              "Scope",
+              "Operations"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "sourceName": "Garena · Season Break notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-diving",
+          "name": "Diving Center",
+          "kind": "Facility",
+          "category": "Black Site",
+          "group": "Black Site",
+          "summary": "Swimming upgrades.",
+          "facts": [
+            [
+              "Location",
+              "Black Site"
+            ],
+            [
+              "Benefit",
+              "Swimming abilities"
+            ],
+            [
+              "Scope",
+              "Operations"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "sourceName": "Garena · Season Break notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-collection",
+          "name": "Collection Room",
+          "kind": "Facility",
+          "category": "Black Site",
+          "group": "Black Site",
+          "summary": "Display collected loot.",
+          "facts": [
+            [
+              "Content",
+              "Gallery entries"
+            ],
+            [
+              "Upgrade",
+              "Display features"
+            ],
+            [
+              "Assets",
+              "Counts as fixed assets"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/announcement/V6J38U",
+          "sourceName": "Garena · Season Break notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-decontamination",
+          "name": "Decontamination Chamber",
+          "kind": "Facility",
+          "category": "Black Site",
+          "group": "Black Site",
+          "summary": "Radiation support.",
+          "facts": [
+            [
+              "Effect",
+              "Greater radiation tolerance"
+            ],
+            [
+              "Recovery",
+              "Natural radiation dissipation"
+            ],
+            [
+              "Introduced",
+              "Meltdown notes"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/all/2MX7J4",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/all/2MX7J4",
+          "sourceName": "Garena · Meltdown notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        },
+        {
+          "id": "delta-ref-az3",
+          "name": "AZ3 Nuclear Power Plant",
+          "kind": "Map",
+          "category": "Operations maps",
+          "group": "Operations maps",
+          "summary": "A radiation-related Operations destination.",
+          "facts": [
+            [
+              "Mode",
+              "Operations"
+            ],
+            [
+              "Map entry",
+              "Check Strategy Board"
+            ],
+            [
+              "Support facility",
+              "Decontamination Chamber"
+            ]
+          ],
+          "body": [],
+          "source": "https://deltaforce.garena.com/en/news/all/2MX7J4",
+          "primarySourceURL": "https://deltaforce.garena.com/en/news/all/2MX7J4",
+          "sourceName": "Garena · Meltdown notes",
+          "sourceType": "Official",
+          "sourceChecked": "2026-10-15",
+          "sourceReadDate": "2026-10-15",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "roblox-hotel-reference",
+      "game": "roblox",
+      "label": "DOORS Hotel starter reference",
+      "note": "12 selected threats and supplies for ordinary Hotel runs on PC and mobile. Not a complete DOORS encyclopedia. Modifiers and other floors can change these rules. Community article text was checked through the search index; direct Fandom access was blocked.",
+      "source": "https://doors-game.fandom.com/wiki/The_Hotel",
+      "sourceChecked": "2026-10-15",
+      "entries": [
+        {
+          "id": "doors-ref-ambush",
+          "name": "Ambush",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "A rushing threat that can return after passing.",
+          "facts": [
+            [
+              "Cue",
+              "Approaching rush sound"
+            ],
+            [
+              "Response",
+              "Hide for each approach"
+            ],
+            [
+              "Risk",
+              "Returning passes"
+            ]
+          ],
+          "body": [
+            "Stay close to a hiding place between passes."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Ambush",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-eyes",
+          "name": "Eyes",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "A glowing cluster that hurts players who look at it.",
+          "facts": [
+            [
+              "Cue",
+              "Blue-purple glow"
+            ],
+            [
+              "Response",
+              "Look away"
+            ],
+            [
+              "Hazard",
+              "Camera direction"
+            ]
+          ],
+          "body": [
+            "Different entities require different responses."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Eyes",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-dupe",
+          "name": "Dupe",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "False numbered doors punish careless entry.",
+          "facts": [
+            [
+              "Clue",
+              "Incorrect door number"
+            ],
+            [
+              "Sound",
+              "Quiet rumble"
+            ],
+            [
+              "Risk",
+              "Scrambled labels"
+            ]
+          ],
+          "body": [
+            "Track the sequence as you enter each room."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Dupe",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-figure",
+          "name": "Figure",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "A major Hotel threat encountered in the Library and Electrical Room.",
+          "facts": [
+            [
+              "Places",
+              "Library / Electrical Room"
+            ],
+            [
+              "Movement",
+              "Crouching helps reduce noise"
+            ],
+            [
+              "Distance",
+              "Close contact remains dangerous"
+            ],
+            [
+              "Crucifix",
+              "Temporary stun, not a full banish"
+            ]
+          ],
+          "body": [
+            "Watch its route and keep space. Crouching is not permission to walk into Figure or remain directly in its path."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Figure",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-halt",
+          "name": "Halt",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "An encounter that asks you to change direction as it blocks the route.",
+          "facts": [
+            [
+              "Cue",
+              "Turn-around warning"
+            ],
+            [
+              "Response",
+              "Reverse direction when warned"
+            ],
+            [
+              "Goal",
+              "Reach the exit"
+            ],
+            [
+              "Scope",
+              "Regular Hotel encounter"
+            ]
+          ],
+          "body": [
+            "Follow the encounter cues instead of relying on a fixed room number or an old guaranteed-spawn claim."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Halt",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-timothy",
+          "name": "Timothy",
+          "kind": "Entity",
+          "group": "Hotel threats",
+          "summary": "A small spider jumps from a looted container and briefly startles the player.",
+          "facts": [
+            [
+              "Trigger",
+              "Opening a container"
+            ],
+            [
+              "Effect",
+              "Small damage in ordinary play"
+            ],
+            [
+              "Afterwards",
+              "Disappears"
+            ],
+            [
+              "Modifiers",
+              "Can change its danger"
+            ]
+          ],
+          "body": [
+            "Timothy is a looting hazard, not a hallway chase. Recover your view and continue checking the room for other threats."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Timothy",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-key",
+          "name": "Room Key",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A key belongs to a specific locked door.",
+          "facts": [
+            [
+              "Purpose",
+              "Unlock the matching door"
+            ],
+            [
+              "Search",
+              "Current room and side rooms"
+            ],
+            [
+              "Locations",
+              "Furniture, containers or floor"
+            ],
+            [
+              "After unlocking",
+              "Key disappears"
+            ]
+          ],
+          "body": [
+            "Search accessible areas before spending another tool. A scrambled label during Dupe is not a reliable shortcut to the correct exit."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Key",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-lockpick",
+          "name": "Lockpick",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A consumable tool can bypass many ordinary locks.",
+          "facts": [
+            [
+              "Opens",
+              "Most key-locked doors"
+            ],
+            [
+              "Also opens",
+              "Locked containers"
+            ],
+            [
+              "Cannot open",
+              "Library padlock or skeleton doors"
+            ],
+            [
+              "Uses",
+              "Consumed when used"
+            ]
+          ],
+          "body": [
+            "It is useful when finding a normal room key would take time. Check the type of lock before expecting it to work."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Lockpick",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-flashlight",
+          "name": "Flashlight",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A directional light that needs battery charge.",
+          "facts": [
+            [
+              "Resource",
+              "Battery charge"
+            ],
+            [
+              "Conserve",
+              "Switch off when unnecessary"
+            ],
+            [
+              "Empty state",
+              "Stays in inventory"
+            ],
+            [
+              "Recharge",
+              "Collect batteries"
+            ]
+          ],
+          "body": [
+            "Save charge for dark sections. An empty flashlight needs batteries rather than repeated attempts to switch it on."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Flashlight",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-lighter",
+          "name": "Lighter",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A small fuel-based light for nearby surroundings.",
+          "facts": [
+            [
+              "Resource",
+              "Limited fuel"
+            ],
+            [
+              "Light",
+              "Illuminates nearby space"
+            ],
+            [
+              "Low fuel",
+              "Can take longer to ignite"
+            ],
+            [
+              "Other use",
+              "Lights Candles"
+            ]
+          ],
+          "body": [
+            "Turn it off when light is unnecessary. Lighting it can make sound, so consider nearby threats before using it."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Lighter",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-vitamins",
+          "name": "Vitamins",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A consumable gives a temporary movement-speed boost.",
+          "facts": [
+            [
+              "Effect",
+              "Temporary speed"
+            ],
+            [
+              "Use",
+              "Consumes a charge"
+            ],
+            [
+              "Repeated use",
+              "Cannot immediately stack boosts"
+            ],
+            [
+              "Not healing",
+              "No ordinary health restoration"
+            ]
+          ],
+          "body": [
+            "Use the speed for a planned route. It does not replace learning a chase path or watching obstacles."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Vitamins",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "doors-ref-crucifix",
+          "name": "Crucifix",
+          "kind": "Item",
+          "group": "Hotel supplies",
+          "summary": "A held defensive item can restrain eligible entities.",
+          "facts": [
+            [
+              "Typical use",
+              "One defensive activation"
+            ],
+            [
+              "Limit",
+              "Does not affect every entity"
+            ],
+            [
+              "Bosses",
+              "Seek and Figure only briefly stunned"
+            ],
+            [
+              "Warning",
+              "Red chains signal escape"
+            ]
+          ],
+          "body": [
+            "Keep moving during a boss stun. A temporary restraint is not a completed chase or permission to stand beside the boss."
+          ],
+          "source": "https://doors-game.fandom.com/wiki/Crucifix",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        }
+      ]
+    },
+    {
+      "id": "pubg-pc-reference",
+      "game": "pubg",
+      "label": "PUBG PC starter reference",
+      "note": "12 selected weapon families and maps from the publisher directory. This is not a full weapon-stat database or a current map-rotation list. Individual ammo, attachments, balance and availability should be checked in-game.",
+      "source": "https://www.pubg.com/en-asia/game-info/overview",
+      "sourceChecked": "2026-10-15",
+      "entries": [
+        {
+          "id": "pubg-ref-ar",
+          "name": "Assault rifles (AR)",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A flexible weapon family suited to many middle-distance fights.",
+          "facts": [
+            [
+              "Role",
+              "General-purpose firearm"
+            ],
+            [
+              "Typical distance",
+              "Mid-range"
+            ],
+            [
+              "Examples",
+              "M416 / AKM / AUG"
+            ]
+          ],
+          "body": [
+            "Use the official family list to identify a weapon, then inspect the actual gun and compatible ammunition in the current game. Family membership alone does not make every rifle handle the same."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/ar",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-dmr",
+          "name": "Designated marksman rifles (DMR)",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A family intended for controlled attacks at middle and longer distances.",
+          "facts": [
+            [
+              "Role",
+              "Marksman firearm"
+            ],
+            [
+              "Typical distance",
+              "Mid-range and farther"
+            ],
+            [
+              "Examples",
+              "Mini14 / SKS / SLR"
+            ]
+          ],
+          "body": [
+            "This category helps separate a range-focused weapon from a close-range option when planning a loadout. Compare the actual item rather than assuming all DMRs share ammunition."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/dmr",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-smg",
+          "name": "Submachine guns (SMG)",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A family associated with mobility and quick fire in close fights.",
+          "facts": [
+            [
+              "Role",
+              "Close-range firearm"
+            ],
+            [
+              "Design emphasis",
+              "Mobility and rapid fire"
+            ],
+            [
+              "Examples",
+              "Micro UZI / Vector / MP5K"
+            ]
+          ],
+          "body": [
+            "Recognize the category when deciding what role a pickup fills. Close-range usefulness does not make it the right choice for every distant target."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/smg",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-sr",
+          "name": "Sniper rifles (SR)",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A range-focused family built around accurate, powerful shots.",
+          "facts": [
+            [
+              "Role",
+              "Long-range firearm"
+            ],
+            [
+              "Design emphasis",
+              "Accuracy and damage"
+            ],
+            [
+              "Examples",
+              "Kar98k / M24 / AWM"
+            ]
+          ],
+          "body": [
+            "Use the family as a starting point for comparison. Read the weapon and ammunition information rather than expecting identical firing behaviour across the whole category."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/sr",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-shotgun",
+          "name": "Shotguns",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "A family suited to sudden close encounters.",
+          "facts": [
+            [
+              "Typical use",
+              "Close-range fights"
+            ],
+            [
+              "Common behaviour",
+              "Shells with spreading pellets"
+            ],
+            [
+              "Examples",
+              "S1897 / S686 / DBS"
+            ]
+          ],
+          "body": [
+            "Learn the particular shotgun before rushing a doorway. The official directory groups several designs here; their reload and firing behaviour need individual practice."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/sg",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-handgun",
+          "name": "Handguns",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "Compact secondary firearms provide another equipment option.",
+          "facts": [
+            [
+              "Role",
+              "Secondary weapon"
+            ],
+            [
+              "Directory label",
+              "HANDGUN"
+            ],
+            [
+              "Examples",
+              "P92 / P18C / Deagle"
+            ]
+          ],
+          "body": [
+            "Check the equipped item rather than assuming every handgun fires the same way. The directory includes both pistol and revolver designs."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/pistol",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-melee",
+          "name": "Melee weapons",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "Hand-held weapons are used at contact distance.",
+          "facts": [
+            [
+              "Reach",
+              "Close contact"
+            ],
+            [
+              "Actions",
+              "Swinging or stabbing"
+            ],
+            [
+              "Examples",
+              "Pan / Crowbar / Machete"
+            ]
+          ],
+          "body": [
+            "The short reach is the key difference from firearms. Do not approach a distant opponent expecting the same options as a ranged weapon."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/melee",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-throwables",
+          "name": "Throwables",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "Thrown utility offers different ways to pressure opponents or create cover.",
+          "facts": [
+            [
+              "Actions",
+              "Throw or roll"
+            ],
+            [
+              "Examples",
+              "Frag / Stun / Smoke Grenade"
+            ],
+            [
+              "Selection",
+              "Choose for the intended effect"
+            ]
+          ],
+          "body": [
+            "Read the item name before using it. The throwable category includes tools with very different purposes; a smoke and a frag are not interchangeable."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/throwable",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-special",
+          "name": "Special weapons",
+          "kind": "Weapon family",
+          "group": "Weapons",
+          "summary": "The official ETC directory groups equipment beyond the main firearm families.",
+          "facts": [
+            [
+              "Directory label",
+              "ETC"
+            ],
+            [
+              "Examples",
+              "M79 / Crossbow / Mortar"
+            ],
+            [
+              "Other examples",
+              "M249 / MG3 / Panzerfaust"
+            ]
+          ],
+          "body": [
+            "This is a mixed directory, not one shared firing style. Read each item’s controls and availability before building a plan around it."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/weapons/etc",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-erangel",
+          "name": "Erangel",
+          "kind": "Map",
+          "group": "Battlegrounds",
+          "summary": "An island combining open grassland, mountains and built-up settlements.",
+          "facts": [
+            [
+              "Scale",
+              "8 × 8 km"
+            ],
+            [
+              "Terrain",
+              "Grassland and mountains"
+            ],
+            [
+              "Built areas",
+              "Cities and towns"
+            ]
+          ],
+          "body": [
+            "Compare open ground with nearby buildings before choosing a route. This is a map introduction, not a promise that Erangel is in every current queue."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/maps/erangel",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-miramar",
+          "name": "Miramar",
+          "kind": "Map",
+          "group": "Battlegrounds",
+          "summary": "A desert battleground with exposed terrain and long sightlines.",
+          "facts": [
+            [
+              "Scale",
+              "8 × 8 km"
+            ],
+            [
+              "Environment",
+              "Desert"
+            ],
+            [
+              "Combat consideration",
+              "Long-range exposure"
+            ]
+          ],
+          "body": [
+            "Consider where cover ends before crossing barren ground. The official overview highlights its suitability for snipers; that does not prescribe one mandatory loadout."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/maps/miramar",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "pubg-ref-taego",
+          "name": "Taego",
+          "kind": "Map",
+          "group": "Battlegrounds",
+          "summary": "A large map with varied terrain and landmarks including Ho San Prison.",
+          "facts": [
+            [
+              "Scale",
+              "8 × 8 km"
+            ],
+            [
+              "Terrain example",
+              "Reed fields"
+            ],
+            [
+              "Landmark",
+              "Ho San Prison"
+            ]
+          ],
+          "body": [
+            "Use the live match map to plan a route between the current circle and nearby terrain. Queue availability and special mechanics are separate from this basic map reference."
+          ],
+          "source": "https://www.pubg.com/en-asia/game-info/maps/taego",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Official",
+          "sourceAccess": "Publisher article text",
+          "active": true,
+          "playtested": null
+        }
+      ]
+    },
+    {
+      "id": "wuwa-core-reference",
+      "game": "wuwa",
+      "label": "Wuthering Waves starter reference",
+      "note": "12 selected attributes, weapon families and progression terms. This is not a complete character roster, build ranking or item database. Community article text was checked through the search index; no in-game combat test was performed.",
+      "source": "https://wutheringwaves.fandom.com/wiki/Attribute",
+      "sourceChecked": "2026-10-15",
+      "entries": [
+        {
+          "id": "wuwa-ref-glacio",
+          "name": "Glacio",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with cooling and freezing.",
+          "facts": [
+            [
+              "Chinese name",
+              "冷凝"
+            ],
+            [
+              "Example Resonator",
+              "Sanhua"
+            ],
+            [
+              "Example weapon family",
+              "Sanhua uses Sword"
+            ],
+            [
+              "Related status",
+              "Glacio Chafe"
+            ]
+          ],
+          "body": [
+            "An attribute labels damage and related effects. Read the specific skill instead of assuming every Glacio attack automatically applies a status."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Glacio",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-fusion",
+          "name": "Fusion",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with heat and ignition.",
+          "facts": [
+            [
+              "Chinese name",
+              "熱熔"
+            ],
+            [
+              "Example Resonator",
+              "Chixia"
+            ],
+            [
+              "Example weapon family",
+              "Chixia uses Pistols"
+            ],
+            [
+              "Related status",
+              "Fusion Burst"
+            ]
+          ],
+          "body": [
+            "Weapon family and attribute are separate labels. Read a skill’s actual effect before choosing gear for it."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Fusion",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-electro",
+          "name": "Electro",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with electrical charge.",
+          "facts": [
+            [
+              "Chinese name",
+              "導電"
+            ],
+            [
+              "Example Resonator",
+              "Yuanwu"
+            ],
+            [
+              "Example weapon family",
+              "Yuanwu uses Gauntlets"
+            ],
+            [
+              "Related status",
+              "Electro Flare"
+            ]
+          ],
+          "body": [
+            "Only attacks with the relevant effect apply Electro Flare; the attribute label alone is not a full skill description."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Electro",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-aero",
+          "name": "Aero",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with airflow.",
+          "facts": [
+            [
+              "Chinese name",
+              "氣動"
+            ],
+            [
+              "Example Resonator",
+              "Aalto"
+            ],
+            [
+              "Example weapon family",
+              "Aalto uses Pistols"
+            ],
+            [
+              "Related status",
+              "Aero Erosion"
+            ]
+          ],
+          "body": [
+            "Aero Erosion is a status associated with certain attacks and effects. Check the skill text rather than expecting every Aero hit to apply it."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Aero",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-spectro",
+          "name": "Spectro",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with light and photons.",
+          "facts": [
+            [
+              "Chinese name",
+              "衍射"
+            ],
+            [
+              "Example Resonator",
+              "Rover in Spectro form"
+            ],
+            [
+              "Example weapon family",
+              "Spectro Rover uses Sword"
+            ],
+            [
+              "Related status",
+              "Spectro Frazzle"
+            ]
+          ],
+          "body": [
+            "Spectro Frazzle is a stacking effect used by particular abilities. Do not infer an entire rotation from the attribute icon."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Spectro",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-havoc",
+          "name": "Havoc",
+          "kind": "Attribute",
+          "group": "Combat attributes",
+          "summary": "An attribute associated with annihilation.",
+          "facts": [
+            [
+              "Chinese name",
+              "湮滅"
+            ],
+            [
+              "Damage term",
+              "Havoc DMG"
+            ],
+            [
+              "Related status",
+              "Havoc Bane"
+            ],
+            [
+              "Example Sonata",
+              "Havoc Eclipse"
+            ]
+          ],
+          "body": [
+            "Havoc Bane is a particular status effect, not a guarantee attached to every Havoc attack. Read the ability or encounter rule that applies it."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Havoc",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-sword",
+          "name": "Sword",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "One equipment family with several different secondary-stat options.",
+          "facts": [
+            [
+              "Example",
+              "Emerald of Genesis"
+            ],
+            [
+              "Its secondary stat",
+              "Crit. Rate"
+            ],
+            [
+              "Another example",
+              "Overture · Energy Regen"
+            ]
+          ],
+          "body": [
+            "Choose between actual effects and stat needs. The shared Sword label does not make these items equivalent."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Sword",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-broadblade",
+          "name": "Broadblade",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "A weapon family used by Resonators such as Jiyan and Taoqi.",
+          "facts": [
+            [
+              "Example",
+              "Lustrous Razor"
+            ],
+            [
+              "Its secondary stat",
+              "ATK"
+            ],
+            [
+              "Another example",
+              "Discord · Energy Regen"
+            ]
+          ],
+          "body": [
+            "The same family includes different secondary stats. Compare the character’s needs before investing in one."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Broadblade",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-pistols",
+          "name": "Pistols",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "A weapon category with damage-focused and utility-focused options.",
+          "facts": [
+            [
+              "Example",
+              "Cadenza"
+            ],
+            [
+              "Its secondary stat",
+              "Energy Regen"
+            ],
+            [
+              "Another example",
+              "Pistols#26 · ATK"
+            ]
+          ],
+          "body": [
+            "Compare the item effect as well as its stat."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Weapon/List",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-gauntlets",
+          "name": "Gauntlets",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "A weapon category whose items can support different stat needs.",
+          "facts": [
+            [
+              "Example",
+              "Amity Accord"
+            ],
+            [
+              "Its secondary stat",
+              "DEF"
+            ],
+            [
+              "Another example",
+              "Marcato · Energy Regen"
+            ]
+          ],
+          "body": [
+            "Match the item to the Resonator’s actual scaling."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Weapon/List",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-rectifier",
+          "name": "Rectifier",
+          "kind": "Weapon family",
+          "group": "Equipment",
+          "summary": "An equipment family containing both damage and support-oriented stat options.",
+          "facts": [
+            [
+              "Example",
+              "Cosmic Ripples"
+            ],
+            [
+              "Its secondary stat",
+              "ATK"
+            ],
+            [
+              "Another example",
+              "Variation · Energy Regen"
+            ]
+          ],
+          "body": [
+            "A shared family does not imply the same role. Compare the weapon’s full effect before equipping it."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Rectifier",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        },
+        {
+          "id": "wuwa-ref-data-bank",
+          "name": "Data Bank",
+          "kind": "System",
+          "group": "Progression",
+          "summary": "The Terminal system records Echo discoveries and affects Echo collection progression.",
+          "facts": [
+            [
+              "Open through",
+              "Terminal menu"
+            ],
+            [
+              "EXP source",
+              "New Echo discoveries"
+            ],
+            [
+              "Further EXP",
+              "Discover a higher rarity"
+            ],
+            [
+              "Progress affects",
+              "Drop and rarity rules"
+            ]
+          ],
+          "body": [
+            "Check your own Data Bank screen for current level requirements. Repeating an already-recorded rarity is different from discovering a new entry; old level-cap tables may no longer apply."
+          ],
+          "source": "https://wutheringwaves.fandom.com/wiki/Data_Bank",
+          "sourceChecked": "2026-10-15",
+          "sourceType": "Community wiki",
+          "sourceAccess": "Indexed article text",
+          "active": true,
+          "playtested": null
+        }
+      ]
+    }
+  ]
+}
